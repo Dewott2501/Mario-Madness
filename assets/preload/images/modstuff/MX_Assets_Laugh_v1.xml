@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX_Assets_Laugh_v5.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MXLaugh instancia 10000" x="0" y="0" width="843" height="795"/>
+	<SubTexture name="MXLaugh instancia 10001" x="867" y="0" width="836" height="775" frameX="-4" frameY="-20" frameWidth="843" frameHeight="795"/>
+	<SubTexture name="MXLaugh instancia 10002" x="867" y="0" width="836" height="775" frameX="-4" frameY="-20" frameWidth="843" frameHeight="795"/>
+	<SubTexture name="MXLaugh instancia 10003" x="0" y="819" width="834" height="768" frameX="-5" frameY="-27" frameWidth="843" frameHeight="795"/>
+	<SubTexture name="MXLaugh instancia 10004" x="0" y="819" width="834" height="768" frameX="-5" frameY="-27" frameWidth="843" frameHeight="795"/>
+	<SubTexture name="MXLaugh instancia 10005" x="858" y="819" width="834" height="767" frameX="-5" frameY="-28" frameWidth="843" frameHeight="795"/>
+	<SubTexture name="MXLaugh instancia 10006" x="858" y="819" width="834" height="767" frameX="-5" frameY="-28" frameWidth="843" frameHeight="795"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="static.png"><SubTexture name="static play0000" x="0" y="0" width="132" height="76" frameX="0" frameY="0" frameWidth="132" frameHeight="76" />
+<SubTexture name="static play0001" x="132" y="0" width="132" height="76" frameX="0" frameY="0" frameWidth="132" frameHeight="76" />
+<SubTexture name="static play0002" x="0" y="76" width="132" height="76" frameX="0" frameY="0" frameWidth="132" frameHeight="76" />
+<SubTexture name="static play0003" x="132" y="76" width="132" height="76" frameX="0" frameY="0" frameWidth="132" frameHeight="76" />
+<SubTexture name="static play0004" x="0" y="152" width="132" height="76" frameX="0" frameY="0" frameWidth="132" frameHeight="76" />
+</TextureAtlas>

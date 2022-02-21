@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Racist_Mario_BG_Assets_Ground_v2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ground0000" x="0" y="0" width="1444" height="927"/>
+	<SubTexture name="Ground0001" x="1468" y="0" width="1444" height="919" frameX="0" frameY="-8" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0002" x="0" y="951" width="1444" height="911" frameX="0" frameY="-16" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0003" x="1468" y="951" width="1444" height="903" frameX="0" frameY="-24" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0004" x="0" y="1886" width="1444" height="895" frameX="0" frameY="-32" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0005" x="1468" y="1886" width="1444" height="887" frameX="0" frameY="-40" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0006" x="0" y="2805" width="1444" height="879" frameX="0" frameY="-48" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0007" x="1468" y="2805" width="1444" height="871" frameX="0" frameY="-56" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0008" x="0" y="3708" width="1444" height="863" frameX="0" frameY="-64" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0009" x="1468" y="3708" width="1444" height="854" frameX="0" frameY="-73" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0010" x="0" y="4595" width="1444" height="846" frameX="0" frameY="-81" frameWidth="1444" frameHeight="927"/>
+	<SubTexture name="Ground0011" x="1468" y="4595" width="1444" height="838" frameX="0" frameY="-89" frameWidth="1444" frameHeight="927"/>
+</TextureAtlas>

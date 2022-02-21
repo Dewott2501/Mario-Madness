@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luigi_I_HATE_YOU_Assets_v2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LuigiDown0000" x="0" y="0" width="617" height="435" frameX="-8" frameY="-21" frameWidth="629" frameHeight="456"/>
+	<SubTexture name="LuigiDown0001" x="641" y="0" width="629" height="453" frameX="0" frameY="-3" frameWidth="629" frameHeight="456"/>
+	<SubTexture name="LuigiDown0002" x="641" y="0" width="629" height="453" frameX="0" frameY="-3" frameWidth="629" frameHeight="456"/>
+	<SubTexture name="LuigiDown0003" x="1294" y="0" width="629" height="456"/>
+	<SubTexture name="LuigiDown0004" x="1294" y="0" width="629" height="456"/>
+	<SubTexture name="LuigiDown0005" x="1294" y="0" width="629" height="456"/>
+	<SubTexture name="LuigiDown0006" x="1294" y="0" width="629" height="456"/>
+	<SubTexture name="LuigiDown0007" x="1294" y="0" width="629" height="456"/>
+	<SubTexture name="LuigiDown0008" x="1294" y="0" width="629" height="456"/>
+	<SubTexture name="LuigiDown0009" x="1294" y="0" width="629" height="456"/>
+	<SubTexture name="LuigiIdle0000" x="1947" y="0" width="409" height="718" frameX="-34" frameY="0" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0001" x="1947" y="0" width="409" height="718" frameX="-34" frameY="0" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0002" x="2380" y="0" width="406" height="703" frameX="-39" frameY="-15" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0003" x="2380" y="0" width="406" height="703" frameX="-39" frameY="-15" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0004" x="2810" y="0" width="416" height="697" frameX="-32" frameY="-21" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0005" x="2810" y="0" width="416" height="697" frameX="-32" frameY="-21" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0006" x="3250" y="0" width="441" height="699" frameX="-8" frameY="-19" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0007" x="3250" y="0" width="441" height="699" frameX="-8" frameY="-19" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0008" x="0" y="742" width="457" height="701" frameX="0" frameY="-17" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0009" x="0" y="742" width="457" height="701" frameX="0" frameY="-17" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0010" x="481" y="742" width="442" height="718" frameX="-11" frameY="0" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0011" x="481" y="742" width="442" height="718" frameX="-11" frameY="0" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0012" x="947" y="742" width="407" height="718" frameX="-36" frameY="0" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0013" x="947" y="742" width="407" height="718" frameX="-36" frameY="0" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0014" x="1378" y="742" width="409" height="718" frameX="-34" frameY="0" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiIdle0015" x="1378" y="742" width="409" height="718" frameX="-34" frameY="0" frameWidth="457" frameHeight="718"/>
+	<SubTexture name="LuigiLeft0000" x="1811" y="742" width="506" height="738"/>
+	<SubTexture name="LuigiLeft0001" x="2341" y="742" width="485" height="736" frameX="-21" frameY="-2" frameWidth="506" frameHeight="738"/>
+	<SubTexture name="LuigiLeft0002" x="2341" y="742" width="485" height="736" frameX="-21" frameY="-2" frameWidth="506" frameHeight="738"/>
+	<SubTexture name="LuigiLeft0003" x="2850" y="742" width="484" height="736" frameX="-22" frameY="-2" frameWidth="506" frameHeight="738"/>
+	<SubTexture name="LuigiLeft0004" x="2850" y="742" width="484" height="736" frameX="-22" frameY="-2" frameWidth="506" frameHeight="738"/>
+	<SubTexture name="LuigiLeft0005" x="2850" y="742" width="484" height="736" frameX="-22" frameY="-2" frameWidth="506" frameHeight="738"/>
+	<SubTexture name="LuigiLeft0006" x="2850" y="742" width="484" height="736" frameX="-22" frameY="-2" frameWidth="506" frameHeight="738"/>
+	<SubTexture name="LuigiLeft0007" x="2850" y="742" width="484" height="736" frameX="-22" frameY="-2" frameWidth="506" frameHeight="738"/>
+	<SubTexture name="LuigiLeft0008" x="2850" y="742" width="484" height="736" frameX="-22" frameY="-2" frameWidth="506" frameHeight="738"/>
+	<SubTexture name="LuigiLeft0009" x="2850" y="742" width="484" height="736" frameX="-22" frameY="-2" frameWidth="506" frameHeight="738"/>
+	<SubTexture name="LuigiRight0000" x="3358" y="742" width="491" height="740" frameX="0" frameY="-2" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiRight0001" x="0" y="1506" width="465" height="742" frameX="0" frameY="0" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiRight0002" x="0" y="1506" width="465" height="742" frameX="0" frameY="0" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiRight0003" x="489" y="1506" width="467" height="742" frameX="0" frameY="0" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiRight0004" x="489" y="1506" width="467" height="742" frameX="0" frameY="0" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiRight0005" x="489" y="1506" width="467" height="742" frameX="0" frameY="0" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiRight0006" x="489" y="1506" width="467" height="742" frameX="0" frameY="0" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiRight0007" x="489" y="1506" width="467" height="742" frameX="0" frameY="0" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiRight0008" x="489" y="1506" width="467" height="742" frameX="0" frameY="0" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiRight0009" x="489" y="1506" width="467" height="742" frameX="0" frameY="0" frameWidth="491" frameHeight="742"/>
+	<SubTexture name="LuigiUp0000" x="980" y="1506" width="466" height="808" frameX="-4" frameY="0" frameWidth="473" frameHeight="808"/>
+	<SubTexture name="LuigiUp0001" x="1470" y="1506" width="473" height="790" frameX="0" frameY="-18" frameWidth="473" frameHeight="808"/>
+	<SubTexture name="LuigiUp0002" x="1470" y="1506" width="473" height="790" frameX="0" frameY="-18" frameWidth="473" frameHeight="808"/>
+	<SubTexture name="LuigiUp0003" x="1967" y="1506" width="473" height="789" frameX="0" frameY="-19" frameWidth="473" frameHeight="808"/>
+	<SubTexture name="LuigiUp0004" x="1967" y="1506" width="473" height="789" frameX="0" frameY="-19" frameWidth="473" frameHeight="808"/>
+	<SubTexture name="LuigiUp0005" x="1967" y="1506" width="473" height="789" frameX="0" frameY="-19" frameWidth="473" frameHeight="808"/>
+	<SubTexture name="LuigiUp0006" x="1967" y="1506" width="473" height="789" frameX="0" frameY="-19" frameWidth="473" frameHeight="808"/>
+	<SubTexture name="LuigiUp0007" x="1967" y="1506" width="473" height="789" frameX="0" frameY="-19" frameWidth="473" frameHeight="808"/>
+	<SubTexture name="LuigiUp0008" x="1967" y="1506" width="473" height="789" frameX="0" frameY="-19" frameWidth="473" frameHeight="808"/>
+	<SubTexture name="LuigiUp0009" x="1967" y="1506" width="473" height="789" frameX="0" frameY="-19" frameWidth="473" frameHeight="808"/>
+</TextureAtlas>

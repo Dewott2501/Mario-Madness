@@ -1,0 +1,9 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_NOTE_EvilMushroom.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="115" y="5" width="157" height="154"/>
+	<SubTexture name="green0000" x="277" y="5" width="157" height="154"/>
+	<SubTexture name="purple0000" x="5" y="164" width="154" height="157"/>
+	<SubTexture name="red0000" x="164" y="164" width="154" height="157"/>
+</TextureAtlas>

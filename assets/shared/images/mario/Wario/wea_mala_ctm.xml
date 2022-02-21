@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wea mala ctm.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fondo instancia 10000" x="0" y="0" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10001" x="960" y="0" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10002" x="1920" y="0" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10003" x="2880" y="0" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10004" x="0" y="603" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10005" x="960" y="603" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10006" x="1920" y="603" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10007" x="2880" y="603" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10008" x="0" y="1206" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10009" x="960" y="1206" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10010" x="1920" y="1206" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10011" x="2880" y="1206" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10012" x="0" y="1809" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10013" x="960" y="1809" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10014" x="1920" y="1809" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10015" x="2880" y="1809" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10016" x="0" y="2412" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10017" x="960" y="2412" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10018" x="1920" y="2412" width="936" height="579"/>
+	<SubTexture name="fondo instancia 10019" x="2880" y="2412" width="936" height="579"/>
+</TextureAtlas>

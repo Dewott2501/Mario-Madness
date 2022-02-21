@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Racetalk1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Racetraitors0000" x="0" y="0" width="1075" height="653" pivotX="0" pivotY="4.5" frameX="0" frameY="-3" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0001" x="1075" y="0" width="1075" height="653" frameX="0" frameY="-3" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0002" x="2150" y="0" width="1075" height="653" frameX="0" frameY="-3" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0003" x="3225" y="0" width="1075" height="653" frameX="0" frameY="-3" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0004" x="4300" y="0" width="1075" height="650" frameX="0" frameY="-6" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0005" x="5375" y="0" width="1075" height="650" frameX="0" frameY="-6" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0006" x="6450" y="0" width="1075" height="642" frameX="0" frameY="-14" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0007" x="0" y="653" width="1075" height="642" frameX="0" frameY="-14" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0008" x="1075" y="653" width="1075" height="638" frameX="0" frameY="-18" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0009" x="2150" y="653" width="1075" height="638" frameX="0" frameY="-18" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0010" x="3225" y="653" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0011" x="4300" y="653" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0012" x="5375" y="653" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0013" x="6450" y="653" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0014" x="0" y="1295" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0015" x="1075" y="1295" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0016" x="2150" y="1295" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0017" x="3225" y="1295" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0018" x="4300" y="1295" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0019" x="5375" y="1295" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0020" x="6450" y="1295" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0021" x="0" y="1930" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0022" x="1075" y="1930" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0023" x="2150" y="1930" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0024" x="3225" y="1930" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0025" x="4300" y="1930" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0026" x="5375" y="1930" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0027" x="6450" y="1930" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0028" x="0" y="2565" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0029" x="1075" y="2565" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0030" x="2150" y="2565" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0031" x="3225" y="2565" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0032" x="4300" y="2565" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0033" x="5375" y="2565" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0034" x="6450" y="2565" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0035" x="0" y="3200" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0036" x="1075" y="3200" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0037" x="2150" y="3200" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0038" x="3225" y="3200" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0039" x="4300" y="3200" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0040" x="5375" y="3200" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0041" x="6450" y="3200" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0042" x="0" y="3835" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0043" x="1075" y="3835" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0044" x="2150" y="3835" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0045" x="3225" y="3835" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0046" x="4300" y="3835" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0047" x="5375" y="3835" width="1075" height="635" frameX="0" frameY="-21" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0048" x="6450" y="3835" width="1075" height="639" frameX="0" frameY="-17" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0049" x="0" y="4474" width="1075" height="639" frameX="0" frameY="-17" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0050" x="1075" y="4474" width="1075" height="642" frameX="0" frameY="-14" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0051" x="2150" y="4474" width="1075" height="642" frameX="0" frameY="-14" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0052" x="3225" y="4474" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0053" x="4300" y="4474" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0054" x="5375" y="4474" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0055" x="6450" y="4474" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0056" x="0" y="5117" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0057" x="1075" y="5117" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0058" x="2150" y="5117" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0059" x="3225" y="5117" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0060" x="4300" y="5117" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0061" x="5375" y="5117" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0062" x="6450" y="5117" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0063" x="0" y="5760" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0064" x="1075" y="5760" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0065" x="2150" y="5760" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0066" x="3225" y="5760" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0067" x="4300" y="5760" width="1075" height="643" frameX="0" frameY="-13" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0068" x="5375" y="5760" width="1075" height="646" frameX="0" frameY="-10" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0069" x="6450" y="5760" width="1075" height="646" frameX="0" frameY="-10" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0070" x="0" y="6406" width="1075" height="652" frameX="0" frameY="-4" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0071" x="1075" y="6406" width="1075" height="652" frameX="0" frameY="-4" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0072" x="2150" y="6406" width="1075" height="655" frameX="0" frameY="-1" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0073" x="3225" y="6406" width="1075" height="655" frameX="0" frameY="-1" frameWidth="1075" frameHeight="656"/>
+	<SubTexture name="Racetraitors0074" x="4300" y="6406" width="1075" height="656"/>
+	<SubTexture name="Racetraitors0075" x="5375" y="6406" width="1075" height="656"/>
+	<SubTexture name="Racetraitors0076" x="6450" y="6406" width="1075" height="656"/>
+	<SubTexture name="Racetraitors0077" x="0" y="7062" width="1075" height="656"/>
+	<SubTexture name="Racetraitors0078" x="1075" y="7062" width="1075" height="656"/>
+	<SubTexture name="Racetraitors0079" x="2150" y="7062" width="1075" height="656"/>
+	<SubTexture name="Racetraitors0080" x="3225" y="7062" width="1075" height="656"/>
+	<SubTexture name="Racetraitors0081" x="4300" y="7062" width="1075" height="656"/>
+	<SubTexture name="Racetraitors0082" x="5375" y="7062" width="1075" height="656"/>
+	<SubTexture name="Racetraitors0083" x="6450" y="7062" width="1075" height="656"/>
+</TextureAtlas>

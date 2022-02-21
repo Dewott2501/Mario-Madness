@@ -1,0 +1,139 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_Phase2_Assets_v3.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MBDown0000" x="0" y="0" width="123" height="194" frameX="0" frameY="-6" frameWidth="123" frameHeight="200"/>
+	<SubTexture name="MBDown0001" x="147" y="0" width="123" height="200"/>
+	<SubTexture name="MBDown0002" x="147" y="0" width="123" height="200"/>
+	<SubTexture name="GBDown0003" x="294" y="0" width="123" height="200"/>
+	<SubTexture name="MBDown0004" x="294" y="0" width="123" height="200"/>
+	<SubTexture name="MBDown0005" x="294" y="0" width="123" height="200"/>
+	<SubTexture name="MBDown0006" x="294" y="0" width="123" height="200"/>
+	<SubTexture name="GBDownCrazy0000" x="441" y="0" width="175" height="187" frameX="0" frameY="-13" frameWidth="175" frameHeight="200"/>
+	<SubTexture name="GBDownCrazy0001" x="640" y="0" width="175" height="196" frameX="0" frameY="-3" frameWidth="175" frameHeight="200"/>
+	<SubTexture name="GBDownCrazy0002" x="640" y="0" width="175" height="196" frameX="0" frameY="-3" frameWidth="175" frameHeight="200"/>
+	<SubTexture name="GBDownCrazy0003" x="839" y="0" width="175" height="199" frameX="0" frameY="0" frameWidth="175" frameHeight="200"/>
+	<SubTexture name="GBDownCrazy0004" x="839" y="0" width="175" height="199" frameX="0" frameY="0" frameWidth="175" frameHeight="200"/>
+	<SubTexture name="GBDownCrazy0005" x="839" y="0" width="175" height="199" frameX="0" frameY="0" frameWidth="175" frameHeight="200"/>
+	<SubTexture name="GBDownCrazy0006" x="839" y="0" width="175" height="199" frameX="0" frameY="0" frameWidth="175" frameHeight="200"/>
+	<SubTexture name="MBIdle0000" x="0" y="224" width="117" height="198" frameX="-3" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0001" x="0" y="224" width="117" height="198" frameX="-3" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0002" x="0" y="224" width="117" height="198" frameX="-3" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0003" x="0" y="224" width="117" height="198" frameX="-3" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0004" x="0" y="224" width="117" height="198" frameX="-3" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0005" x="0" y="224" width="117" height="198" frameX="-3" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0006" x="141" y="224" width="121" height="200" frameX="-3" frameY="0" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0007" x="141" y="224" width="121" height="200" frameX="-3" frameY="0" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0008" x="141" y="224" width="121" height="200" frameX="-3" frameY="0" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0009" x="141" y="224" width="121" height="200" frameX="-3" frameY="0" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0010" x="141" y="224" width="121" height="200" frameX="-3" frameY="0" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0011" x="141" y="224" width="121" height="200" frameX="-3" frameY="0" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0012" x="286" y="224" width="119" height="198" frameX="-8" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0013" x="286" y="224" width="119" height="198" frameX="-8" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0014" x="286" y="224" width="119" height="198" frameX="-8" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0015" x="286" y="224" width="119" height="198" frameX="-8" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0016" x="286" y="224" width="119" height="198" frameX="-8" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0017" x="286" y="224" width="119" height="198" frameX="-8" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0018" x="429" y="224" width="115" height="199" frameX="-9" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0019" x="429" y="224" width="115" height="199" frameX="-9" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0020" x="429" y="224" width="115" height="199" frameX="-9" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0021" x="429" y="224" width="115" height="199" frameX="-9" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0022" x="429" y="224" width="115" height="199" frameX="-9" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0023" x="429" y="224" width="115" height="199" frameX="-9" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0024" x="568" y="224" width="115" height="199" frameX="-4" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0025" x="568" y="224" width="115" height="199" frameX="-4" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0026" x="568" y="224" width="115" height="199" frameX="-4" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0027" x="568" y="224" width="115" height="199" frameX="-4" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0028" x="568" y="224" width="115" height="199" frameX="-4" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0029" x="568" y="224" width="115" height="199" frameX="-4" frameY="-1" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0030" x="707" y="224" width="119" height="198" frameX="0" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0031" x="707" y="224" width="119" height="198" frameX="0" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0032" x="707" y="224" width="119" height="198" frameX="0" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0033" x="707" y="224" width="119" height="198" frameX="0" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0034" x="707" y="224" width="119" height="198" frameX="0" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="MBIdle0035" x="707" y="224" width="119" height="198" frameX="0" frameY="-2" frameWidth="127" frameHeight="200"/>
+	<SubTexture name="GBIdleCrazy0000" x="850" y="224" width="105" height="197" frameX="-3" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0001" x="850" y="224" width="105" height="197" frameX="-3" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0002" x="850" y="224" width="105" height="197" frameX="-3" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0003" x="850" y="224" width="105" height="197" frameX="-3" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0004" x="850" y="224" width="105" height="197" frameX="-3" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0005" x="0" y="448" width="110" height="200" frameX="-4" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0006" x="0" y="448" width="110" height="200" frameX="-4" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0007" x="0" y="448" width="110" height="200" frameX="-4" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0008" x="0" y="448" width="110" height="200" frameX="-4" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0009" x="0" y="448" width="110" height="200" frameX="-4" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0010" x="134" y="448" width="110" height="201" frameX="-6" frameY="0" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0011" x="134" y="448" width="110" height="201" frameX="-6" frameY="0" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0012" x="134" y="448" width="110" height="201" frameX="-6" frameY="0" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0013" x="134" y="448" width="110" height="201" frameX="-6" frameY="0" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0014" x="134" y="448" width="110" height="201" frameX="-6" frameY="0" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0015" x="268" y="448" width="108" height="200" frameX="-7" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0016" x="268" y="448" width="108" height="200" frameX="-7" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0017" x="268" y="448" width="108" height="200" frameX="-7" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0018" x="268" y="448" width="108" height="200" frameX="-7" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0019" x="268" y="448" width="108" height="200" frameX="-7" frameY="-1" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0020" x="400" y="448" width="103" height="199" frameX="-5" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0021" x="400" y="448" width="103" height="199" frameX="-5" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0022" x="400" y="448" width="103" height="199" frameX="-5" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0023" x="400" y="448" width="103" height="199" frameX="-5" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0024" x="400" y="448" width="103" height="199" frameX="-5" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0025" x="527" y="448" width="107" height="199" frameX="-1" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0026" x="527" y="448" width="107" height="199" frameX="-1" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0027" x="527" y="448" width="107" height="199" frameX="-1" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0028" x="527" y="448" width="107" height="199" frameX="-1" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0029" x="527" y="448" width="107" height="199" frameX="-1" frameY="-2" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0030" x="658" y="448" width="109" height="197" frameX="0" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0031" x="658" y="448" width="109" height="197" frameX="0" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0032" x="658" y="448" width="109" height="197" frameX="0" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0033" x="658" y="448" width="109" height="197" frameX="0" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBIdleCrazy0034" x="658" y="448" width="109" height="197" frameX="0" frameY="-4" frameWidth="116" frameHeight="201"/>
+	<SubTexture name="GBLaugh0000" x="791" y="448" width="203" height="236" frameX="0" frameY="0" frameWidth="205" frameHeight="236"/>
+	<SubTexture name="GBLaugh0001" x="0" y="708" width="196" height="223" frameX="-7" frameY="-12" frameWidth="205" frameHeight="236"/>
+	<SubTexture name="GBLaugh0002" x="0" y="708" width="196" height="223" frameX="-7" frameY="-12" frameWidth="205" frameHeight="236"/>
+	<SubTexture name="GBLaugh0003" x="220" y="708" width="197" height="223" frameX="-8" frameY="-12" frameWidth="205" frameHeight="236"/>
+	<SubTexture name="GBLaugh0004" x="220" y="708" width="197" height="223" frameX="-8" frameY="-12" frameWidth="205" frameHeight="236"/>
+	<SubTexture name="GBLaugh0005" x="220" y="708" width="197" height="223" frameX="-8" frameY="-12" frameWidth="205" frameHeight="236"/>
+	<SubTexture name="GBLaugh0006" x="220" y="708" width="197" height="223" frameX="-8" frameY="-12" frameWidth="205" frameHeight="236"/>
+	<SubTexture name="MBLeft0000" x="441" y="708" width="140" height="200" frameX="0" frameY="0" frameWidth="148" frameHeight="200"/>
+	<SubTexture name="MBLeft0001" x="605" y="708" width="141" height="200" frameX="-6" frameY="0" frameWidth="148" frameHeight="200"/>
+	<SubTexture name="MBLeft0002" x="605" y="708" width="141" height="200" frameX="-6" frameY="0" frameWidth="148" frameHeight="200"/>
+	<SubTexture name="MBLeft0003" x="770" y="708" width="141" height="200" frameX="-7" frameY="0" frameWidth="148" frameHeight="200"/>
+	<SubTexture name="MBLeft0004" x="770" y="708" width="141" height="200" frameX="-7" frameY="0" frameWidth="148" frameHeight="200"/>
+	<SubTexture name="MBLeft0005" x="770" y="708" width="141" height="200" frameX="-7" frameY="0" frameWidth="148" frameHeight="200"/>
+	<SubTexture name="MBLeft0006" x="770" y="708" width="141" height="200" frameX="-7" frameY="0" frameWidth="148" frameHeight="200"/>
+	<SubTexture name="GBLeftCrazy0000" x="0" y="955" width="211" height="236" frameX="0" frameY="0" frameWidth="213" frameHeight="236"/>
+	<SubTexture name="GBLeftCrazy0001" x="235" y="955" width="205" height="230" frameX="-6" frameY="-5" frameWidth="213" frameHeight="236"/>
+	<SubTexture name="GBLeftCrazy0002" x="235" y="955" width="205" height="230" frameX="-6" frameY="-5" frameWidth="213" frameHeight="236"/>
+	<SubTexture name="GBLeftCrazy0003" x="464" y="955" width="206" height="231" frameX="-7" frameY="-4" frameWidth="213" frameHeight="236"/>
+	<SubTexture name="GBLeftCrazy0004" x="464" y="955" width="206" height="231" frameX="-7" frameY="-4" frameWidth="213" frameHeight="236"/>
+	<SubTexture name="GBLeftCrazy0005" x="464" y="955" width="206" height="231" frameX="-7" frameY="-4" frameWidth="213" frameHeight="236"/>
+	<SubTexture name="GBLeftCrazy0006" x="464" y="955" width="206" height="231" frameX="-7" frameY="-4" frameWidth="213" frameHeight="236"/>
+	<SubTexture name="MBRight0000" x="694" y="955" width="165" height="203"/>
+	<SubTexture name="MBRight0001" x="0" y="1215" width="159" height="200" frameX="0" frameY="-3" frameWidth="165" frameHeight="203"/>
+	<SubTexture name="MBRight0002" x="0" y="1215" width="159" height="200" frameX="0" frameY="-3" frameWidth="165" frameHeight="203"/>
+	<SubTexture name="MBRight0003" x="183" y="1215" width="158" height="200" frameX="0" frameY="-3" frameWidth="165" frameHeight="203"/>
+	<SubTexture name="MBRight0004" x="183" y="1215" width="158" height="200" frameX="0" frameY="-3" frameWidth="165" frameHeight="203"/>
+	<SubTexture name="MBRight0005" x="183" y="1215" width="158" height="200" frameX="0" frameY="-3" frameWidth="165" frameHeight="203"/>
+	<SubTexture name="MBRight0006" x="183" y="1215" width="158" height="200" frameX="0" frameY="-3" frameWidth="165" frameHeight="203"/>
+	<SubTexture name="GBRightCrazy0000" x="365" y="1215" width="207" height="202"/>
+	<SubTexture name="GBRightCrazy0001" x="596" y="1215" width="197" height="195" frameX="0" frameY="-7" frameWidth="207" frameHeight="202"/>
+	<SubTexture name="GBRightCrazy0002" x="596" y="1215" width="197" height="195" frameX="0" frameY="-7" frameWidth="207" frameHeight="202"/>
+	<SubTexture name="GBRightCrazy0003" x="817" y="1215" width="197" height="195" frameX="0" frameY="-7" frameWidth="207" frameHeight="202"/>
+	<SubTexture name="GBRightCrazy0004" x="817" y="1215" width="197" height="195" frameX="0" frameY="-7" frameWidth="207" frameHeight="202"/>
+	<SubTexture name="GBRightCrazy0005" x="817" y="1215" width="197" height="195" frameX="0" frameY="-7" frameWidth="207" frameHeight="202"/>
+	<SubTexture name="GBRightCrazy0006" x="817" y="1215" width="197" height="195" frameX="0" frameY="-7" frameWidth="207" frameHeight="202"/>
+	<SubTexture name="MBUp0000" x="0" y="1441" width="161" height="225" frameX="0" frameY="0" frameWidth="166" frameHeight="225"/>
+	<SubTexture name="MBUp0001" x="185" y="1441" width="160" height="221" frameX="-6" frameY="-4" frameWidth="166" frameHeight="225"/>
+	<SubTexture name="MBUp0002" x="185" y="1441" width="160" height="221" frameX="-6" frameY="-4" frameWidth="166" frameHeight="225"/>
+	<SubTexture name="MBUp0003" x="369" y="1441" width="160" height="221" frameX="-6" frameY="-4" frameWidth="166" frameHeight="225"/>
+	<SubTexture name="MBUp0004" x="369" y="1441" width="160" height="221" frameX="-6" frameY="-4" frameWidth="166" frameHeight="225"/>
+	<SubTexture name="MBUp0005" x="369" y="1441" width="160" height="221" frameX="-6" frameY="-4" frameWidth="166" frameHeight="225"/>
+	<SubTexture name="MBUp0006" x="369" y="1441" width="160" height="221" frameX="-6" frameY="-4" frameWidth="166" frameHeight="225"/>
+	<SubTexture name="GBUpCrazy0000" x="553" y="1441" width="204" height="262"/>
+	<SubTexture name="GBUpCrazy0001" x="781" y="1441" width="189" height="252" frameX="-9" frameY="-10" frameWidth="204" frameHeight="262"/>
+	<SubTexture name="GBUpCrazy0002" x="781" y="1441" width="189" height="252" frameX="-9" frameY="-10" frameWidth="204" frameHeight="262"/>
+	<SubTexture name="GBUpCrazy0003" x="0" y="1727" width="188" height="252" frameX="-10" frameY="-10" frameWidth="204" frameHeight="262"/>
+	<SubTexture name="GBUpCrazy0004" x="0" y="1727" width="188" height="252" frameX="-10" frameY="-10" frameWidth="204" frameHeight="262"/>
+	<SubTexture name="GBUpCrazy0005" x="0" y="1727" width="188" height="252" frameX="-10" frameY="-10" frameWidth="204" frameHeight="262"/>
+	<SubTexture name="GBUpCrazy0006" x="0" y="1727" width="188" height="252" frameX="-10" frameY="-10" frameWidth="204" frameHeight="262"/>
+</TextureAtlas>

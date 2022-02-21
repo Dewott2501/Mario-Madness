@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cajamk.png"><SubTexture name="cajamk nada0000" x="0" y="0" width="110" height="110" frameX="0" frameY="0" frameWidth="110" frameHeight="110" />
+<SubTexture name="cajamk shell0000" x="110" y="0" width="110" height="110" frameX="0" frameY="0" frameWidth="110" frameHeight="110" />
+<SubTexture name="cajamk bomb0000" x="220" y="0" width="110" height="110" frameX="0" frameY="0" frameWidth="110" frameHeight="110" />
+<SubTexture name="cajamk ghost0000" x="0" y="110" width="110" height="110" frameX="0" frameY="0" frameWidth="110" frameHeight="110" />
+<SubTexture name="cajamk random0000" x="110" y="110" width="110" height="110" frameX="0" frameY="0" frameWidth="110" frameHeight="110" />
+<SubTexture name="cajamk random0001" x="220" y="110" width="110" height="110" frameX="0" frameY="0" frameWidth="110" frameHeight="110" />
+<SubTexture name="cajamk random0002" x="0" y="220" width="110" height="110" frameX="0" frameY="0" frameWidth="110" frameHeight="110" />
+<SubTexture name="cajamk random0003" x="110" y="220" width="110" height="110" frameX="0" frameY="0" frameWidth="110" frameHeight="110" />
+<SubTexture name="cajamk random0004" x="220" y="220" width="110" height="110" frameX="0" frameY="0" frameWidth="110" frameHeight="110" />
+</TextureAtlas>

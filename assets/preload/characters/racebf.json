@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				305,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFIdle"
+		},
+		{
+			"offsets": [
+				305,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RaceDown"
+		},
+		{
+			"offsets": [
+				306,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RaceUp"
+		},
+		{
+			"offsets": [
+				306,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RaceLeft"
+		},
+		{
+			"offsets": [
+				317,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RaceRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				305,
+				-109
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BFLeftMiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				303,
+				-59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BFUpMiss"
+		},
+		{
+			"offsets": [
+				314,
+				-111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BFRightMiss"
+		},
+		{
+			"offsets": [
+				305,
+				-137
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BFDownMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Race_Mario_Boyfriend_Assets_v1",
+	"position": [
+		-80,
+		110
+	],
+	"healthicon": "bfr",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-70,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MXDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				156
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MXIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MXLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				242
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MXUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				172
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MXRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Wahoo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MX_Assets_v1",
+	"position": [
+		-80,
+		110
+	],
+	"healthicon": "MX",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		0,
+		0
+	],
+	"camera_position": [
+		-150,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

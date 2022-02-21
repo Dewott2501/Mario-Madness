@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luigi_IHY_Background_Assets_Candle_v2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fuegoaaaaaaaaa instancia 10000" x="0" y="0" width="132" height="189" frameX="0" frameY="-2" frameWidth="133" frameHeight="191"/>
+	<SubTexture name="fuegoaaaaaaaaa instancia 10001" x="0" y="0" width="132" height="189" frameX="0" frameY="-2" frameWidth="133" frameHeight="191"/>
+	<SubTexture name="fuegoaaaaaaaaa instancia 10002" x="156" y="0" width="118" height="187" frameX="-13" frameY="-4" frameWidth="133" frameHeight="191"/>
+	<SubTexture name="fuegoaaaaaaaaa instancia 10003" x="156" y="0" width="118" height="187" frameX="-13" frameY="-4" frameWidth="133" frameHeight="191"/>
+	<SubTexture name="fuegoaaaaaaaaa instancia 10004" x="298" y="0" width="118" height="191" frameX="-15" frameY="0" frameWidth="133" frameHeight="191"/>
+	<SubTexture name="fuegoaaaaaaaaa instancia 10005" x="298" y="0" width="118" height="191" frameX="-15" frameY="0" frameWidth="133" frameHeight="191"/>
+	<SubTexture name="fuegoaaaaaaaaa instancia 10006" x="0" y="215" width="127" height="190" frameX="-4" frameY="-1" frameWidth="133" frameHeight="191"/>
+	<SubTexture name="fuegoaaaaaaaaa instancia 10007" x="0" y="215" width="127" height="190" frameX="-4" frameY="-1" frameWidth="133" frameHeight="191"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luigi_IHY_Background_Assets_Boo_v2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boo0000" x="0" y="0" width="154" height="133" frameX="-1" frameY="-12" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0001" x="0" y="0" width="154" height="133" frameX="-1" frameY="-12" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0002" x="178" y="0" width="152" height="131" frameX="0" frameY="-1" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0003" x="178" y="0" width="152" height="131" frameX="0" frameY="-1" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0004" x="178" y="0" width="152" height="131" frameX="0" frameY="-1" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0005" x="354" y="0" width="152" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0006" x="354" y="0" width="152" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0007" x="354" y="0" width="152" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0008" x="354" y="0" width="152" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0009" x="0" y="157" width="151" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0010" x="0" y="157" width="151" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0011" x="0" y="157" width="151" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0012" x="0" y="157" width="151" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0013" x="0" y="157" width="151" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0014" x="0" y="157" width="151" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0015" x="0" y="157" width="151" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+	<SubTexture name="Boo0016" x="0" y="157" width="151" height="131" frameX="0" frameY="0" frameWidth="155" frameHeight="145"/>
+</TextureAtlas>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luigi_IHY_Background_Assets_DrownedMario_v2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DrownedMarioGrab0000" x="0" y="0" width="0" height="0" frameX="65" frameY="242" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0001" x="0" y="0" width="0" height="0" frameX="65" frameY="242" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0002" x="24" y="0" width="130" height="87" frameX="-3" frameY="-182" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0003" x="24" y="0" width="130" height="87" frameX="-3" frameY="-182" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0004" x="178" y="0" width="107" height="177" frameX="-26" frameY="-92" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0005" x="178" y="0" width="107" height="177" frameX="-26" frameY="-92" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0006" x="309" y="0" width="107" height="195" frameX="-26" frameY="-74" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0007" x="309" y="0" width="107" height="195" frameX="-26" frameY="-74" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0008" x="440" y="0" width="108" height="198" frameX="-25" frameY="-71" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0009" x="440" y="0" width="108" height="198" frameX="-25" frameY="-71" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0010" x="572" y="0" width="113" height="162" frameX="-20" frameY="-107" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0011" x="572" y="0" width="113" height="162" frameX="-20" frameY="-107" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0012" x="709" y="0" width="120" height="92" frameX="-14" frameY="-177" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0013" x="709" y="0" width="120" height="92" frameX="-14" frameY="-177" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0014" x="853" y="0" width="90" height="55" frameX="-44" frameY="-246" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0015" x="853" y="0" width="90" height="55" frameX="-44" frameY="-246" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0016" x="853" y="0" width="90" height="55" frameX="-44" frameY="-243" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0017" x="853" y="0" width="90" height="55" frameX="-44" frameY="-243" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0018" x="0" y="222" width="297" height="202" frameX="-44" frameY="-96" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0019" x="0" y="222" width="297" height="202" frameX="-44" frameY="-96" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0020" x="321" y="222" width="296" height="263" frameX="-44" frameY="-35" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0021" x="321" y="222" width="296" height="263" frameX="-44" frameY="-35" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0022" x="641" y="222" width="294" height="293" frameX="-44" frameY="-5" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0023" x="641" y="222" width="294" height="293" frameX="-44" frameY="-5" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0024" x="641" y="222" width="294" height="293" frameX="-44" frameY="-5" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0025" x="0" y="539" width="292" height="298" frameX="-44" frameY="0" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0026" x="0" y="539" width="292" height="298" frameX="-44" frameY="0" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0027" x="0" y="539" width="292" height="298" frameX="-44" frameY="0" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0028" x="316" y="539" width="293" height="279" frameX="-44" frameY="-19" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0029" x="316" y="539" width="293" height="279" frameX="-44" frameY="-19" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0030" x="633" y="539" width="294" height="296" frameX="-44" frameY="-29" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0031" x="633" y="539" width="294" height="296" frameX="-44" frameY="-29" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0032" x="0" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0033" x="0" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0034" x="318" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0035" x="318" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0036" x="636" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0037" x="636" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0038" x="636" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0039" x="636" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0040" x="636" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0041" x="636" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0042" x="636" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0043" x="636" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioGrab0044" x="636" y="861" width="294" height="295" frameX="-44" frameY="-27" frameWidth="351" frameHeight="325"/>
+	<SubTexture name="DrownedMarioIdle0000" x="0" y="1180" width="294" height="288" frameX="0" frameY="-7" frameWidth="294" frameHeight="295"/>
+	<SubTexture name="DrownedMarioIdle0001" x="0" y="1180" width="294" height="288" frameX="0" frameY="-7" frameWidth="294" frameHeight="295"/>
+	<SubTexture name="DrownedMarioIdle0002" x="318" y="1180" width="294" height="288" frameX="0" frameY="-7" frameWidth="294" frameHeight="295"/>
+	<SubTexture name="DrownedMarioIdle0003" x="318" y="1180" width="294" height="288" frameX="0" frameY="-7" frameWidth="294" frameHeight="295"/>
+	<SubTexture name="DrownedMarioIdle0004" x="636" y="1180" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0005" x="636" y="1180" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0006" x="636" y="1180" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0007" x="0" y="1499" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0008" x="0" y="1499" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0009" x="0" y="1499" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0010" x="0" y="1499" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0011" x="318" y="1499" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0012" x="318" y="1499" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0013" x="318" y="1499" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0014" x="318" y="1499" width="294" height="295"/>
+	<SubTexture name="DrownedMarioIdle0015" x="318" y="1499" width="294" height="295"/>
+</TextureAtlas>

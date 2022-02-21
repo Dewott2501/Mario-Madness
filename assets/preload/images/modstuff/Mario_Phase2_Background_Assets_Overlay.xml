@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_Phase2_Background_Assets_Overlay.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aeiuo instancia 10000" x="0" y="0" width="668" height="380"/>
+	<SubTexture name="aeiuo instancia 10001" x="692" y="0" width="668" height="380"/>
+	<SubTexture name="aeiuo instancia 10002" x="0" y="404" width="668" height="380"/>
+	<SubTexture name="aeiuo instancia 10003" x="692" y="404" width="668" height="380"/>
+	<SubTexture name="aeiuo instancia 10004" x="0" y="808" width="668" height="380"/>
+	<SubTexture name="aeiuo instancia 10005" x="692" y="808" width="668" height="380"/>
+	<SubTexture name="aeiuo instancia 10006" x="0" y="1212" width="668" height="380"/>
+	<SubTexture name="aeiuo instancia 10007" x="692" y="1212" width="668" height="380"/>
+	<SubTexture name="aeiuo instancia 10008" x="0" y="0" width="668" height="380"/>
+	<SubTexture name="aeiuo instancia 10009" x="692" y="0" width="668" height="380"/>
+</TextureAtlas>

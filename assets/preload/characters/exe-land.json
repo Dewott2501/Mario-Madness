@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GBIdleCrazy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				128
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GBLeftCrazy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GBRightCrazy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GBDownCrazy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				199
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GBUpCrazy",
+			"indices": []
+		},
+		{
+			"offsets": [
+				182,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "GBLaugh"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/MarioLand",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "exe-land",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		70,
+		70
+	],
+	"camera_position": [
+		-170,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 2.8
+}

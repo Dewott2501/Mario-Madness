@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				305,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "RacistIdle"
+		},
+		{
+			"offsets": [
+				305,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RacistUp"
+		},
+		{
+			"offsets": [
+				305,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RacistDown"
+		},
+		{
+			"offsets": [
+				316,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RacistLeft"
+		},
+		{
+			"offsets": [
+				307,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RacistRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Race_Mario_Assets",
+	"position": [
+		-80,
+		110
+	],
+	"healthicon": "race",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		34,
+		36
+	],
+	"camera_position": [
+		-70,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_Wario_Assets_v3_Body1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Body Idle 10000" x="0" y="0" width="277" height="215" frameX="-38" frameY="-3" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10001" x="0" y="0" width="277" height="215" frameX="-38" frameY="-3" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10002" x="301" y="0" width="277" height="217" frameX="-37" frameY="-8" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10003" x="301" y="0" width="277" height="217" frameX="-37" frameY="-8" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10004" x="602" y="0" width="263" height="173" frameX="-37" frameY="-16" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10005" x="602" y="0" width="263" height="173" frameX="-37" frameY="-16" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10006" x="0" y="241" width="290" height="200" frameX="-9" frameY="-13" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10007" x="0" y="241" width="290" height="200" frameX="-9" frameY="-13" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10008" x="314" y="241" width="296" height="208" frameX="-3" frameY="-5" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10009" x="314" y="241" width="296" height="208" frameX="-3" frameY="-5" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10010" x="634" y="241" width="298" height="213" frameX="-1" frameY="0" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10011" x="634" y="241" width="298" height="213" frameX="-1" frameY="0" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10012" x="0" y="478" width="298" height="216" frameX="-1" frameY="-3" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10013" x="0" y="478" width="298" height="216" frameX="-1" frameY="-3" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10014" x="322" y="478" width="300" height="214" frameX="0" frameY="-8" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10015" x="322" y="478" width="300" height="214" frameX="0" frameY="-8" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10016" x="602" y="0" width="263" height="173" frameX="-37" frameY="-16" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10017" x="602" y="0" width="263" height="173" frameX="-37" frameY="-16" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10018" x="646" y="478" width="272" height="211" frameX="-37" frameY="-13" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10019" x="646" y="478" width="272" height="211" frameX="-37" frameY="-13" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10020" x="0" y="718" width="274" height="213" frameX="-38" frameY="-5" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10021" x="0" y="718" width="274" height="213" frameX="-38" frameY="-5" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10022" x="298" y="718" width="276" height="216" frameX="-38" frameY="0" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="BF Body Idle 10023" x="298" y="718" width="276" height="216" frameX="-38" frameY="0" frameWidth="315" frameHeight="225"/>
+</TextureAtlas>

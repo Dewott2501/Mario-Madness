@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mario.png"><SubTexture name="mario pose0000" x="0" y="0" width="20" height="25" frameX="0" frameY="0" frameWidth="20" frameHeight="25" />
+<SubTexture name="mario pose0001" x="20" y="0" width="20" height="25" frameX="0" frameY="0" frameWidth="20" frameHeight="25" />
+</TextureAtlas>

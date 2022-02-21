@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				305,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Racetraitors"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				305,
+				13
+			],
+			"anim": "talk",
+			"fps": 30,
+			"name": "Racetraitors",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Racetalk3",
+	"position": [
+		-80,
+		110
+	],
+	"healthicon": "Race",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		34,
+		36
+	],
+	"camera_position": [
+		-70,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Wario_Apparition_Overlay_v1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WarioOverlay0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="WarioOverlay0001" x="0" y="744" width="1280" height="720"/>
+	<SubTexture name="WarioOverlay0002" x="0" y="1488" width="1280" height="720"/>
+	<SubTexture name="WarioOverlay0003" x="0" y="2232" width="1280" height="720"/>
+</TextureAtlas>

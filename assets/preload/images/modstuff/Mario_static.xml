@@ -1,0 +1,19 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_static.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="static play0000" x="0" y="0" width="1284" height="724"/>
+	<SubTexture name="static play0001" x="1308" y="0" width="1284" height="724"/>
+	<SubTexture name="static play0002" x="2616" y="0" width="1284" height="724"/>
+	<SubTexture name="static play0003" x="0" y="748" width="1284" height="724"/>
+	<SubTexture name="static play0004" x="1308" y="748" width="1284" height="724"/>
+	<SubTexture name="static play0005" x="2616" y="748" width="1284" height="724"/>
+	<SubTexture name="static play0006" x="0" y="1496" width="1284" height="724"/>
+	<SubTexture name="static play0007" x="1308" y="1496" width="1284" height="724"/>
+	<SubTexture name="static play0008" x="2616" y="1496" width="1284" height="724"/>
+	<SubTexture name="static play0009" x="0" y="2244" width="1284" height="724"/>
+	<SubTexture name="static play0010" x="1308" y="2244" width="1284" height="724"/>
+	<SubTexture name="static play0011" x="2616" y="2244" width="1284" height="724"/>
+	<SubTexture name="static play0012" x="0" y="2992" width="1284" height="724"/>
+	<SubTexture name="static play0013" x="1308" y="2992" width="1284" height="724"/>
+</TextureAtlas>

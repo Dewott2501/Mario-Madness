@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MBIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MBLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				39
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MBRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MBDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MBUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/MarioLand",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "mario-land",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		70,
+		70
+	],
+	"camera_position": [
+		-170,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 2.8
+}

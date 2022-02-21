@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-135,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BetaIdle"
+		},
+		{
+			"offsets": [
+				-51,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BetaDown"
+		},
+		{
+			"offsets": [
+				-38,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BetaLeft"
+		},
+		{
+			"offsets": [
+				-115,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BetaUp"
+		},
+		{
+			"offsets": [
+				-141,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BetaRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Beta_Luigi_Assets",
+	"position": [
+		-80,
+		70
+	],
+	"healthicon": "beta",
+	"flip_x": false,
+	"healthbar_colors": [
+		4,
+		70,
+		4
+	],
+	"camera_position": [
+		30,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

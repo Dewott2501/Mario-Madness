@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Race_Mario_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RacistDown0000" x="0" y="0" width="1075" height="634" pivotX="0" pivotY="7.65" frameX="0" frameY="-28" frameWidth="1075" frameHeight="662"/>
+	<SubTexture name="RacistDown0001" x="1075" y="0" width="1075" height="657" frameX="0" frameY="-2" frameWidth="1075" frameHeight="662"/>
+	<SubTexture name="RacistDown0002" x="2150" y="0" width="1075" height="657" frameX="0" frameY="-2" frameWidth="1075" frameHeight="662"/>
+	<SubTexture name="RacistDown0003" x="3225" y="0" width="1075" height="659" frameX="0" frameY="0" frameWidth="1075" frameHeight="662"/>
+	<SubTexture name="RacistDown0004" x="4300" y="0" width="1075" height="659" frameX="0" frameY="0" frameWidth="1075" frameHeight="662"/>
+	<SubTexture name="RacistDown0005" x="5375" y="0" width="1075" height="659" frameX="0" frameY="0" frameWidth="1075" frameHeight="662"/>
+	<SubTexture name="RacistDown0006" x="6450" y="0" width="1075" height="659" frameX="0" frameY="0" frameWidth="1075" frameHeight="662"/>
+	<SubTexture name="RacistDown0007" x="0" y="659" width="1075" height="659" frameX="0" frameY="0" frameWidth="1075" frameHeight="662"/>
+	<SubTexture name="RacistIdle0000" x="1075" y="659" width="1075" height="644" pivotX="0" pivotY="0" frameX="0" frameY="-8" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0001" x="2150" y="659" width="1075" height="644" frameX="0" frameY="-8" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0002" x="3225" y="659" width="1075" height="644" frameX="0" frameY="-8" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0003" x="4300" y="659" width="1075" height="643" frameX="0" frameY="-9" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0004" x="5375" y="659" width="1075" height="643" frameX="0" frameY="-9" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0005" x="6450" y="659" width="1075" height="643" frameX="0" frameY="-9" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0006" x="0" y="1318" width="1075" height="645" frameX="0" frameY="-7" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0007" x="1075" y="1318" width="1075" height="645" frameX="0" frameY="-7" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0008" x="2150" y="1318" width="1075" height="645" frameX="0" frameY="-7" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0009" x="3225" y="1318" width="1075" height="651" frameX="0" frameY="-1" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0010" x="4300" y="1318" width="1075" height="651" frameX="0" frameY="-1" frameWidth="1075" frameHeight="652"/>
+	<SubTexture name="RacistIdle0011" x="5375" y="1318" width="1075" height="652"/>
+	<SubTexture name="RacistIdle0012" x="6450" y="1318" width="1075" height="652"/>
+	<SubTexture name="RacistIdle0013" x="0" y="1970" width="1075" height="652"/>
+	<SubTexture name="RacistIdle0014" x="1075" y="1970" width="1075" height="652"/>
+	<SubTexture name="RacistIdle0015" x="2150" y="1970" width="1075" height="652"/>
+	<SubTexture name="RacistLeft0000" x="3225" y="1970" width="1091" height="643" pivotX="12" pivotY="1.15" frameX="0" frameY="-10" frameWidth="1091" frameHeight="653"/>
+	<SubTexture name="RacistLeft0001" x="4316" y="1970" width="1075" height="652" frameX="-12" frameY="-1" frameWidth="1091" frameHeight="653"/>
+	<SubTexture name="RacistLeft0002" x="5391" y="1970" width="1075" height="652" frameX="-12" frameY="-1" frameWidth="1091" frameHeight="653"/>
+	<SubTexture name="RacistLeft0003" x="6466" y="1970" width="1073" height="653" frameX="-13" frameY="0" frameWidth="1091" frameHeight="653"/>
+	<SubTexture name="RacistLeft0004" x="0" y="2623" width="1073" height="653" frameX="-13" frameY="0" frameWidth="1091" frameHeight="653"/>
+	<SubTexture name="RacistLeft0005" x="1073" y="2623" width="1073" height="653" frameX="-13" frameY="0" frameWidth="1091" frameHeight="653"/>
+	<SubTexture name="RacistLeft0006" x="2146" y="2623" width="1073" height="653" frameX="-13" frameY="0" frameWidth="1091" frameHeight="653"/>
+	<SubTexture name="RacistRight0000" x="3219" y="2623" width="1056" height="662" pivotX="1" pivotY="12.75" frameX="-11" frameY="-2" frameWidth="1077" frameHeight="664"/>
+	<SubTexture name="RacistRight0001" x="4275" y="2623" width="1075" height="664" frameX="-1" frameY="0" frameWidth="1077" frameHeight="664"/>
+	<SubTexture name="RacistRight0002" x="5350" y="2623" width="1075" height="664" frameX="-1" frameY="0" frameWidth="1077" frameHeight="664"/>
+	<SubTexture name="RacistRight0003" x="6425" y="2623" width="1077" height="664"/>
+	<SubTexture name="RacistRight0004" x="0" y="3287" width="1077" height="664"/>
+	<SubTexture name="RacistRight0005" x="1077" y="3287" width="1077" height="664"/>
+	<SubTexture name="RacistRight0006" x="2154" y="3287" width="1077" height="664"/>
+	<SubTexture name="RacistUp0000" x="3231" y="3287" width="1075" height="719" pivotX="0" pivotY="71.9" frameX="0" frameY="0" frameWidth="1075" frameHeight="723"/>
+	<SubTexture name="RacistUp0001" x="4306" y="3287" width="1075" height="697" frameX="0" frameY="-26" frameWidth="1075" frameHeight="723"/>
+	<SubTexture name="RacistUp0002" x="5381" y="3287" width="1075" height="697" frameX="0" frameY="-26" frameWidth="1075" frameHeight="723"/>
+	<SubTexture name="RacistUp0003" x="6456" y="3287" width="1075" height="695" frameX="0" frameY="-28" frameWidth="1075" frameHeight="723"/>
+	<SubTexture name="RacistUp0004" x="0" y="4006" width="1075" height="695" frameX="0" frameY="-28" frameWidth="1075" frameHeight="723"/>
+	<SubTexture name="RacistUp0005" x="1075" y="4006" width="1075" height="695" frameX="0" frameY="-28" frameWidth="1075" frameHeight="723"/>
+	<SubTexture name="RacistUp0006" x="2150" y="4006" width="1075" height="695" frameX="0" frameY="-28" frameWidth="1075" frameHeight="723"/>
+</TextureAtlas>

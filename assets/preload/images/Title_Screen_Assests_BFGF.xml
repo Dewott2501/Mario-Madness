@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Title_Screen_Assests_BF&GF.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF n GF sprites0000" x="0" y="0" width="638" height="423" frameX="-6" frameY="-12" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0001" x="662" y="0" width="647" height="413" frameX="-9" frameY="-19" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0002" x="1333" y="0" width="650" height="419" frameX="-10" frameY="-11" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0003" x="1333" y="0" width="650" height="419" frameX="-10" frameY="-11" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0004" x="0" y="447" width="658" height="425" frameX="-1" frameY="-5" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0005" x="0" y="447" width="658" height="425" frameX="-1" frameY="-5" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0006" x="682" y="447" width="656" height="430" frameX="0" frameY="-1" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0007" x="682" y="447" width="656" height="430" frameX="0" frameY="-1" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0008" x="1362" y="447" width="655" height="431" frameX="-1" frameY="0" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0009" x="1362" y="447" width="655" height="431" frameX="-1" frameY="0" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0010" x="1362" y="447" width="655" height="431" frameX="-1" frameY="0" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0011" x="1362" y="447" width="655" height="431" frameX="-1" frameY="0" frameWidth="660" frameHeight="435"/>
+	<SubTexture name="BF n GF sprites0012" x="1362" y="447" width="655" height="431" frameX="-1" frameY="0" frameWidth="660" frameHeight="435"/>
+</TextureAtlas>

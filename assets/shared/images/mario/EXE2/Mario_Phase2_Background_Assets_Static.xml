@@ -1,0 +1,15 @@
+﻿﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_Phase2_Background_Assets_Static.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Estatica papu instancia 10000" x="0" y="0" width="703" height="401"/>
+	<SubTexture name="Estatica papu instancia 10001" x="727" y="0" width="703" height="401"/>
+	<SubTexture name="Estatica papu instancia 10002" x="0" y="425" width="703" height="401"/>
+	<SubTexture name="Estatica papu instancia 10003" x="727" y="425" width="703" height="401"/>
+	<SubTexture name="Estatica papu instancia 10004" x="0" y="850" width="703" height="401"/>
+	<SubTexture name="Estatica papu instancia 10005" x="727" y="850" width="703" height="401"/>
+	<SubTexture name="Estatica papu instancia 10006" x="0" y="1275" width="703" height="401"/>
+	<SubTexture name="Estatica papu instancia 10007" x="727" y="1275" width="703" height="401"/>
+	<SubTexture name="Estatica papu instancia 10008" x="0" y="0" width="703" height="401"/>
+	<SubTexture name="Estatica papu instancia 10009" x="727" y="0" width="703" height="401"/>
+</TextureAtlas>

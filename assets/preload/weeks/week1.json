@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Its a me", "marioex", [71, 15, 15]],
+		["Golden Land", "mario-land", [71, 15, 15]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

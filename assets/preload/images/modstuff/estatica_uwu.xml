@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="estatica uwu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Estatica papu0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Estatica papu0001" x="1304" y="0" width="1280" height="720"/>
+	<SubTexture name="Estatica papu0002" x="2608" y="0" width="1280" height="720"/>
+	<SubTexture name="Estatica papu0003" x="0" y="744" width="1280" height="720"/>
+	<SubTexture name="Estatica papu0004" x="1304" y="744" width="1280" height="720"/>
+	<SubTexture name="Estatica papu0005" x="2608" y="744" width="1280" height="720"/>
+	<SubTexture name="Estatica papu0006" x="0" y="1488" width="1280" height="720"/>
+	<SubTexture name="Estatica papu0007" x="1304" y="1488" width="1280" height="720"/>
+	<SubTexture name="Estatica papu0008" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Estatica papu0009" x="1304" y="0" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX_Background_Assets_Cloud.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cloud instancia 10000" x="0" y="0" width="349" height="485" frameX="0" frameY="0" frameWidth="354" frameHeight="485"/>
+	<SubTexture name="Cloud instancia 10001" x="373" y="0" width="349" height="441" frameX="-4" frameY="-16" frameWidth="354" frameHeight="485"/>
+	<SubTexture name="Cloud instancia 10002" x="373" y="0" width="349" height="441" frameX="-4" frameY="-16" frameWidth="354" frameHeight="485"/>
+	<SubTexture name="Cloud instancia 10003" x="0" y="509" width="348" height="430" frameX="-6" frameY="-20" frameWidth="354" frameHeight="485"/>
+	<SubTexture name="Cloud instancia 10004" x="0" y="509" width="348" height="430" frameX="-6" frameY="-20" frameWidth="354" frameHeight="485"/>
+	<SubTexture name="Cloud instancia 10005" x="0" y="509" width="348" height="430" frameX="-6" frameY="-20" frameWidth="354" frameHeight="485"/>
+	<SubTexture name="Cloud instancia 10006" x="0" y="509" width="348" height="430" frameX="-6" frameY="-20" frameWidth="354" frameHeight="485"/>
+</TextureAtlas>

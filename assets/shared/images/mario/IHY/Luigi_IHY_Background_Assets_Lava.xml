@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luigi_IHY_Background_Assets_Lava.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lava0000" x="0" y="0" width="1987" height="291"/>
+	<SubTexture name="Lava0001" x="2011" y="0" width="1987" height="291"/>
+	<SubTexture name="Lava0002" x="0" y="315" width="1987" height="291"/>
+	<SubTexture name="Lava0003" x="2011" y="315" width="1987" height="291"/>
+	<SubTexture name="Lava0004" x="0" y="630" width="1987" height="290" frameX="0" frameY="-1" frameWidth="1987" frameHeight="291"/>
+	<SubTexture name="Lava0005" x="2011" y="630" width="1987" height="291"/>
+	<SubTexture name="Lava0006" x="0" y="945" width="1987" height="291"/>
+	<SubTexture name="Lava0007" x="2011" y="945" width="1987" height="291"/>
+	<SubTexture name="Lava0008" x="0" y="1260" width="1987" height="291"/>
+	<SubTexture name="Lava0009" x="2011" y="1260" width="1987" height="291"/>
+	<SubTexture name="Lava0010" x="0" y="1575" width="1987" height="291"/>
+	<SubTexture name="Lava0011" x="2011" y="1575" width="1987" height="291"/>
+	<SubTexture name="Lava0012" x="0" y="1890" width="1987" height="291"/>
+	<SubTexture name="Lava0013" x="2011" y="1890" width="1987" height="291"/>
+	<SubTexture name="Lava0014" x="0" y="2205" width="1987" height="291"/>
+	<SubTexture name="Lava0015" x="2011" y="2205" width="1987" height="291"/>
+</TextureAtlas>

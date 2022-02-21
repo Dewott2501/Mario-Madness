@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				235,
+				344
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WarioLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				270
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "WarioDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				293
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "WarioRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				316
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WarioIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				477
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "WarioUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Wario_Apparition_assets_v1",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "wario",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		124,
+		60
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

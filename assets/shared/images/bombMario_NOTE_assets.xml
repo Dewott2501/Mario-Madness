@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Racist_Mario_ItemBox_Assets_Bomb.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="145" height="136"/>
+	<SubTexture name="green0000" x="0" y="0" width="145" height="136"/>
+	<SubTexture name="purple0000" x="0" y="0" width="145" height="136"/>
+	<SubTexture name="red0000" x="0" y="0" width="145" height="136"/>
+</TextureAtlas>
