@@ -156,6 +156,7 @@ class PlayState extends MusicBeatState
 	public var healthDrain:Float = 0;
 	public var combo:Int = 0;
 	private var floatshit:Float = 0;
+	public static var fpsthing:Int = 0;
 
 	private var healthBarBG:AttachedSprite;
 	public var healthBar:FlxBar;
@@ -229,6 +230,7 @@ class PlayState extends MusicBeatState
 	var ihyLava:FlxSprite;
 	var startbf:FlxSprite;
 	var mxLaugh:FlxSprite;
+	var imgwarb:FlxSprite;
 	var imgwar:FlxSprite;
 	var estaland:FlxSprite;
 	var tvMarco:FlxSprite;
@@ -660,6 +662,8 @@ class PlayState extends MusicBeatState
 				 add(bgPista);
 
 			case 'betamansion':
+				GameOverSubstate.characterName = 'bfnew';
+				
 				var bg:BGSprite = new BGSprite('mario/LuigiBeta/Beta_Luigi_BG_Assets_2', -400, -50, 0.5, 0.5);
 				// bg.setGraphicSize(Std.int(bg.width * 1.45));
 				 bg.antialiasing = ClientPrefs.globalAntialiasing;
@@ -1150,6 +1154,24 @@ class PlayState extends MusicBeatState
 		mxLaugh.updateHitbox();
 		mxLaugh.screenCenter();
 		add(mxLaugh);
+
+		imgwarb = new FlxSprite().loadGraphic(Paths.image('modstuff/cuidao0'));
+		imgwarb.setGraphicSize(Std.int(imgwarb.width * 8));
+		imgwarb.antialiasing = false;
+		imgwarb.cameras = [camEst];
+		imgwarb.visible = false;
+		imgwarb.updateHitbox();
+		imgwarb.screenCenter(Y);
+
+		if(ClientPrefs.middleScroll)
+		{
+        imgwarb.x = 200;
+		}
+		else {
+		imgwarb.screenCenter(X);
+		}
+
+		add(imgwarb);
 
 		imgwar = new FlxSprite().loadGraphic(Paths.image('modstuff/cuidao'));
 		imgwar.setGraphicSize(Std.int(imgwar.width * 8));
@@ -2253,7 +2275,6 @@ class PlayState extends MusicBeatState
 				}
 			case 'Triggers Racing':
 				var charType:Int = 0;
-				if(!ClientPrefs.lowQuality){
 				switch(event[3].toLowerCase()) {
 					case 'gf' | 'girlfriend':
 						charType = 2;
@@ -2262,7 +2283,7 @@ class PlayState extends MusicBeatState
 					default:
 						charType = Std.parseInt(event[3]);
 						if(Math.isNaN(charType)) charType = 0;
-				}}
+				}
 
 				var newCharacter:String = event[4];
 				addCharacterToList(newCharacter, charType);
@@ -2475,6 +2496,8 @@ class PlayState extends MusicBeatState
 
 		if(curStage == 'warioworld' || curStage == 'racing'){
 			floatshit += 0.1;
+			FlxG.updateFramerate = 60;
+			FlxG.drawFramerate = 60;
 		}
 
 		callOnLuas('onUpdate', [elapsed]);
@@ -3337,10 +3360,6 @@ class PlayState extends MusicBeatState
 
 			case 'Play Animation':
 				//trace('Anim to play: ' + value1);
-				if(curStage == 'racing' && ClientPrefs.lowQuality){
-					//do nothing bruhhhhh
-				}
-				else{
 				var char:Character = dad;
 				switch(value2.toLowerCase().trim()) {
 					case 'bf' | 'boyfriend':
@@ -3358,7 +3377,7 @@ class PlayState extends MusicBeatState
 				}
 				char.playAnim(value1, true);
 				char.specialAnim = true;
-			}
+		
 
 			case 'Camera Follow Pos':
 				var val1:Float = Std.parseFloat(value1);
@@ -3557,13 +3576,36 @@ class PlayState extends MusicBeatState
 		}
 
 		case 'MX salto':
+			if(ClientPrefs.flashing)
+				{
+					FlxFlicker.flicker(imgwarb, 0.24, 0.12, false);
+					new FlxTimer().start(0.24, function(tmr:FlxTimer)
+						{
+							FlxFlicker.flicker(imgwar, 0.24, 0.12, false);
+						});
+				}
+				else{
+					imgwarb.visible = true;
+					new FlxTimer().start(0.24, function(tmr:FlxTimer)
+						{
+							imgwar.visible = true;
+						});
+					new FlxTimer().start(0.72, function(tmr:FlxTimer)
+						{
+							imgwar.visible = false;
+							imgwarb.visible = false;
+						});
+
+				}
 			FlxG.sound.play(Paths.sound('warningmx'));
-			FlxFlicker.flicker(imgwar, 0.48, 0.12, false);
 			FlxTween.tween(dad, {y: -250}, 0.24, {startDelay: 0.24, ease: FlxEase.quadOut, onComplete: function(twn:FlxTween)
 				{
 					FlxTween.tween(dad, {y: 150}, 0.24, {ease: FlxEase.quadIn, onComplete: function(twn:FlxTween)
 						{
+							if(ClientPrefs.flashing)
+								{
 							camGame.shake(0.03, 0.2);
+								}
 							if(!isDodging && !cpuControlled){
 								health -= 1.2;
 							}
@@ -3587,7 +3629,13 @@ class PlayState extends MusicBeatState
 					FlxTween.tween(mxLaugh, {alpha:  0}, 1, {ease: FlxEase.quadInOut});
 					new FlxTimer().start(2, function(tmr:FlxTimer) {
 						blackBarThingie.alpha = 0;
+						if(ClientPrefs.flashing)
+							{
 						FlxG.camera.flash(FlxColor.RED, 0.5);
+							}
+						else{
+							FlxG.camera.flash(FlxColor.BLACK, 0.5);	
+						}
 					});
 				case 2:
 					wahooText.alpha = 1;
@@ -3681,7 +3729,6 @@ class PlayState extends MusicBeatState
 				}});
 				
 				case 1:
-					if(!ClientPrefs.lowQuality){
 					if(dad.curCharacter != value2) {
 						if(!dadMap.exists(value2)) {
 							addCharacterToList(value2, 1);
@@ -3695,7 +3742,7 @@ class PlayState extends MusicBeatState
 						}
 						dad.visible = true;
 						dad.x = 50;
-					}}
+					}
 				case 2:
 					caja.animation.play('random');
 					if(!ClientPrefs.downScroll){
@@ -3720,7 +3767,10 @@ class PlayState extends MusicBeatState
 				case 7:
 					FlxTween.tween(redS, {x: 250}, 0.25, {ease: FlxEase.quadIn, onComplete: function(twn:FlxTween)
 						{
+							if(ClientPrefs.flashing)
+								{
 							camGame.shake(0.02, 0.1);
+								}
 							FlxG.sound.play(Paths.sound('shellhit'));
 							health -= 0.4;
 							FlxTween.tween(redS, {x: -100}, 0.1, {ease: FlxEase.quadOut});
@@ -4008,6 +4058,9 @@ class PlayState extends MusicBeatState
 				}
 				if(curSong == 'Apparition'){
 					ClientPrefs.warioPass = true;
+					FlxG.updateFramerate = PlayState.fpsthing;
+					FlxG.drawFramerate = PlayState.fpsthing; 
+					ClientPrefs.framerate = PlayState.fpsthing;
 					ClientPrefs.saveSettings();
 				}
 				if(curSong == 'Alone'){
@@ -4040,6 +4093,8 @@ class PlayState extends MusicBeatState
 				if(curSong == 'Racetraitors'){
 					ClientPrefs.carPass = true;
 					ClientPrefs.saveSettings();
+					FlxG.updateFramerate = PlayState.fpsthing;
+					FlxG.drawFramerate = PlayState.fpsthing; 
 				}
 				trace('WENT BACK TO FREEPLAY??');
 				cancelFadeTween();

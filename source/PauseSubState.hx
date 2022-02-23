@@ -187,6 +187,10 @@ class PauseSubState extends MusicBeatSubstate
 					PlayState.deathCounter = 0;
 					PlayState.seenCutscene = false;
 					CustomFadeTransition.nextCamera = transCamera;
+					FlxG.updateFramerate = PlayState.fpsthing;
+					FlxG.drawFramerate = PlayState.fpsthing; 
+					ClientPrefs.framerate = PlayState.fpsthing;
+					ClientPrefs.saveSettings();
 					if(PlayState.isStoryMode) {
 						MusicBeatState.switchState(new StoryMenuState());
 					} else if (PlayState.isWarp) {

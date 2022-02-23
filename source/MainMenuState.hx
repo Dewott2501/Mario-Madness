@@ -171,6 +171,8 @@ class MainMenuState extends MusicBeatState
 
 		changeItem();
 
+		PlayState.fpsthing = ClientPrefs.framerate;
+
 		#if ACHIEVEMENTS_ALLOWED
 		Achievements.loadAchievements();
 		var leDate = Date.now();
@@ -200,6 +202,7 @@ class MainMenuState extends MusicBeatState
 
 	override function update(elapsed:Float)
 	{
+
 		if(PlayState.isStoryMode){
 			PlayState.isStoryMode = false;
 		}

@@ -46,7 +46,7 @@ class OptionsState extends MusicBeatState
 		menuBG.antialiasing = ClientPrefs.globalAntialiasing;
 		add(menuBG);
 
-		var versionMario:FlxText = new FlxText(12, FlxG.height - 24, 0, "FNF: Mario's Madness v1.0.0", 12);
+		var versionMario:FlxText = new FlxText(12, FlxG.height - 24, 0, "FNF: Mario's Madness v1.0.1", 12);
 		versionMario.scrollFactor.set();
 		versionMario.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionMario);
