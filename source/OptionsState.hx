@@ -46,7 +46,7 @@ class OptionsState extends MusicBeatState
 		menuBG.antialiasing = ClientPrefs.globalAntialiasing;
 		add(menuBG);
 
-		var versionMario:FlxText = new FlxText(12, FlxG.height - 24, 0, "FNF: Mario's Madness v1.0.1", 12);
+		var versionMario:FlxText = new FlxText(12, FlxG.height - 24, 0, "FNF: Mario's Madness v1.0.2", 12);
 		versionMario.scrollFactor.set();
 		versionMario.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionMario);
@@ -962,7 +962,7 @@ class PreferencesSubstate extends MusicBeatSubstate
 			case 'Anti-Aliasing':
 				daText = "If unchecked, disables anti-aliasing, increases performance\nat the cost of the graphics not looking as smooth.";
 			case 'Downscroll':
-				daText = "If checked, notes go Down instead of Up, simple enough.\n(COMPOTA LO HICE COMPATIBLE CON EL MARIO PARA TI JUEGALO PORFA)";
+				daText = "If checked, notes go Down instead of Up, simple enough."; //SI LO PROBÓ VAMOS LOS PIBEEES 
 			case 'Middlescroll':
 				daText = "If checked, hides Opponent's notes and your notes get centered.";
 			case 'Ghost Tapping':
