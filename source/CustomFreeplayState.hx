@@ -196,8 +196,6 @@ class CustomFreeplayState extends MusicBeatState
 		}
 		if(controls.ACCEPT) {
 			quieto = true;
-			ClientPrefs.framerate = 60;
-			ClientPrefs.saveSettings();
 			tween.cancel();
 			FlxG.sound.music.volume = 0;
 			PlayState.SONG = Song.loadFromJson(canciones[curSelected][1], canciones[curSelected][1]);
