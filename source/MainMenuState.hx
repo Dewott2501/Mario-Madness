@@ -171,8 +171,6 @@ class MainMenuState extends MusicBeatState
 
 		changeItem();
 
-		PlayState.fpsthing = ClientPrefs.framerate;
-
 		#if ACHIEVEMENTS_ALLOWED
 		Achievements.loadAchievements();
 		var leDate = Date.now();
