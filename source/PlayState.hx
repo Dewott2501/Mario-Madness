@@ -156,7 +156,6 @@ class PlayState extends MusicBeatState
 	public var healthDrain:Float = 0;
 	public var combo:Int = 0;
 	private var floatshit:Float = 0;
-	public static var fpsthing:Int = 0;
 
 	private var healthBarBG:AttachedSprite;
 	public var healthBar:FlxBar;
@@ -2495,9 +2494,7 @@ class PlayState extends MusicBeatState
 		}*/
 
 		if(curStage == 'warioworld' || curStage == 'racing'){
-			floatshit += 0.1;
-			FlxG.updateFramerate = 60;
-			FlxG.drawFramerate = 60;
+			floatshit += elapsed * 6;
 		}
 
 		callOnLuas('onUpdate', [elapsed]);
@@ -4058,9 +4055,6 @@ class PlayState extends MusicBeatState
 				}
 				if(curSong == 'Apparition'){
 					ClientPrefs.warioPass = true;
-					FlxG.updateFramerate = PlayState.fpsthing;
-					FlxG.drawFramerate = PlayState.fpsthing; 
-					ClientPrefs.framerate = PlayState.fpsthing;
 					ClientPrefs.saveSettings();
 				}
 				if(curSong == 'Alone'){
@@ -4093,8 +4087,6 @@ class PlayState extends MusicBeatState
 				if(curSong == 'Racetraitors'){
 					ClientPrefs.carPass = true;
 					ClientPrefs.saveSettings();
-					FlxG.updateFramerate = PlayState.fpsthing;
-					FlxG.drawFramerate = PlayState.fpsthing; 
 				}
 				trace('WENT BACK TO FREEPLAY??');
 				cancelFadeTween();
