@@ -80,10 +80,6 @@ class GameOverSubstate extends MusicBeatSubstate
 
 		if (controls.BACK)
 		{
-			FlxG.updateFramerate = PlayState.fpsthing;
-			FlxG.drawFramerate = PlayState.fpsthing; 
-			ClientPrefs.framerate = PlayState.fpsthing;
-			ClientPrefs.saveSettings();
 			FlxG.sound.music.stop();
 			PlayState.deathCounter = 0;
 			PlayState.seenCutscene = false;
