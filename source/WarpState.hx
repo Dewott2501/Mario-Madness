@@ -42,6 +42,9 @@ class WarpState extends MusicBeatState
 
 	override function create()
 	{
+		FlxG.updateFramerate = PlayState.fpsthing;
+		FlxG.drawFramerate = PlayState.fpsthing; 
+		ClientPrefs.framerate = PlayState.fpsthing;
 		#if desktop
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Warp Zone", null);

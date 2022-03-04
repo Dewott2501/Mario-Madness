@@ -1743,6 +1743,7 @@ class PlayState extends MusicBeatState
 				}
 			}
 			return;
+
 		} else {
 			FlxG.log.warn('Couldnt find video file: ' + fileName);
 		}
@@ -4058,9 +4059,9 @@ class PlayState extends MusicBeatState
 				}
 				if(curSong == 'Apparition'){
 					ClientPrefs.warioPass = true;
-					FlxG.updateFramerate = PlayState.fpsthing;
-					FlxG.drawFramerate = PlayState.fpsthing; 
-					ClientPrefs.framerate = PlayState.fpsthing;
+					FlxG.updateFramerate = fpsthing;
+					FlxG.drawFramerate = fpsthing; 
+					ClientPrefs.framerate = fpsthing;
 					ClientPrefs.saveSettings();
 				}
 				if(curSong == 'Alone'){
@@ -4093,8 +4094,9 @@ class PlayState extends MusicBeatState
 				if(curSong == 'Racetraitors'){
 					ClientPrefs.carPass = true;
 					ClientPrefs.saveSettings();
-					FlxG.updateFramerate = PlayState.fpsthing;
-					FlxG.drawFramerate = PlayState.fpsthing; 
+					FlxG.updateFramerate = fpsthing;
+					FlxG.drawFramerate = fpsthing; 
+					ClientPrefs.framerate = fpsthing;
 				}
 				trace('WENT BACK TO FREEPLAY??');
 				cancelFadeTween();

@@ -69,6 +69,10 @@ class CustomFreeplayState extends MusicBeatState
 
 	override function create()
 	{
+		FlxG.updateFramerate = PlayState.fpsthing;
+		FlxG.drawFramerate = PlayState.fpsthing; 
+		ClientPrefs.framerate = PlayState.fpsthing;
+		
 		#if desktop
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In Freeplay", null);
@@ -196,8 +200,6 @@ class CustomFreeplayState extends MusicBeatState
 		}
 		if(controls.ACCEPT) {
 			quieto = true;
-			ClientPrefs.framerate = 60;
-			ClientPrefs.saveSettings();
 			tween.cancel();
 			FlxG.sound.music.volume = 0;
 			PlayState.SONG = Song.loadFromJson(canciones[curSelected][1], canciones[curSelected][1]);
