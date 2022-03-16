@@ -209,11 +209,6 @@ class TitleState extends MusicBeatState
 		estatica.updateHitbox();
 		add(estatica);
 
-		var titleText2 = new FlxSprite(0, 660).loadGraphic(Paths.image('ilyluigikid'));
-		titleText2.setGraphicSize(Std.int(titleText2.width * 0.8));
-		titleText2.updateHitbox();
-		add(titleText2);
-
 		// FlxTween.tween(logoBl, {y: logoBl.y + 50}, 0.6, {ease: FlxEase.quadInOut, type: PINGPONG});
 		// FlxTween.tween(logo, {y: logoBl.y + 50}, 0.6, {ease: FlxEase.quadInOut, type: PINGPONG, startDelay: 0.1});
 
