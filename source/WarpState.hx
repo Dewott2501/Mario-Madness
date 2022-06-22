@@ -190,38 +190,10 @@ class WarpState extends MusicBeatState
 
 	private function caminar()
 	{
-		switch(curSelected){
-			case 0:
-				tween = FlxTween.tween(pibemapa, {x: 347}, 0.2, {onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 1:
-				tween = FlxTween.tween(pibemapa, {x: 507}, 0.2, {onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 2:
-				tween = FlxTween.tween(pibemapa, {x: 667}, 0.2, {onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 3:
-				tween = FlxTween.tween(pibemapa, {x: 827}, 0.2, {onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 4:
-				tween = FlxTween.tween(pibemapa, {x: 987}, 0.2, {onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-		  	case 5:
-				tween = FlxTween.tween(pibemapa, {x: 1147}, 0.2, {onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-		}
+		tween = FlxTween.tween(pibemapa, {x: 347+160*curSelected}, 0.2, {onComplete: function(twn:FlxTween)
+			{
+				quieto = false;
+			}});
 		do {
 
 		} while(unselectableCheck(curSelected));
