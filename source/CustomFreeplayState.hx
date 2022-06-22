@@ -258,48 +258,11 @@ class CustomFreeplayState extends MusicBeatState
 
 	private function caminar()
 	{
-		switch(curSelected){
-			case 0:
-				tween = FlxTween.tween(boxgrp, {x: 0}, 0.2, {ease: FlxEase.quadInOut, onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 1:
-				tween = FlxTween.tween(boxgrp, {x: -420}, 0.2, {ease: FlxEase.quadInOut, onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 2:
-				tween = FlxTween.tween(boxgrp, {x: -840}, 0.2, {ease: FlxEase.quadInOut, onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 3:
-				tween = FlxTween.tween(boxgrp, {x: -1260}, 0.2, {ease: FlxEase.quadInOut, onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 4:
-				tween = FlxTween.tween(boxgrp, {x: -1680}, 0.2, {ease: FlxEase.quadInOut, onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-		  	case 5:
-				tween = FlxTween.tween(boxgrp, {x: -2100}, 0.2, {ease: FlxEase.quadInOut, onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 6:
-				tween = FlxTween.tween(boxgrp, {x: -2520}, 0.2, {ease: FlxEase.quadInOut, onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-			case 7:
-				tween = FlxTween.tween(boxgrp, {x: -2940}, 0.2, {ease: FlxEase.quadInOut, onComplete: function(twn:FlxTween)
-					{
-						quieto = false;
-					}});
-		}
+		tween = FlxTween.tween(boxgrp, {x: 0 - curSelected*420}, 0.2, {ease: FlxEase.quadInOut, onComplete: function(twn:FlxTween)
+		{
+			quieto = false;
+		}});
+		
 		do {
 
 		} while(unselectableCheck(curSelected));
