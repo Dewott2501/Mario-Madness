@@ -28,31 +28,21 @@ class CustomFreeplayState extends MusicBeatState
 	private var grpOptions:FlxTypedGroup<Alphabet>;
 	
 	private var iconArray:Array<AttachedSprite> = [];
-	private static var canciones:Array<Dynamic> = [];
 
-	private static var canciones0:Array<Dynamic> = [
+	private static var canciones:Array<Dynamic> = [ //Canciones antes de Race traitors 1
 		['Its a me',		'its-a-me',         '1'],
 		['Golden Land',		'golden-land',      '2']
 	];
 
-	private static var canciones1:Array<Dynamic> = [
-		['Its a me',		'its-a-me', '1'],
-		['Golden Land',		'golden-land', '2'],
+	private static var canciones1:Array<Dynamic> = [ //Canciones antes de Race traitors 2
 		['I Hate You',		'i-hate-you', '3'],
 		['Powerdown',		'powerdown', '4'],
 		['Apparition',		'apparition', '5'],
-		['Alone',		'alone', '6'],
-		['???',		'racetraitors', '0']
+		['Alone',		'alone', '6']
 	];
 
-	private static var canciones2:Array<Dynamic> = [ 
-		['Its a me',		'its-a-me', '1'],
-		['Golden Land',		'golden-land', '2'],
-		['I Hate You',		'i-hate-you', '3'],
-		['Powerdown',		'powerdown', '4'],
-		['Apparition',		'apparition', '5'],
-		['Alone',		'alone', '6'],
-		['Race-traitors',		'racetraitors', '7']
+	private static var canciones2:Array<Dynamic> = [ //Canciones después de Race traitors
+		//no hay BV
 	];
 
 	var fuck:Int = 1;
@@ -102,20 +92,22 @@ class CustomFreeplayState extends MusicBeatState
 		grpOptions = new FlxTypedGroup<Alphabet>();
 		add(grpOptions);
 
-		if (ClientPrefs.iHYPass && ClientPrefs.mXPass && ClientPrefs.warioPass && ClientPrefs.betaPass && !ClientPrefs.carPass)
+		if (ClientPrefs.iHYPass && ClientPrefs.mXPass && ClientPrefs.warioPass && ClientPrefs.betaPass)
 			{
-				canciones = canciones1;
+				for(i in canciones1){
+					canciones.push(i); //añade las canciones
+				}
 			}
 
-		else if (ClientPrefs.iHYPass && ClientPrefs.mXPass && ClientPrefs.warioPass && ClientPrefs.betaPass && ClientPrefs.carPass)
+		if (ClientPrefs.carPass) //si
 			{
-				canciones = canciones2;
+				canciones.push(['Race-traitors',		'racetraitors', '7']);
 			}
-        else
+		else
 			{
-				canciones = canciones0;
+				canciones.push(['???',		'racetraitors', '0']);
 			}
-
+		
 		boxgrp = new FlxTypedSpriteGroup<FlxSprite>();
 				for (i in 0...canciones.length)
 				{
