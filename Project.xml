@@ -27,6 +27,8 @@
 	<window if="desktop" orientation="landscape" fullscreen="false" resizable="true" vsync="false"/>
 	
 	<!--Mobile-specific-->
+	<define name="mobileC" if="android" />
+	<assets path="assets/android" if="android"/>
 	<window if="mobile" orientation="landscape" fullscreen="true" width="0" height="0" resizable="false"/>
 	
 	<!--Switch-specific-->
@@ -47,6 +49,15 @@
 	<define name="MODS_ALLOWED" if="desktop" />
 	<define name="LUA_ALLOWED" if="windows" />
 	<define name="VIDEOS_ALLOWED" if="web || windows" unless="32"/>
+	
+	<define name="mario_debug" if="debug" />
+<assets path="assets/android" if="android"/>
+	<assets path="assets/preload" rename="assets" exclude="*.ogg" if="web"/>
+	<assets path="assets/preload" rename="assets" exclude="*.mp3"  unless="web"/>
+	<section if="TITLE_SCREEN_EASTER_EGG">
+		<assets path="assets/secrets" rename="assets" exclude="*.ogg" if="web"/>
+		<assets path="assets/secrets" rename="assets" exclude="*.mp3"  unless="web"/>
+	</section>
 	
 	<!-- <define name="PRELOAD_ALL" /> -->
 	<define name="PRELOAD_ALL" unless="web" />
