@@ -3724,7 +3724,7 @@ class PlayState extends MusicBeatState
 			var lowAnim:String = "";
 			switch(triggerMR){
 				case 0:
-				FlxTween.tween(dad, {x: 50}, 1, {ease: FlxEase.quadOut, onComplete: function(twn:FlxTween)
+				FlxTween.tween(dad, {x: 50}, 1, {ease: FlxEase.expoOut, onComplete: function(twn:FlxTween)
 					{
 					jodaflota = true;
 				}});
