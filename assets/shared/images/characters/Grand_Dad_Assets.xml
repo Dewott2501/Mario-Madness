@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Grand_Dad_Assets_v2a.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GrandDown0000" x="0" y="0" width="764" height="649"/>
+	<SubTexture name="GrandDown0001" x="788" y="0" width="764" height="649"/>
+	<SubTexture name="GrandDown0002" x="788" y="0" width="764" height="649"/>
+	<SubTexture name="GrandDown0003" x="1576" y="0" width="764" height="649"/>
+	<SubTexture name="GrandDown0004" x="1576" y="0" width="764" height="649"/>
+	<SubTexture name="GrandDown0005" x="2364" y="0" width="764" height="649"/>
+	<SubTexture name="GrandDown0006" x="2364" y="0" width="764" height="649"/>
+	<SubTexture name="GrandDown0007" x="2364" y="0" width="764" height="649"/>
+	<SubTexture name="GrandDown0008" x="2364" y="0" width="764" height="649"/>
+	<SubTexture name="GrandDown0009" x="2364" y="0" width="764" height="649"/>
+	<SubTexture name="GrandIdle0000" x="3152" y="0" width="393" height="519"/>
+	<SubTexture name="GrandIdle0001" x="3152" y="0" width="393" height="519"/>
+	<SubTexture name="GrandIdle0002" x="3569" y="0" width="393" height="519"/>
+	<SubTexture name="GrandIdle0003" x="3569" y="0" width="393" height="519"/>
+	<SubTexture name="GrandIdle0004" x="3569" y="0" width="393" height="519"/>
+	<SubTexture name="GrandIdle0005" x="0" y="673" width="393" height="519"/>
+	<SubTexture name="GrandIdle0006" x="0" y="673" width="393" height="519"/>
+	<SubTexture name="GrandIdle0007" x="0" y="673" width="393" height="519"/>
+	<SubTexture name="GrandIdle0008" x="417" y="673" width="393" height="519"/>
+	<SubTexture name="GrandIdle0009" x="417" y="673" width="393" height="519"/>
+	<SubTexture name="GrandIdle0010" x="417" y="673" width="393" height="519"/>
+	<SubTexture name="GrandIdle0011" x="834" y="673" width="393" height="519"/>
+	<SubTexture name="GrandIdle0012" x="834" y="673" width="393" height="519"/>
+	<SubTexture name="GrandIdle0013" x="834" y="673" width="393" height="519"/>
+	<SubTexture name="GrandLeft0000" x="1251" y="673" width="409" height="524"/>
+	<SubTexture name="GrandLeft0001" x="1684" y="673" width="409" height="524"/>
+	<SubTexture name="GrandLeft0002" x="1684" y="673" width="409" height="524"/>
+	<SubTexture name="GrandLeft0003" x="2117" y="673" width="409" height="524"/>
+	<SubTexture name="GrandLeft0004" x="2117" y="673" width="409" height="524"/>
+	<SubTexture name="GrandLeft0005" x="2550" y="673" width="409" height="524"/>
+	<SubTexture name="GrandLeft0006" x="2550" y="673" width="409" height="524"/>
+	<SubTexture name="GrandLeft0007" x="2550" y="673" width="409" height="524"/>
+	<SubTexture name="GrandLeft0008" x="2550" y="673" width="409" height="524"/>
+	<SubTexture name="GrandLeft0009" x="2550" y="673" width="409" height="524"/>
+	<SubTexture name="GrandRight0000" x="2983" y="673" width="528" height="527"/>
+	<SubTexture name="GrandRight0001" x="3535" y="673" width="528" height="527"/>
+	<SubTexture name="GrandRight0002" x="3535" y="673" width="528" height="527"/>
+	<SubTexture name="GrandRight0003" x="0" y="1224" width="528" height="527"/>
+	<SubTexture name="GrandRight0004" x="0" y="1224" width="528" height="527"/>
+	<SubTexture name="GrandRight0005" x="552" y="1224" width="528" height="527"/>
+	<SubTexture name="GrandRight0006" x="552" y="1224" width="528" height="527"/>
+	<SubTexture name="GrandRight0007" x="552" y="1224" width="528" height="527"/>
+	<SubTexture name="GrandRight0008" x="552" y="1224" width="528" height="527"/>
+	<SubTexture name="GrandRight0009" x="552" y="1224" width="528" height="527"/>
+	<SubTexture name="GrandUp0000" x="1104" y="1224" width="478" height="564"/>
+	<SubTexture name="GrandUp0001" x="1606" y="1224" width="478" height="564"/>
+	<SubTexture name="GrandUp0002" x="1606" y="1224" width="478" height="564"/>
+	<SubTexture name="GrandUp0003" x="2108" y="1224" width="478" height="564"/>
+	<SubTexture name="GrandUp0004" x="2108" y="1224" width="478" height="564"/>
+	<SubTexture name="GrandUp0005" x="2610" y="1224" width="478" height="564"/>
+	<SubTexture name="GrandUp0006" x="2610" y="1224" width="478" height="564"/>
+	<SubTexture name="GrandUp0007" x="2610" y="1224" width="478" height="564"/>
+	<SubTexture name="GrandUp0008" x="2610" y="1224" width="478" height="564"/>
+	<SubTexture name="GrandUp0009" x="2610" y="1224" width="478" height="564"/>
+</TextureAtlas>

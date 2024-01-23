@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CrystalTap_Note.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crystal tap notes0000" x="5" y="5" width="180" height="155"/>
+	<SubTexture name="crystal tap notes0001" x="5" y="5" width="180" height="155"/>
+	<SubTexture name="crystal tap notes0002" x="195" y="5" width="146" height="155" frameX="-17" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0003" x="195" y="5" width="146" height="155" frameX="-17" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0004" x="351" y="5" width="168" height="155" frameX="-6" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0005" x="351" y="5" width="168" height="155" frameX="-6" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0006" x="529" y="5" width="160" height="155" frameX="-10" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0007" x="529" y="5" width="160" height="155" frameX="-10" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0008" x="699" y="5" width="144" height="155" frameX="-18" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0009" x="699" y="5" width="144" height="155" frameX="-18" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0010" x="5" y="170" width="180" height="155"/>
+	<SubTexture name="crystal tap notes0011" x="5" y="170" width="180" height="155"/>
+	<SubTexture name="crystal tap notes0012" x="195" y="170" width="146" height="155" frameX="-17" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0013" x="195" y="170" width="146" height="155" frameX="-17" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0014" x="351" y="170" width="168" height="155" frameX="-6" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0015" x="351" y="170" width="168" height="155" frameX="-6" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0016" x="529" y="170" width="160" height="155" frameX="-10" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0017" x="529" y="170" width="160" height="155" frameX="-10" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0018" x="699" y="170" width="144" height="155" frameX="-18" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes0019" x="699" y="170" width="144" height="155" frameX="-18" frameY="0" frameWidth="180" frameHeight="155"/>
+	<SubTexture name="crystal tap notes 3d0000" x="5" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0001" x="5" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0002" x="188" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0003" x="188" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0004" x="371" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0005" x="371" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0006" x="554" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0007" x="554" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0008" x="737" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0009" x="737" y="335" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0010" x="5" y="494" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0011" x="5" y="494" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0012" x="188" y="494" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0013" x="188" y="494" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0014" x="371" y="494" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0015" x="371" y="494" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0016" x="554" y="494" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0017" x="554" y="494" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0018" x="737" y="494" width="173" height="149"/>
+	<SubTexture name="crystal tap notes 3d0019" x="737" y="494" width="173" height="149"/>
+</TextureAtlas>

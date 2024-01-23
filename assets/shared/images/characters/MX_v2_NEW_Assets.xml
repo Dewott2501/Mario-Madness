@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX_v2_NEW_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MXDown instancia 10000" x="6251" y="3119" width="1416" height="1202" pivotX="15.5" pivotY="22.05" frameX="0" frameY="0" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXDown instancia 10001" x="6251" y="4331" width="1418" height="1191" frameX="-4" frameY="-11" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXDown instancia 10002" x="6251" y="4331" width="1418" height="1191" frameX="-4" frameY="-11" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXDown instancia 10003" x="3078" y="5338" width="1408" height="1179" frameX="-11" frameY="-23" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXDown instancia 10004" x="3078" y="5338" width="1408" height="1179" frameX="-11" frameY="-23" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXDown instancia 10005" x="3078" y="5338" width="1408" height="1179" frameX="-11" frameY="-23" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXDown instancia 10006" x="3078" y="6527" width="1393" height="1172" frameX="-15" frameY="-30" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXDown instancia 10007" x="3078" y="6527" width="1393" height="1172" frameX="-15" frameY="-30" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXDown instancia 10008" x="3078" y="6527" width="1393" height="1172" frameX="-15" frameY="-30" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXDown instancia 10009" x="3078" y="6527" width="1393" height="1172" frameX="-15" frameY="-30" frameWidth="1422" frameHeight="1202"/>
+	<SubTexture name="MXIdle instancia 10000" x="1831" y="6360" width="1237" height="1468" pivotX="25.95" pivotY="1.15" frameX="0" frameY="-19" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10001" x="2619" y="2263" width="1225" height="1467" frameX="-14" frameY="-20" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10002" x="2619" y="2263" width="1225" height="1467" frameX="-14" frameY="-20" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10003" x="5037" y="3848" width="1204" height="1471" frameX="-30" frameY="-16" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10004" x="5037" y="3848" width="1204" height="1471" frameX="-30" frameY="-16" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10005" x="3828" y="3848" width="1199" height="1480" frameX="-31" frameY="-7" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10006" x="3828" y="3848" width="1199" height="1480" frameX="-31" frameY="-7" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10007" x="3828" y="3848" width="1199" height="1480" frameX="-31" frameY="-7" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10008" x="2619" y="3740" width="1199" height="1487" frameX="-29" frameY="0" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10009" x="2619" y="3740" width="1199" height="1487" frameX="-29" frameY="0" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10010" x="2619" y="3740" width="1199" height="1487" frameX="-29" frameY="0" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10011" x="3854" y="2352" width="1201" height="1486" frameX="-26" frameY="-1" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10012" x="3854" y="2352" width="1201" height="1486" frameX="-26" frameY="-1" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXIdle instancia 10013" x="3854" y="2352" width="1201" height="1486" frameX="-26" frameY="-1" frameWidth="1239" frameHeight="1487"/>
+	<SubTexture name="MXLeft instancia 10000" x="2972" y="0" width="1203" height="1911" pivotX="144.85" pivotY="28" frameX="0" frameY="0" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXLeft instancia 10001" x="6120" y="0" width="1176" height="1898" frameX="-33" frameY="-13" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXLeft instancia 10002" x="6120" y="0" width="1176" height="1898" frameX="-33" frameY="-13" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXLeft instancia 10003" x="1433" y="4461" width="1098" height="1889" frameX="-133" frameY="-22" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXLeft instancia 10004" x="1433" y="4461" width="1098" height="1889" frameX="-133" frameY="-22" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXLeft instancia 10005" x="1433" y="4461" width="1098" height="1889" frameX="-133" frameY="-22" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXLeft instancia 10006" x="1520" y="2272" width="1089" height="1883" frameX="-145" frameY="-28" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXLeft instancia 10007" x="1520" y="2272" width="1089" height="1883" frameX="-145" frameY="-28" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXLeft instancia 10008" x="1520" y="2272" width="1089" height="1883" frameX="-145" frameY="-28" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXLeft instancia 10009" x="1520" y="2272" width="1089" height="1883" frameX="-145" frameY="-28" frameWidth="1234" frameHeight="1911"/>
+	<SubTexture name="MXRight instancia 10000" x="4185" y="0" width="1925" height="1171" pivotX="0" pivotY="0" frameX="-4" frameY="-42" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXRight instancia 10001" x="4185" y="1181" width="1922" height="1161" frameX="-4" frameY="-52" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXRight instancia 10002" x="4185" y="1181" width="1922" height="1161" frameX="-4" frameY="-52" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXRight instancia 10003" x="6117" y="1908" width="1832" height="1201" frameX="0" frameY="-12" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXRight instancia 10004" x="6117" y="1908" width="1832" height="1201" frameX="0" frameY="-12" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXRight instancia 10005" x="6117" y="1908" width="1832" height="1201" frameX="0" frameY="-12" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXRight instancia 10006" x="0" y="6664" width="1821" height="1213" frameX="0" frameY="0" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXRight instancia 10007" x="0" y="6664" width="1821" height="1213" frameX="0" frameY="0" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXRight instancia 10008" x="0" y="6664" width="1821" height="1213" frameX="0" frameY="0" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXRight instancia 10009" x="0" y="6664" width="1821" height="1213" frameX="0" frameY="0" frameWidth="1929" frameHeight="1213"/>
+	<SubTexture name="MXUp instancia 10000" x="0" y="0" width="1514" height="2262" pivotX="41.9" pivotY="62.3" frameX="0" frameY="0" frameWidth="1535" frameHeight="2262"/>
+	<SubTexture name="MXUp instancia 10001" x="1524" y="0" width="1438" height="2253" frameX="-57" frameY="-9" frameWidth="1535" frameHeight="2262"/>
+	<SubTexture name="MXUp instancia 10002" x="1524" y="0" width="1438" height="2253" frameX="-57" frameY="-9" frameWidth="1535" frameHeight="2262"/>
+	<SubTexture name="MXUp instancia 10003" x="0" y="4461" width="1423" height="2193" frameX="-78" frameY="-69" frameWidth="1535" frameHeight="2262"/>
+	<SubTexture name="MXUp instancia 10004" x="0" y="4461" width="1423" height="2193" frameX="-78" frameY="-69" frameWidth="1535" frameHeight="2262"/>
+	<SubTexture name="MXUp instancia 10005" x="0" y="4461" width="1423" height="2193" frameX="-78" frameY="-69" frameWidth="1535" frameHeight="2262"/>
+	<SubTexture name="MXUp instancia 10006" x="0" y="2272" width="1510" height="2179" frameX="-25" frameY="-83" frameWidth="1535" frameHeight="2262"/>
+	<SubTexture name="MXUp instancia 10007" x="0" y="2272" width="1510" height="2179" frameX="-25" frameY="-83" frameWidth="1535" frameHeight="2262"/>
+	<SubTexture name="MXUp instancia 10008" x="0" y="2272" width="1510" height="2179" frameX="-25" frameY="-83" frameWidth="1535" frameHeight="2262"/>
+	<SubTexture name="MXUp instancia 10009" x="0" y="2272" width="1510" height="2179" frameX="-25" frameY="-83" frameWidth="1535" frameHeight="2262"/>
+</TextureAtlas>

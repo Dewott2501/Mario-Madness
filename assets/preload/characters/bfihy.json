@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-23
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				89
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				52
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				32
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				87
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				23
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				220,
+				90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "spin",
+			"indices": [],
+			"name": "Spin"
+		},
+		{
+			"offsets": [
+				40,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "prejump",
+			"indices": [],
+			"name": "PreJump"
+		},
+		{
+			"offsets": [
+				297,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Attack"
+		},
+		{
+			"offsets": [
+				55,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Yeah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MM_IHY_Boyfriend_AssetsFINAL",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "bfworld",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

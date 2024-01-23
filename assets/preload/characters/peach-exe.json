@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PeachIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				248,
+				-270
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PeachDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				433,
+				-210
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PeachLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				256
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PeachUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PeachRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Peach_EXE_Assets_New",
+	"position": [
+		-10,
+		-320
+	],
+	"healthicon": "peachex",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		52,
+		84
+	],
+	"camera_position": [
+		-320,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

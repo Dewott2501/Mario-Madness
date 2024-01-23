@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Act_4_FINALE_Lightingmcqueen.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="line0000" x="0" y="0" width="773" height="860" pivotX="31.95" pivotY="-22.05"/>
+	<SubTexture name="line0001" x="783" y="0" width="773" height="860"/>
+	<SubTexture name="line0002" x="0" y="870" width="758" height="860" frameX="-15" frameY="0" frameWidth="773" frameHeight="860"/>
+</TextureAtlas>

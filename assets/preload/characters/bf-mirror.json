@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				31
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				24,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISSRIGHT"
+		},
+		{
+			"offsets": [
+				-15,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISSDOWN"
+		},
+		{
+			"offsets": [
+				32,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISSUP"
+		},
+		{
+			"offsets": [
+				-27,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISSLEFT"
+		},
+		{
+			"offsets": [
+				20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "COOLRIGHT"
+		},
+		{
+			"offsets": [
+				11,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "COOLDOWN"
+		},
+		{
+			"offsets": [
+				32,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "COOLUP"
+		},
+		{
+			"offsets": [
+				-21,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-36,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "COOLLEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				78
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				108
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "HIT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MM_Boyfriend_Assets_CAUSAPE",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

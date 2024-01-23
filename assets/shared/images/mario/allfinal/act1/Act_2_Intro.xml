@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Act_2_Intro.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Anim10000" x="0" y="0" width="543" height="525" pivotX="-327.4" pivotY="-98.15"/>
+	<SubTexture name="Anim10001" x="553" y="0" width="543" height="525"/>
+	<SubTexture name="Anim10002" x="1106" y="0" width="543" height="525"/>
+	<SubTexture name="Anim10003" x="1659" y="0" width="543" height="525"/>
+	<SubTexture name="Anim10004" x="2212" y="0" width="543" height="525"/>
+	<SubTexture name="Anim10005" x="2765" y="0" width="543" height="525"/>
+	<SubTexture name="Anim10006" x="3318" y="0" width="543" height="525"/>
+	<SubTexture name="Anim10007" x="0" y="535" width="543" height="525"/>
+	<SubTexture name="Anim10008" x="553" y="535" width="543" height="525"/>
+	<SubTexture name="Anim10009" x="1106" y="535" width="543" height="525"/>
+	<SubTexture name="Anim10010" x="1659" y="535" width="543" height="525"/>
+	<SubTexture name="Anim10011" x="2212" y="535" width="543" height="525"/>
+	<SubTexture name="Anim10012" x="2765" y="535" width="543" height="525"/>
+	<SubTexture name="Anim10013" x="3318" y="535" width="543" height="525"/>
+	<SubTexture name="Anim10014" x="0" y="1070" width="543" height="525"/>
+	<SubTexture name="Anim10015" x="553" y="1070" width="543" height="525"/>
+	<SubTexture name="Anim10016" x="1106" y="1070" width="543" height="525"/>
+	<SubTexture name="Anim10017" x="1659" y="1070" width="543" height="525"/>
+	<SubTexture name="Anim10018" x="2212" y="1070" width="543" height="525"/>
+	<SubTexture name="Anim10019" x="2765" y="1070" width="543" height="525"/>
+	<SubTexture name="Anim10020" x="3318" y="1070" width="543" height="525"/>
+	<SubTexture name="Anim10021" x="0" y="1605" width="543" height="525"/>
+	<SubTexture name="Anim10022" x="553" y="1605" width="543" height="525"/>
+	<SubTexture name="Anim10023" x="1106" y="1605" width="543" height="525"/>
+	<SubTexture name="Anim10024" x="1659" y="1605" width="543" height="525"/>
+	<SubTexture name="Anim10025" x="2212" y="1605" width="543" height="525"/>
+	<SubTexture name="EyesBG0000" x="2765" y="1605" width="1169" height="510" pivotX="0" pivotY="3.15"/>
+	<SubTexture name="EyesBG0001" x="0" y="2140" width="1169" height="510"/>
+	<SubTexture name="EyesBG0002" x="1179" y="2140" width="1169" height="510"/>
+	<SubTexture name="EyesBG0003" x="1179" y="2140" width="1169" height="510"/>
+	<SubTexture name="EyesBG0004" x="2358" y="2140" width="1169" height="510"/>
+	<SubTexture name="EyesBG0005" x="2358" y="2140" width="1169" height="510"/>
+	<SubTexture name="EyesBG0006" x="0" y="2660" width="1169" height="510"/>
+	<SubTexture name="EyesBG0007" x="0" y="2660" width="1169" height="510"/>
+	<SubTexture name="EyesBG0008" x="1179" y="2660" width="1169" height="510"/>
+	<SubTexture name="EyesBG0009" x="1179" y="2660" width="1169" height="510"/>
+	<SubTexture name="EyesBG0010" x="2358" y="2660" width="1169" height="510"/>
+	<SubTexture name="EyesBG0011" x="2358" y="2660" width="1169" height="510"/>
+	<SubTexture name="EyesBG0012" x="2358" y="2660" width="1169" height="510"/>
+	<SubTexture name="EyesBG0013" x="0" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0014" x="0" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0015" x="0" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0016" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0017" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0018" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0019" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0020" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0021" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0022" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0023" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0024" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0025" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0026" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0027" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0028" x="1179" y="3180" width="1169" height="510"/>
+	<SubTexture name="EyesBG0029" x="1179" y="3180" width="1169" height="510"/>
+</TextureAtlas>

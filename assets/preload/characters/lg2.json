@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LG Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LG Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-151,
+				-31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LG Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-42
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LG Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				74
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LG Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LG_Sprites",
+	"position": [
+		-90,
+		80
+	],
+	"healthicon": "LG",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		78,
+		55
+	],
+	"camera_position": [
+		-30,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

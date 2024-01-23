@@ -111,7 +111,7 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				17,
 				191
@@ -134,7 +134,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BoyFriend_Beta_Assets_v1",
+	"image": "characters/old/BoyFriend_Beta_Assets_v1",
 	"position": [
 		0,
 		350

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GXIdle"
+		},
+		{
+			"offsets": [
+				45,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GXDown"
+		},
+		{
+			"offsets": [
+				140,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GXLeft"
+		},
+		{
+			"offsets": [
+				137,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GXUp"
+		},
+		{
+			"offsets": [
+				-158,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GXRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GX_Sprites_FINAL",
+	"position": [
+		-390,
+		-320
+	],
+	"healthicon": "gx",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		33,
+		48
+	],
+	"camera_position": [
+		-150,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

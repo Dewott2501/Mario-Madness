@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="badmario.png">
+<SubTexture name="badmario up0000" x="368" y="226" width="27" height="44" frameX="-36" frameY="-17" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario up0001" x="178" y="96" width="27" height="43" frameX="-36" frameY="-18" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario up0002" x="151" y="117" width="27" height="43" frameX="-36" frameY="-18" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario up0003" x="434" y="0" width="29" height="38" frameX="-36" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario down0000" x="463" y="396" width="31" height="33" frameX="-34" frameY="-28" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario down0001" x="463" y="328" width="31" height="34" frameX="-34" frameY="-27" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario down0002" x="463" y="362" width="31" height="34" frameX="-34" frameY="-27" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario down0003" x="463" y="185" width="29" height="36" frameX="-35" frameY="-25" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario right0000" x="340" y="407" width="35" height="37" frameX="-35" frameY="-24" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario right0001" x="375" y="407" width="33" height="37" frameX="-36" frameY="-24" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario right0002" x="408" y="407" width="33" height="37" frameX="-36" frameY="-24" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario right0003" x="0" y="407" width="31" height="38" frameX="-36" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario left0000" x="247" y="323" width="47" height="41" frameX="-19" frameY="-20" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario left0001" x="294" y="323" width="45" height="41" frameX="-20" frameY="-20" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario left0002" x="0" y="367" width="45" height="40" frameX="-20" frameY="-21" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario left0003" x="45" y="367" width="45" height="40" frameX="-19" frameY="-21" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario left0004" x="31" y="407" width="43" height="38" frameX="-21" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario left0005" x="74" y="407" width="43" height="38" frameX="-21" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario left0006" x="117" y="407" width="42" height="38" frameX="-22" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario shell kick0000" x="159" y="407" width="37" height="38" frameX="-37" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario shell kick0001" x="463" y="0" width="40" height="37" frameX="-35" frameY="-24" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario shell kick0002" x="76" y="445" width="39" height="30" frameX="-37" frameY="-31" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario shell kick0003" x="178" y="139" width="37" height="31" frameX="-38" frameY="-30" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario shell kick0004" x="334" y="273" width="34" height="40" frameX="-38" frameY="-21" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario shell kick0005" x="196" y="407" width="36" height="38" frameX="-37" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario shell kick0006" x="434" y="38" width="26" height="38" frameX="-37" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario lets0000" x="58" y="273" width="65" height="47" frameX="-1" frameY="-14" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario a0000" x="123" y="273" width="65" height="47" frameX="-1" frameY="-14" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario go0000" x="188" y="273" width="65" height="47" frameX="-1" frameY="-14" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario die0000" x="434" y="76" width="25" height="38" frameX="-38" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario die0001" x="434" y="114" width="26" height="38" frameX="-38" frameY="-23" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario die0002" x="232" y="407" width="36" height="38" frameX="-34" frameY="-21" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario die0003" x="285" y="367" width="38" height="39" frameX="-33" frameY="-20" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario die0004" x="434" y="380" width="26" height="26" frameX="-39" frameY="-30" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario die0005" x="407" y="64" width="21" height="22" frameX="-41" frameY="-33" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario die0006" x="407" y="86" width="21" height="19" frameX="-41" frameY="-34" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario die0007" x="407" y="105" width="20" height="18" frameX="-42" frameY="-34" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario die0008" x="0" y="0" width="93" height="62" frameX="0" frameY="0" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario Acephalous0000" x="93" y="0" width="85" height="60" frameX="-7" frameY="-1" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario FALL0000" x="377" y="323" width="26" height="39" frameX="-36" frameY="-22" frameWidth="83" frameHeight="52" />
+<SubTexture name="badmario jump0000" x="227" y="170" width="26" height="41" frameX="-36" frameY="-20" frameWidth="83" frameHeight="52" />
+<SubTexture name="walking0000" x="434" y="152" width="25" height="38" frameX="-16" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="walking0001" x="434" y="190" width="26" height="38" frameX="-16" frameY="-10" frameWidth="52" frameHeight="48" />
+<SubTexture name="walking0002" x="434" y="152" width="25" height="38" frameX="-16" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="walking0003" x="463" y="37" width="26" height="37" frameX="-16" frameY="-10" frameWidth="52" frameHeight="48" />
+<SubTexture name="skid0000" x="323" y="367" width="26" height="39" frameX="-14" frameY="-10" frameWidth="52" frameHeight="48" />
+<SubTexture name="running0000" x="434" y="228" width="28" height="38" frameX="-14" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="running0001" x="434" y="266" width="28" height="38" frameX="-14" frameY="-10" frameWidth="52" frameHeight="48" />
+<SubTexture name="running0002" x="434" y="228" width="28" height="38" frameX="-14" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="running0003" x="463" y="74" width="28" height="37" frameX="-14" frameY="-10" frameWidth="52" frameHeight="48" />
+<SubTexture name="run jump0000" x="463" y="221" width="29" height="36" frameX="-16" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0000" x="368" y="270" width="37" height="44" frameX="-4" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0001" x="128" y="323" width="40" height="43" frameX="-4" frameY="-12" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0002" x="115" y="445" width="42" height="30" frameX="-4" frameY="-25" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0003" x="0" y="445" width="40" height="31" frameX="-4" frameY="-24" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0004" x="157" y="445" width="39" height="30" frameX="-4" frameY="-25" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0005" x="196" y="445" width="40" height="30" frameX="-4" frameY="-25" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0006" x="90" y="367" width="39" height="40" frameX="-4" frameY="-15" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0007" x="178" y="0" width="38" height="52" frameX="-4" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0008" x="216" y="0" width="39" height="52" frameX="-4" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0009" x="0" y="117" width="38" height="53" frameX="-4" frameY="-2" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0010" x="38" y="117" width="37" height="53" frameX="-4" frameY="-2" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0011" x="75" y="117" width="38" height="53" frameX="-4" frameY="-2" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0012" x="113" y="117" width="38" height="53" frameX="-4" frameY="-2" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0013" x="216" y="52" width="38" height="52" frameX="-4" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0014" x="255" y="52" width="37" height="51" frameX="-4" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0015" x="255" y="103" width="38" height="51" frameX="-4" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0016" x="311" y="102" width="39" height="50" frameX="-4" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0017" x="339" y="323" width="38" height="41" frameX="-4" frameY="-14" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0018" x="129" y="367" width="36" height="40" frameX="-4" frameY="-15" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0019" x="165" y="367" width="39" height="40" frameX="-4" frameY="-15" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0020" x="293" y="273" width="41" height="46" frameX="-4" frameY="-9" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0021" x="0" y="323" width="39" height="44" frameX="-4" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0022" x="0" y="323" width="39" height="44" frameX="-4" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0023" x="0" y="323" width="39" height="44" frameX="-4" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="YAHOO0024" x="0" y="323" width="39" height="44" frameX="-4" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0000" x="368" y="46" width="35" height="45" frameX="-6" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0001" x="368" y="91" width="39" height="45" frameX="-6" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0002" x="204" y="323" width="43" height="42" frameX="-6" frameY="-14" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0003" x="39" y="323" width="43" height="44" frameX="-6" frameY="-12" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0004" x="368" y="91" width="39" height="45" frameX="-6" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0005" x="216" y="104" width="31" height="49" frameX="-6" frameY="-7" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0006" x="82" y="323" width="46" height="44" frameX="-6" frameY="-12" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0007" x="368" y="136" width="31" height="45" frameX="-6" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0008" x="368" y="0" width="39" height="46" frameX="-6" frameY="-10" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0009" x="178" y="52" width="34" height="44" frameX="-6" frameY="-12" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0010" x="204" y="367" width="47" height="40" frameX="-6" frameY="-16" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0011" x="463" y="293" width="35" height="35" frameX="-6" frameY="-21" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0012" x="253" y="273" width="40" height="47" frameX="-6" frameY="-9" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0013" x="168" y="323" width="36" height="43" frameX="-6" frameY="-13" frameWidth="52" frameHeight="48" />
+<SubTexture name="silllyspins0014" x="368" y="181" width="36" height="45" frameX="-6" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="imjackingoff0000" x="349" y="367" width="33" height="39" frameX="-16" frameY="-11" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0000" x="311" y="152" width="56" height="50" frameX="-6" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0001" x="311" y="202" width="57" height="50" frameX="-5" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0002" x="0" y="273" width="58" height="50" frameX="-4" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0003" x="311" y="202" width="57" height="50" frameX="-5" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0004" x="311" y="152" width="56" height="50" frameX="-6" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0005" x="311" y="202" width="57" height="50" frameX="-5" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0006" x="0" y="273" width="58" height="50" frameX="-4" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0007" x="311" y="202" width="57" height="50" frameX="-5" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0008" x="311" y="152" width="56" height="50" frameX="-6" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0009" x="311" y="202" width="57" height="50" frameX="-5" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0010" x="0" y="273" width="58" height="50" frameX="-4" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0011" x="311" y="202" width="57" height="50" frameX="-5" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0012" x="311" y="152" width="56" height="50" frameX="-6" frameY="-5" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0013" x="255" y="154" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0014" x="0" y="222" width="61" height="51" frameX="-1" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0015" x="61" y="222" width="62" height="51" frameX="0" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0016" x="0" y="222" width="61" height="51" frameX="-1" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0017" x="123" y="222" width="62" height="51" frameX="0" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0018" x="0" y="222" width="61" height="51" frameX="-1" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0019" x="61" y="222" width="62" height="51" frameX="0" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0020" x="0" y="222" width="61" height="51" frameX="-1" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0021" x="123" y="222" width="62" height="51" frameX="0" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0022" x="0" y="170" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0023" x="56" y="170" width="57" height="52" frameX="-5" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0024" x="113" y="170" width="58" height="52" frameX="-4" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0025" x="56" y="170" width="57" height="52" frameX="-5" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0026" x="0" y="170" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0027" x="171" y="170" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0028" x="255" y="0" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0029" x="171" y="170" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0030" x="0" y="170" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0031" x="56" y="170" width="57" height="52" frameX="-5" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0032" x="113" y="170" width="58" height="52" frameX="-4" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0033" x="56" y="170" width="57" height="52" frameX="-5" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0034" x="0" y="170" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0035" x="171" y="170" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0036" x="255" y="0" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0037" x="171" y="170" width="56" height="52" frameX="-6" frameY="-3" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0038" x="185" y="222" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0039" x="0" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0040" x="58" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0041" x="0" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0042" x="116" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0043" x="0" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0044" x="58" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0045" x="0" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0046" x="116" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0047" x="0" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0048" x="58" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0049" x="0" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0050" x="116" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0051" x="0" y="62" width="58" height="55" frameX="-4" frameY="0" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0052" x="241" y="222" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0053" x="255" y="154" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0054" x="185" y="222" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0055" x="311" y="0" width="57" height="51" frameX="-5" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0056" x="311" y="51" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0057" x="185" y="222" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0058" x="241" y="222" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0059" x="255" y="154" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0060" x="185" y="222" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0061" x="311" y="0" width="57" height="51" frameX="-5" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0062" x="311" y="51" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0063" x="185" y="222" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0064" x="241" y="222" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0065" x="255" y="154" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0066" x="185" y="222" width="56" height="51" frameX="-6" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="jig0067" x="311" y="0" width="57" height="51" frameX="-5" frameY="-4" frameWidth="52" frameHeight="48" />
+<SubTexture name="idle0000" x="463" y="257" width="31" height="36" frameX="0" frameY="-4" frameWidth="30" frameHeight="30" />
+<SubTexture name="idle0001" x="463" y="111" width="30" height="37" frameX="0" frameY="-3" frameWidth="30" frameHeight="30" />
+<SubTexture name="idle0002" x="434" y="304" width="29" height="38" frameX="-1" frameY="-2" frameWidth="30" frameHeight="30" />
+<SubTexture name="idle0003" x="407" y="0" width="27" height="39" frameX="-2" frameY="-1" frameWidth="30" frameHeight="30" />
+<SubTexture name="idle0004" x="434" y="304" width="29" height="38" frameX="-1" frameY="-2" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario poison kick0000" x="268" y="407" width="36" height="38" frameX="-3" frameY="-2" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario poison kick0001" x="463" y="148" width="39" height="37" frameX="-1" frameY="-3" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario poison kick0002" x="236" y="445" width="37" height="30" frameX="-2" frameY="-10" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario poison kick0003" x="40" y="445" width="36" height="31" frameX="-3" frameY="-9" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario poison kick0004" x="251" y="367" width="34" height="40" frameX="-4" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario poison kick0005" x="304" y="407" width="36" height="38" frameX="-3" frameY="-2" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario poison kick0006" x="434" y="342" width="26" height="38" frameX="-3" frameY="-2" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario scared as fuck0000" x="407" y="39" width="26" height="25" frameX="-7" frameY="-15" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario scared as fuck0001" x="407" y="39" width="26" height="25" frameX="-8" frameY="-15" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario scared as fuck0002" x="407" y="39" width="26" height="25" frameX="-7" frameY="-15" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario scared as fuck0003" x="407" y="39" width="26" height="25" frameX="-8" frameY="-15" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario scared as fuck0004" x="407" y="39" width="26" height="25" frameX="-7" frameY="-15" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario scared as fuck0005" x="407" y="39" width="26" height="25" frameX="-8" frameY="-15" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario scared as fuck0006" x="407" y="39" width="26" height="25" frameX="-7" frameY="-15" frameWidth="30" frameHeight="30" />
+<SubTexture name="badmario scared as fuck0007" x="407" y="39" width="26" height="25" frameX="-8" frameY="-15" frameWidth="30" frameHeight="30" />
+</TextureAtlas>

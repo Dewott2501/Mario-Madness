@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Turmoil_stand.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Toungue10000" x="5" y="5" width="377" height="396" frameX="-56" frameY="0" frameWidth="433" frameHeight="396"/>
+	<SubTexture name="Toungue10001" x="392" y="5" width="416" height="385" frameX="-1" frameY="-11" frameWidth="433" frameHeight="396"/>
+	<SubTexture name="Toungue10002" x="392" y="5" width="416" height="385" frameX="-1" frameY="-11" frameWidth="433" frameHeight="396"/>
+	<SubTexture name="Toungue10003" x="818" y="5" width="416" height="382" frameX="0" frameY="-14" frameWidth="433" frameHeight="396"/>
+	<SubTexture name="Toungue10004" x="818" y="5" width="416" height="382" frameX="0" frameY="-14" frameWidth="433" frameHeight="396"/>
+	<SubTexture name="Toungue10005" x="1244" y="5" width="406" height="390" frameX="-27" frameY="-6" frameWidth="433" frameHeight="396"/>
+	<SubTexture name="Toungue20000" x="1660" y="5" width="1297" height="440" frameX="-63" frameY="-78" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20001" x="5" y="455" width="1691" height="440" frameX="-89" frameY="-78" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20002" x="5" y="455" width="1691" height="440" frameX="-89" frameY="-78" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20003" x="1706" y="455" width="1634" height="439" frameX="-76" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20004" x="1706" y="455" width="1634" height="439" frameX="-76" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20005" x="1706" y="455" width="1634" height="439" frameX="-76" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20006" x="5" y="905" width="1612" height="439" frameX="-70" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20007" x="5" y="905" width="1612" height="439" frameX="-70" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20008" x="5" y="905" width="1612" height="439" frameX="-70" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20009" x="5" y="905" width="1612" height="439" frameX="-70" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20010" x="1627" y="905" width="1538" height="439" frameX="-59" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20011" x="1627" y="905" width="1538" height="439" frameX="-59" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20012" x="1627" y="905" width="1538" height="439" frameX="-59" frameY="-79" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20013" x="5" y="1354" width="1314" height="433" frameX="0" frameY="-85" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20014" x="5" y="1354" width="1314" height="433" frameX="0" frameY="-85" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20015" x="5" y="1354" width="1314" height="433" frameX="0" frameY="-85" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20016" x="1329" y="1354" width="356" height="514" frameX="-111" frameY="-14" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20017" x="1329" y="1354" width="356" height="514" frameX="-111" frameY="-14" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20018" x="1329" y="1354" width="356" height="514" frameX="-111" frameY="-14" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20019" x="1695" y="1354" width="310" height="527" frameX="-132" frameY="-1" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20020" x="1695" y="1354" width="310" height="527" frameX="-132" frameY="-1" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20021" x="2015" y="1354" width="307" height="528" frameX="-134" frameY="0" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="Toungue20022" x="2015" y="1354" width="307" height="528" frameX="-134" frameY="0" frameWidth="1780" frameHeight="528"/>
+	<SubTexture name="turmoil down0000" x="2332" y="1354" width="573" height="400" frameX="-8" frameY="-10" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0001" x="2915" y="1354" width="575" height="406" frameX="-5" frameY="-4" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0002" x="2915" y="1354" width="575" height="406" frameX="-5" frameY="-4" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0003" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0004" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0005" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0006" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0007" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0008" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0009" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0010" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0011" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0012" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0013" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil down0014" x="3500" y="1354" width="580" height="411" frameX="0" frameY="0" frameWidth="581" frameHeight="411"/>
+	<SubTexture name="turmoil idle0000" x="5" y="1892" width="322" height="523" frameX="-3" frameY="-9" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0001" x="337" y="1892" width="327" height="523" frameX="0" frameY="-9" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0002" x="337" y="1892" width="327" height="523" frameX="0" frameY="-9" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0003" x="674" y="1892" width="323" height="526" frameX="-3" frameY="-6" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0004" x="674" y="1892" width="323" height="526" frameX="-3" frameY="-6" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0005" x="1007" y="1892" width="316" height="530" frameX="-6" frameY="-2" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0006" x="1007" y="1892" width="316" height="530" frameX="-6" frameY="-2" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0007" x="1333" y="1892" width="311" height="532" frameX="-11" frameY="0" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0008" x="1333" y="1892" width="311" height="532" frameX="-11" frameY="0" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0009" x="1654" y="1892" width="308" height="532" frameX="-14" frameY="0" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0010" x="1654" y="1892" width="308" height="532" frameX="-14" frameY="0" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0011" x="1654" y="1892" width="308" height="532" frameX="-14" frameY="0" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0012" x="1654" y="1892" width="308" height="532" frameX="-14" frameY="0" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0013" x="1654" y="1892" width="308" height="532" frameX="-14" frameY="0" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil idle0014" x="1654" y="1892" width="308" height="532" frameX="-14" frameY="0" frameWidth="327" frameHeight="532"/>
+	<SubTexture name="turmoil left0000" x="1972" y="1892" width="539" height="508"/>
+	<SubTexture name="turmoil left0001" x="2521" y="1892" width="529" height="505" frameX="-10" frameY="-3" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0002" x="2521" y="1892" width="529" height="505" frameX="-10" frameY="-3" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0003" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0004" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0005" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0006" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0007" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0008" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0009" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0010" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0011" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0012" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0013" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil left0014" x="3060" y="1892" width="513" height="504" frameX="-24" frameY="-4" frameWidth="539" frameHeight="508"/>
+	<SubTexture name="turmoil right0000" x="3583" y="1892" width="478" height="518" frameX="0" frameY="-1" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0001" x="5" y="2434" width="478" height="519"/>
+	<SubTexture name="turmoil right0002" x="5" y="2434" width="478" height="519"/>
+	<SubTexture name="turmoil right0003" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0004" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0005" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0006" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0007" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0008" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0009" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0010" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0011" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0012" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0013" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil right0014" x="493" y="2434" width="473" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="519"/>
+	<SubTexture name="turmoil up0000" x="976" y="2434" width="444" height="631" frameX="-16" frameY="0" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0001" x="1430" y="2434" width="457" height="627" frameX="-9" frameY="-4" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0002" x="1430" y="2434" width="457" height="627" frameX="-9" frameY="-4" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0003" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0004" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0005" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0006" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0007" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0008" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0009" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0010" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0011" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0012" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0013" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+	<SubTexture name="turmoil up0014" x="1897" y="2434" width="481" height="614" frameX="0" frameY="-17" frameWidth="481" frameHeight="631"/>
+</TextureAtlas>

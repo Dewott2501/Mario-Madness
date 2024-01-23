@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DJ_Hallyboo_Assetsa.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HallyDown0000" x="0" y="0" width="310" height="352"/>
+	<SubTexture name="HallyDown0001" x="320" y="0" width="310" height="352"/>
+	<SubTexture name="HallyDown0002" x="320" y="0" width="310" height="352"/>
+	<SubTexture name="HallyDown0003" x="640" y="0" width="310" height="352"/>
+	<SubTexture name="HallyDown0004" x="640" y="0" width="310" height="352"/>
+	<SubTexture name="HallyDown0005" x="640" y="0" width="310" height="352"/>
+	<SubTexture name="HallyDown0006" x="960" y="0" width="310" height="352"/>
+	<SubTexture name="HallyDown0007" x="960" y="0" width="310" height="352"/>
+	<SubTexture name="HallyDown0008" x="960" y="0" width="310" height="352"/>
+	<SubTexture name="HallyDown0009" x="960" y="0" width="310" height="352"/>
+	<SubTexture name="HallyIdle0000" x="1280" y="0" width="318" height="352"/>
+	<SubTexture name="HallyIdle0001" x="1280" y="0" width="318" height="352"/>
+	<SubTexture name="HallyIdle0002" x="1608" y="0" width="318" height="352"/>
+	<SubTexture name="HallyIdle0003" x="1608" y="0" width="318" height="352"/>
+	<SubTexture name="HallyIdle0004" x="0" y="362" width="318" height="352"/>
+	<SubTexture name="HallyIdle0005" x="0" y="362" width="318" height="352"/>
+	<SubTexture name="HallyIdle0006" x="0" y="362" width="318" height="352"/>
+	<SubTexture name="HallyIdle0007" x="328" y="362" width="318" height="352"/>
+	<SubTexture name="HallyIdle0008" x="328" y="362" width="318" height="352"/>
+	<SubTexture name="HallyIdle0009" x="328" y="362" width="318" height="352"/>
+	<SubTexture name="HallyIdle0010" x="656" y="362" width="318" height="352"/>
+	<SubTexture name="HallyIdle0011" x="656" y="362" width="318" height="352"/>
+	<SubTexture name="HallyIdle0012" x="656" y="362" width="318" height="352"/>
+	<SubTexture name="HallyLeft0000" x="984" y="362" width="311" height="326"/>
+	<SubTexture name="HallyLeft0001" x="1305" y="362" width="311" height="326"/>
+	<SubTexture name="HallyLeft0002" x="1305" y="362" width="311" height="326"/>
+	<SubTexture name="HallyLeft0003" x="1626" y="362" width="311" height="326"/>
+	<SubTexture name="HallyLeft0004" x="1626" y="362" width="311" height="326"/>
+	<SubTexture name="HallyLeft0005" x="1626" y="362" width="311" height="326"/>
+	<SubTexture name="HallyLeft0006" x="0" y="724" width="311" height="326"/>
+	<SubTexture name="HallyLeft0007" x="0" y="724" width="311" height="326"/>
+	<SubTexture name="HallyLeft0008" x="0" y="724" width="311" height="326"/>
+	<SubTexture name="HallyLeft0009" x="0" y="724" width="311" height="326"/>
+	<SubTexture name="HallyRight0000" x="321" y="724" width="341" height="360"/>
+	<SubTexture name="HallyRight0001" x="672" y="724" width="341" height="360"/>
+	<SubTexture name="HallyRight0002" x="672" y="724" width="341" height="360"/>
+	<SubTexture name="HallyRight0003" x="1023" y="724" width="341" height="360"/>
+	<SubTexture name="HallyRight0004" x="1023" y="724" width="341" height="360"/>
+	<SubTexture name="HallyRight0005" x="1023" y="724" width="341" height="360"/>
+	<SubTexture name="HallyRight0006" x="1374" y="724" width="341" height="360"/>
+	<SubTexture name="HallyRight0007" x="1374" y="724" width="341" height="360"/>
+	<SubTexture name="HallyRight0008" x="1374" y="724" width="341" height="360"/>
+	<SubTexture name="HallyRight0009" x="1374" y="724" width="341" height="360"/>
+	<SubTexture name="HallyUp0000" x="0" y="1094" width="404" height="422"/>
+	<SubTexture name="HallyUp0001" x="414" y="1094" width="404" height="422"/>
+	<SubTexture name="HallyUp0002" x="414" y="1094" width="404" height="422"/>
+	<SubTexture name="HallyUp0003" x="828" y="1094" width="404" height="422"/>
+	<SubTexture name="HallyUp0004" x="828" y="1094" width="404" height="422"/>
+	<SubTexture name="HallyUp0005" x="828" y="1094" width="404" height="422"/>
+	<SubTexture name="HallyUp0006" x="1242" y="1094" width="404" height="422"/>
+	<SubTexture name="HallyUp0007" x="1242" y="1094" width="404" height="422"/>
+	<SubTexture name="HallyUp0008" x="1242" y="1094" width="404" height="422"/>
+	<SubTexture name="HallyUp0009" x="1242" y="1094" width="404" height="422"/>
+</TextureAtlas>

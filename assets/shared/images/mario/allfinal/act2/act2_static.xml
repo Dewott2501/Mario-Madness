@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="act2_static.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="act2stat0000" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="act2stat0001" x="1295" y="5" width="1280" height="720"/>
+	<SubTexture name="act2stat0002" x="2585" y="5" width="1280" height="720"/>
+	<SubTexture name="act2stat0003" x="5" y="735" width="1280" height="720"/>
+</TextureAtlas>

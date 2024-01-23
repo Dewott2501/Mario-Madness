@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-236
+			],
+			"anim": "idle-legs",
+			"fps": 40,
+			"name": "Bottom",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-155
+			],
+			"anim": "idle-arm",
+			"fps": 24,
+			"name": "BF Right Arm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "UpperLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "UpperDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpperUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "UpperRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 0,
+			"name": "BF Running",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Demise_BF_Assets",
+	"position": [
+		-30,
+		230
+	],
+	"healthicon": "bfdemise",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-140,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

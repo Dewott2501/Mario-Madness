@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="clouds illusion.png"><SubTexture name="idle0000" x="0" y="0" width="226" height="163" frameX="0" frameY="0" frameWidth="226" frameHeight="163" />
+<SubTexture name="idle0001" x="226" y="0" width="226" height="163" frameX="0" frameY="0" frameWidth="226" frameHeight="163" />
+<SubTexture name="idle0002" x="0" y="163" width="226" height="163" frameX="0" frameY="0" frameWidth="226" frameHeight="163" />
+<SubTexture name="idle0003" x="226" y="163" width="226" height="163" frameX="0" frameY="0" frameWidth="226" frameHeight="163" />
+<SubTexture name="idle0004" x="0" y="163" width="226" height="163" frameX="0" frameY="0" frameWidth="226" frameHeight="163" />
+<SubTexture name="idle0005" x="226" y="0" width="226" height="163" frameX="0" frameY="0" frameWidth="226" frameHeight="163" />
+</TextureAtlas>

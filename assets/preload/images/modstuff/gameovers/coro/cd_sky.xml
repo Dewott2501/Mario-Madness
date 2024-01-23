@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cd_sky.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky0000" x="5" y="5" width="1293" height="739"/>
+	<SubTexture name="sky0001" x="5" y="5" width="1293" height="739"/>
+	<SubTexture name="sky0002" x="5" y="5" width="1293" height="739"/>
+	<SubTexture name="sky0003" x="1308" y="5" width="1293" height="739"/>
+	<SubTexture name="sky0004" x="1308" y="5" width="1293" height="739"/>
+	<SubTexture name="sky0005" x="1308" y="5" width="1293" height="739"/>
+	<SubTexture name="sky0006" x="2611" y="5" width="1293" height="739"/>
+	<SubTexture name="sky0007" x="2611" y="5" width="1293" height="739"/>
+	<SubTexture name="sky0008" x="2611" y="5" width="1293" height="739"/>
+	<SubTexture name="sky0009" x="5" y="754" width="1293" height="739"/>
+	<SubTexture name="sky0010" x="5" y="754" width="1293" height="739"/>
+	<SubTexture name="sky0011" x="5" y="754" width="1293" height="739"/>
+</TextureAtlas>

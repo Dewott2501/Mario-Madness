@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFIdle"
+		},
+		{
+			"offsets": [
+				15,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFLeft0"
+		},
+		{
+			"offsets": [
+				-32,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFUp0"
+		},
+		{
+			"offsets": [
+				-58,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFRight0"
+		},
+		{
+			"offsets": [
+				-9,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFDown0"
+		},
+		{
+			"offsets": [
+				15,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BFLeftMiss"
+		},
+		{
+			"offsets": [
+				-7,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BFDownMiss"
+		},
+		{
+			"offsets": [
+				-31,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BFUpMiss"
+		},
+		{
+			"offsets": [
+				-55,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BFRightMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MM_Boyfriend_Alone_Assetsa",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "bfghost",
+	"flip_x": true,
+	"healthbar_colors": [
+		32,
+		223,
+		254
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

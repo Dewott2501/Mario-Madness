@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JumpscareMushroom_a_a_folou.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HongoPiola0000" x="0" y="0" width="158" height="202" pivotX="0" pivotY="0"/>
+	<SubTexture name="HongoPiola0001" x="0" y="0" width="158" height="202"/>
+	<SubTexture name="HongoPiola0002" x="163" y="0" width="158" height="202"/>
+	<SubTexture name="HongoPiola0003" x="163" y="0" width="158" height="202"/>
+	<SubTexture name="HongoPiola0004" x="326" y="0" width="158" height="202"/>
+	<SubTexture name="HongoPiola0005" x="326" y="0" width="158" height="202"/>
+</TextureAtlas>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ultra_M1_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ultra M down instance 10000" x="3162" y="3064" width="1331" height="1393" frameX="0" frameY="-3" frameWidth="1537" frameHeight="1398"/>
+	<SubTexture name="Ultra M down instance 10001" x="5950" y="2936" width="1309" height="1396" frameX="-13" frameY="0" frameWidth="1537" frameHeight="1398"/>
+	<SubTexture name="Ultra M down instance 10002" x="5950" y="2936" width="1309" height="1396" frameX="-13" frameY="0" frameWidth="1537" frameHeight="1398"/>
+	<SubTexture name="Ultra M down instance 10003" x="3162" y="4467" width="1217" height="1394" frameX="-102" frameY="-3" frameWidth="1537" frameHeight="1398"/>
+	<SubTexture name="Ultra M down instance 10004" x="3162" y="4467" width="1217" height="1394" frameX="-102" frameY="-3" frameWidth="1537" frameHeight="1398"/>
+	<SubTexture name="Ultra M down instance 10005" x="5824" y="1553" width="1372" height="1373" frameX="-165" frameY="-25" frameWidth="1537" frameHeight="1398"/>
+	<SubTexture name="Ultra M down instance 10006" x="4568" y="2936" width="1372" height="1373" frameX="-165" frameY="-25" frameWidth="1537" frameHeight="1398"/>
+	<SubTexture name="Ultra M idle instance 10000" x="5377" y="5826" width="938" height="1572" frameX="-72" frameY="-16" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10001" x="6325" y="5918" width="921" height="1579" frameX="-89" frameY="-9" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10002" x="6325" y="5918" width="921" height="1579" frameX="-89" frameY="-9" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10003" x="7256" y="5918" width="898" height="1587" frameX="-106" frameY="-1" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10004" x="7256" y="5918" width="898" height="1587" frameX="-106" frameY="-1" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10005" x="7272" y="3169" width="895" height="1588" frameX="-98" frameY="0" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10006" x="7272" y="3169" width="895" height="1588" frameX="-98" frameY="0" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10007" x="7269" y="1574" width="898" height="1585" frameX="-74" frameY="-3" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10008" x="7269" y="1574" width="898" height="1585" frameX="-74" frameY="-3" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10009" x="6325" y="4342" width="937" height="1566" frameX="-49" frameY="-22" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10010" x="6325" y="4342" width="937" height="1566" frameX="-49" frameY="-22" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10011" x="2738" y="5871" width="982" height="1538" frameX="-11" frameY="-50" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10012" x="2738" y="5871" width="982" height="1538" frameX="-11" frameY="-50" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10013" x="1735" y="5134" width="993" height="1548" frameX="0" frameY="-40" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10014" x="1735" y="5134" width="993" height="1548" frameX="0" frameY="-40" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10015" x="4389" y="5826" width="978" height="1559" frameX="-12" frameY="-29" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10016" x="4389" y="5826" width="978" height="1559" frameX="-12" frameY="-29" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10017" x="7206" y="5" width="971" height="1559" frameX="-19" frameY="-29" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M idle instance 10018" x="7206" y="5" width="971" height="1559" frameX="-19" frameY="-29" frameWidth="1010" frameHeight="1588"/>
+	<SubTexture name="Ultra M left instance 10000" x="4562" y="5" width="1252" height="1554" frameX="-61" frameY="0" frameWidth="1383" frameHeight="1560"/>
+	<SubTexture name="Ultra M left instance 10001" x="5824" y="5" width="1227" height="1538" frameX="-49" frameY="-16" frameWidth="1383" frameHeight="1560"/>
+	<SubTexture name="Ultra M left instance 10002" x="5824" y="5" width="1227" height="1538" frameX="-49" frameY="-16" frameWidth="1383" frameHeight="1560"/>
+	<SubTexture name="Ultra M left instance 10003" x="4503" y="4319" width="1204" height="1497" frameX="-48" frameY="-59" frameWidth="1383" frameHeight="1560"/>
+	<SubTexture name="Ultra M left instance 10004" x="4503" y="4319" width="1204" height="1497" frameX="-48" frameY="-59" frameWidth="1383" frameHeight="1560"/>
+	<SubTexture name="Ultra M left instance 10005" x="3169" y="5" width="1383" height="1432" frameX="0" frameY="-128" frameWidth="1383" frameHeight="1560"/>
+	<SubTexture name="Ultra M left instance 10006" x="3169" y="5" width="1383" height="1432" frameX="0" frameY="-128" frameWidth="1383" frameHeight="1560"/>
+	<SubTexture name="Ultra M right instance 10000" x="2729" y="1665" width="1829" height="1389" frameX="0" frameY="-259" frameWidth="1829" frameHeight="1650"/>
+	<SubTexture name="Ultra M right instance 10001" x="1344" y="3702" width="1808" height="1422" frameX="-9" frameY="-227" frameWidth="1829" frameHeight="1650"/>
+	<SubTexture name="Ultra M right instance 10002" x="1344" y="3702" width="1808" height="1422" frameX="-9" frameY="-227" frameWidth="1829" frameHeight="1650"/>
+	<SubTexture name="Ultra M right instance 10003" x="5" y="5604" width="1720" height="1514" frameX="-41" frameY="-135" frameWidth="1829" frameHeight="1650"/>
+	<SubTexture name="Ultra M right instance 10004" x="5" y="5604" width="1720" height="1514" frameX="-41" frameY="-135" frameWidth="1829" frameHeight="1650"/>
+	<SubTexture name="Ultra M right instance 10005" x="1595" y="5" width="1564" height="1650" frameX="-92" frameY="0" frameWidth="1829" frameHeight="1650"/>
+	<SubTexture name="Ultra M right instance 10006" x="1595" y="5" width="1564" height="1650" frameX="-92" frameY="0" frameWidth="1829" frameHeight="1650"/>
+	<SubTexture name="Ultra M up instance 10000" x="1415" y="1706" width="1304" height="1986" frameX="-132" frameY="0" frameWidth="1580" frameHeight="1987"/>
+	<SubTexture name="Ultra M up instance 10001" x="5" y="3613" width="1329" height="1981" frameX="-126" frameY="-5" frameWidth="1580" frameHeight="1987"/>
+	<SubTexture name="Ultra M up instance 10002" x="5" y="3613" width="1329" height="1981" frameX="-126" frameY="-5" frameWidth="1580" frameHeight="1987"/>
+	<SubTexture name="Ultra M up instance 10003" x="5" y="1706" width="1400" height="1897" frameX="-90" frameY="-88" frameWidth="1580" frameHeight="1987"/>
+	<SubTexture name="Ultra M up instance 10004" x="5" y="1706" width="1400" height="1897" frameX="-90" frameY="-88" frameWidth="1580" frameHeight="1987"/>
+	<SubTexture name="Ultra M up instance 10005" x="5" y="5" width="1580" height="1691" frameX="0" frameY="-296" frameWidth="1580" frameHeight="1987"/>
+	<SubTexture name="Ultra M up instance 10006" x="5" y="5" width="1580" height="1691" frameX="0" frameY="-296" frameWidth="1580" frameHeight="1987"/>
+</TextureAtlas>

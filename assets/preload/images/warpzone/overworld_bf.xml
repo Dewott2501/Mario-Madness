@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="overworld bf.png"><SubTexture name="overworld bf walk down0000" x="0" y="0" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk down0001" x="25" y="0" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk down0002" x="50" y="0" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk down0003" x="0" y="30" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk up0000" x="25" y="30" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk up0001" x="50" y="30" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk up0002" x="75" y="0" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk up0003" x="75" y="30" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk left0000" x="0" y="60" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk left0001" x="25" y="60" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk left0002" x="50" y="60" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk left0003" x="75" y="60" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk right0000" x="100" y="0" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk right0001" x="100" y="30" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk right0002" x="100" y="60" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf walk right0003" x="0" y="90" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf level start0000" x="25" y="90" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim down0000" x="50" y="90" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim down0001" x="75" y="90" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim down0002" x="100" y="90" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim down0003" x="125" y="0" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim up0000" x="125" y="30" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim up0001" x="125" y="60" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim up0002" x="125" y="90" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim up0003" x="0" y="120" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim left0000" x="25" y="120" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim left0001" x="50" y="120" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim left0002" x="75" y="120" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim left0003" x="100" y="120" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim right0000" x="125" y="120" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim right0001" x="150" y="0" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim right0002" x="150" y="30" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf swim right0003" x="150" y="0" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf enter level swim0000" x="150" y="60" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf climb0000" x="150" y="90" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf climb0001" x="150" y="120" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf DEAD0000" x="175" y="0" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf NAKED0000" x="175" y="30" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+<SubTexture name="overworld bf gp was here0000" x="175" y="60" width="25" height="30" frameX="0" frameY="0" frameWidth="25" frameHeight="30" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GrandIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GrandDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GrandLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				136
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GrandUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GrandRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Grand_Dad_Assets",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "gdad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		143,
+		126
+	],
+	"camera_position": [
+		-30,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

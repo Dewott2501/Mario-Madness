@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				316
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				225,
+				344
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				290
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				293
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				507
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				317
+			],
+			"anim": "eyestart",
+			"fps": 24,
+			"name": "Green Eye Start",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				41,
+				307
+			],
+			"anim": "eyeloop",
+			"fps": 24,
+			"name": "Green Eye Loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEW_Wario_Apparition_Assets",
+	"position": [
+		160,
+		350
+	],
+	"healthicon": "wario2",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		198,
+		78
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="luigiSelect.png"><SubTexture name="luigiSelect 00000" x="0" y="0" width="328" height="63" frameX="0" frameY="0" frameWidth="328" frameHeight="63" />
+<SubTexture name="luigiSelect 00001" x="328" y="0" width="328" height="63" frameX="0" frameY="0" frameWidth="328" frameHeight="63" />
+<SubTexture name="luigiSelect 10000" x="0" y="63" width="328" height="63" frameX="0" frameY="0" frameWidth="328" frameHeight="63" />
+<SubTexture name="luigiSelect 10001" x="328" y="63" width="328" height="63" frameX="0" frameY="0" frameWidth="328" frameHeight="63" />
+<SubTexture name="luigiSelect 20000" x="0" y="126" width="328" height="63" frameX="0" frameY="0" frameWidth="328" frameHeight="63" />
+<SubTexture name="luigiSelect 20001" x="328" y="126" width="328" height="63" frameX="0" frameY="0" frameWidth="328" frameHeight="63" />
+</TextureAtlas>

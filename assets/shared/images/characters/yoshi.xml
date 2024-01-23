@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yoshi.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="YOSHI UP0000" x="0" y="0" width="486" height="622" frameX="-6" frameY="0" frameWidth="499" frameHeight="622"/>
+	<SubTexture name="YOSHI UP0001" x="486" y="0" width="482" height="622" frameX="-10" frameY="0" frameWidth="499" frameHeight="622"/>
+	<SubTexture name="YOSHI UP0002" x="968" y="0" width="496" height="598" frameX="-1" frameY="-24" frameWidth="499" frameHeight="622"/>
+	<SubTexture name="YOSHI UP0003" x="968" y="0" width="496" height="598" frameX="-1" frameY="-24" frameWidth="499" frameHeight="622"/>
+	<SubTexture name="YOSHI UP0004" x="1464" y="0" width="496" height="589" frameX="-3" frameY="-33" frameWidth="499" frameHeight="622"/>
+	<SubTexture name="YOSHI UP0005" x="1960" y="0" width="498" height="589" frameX="0" frameY="-33" frameWidth="499" frameHeight="622"/>
+	<SubTexture name="YOSHI UP0006" x="2458" y="0" width="488" height="594" frameX="-7" frameY="-28" frameWidth="499" frameHeight="622"/>
+	<SubTexture name="YOSHI UP0007" x="2946" y="0" width="490" height="594" frameX="-4" frameY="-28" frameWidth="499" frameHeight="622"/>
+	<SubTexture name="yoshi down0000" x="3436" y="0" width="485" height="450" frameX="0" frameY="-17" frameWidth="485" frameHeight="467"/>
+	<SubTexture name="yoshi down0001" x="3436" y="0" width="485" height="450" frameX="0" frameY="-17" frameWidth="485" frameHeight="467"/>
+	<SubTexture name="yoshi down0002" x="0" y="622" width="459" height="462" frameX="-21" frameY="-4" frameWidth="485" frameHeight="467"/>
+	<SubTexture name="yoshi down0003" x="459" y="622" width="459" height="462" frameX="-21" frameY="-4" frameWidth="485" frameHeight="467"/>
+	<SubTexture name="yoshi down0004" x="918" y="622" width="456" height="465" frameX="-23" frameY="0" frameWidth="485" frameHeight="467"/>
+	<SubTexture name="yoshi down0005" x="1374" y="622" width="456" height="465" frameX="-23" frameY="0" frameWidth="485" frameHeight="467"/>
+	<SubTexture name="yoshi down0006" x="1830" y="622" width="457" height="463" frameX="-22" frameY="-2" frameWidth="485" frameHeight="467"/>
+	<SubTexture name="yoshi down0007" x="1830" y="622" width="457" height="463" frameX="-22" frameY="-2" frameWidth="485" frameHeight="467"/>
+	<SubTexture name="yoshi idle0000" x="2287" y="622" width="466" height="549" frameX="-1" frameY="-6" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi idle0001" x="2287" y="622" width="466" height="549" frameX="-1" frameY="-6" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi idle0002" x="2753" y="622" width="465" height="544" frameX="0" frameY="-11" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi idle0003" x="3218" y="622" width="465" height="544" frameX="0" frameY="-11" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi idle0004" x="0" y="1171" width="464" height="551" frameX="0" frameY="-1" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi idle0005" x="464" y="1171" width="464" height="551" frameX="0" frameY="-1" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi idle0006" x="928" y="1171" width="461" height="552" frameX="-2" frameY="0" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi idle0007" x="928" y="1171" width="461" height="552" frameX="-2" frameY="0" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi idle0008" x="1389" y="1171" width="461" height="552" frameX="-2" frameY="0" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi idle0009" x="1850" y="1171" width="461" height="552" frameX="-2" frameY="0" frameWidth="467" frameHeight="555"/>
+	<SubTexture name="yoshi left0000" x="2311" y="1171" width="500" height="543" frameX="0" frameY="0" frameWidth="518" frameHeight="543"/>
+	<SubTexture name="yoshi left0001" x="2811" y="1171" width="500" height="543" frameX="0" frameY="0" frameWidth="518" frameHeight="543"/>
+	<SubTexture name="yoshi left0002" x="3311" y="1171" width="506" height="531" frameX="-6" frameY="-12" frameWidth="518" frameHeight="543"/>
+	<SubTexture name="yoshi left0003" x="0" y="1723" width="508" height="531" frameX="-6" frameY="-12" frameWidth="518" frameHeight="543"/>
+	<SubTexture name="yoshi left0004" x="508" y="1723" width="509" height="530" frameX="-9" frameY="-13" frameWidth="518" frameHeight="543"/>
+	<SubTexture name="yoshi left0005" x="1017" y="1723" width="509" height="530" frameX="-9" frameY="-13" frameWidth="518" frameHeight="543"/>
+	<SubTexture name="yoshi left0006" x="1526" y="1723" width="509" height="525" frameX="-6" frameY="-18" frameWidth="518" frameHeight="543"/>
+	<SubTexture name="yoshi left0007" x="2035" y="1723" width="511" height="525" frameX="-6" frameY="-18" frameWidth="518" frameHeight="543"/>
+	<SubTexture name="yoshi right0000" x="2546" y="1723" width="382" height="594" frameX="-24" frameY="0" frameWidth="406" frameHeight="594"/>
+	<SubTexture name="yoshi right0001" x="2928" y="1723" width="382" height="594" frameX="-24" frameY="0" frameWidth="406" frameHeight="594"/>
+	<SubTexture name="yoshi right0002" x="3310" y="1723" width="386" height="573" frameX="-4" frameY="-21" frameWidth="406" frameHeight="594"/>
+	<SubTexture name="yoshi right0003" x="3696" y="1723" width="386" height="573" frameX="-4" frameY="-21" frameWidth="406" frameHeight="594"/>
+	<SubTexture name="yoshi right0004" x="0" y="2317" width="385" height="568" frameX="0" frameY="-26" frameWidth="406" frameHeight="594"/>
+	<SubTexture name="yoshi right0005" x="385" y="2317" width="385" height="568" frameX="0" frameY="-26" frameWidth="406" frameHeight="594"/>
+	<SubTexture name="yoshi right0006" x="770" y="2317" width="385" height="567" frameX="-5" frameY="-27" frameWidth="406" frameHeight="594"/>
+	<SubTexture name="yoshi right0007" x="1155" y="2317" width="385" height="567" frameX="-5" frameY="-27" frameWidth="406" frameHeight="594"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				116
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				116
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BFDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				116
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				116
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BFUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				116
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BFRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				116
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BFMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				116
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BFMissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				116
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BFMissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				116
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BFMissRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DJ_Hallyboo_BF_Assetsa",
+	"position": [
+		-80,
+		230
+	],
+	"healthicon": "bfhally",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		42,
+		127
+	],
+	"camera_position": [
+		-70,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

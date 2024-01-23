@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				290,
+				252
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Pico Game Over Loop"
+		},
+		{
+			"offsets": [
+				290,
+				252
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Pico Game Over Confirm"
+		},
+		{
+			"offsets": [
+				1500,
+				300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Pico Game Over Anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Too_Late_Pico_GameOver",
+	"position": [
+		-1800,
+		-350
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -144,7 +144,7 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				37,
 				5

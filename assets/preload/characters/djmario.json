@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-64,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "HallyIdle"
+		},
+		{
+			"offsets": [
+				-120,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "HallyDown"
+		},
+		{
+			"offsets": [
+				-93,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "HallyLeft"
+		},
+		{
+			"offsets": [
+				-13,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HallyUp"
+		},
+		{
+			"offsets": [
+				-35,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "HallyRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DJ_Hallyboo_Assetsa",
+	"position": [
+		-80,
+		330
+	],
+	"healthicon": "hally",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		85,
+		170
+	],
+	"camera_position": [
+		-70,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

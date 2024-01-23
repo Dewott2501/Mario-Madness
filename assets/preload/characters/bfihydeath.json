@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				117,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				117,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				117,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoyFriend_IHY_Assets_wea2",
+	"position": [
+		-420,
+		460
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		130,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

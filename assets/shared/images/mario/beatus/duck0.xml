@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="duck.png"><SubTexture name="duck up0000" x="0" y="0" width="36" height="37" frameX="0" frameY="0" frameWidth="36" frameHeight="37" />
+<SubTexture name="duck up0001" x="36" y="0" width="36" height="37" frameX="0" frameY="0" frameWidth="36" frameHeight="37" />
+<SubTexture name="duck up0002" x="0" y="37" width="36" height="37" frameX="0" frameY="0" frameWidth="36" frameHeight="37" />
+<SubTexture name="duck fly0000" x="36" y="37" width="38" height="37" frameX="0" frameY="0" frameWidth="38" frameHeight="37" />
+<SubTexture name="duck fly0001" x="0" y="74" width="38" height="37" frameX="0" frameY="0" frameWidth="38" frameHeight="37" />
+<SubTexture name="duck fly0002" x="38" y="74" width="38" height="37" frameX="0" frameY="0" frameWidth="38" frameHeight="37" />
+</TextureAtlas>

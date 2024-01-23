@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfland.png"><SubTexture name="gfland idle0000" x="0" y="0" width="115" height="122" frameX="0" frameY="0" frameWidth="115" frameHeight="122" />
+<SubTexture name="gfland idle0001" x="115" y="0" width="115" height="122" frameX="0" frameY="0" frameWidth="115" frameHeight="122" />
+<SubTexture name="gfland idle0002" x="0" y="122" width="115" height="122" frameX="0" frameY="0" frameWidth="115" frameHeight="122" />
+<SubTexture name="gfland idle0003" x="115" y="122" width="115" height="122" frameX="0" frameY="0" frameWidth="115" frameHeight="122" />
+<SubTexture name="gfland idle0004" x="0" y="244" width="115" height="122" frameX="0" frameY="0" frameWidth="115" frameHeight="122" />
+<SubTexture name="gfland idle0005" x="115" y="244" width="115" height="122" frameX="0" frameY="0" frameWidth="115" frameHeight="122" />
+<SubTexture name="gfland idle0006" x="0" y="366" width="115" height="122" frameX="0" frameY="0" frameWidth="115" frameHeight="122" />
+</TextureAtlas>

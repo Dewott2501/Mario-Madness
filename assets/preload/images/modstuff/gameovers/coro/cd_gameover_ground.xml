@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cd_gameover_ground.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floor and ceiling0000" x="5" y="5" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0001" x="5" y="5" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0002" x="5" y="5" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0003" x="1329" y="5" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0004" x="1329" y="5" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0005" x="1329" y="5" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0006" x="2653" y="5" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0007" x="2653" y="5" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0008" x="2653" y="5" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0009" x="5" y="769" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0010" x="5" y="769" width="1314" height="754"/>
+	<SubTexture name="floor and ceiling0011" x="5" y="769" width="1314" height="754"/>
+</TextureAtlas>

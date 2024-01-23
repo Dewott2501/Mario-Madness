@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgstars.png"><SubTexture name="bgstars flash0000" x="0" y="0" width="694" height="63" frameX="-10" frameY="-2" frameWidth="713" frameHeight="67" />
+<SubTexture name="bgstars flash0001" x="0" y="63" width="694" height="63" frameX="-10" frameY="-2" frameWidth="713" frameHeight="67" />
+<SubTexture name="bgstars flash0002" x="0" y="126" width="686" height="63" frameX="-10" frameY="-2" frameWidth="713" frameHeight="67" />
+<SubTexture name="bgstars flash0003" x="0" y="63" width="694" height="63" frameX="-10" frameY="-2" frameWidth="713" frameHeight="67" />
+<SubTexture name="bgstars flash0004" x="0" y="189" width="694" height="63" frameX="-10" frameY="-2" frameWidth="713" frameHeight="67" />
+<SubTexture name="bgstars flash0005" x="0" y="252" width="678" height="61" frameX="-26" frameY="-4" frameWidth="713" frameHeight="67" />
+<SubTexture name="bgstars flash0006" x="0" y="189" width="694" height="63" frameX="-10" frameY="-2" frameWidth="713" frameHeight="67" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="staticbg.png"><SubTexture name="staticbg castle0000" x="0" y="0" width="650" height="367" frameX="0" frameY="0" frameWidth="650" frameHeight="367" />
+<SubTexture name="staticbg castle0001" x="650" y="0" width="650" height="367" frameX="0" frameY="0" frameWidth="650" frameHeight="367" />
+<SubTexture name="staticbg castle0002" x="0" y="367" width="650" height="367" frameX="0" frameY="0" frameWidth="650" frameHeight="367" />
+<SubTexture name="staticbg castle0003" x="650" y="367" width="650" height="367" frameX="0" frameY="0" frameWidth="650" frameHeight="367" />
+<SubTexture name="staticbg duck0000" x="0" y="734" width="650" height="367" frameX="0" frameY="0" frameWidth="650" frameHeight="367" />
+<SubTexture name="staticbg duck0001" x="650" y="734" width="650" height="367" frameX="0" frameY="0" frameWidth="650" frameHeight="367" />
+<SubTexture name="staticbg duck0002" x="0" y="1101" width="650" height="367" frameX="0" frameY="0" frameWidth="650" frameHeight="367" />
+<SubTexture name="staticbg duck0003" x="650" y="1101" width="650" height="367" frameX="0" frameY="0" frameWidth="650" frameHeight="367" />
+</TextureAtlas>

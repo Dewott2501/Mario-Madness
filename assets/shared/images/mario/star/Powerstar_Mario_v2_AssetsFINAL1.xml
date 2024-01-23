@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Powerstar_Mario_v2_AssetsFINAL1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AttackFinal0000" x="0" y="0" width="1414" height="825" pivotX="-162.4" pivotY="53.7"/>
+	<SubTexture name="AttackFinal0001" x="1424" y="0" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0002" x="1424" y="0" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0003" x="1424" y="0" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0004" x="1424" y="0" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0005" x="0" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0006" x="0" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0007" x="0" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0008" x="0" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0009" x="0" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0010" x="1424" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0011" x="1424" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0012" x="1424" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0013" x="1424" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0014" x="1424" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0015" x="1424" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0016" x="1424" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackFinal0017" x="1424" y="835" width="1414" height="825"/>
+	<SubTexture name="AttackPrev0000" x="2848" y="835" width="755" height="959" pivotX="120" pivotY="187.7"/>
+	<SubTexture name="AttackPrev0001" x="0" y="1804" width="755" height="959"/>
+	<SubTexture name="AttackPrev0002" x="765" y="1804" width="755" height="959"/>
+	<SubTexture name="AttackPrev0003" x="1530" y="1804" width="755" height="959"/>
+	<SubTexture name="AttackPrev0004" x="2295" y="1804" width="755" height="959"/>
+	<SubTexture name="AttackPrev0005" x="2295" y="1804" width="755" height="959"/>
+	<SubTexture name="AttackPrev0006" x="3060" y="1804" width="755" height="959"/>
+	<SubTexture name="AttackPrev0007" x="3060" y="1804" width="755" height="959"/>
+	<SubTexture name="AttackPrev0008" x="0" y="2773" width="755" height="959"/>
+	<SubTexture name="AttackPrev0009" x="765" y="2773" width="755" height="959"/>
+	<SubTexture name="AttackPrev0010" x="1530" y="2773" width="755" height="959"/>
+	<SubTexture name="AttackPrev0011" x="2295" y="2773" width="755" height="959"/>
+	<SubTexture name="AttackPrev0012" x="2295" y="2773" width="755" height="959"/>
+</TextureAtlas>

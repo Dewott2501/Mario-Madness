@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="miyamoto.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="miyamoto hand motion0000" x="5" y="5" width="679" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0001" x="5" y="5" width="679" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0002" x="5" y="5" width="679" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0003" x="694" y="5" width="1129" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0004" x="1833" y="5" width="1157" height="969" frameX="0" frameY="-2" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0005" x="1833" y="5" width="1157" height="969" frameX="0" frameY="-2" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0006" x="5" y="986" width="1156" height="969" frameX="0" frameY="-2" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0007" x="5" y="986" width="1156" height="969" frameX="0" frameY="-2" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0008" x="1171" y="986" width="1156" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0009" x="1171" y="986" width="1156" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0010" x="1171" y="986" width="1156" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0011" x="1171" y="986" width="1156" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto hand motion0012" x="5" y="986" width="1156" height="969" frameX="0" frameY="-2" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto still0000" x="2337" y="986" width="679" height="969"/>
+	<SubTexture name="miyamoto talking0000" x="5" y="5" width="679" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto talking0001" x="5" y="5" width="679" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto talking0002" x="5" y="5" width="679" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto talking0003" x="5" y="5" width="679" height="971" frameX="0" frameY="0" frameWidth="1157" frameHeight="971"/>
+	<SubTexture name="miyamoto talking0004" x="3026" y="986" width="679" height="969" frameX="0" frameY="-2" frameWidth="679" frameHeight="971"/>
+	<SubTexture name="miyamoto talking0005" x="3026" y="986" width="679" height="969" frameX="0" frameY="-2" frameWidth="679" frameHeight="971"/>
+	<SubTexture name="miyamoto talking0006" x="3026" y="986" width="679" height="969" frameX="0" frameY="-2" frameWidth="679" frameHeight="971"/>
+	<SubTexture name="miyamoto talking0007" x="3026" y="986" width="679" height="969" frameX="0" frameY="-2" frameWidth="679" frameHeight="971"/>
+</TextureAtlas>

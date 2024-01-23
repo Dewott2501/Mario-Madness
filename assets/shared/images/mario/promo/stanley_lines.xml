@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stanley_lines.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lines0000" x="5" y="5" width="654" height="111" frameX="0" frameY="-4" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0001" x="5" y="343" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0002" x="5" y="411" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0003" x="5" y="479" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0004" x="5" y="547" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0005" x="5" y="615" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0006" x="5" y="121" width="654" height="106" frameX="0" frameY="0" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0007" x="5" y="232" width="654" height="106" frameX="0" frameY="0" frameWidth="654" frameHeight="115"/>
+</TextureAtlas>

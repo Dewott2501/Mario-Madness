@@ -1,0 +1,202 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ldo luigi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ldo luigi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ldo luigi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ldo luigi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ldo luigi up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "ldo luigi sad idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turn",
+			"indices": [],
+			"name": "ldo luigi face mario"
+		},
+		{
+			"offsets": [
+				72,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sadr",
+			"indices": [],
+			"name": "ldo luigi sad react"
+		},
+		{
+			"offsets": [
+				70,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "notgonna",
+			"indices": [],
+			"name": "ldo luigi not gonna tell"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				2
+			],
+			"anim": "turnback",
+			"fps": 24,
+			"name": "ldo luigi face mario",
+			"indices": [
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ldo luigi miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ldo luigi miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-15
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ldo luigi miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				25
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ldo luigi miss up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				400
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "ldo luigi game over"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Luigi_LDO",
+	"position": [
+		70,
+		50
+	],
+	"healthicon": "luigi-ldo",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		187,
+		104
+	],
+	"camera_position": [
+		50,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

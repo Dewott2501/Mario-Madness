@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "goombf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "goombf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "goombf down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "goombf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "goombf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				53
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "goombf miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				14
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "goombf miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				52
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "goombf miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				46
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "goombf miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				193
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "goombf dead animation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				440,
+				170
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "goombf dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				440,
+				170
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "goombf dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "goombf dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_Goomba",
+	"position": [
+		10,
+		430
+	],
+	"healthicon": "gbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		20,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

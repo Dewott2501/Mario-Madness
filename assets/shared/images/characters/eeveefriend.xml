@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eeveefriend.png"><SubTexture name="eeveefriend idle0000" x="0" y="0" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend idle0001" x="29" y="0" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend idle0002" x="58" y="0" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend idle0003" x="0" y="32" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend one miss0000" x="29" y="32" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend one miss0001" x="58" y="32" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend two miss0000" x="87" y="0" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend two miss0001" x="87" y="32" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend three miss0000" x="0" y="64" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend three miss0001" x="29" y="64" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend four miss0000" x="58" y="64" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend four miss0001" x="87" y="64" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend die0000" x="116" y="0" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend pls0000" x="116" y="32" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+<SubTexture name="eeveefriend pls0001" x="116" y="64" width="29" height="32" frameX="0" frameY="0" frameWidth="29" frameHeight="32" />
+</TextureAtlas>

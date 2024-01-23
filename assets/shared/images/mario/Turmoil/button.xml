@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="button.png"><SubTexture name="button no press0000" x="0" y="0" width="710" height="584" frameX="0" frameY="0" frameWidth="710" frameHeight="584" />
+<SubTexture name="button press0000" x="710" y="0" width="710" height="584" frameX="0" frameY="0" frameWidth="710" frameHeight="584" />
+<SubTexture name="button press0001" x="0" y="584" width="710" height="584" frameX="0" frameY="0" frameWidth="710" frameHeight="584" />
+<SubTexture name="button press0002" x="710" y="584" width="710" height="584" frameX="0" frameY="0" frameWidth="710" frameHeight="584" />
+</TextureAtlas>

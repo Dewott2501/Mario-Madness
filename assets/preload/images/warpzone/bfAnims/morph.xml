@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="overdueoverworldmorph.png">
+<SubTexture name="overdueoverworldmorph pico" x="36" y="38" width="15" height="18" frameX="-7" frameY="-4" frameWidth="28" frameHeight="25" />
+<SubTexture name="overdueoverworldmorph morph0000" x="19" y="38" width="17" height="18" frameX="-6" frameY="-4" frameWidth="28" frameHeight="25" />
+<SubTexture name="overdueoverworldmorph morph0001" x="0" y="38" width="19" height="18" frameX="-5" frameY="-4" frameWidth="28" frameHeight="25" />
+<SubTexture name="overdueoverworldmorph morph0002" x="52" y="18" width="21" height="18" frameX="-4" frameY="-4" frameWidth="28" frameHeight="25" />
+<SubTexture name="overdueoverworldmorph morph0003" x="52" y="0" width="23" height="18" frameX="-3" frameY="-4" frameWidth="28" frameHeight="25" />
+<SubTexture name="overdueoverworldmorph morph0004" x="21" y="19" width="23" height="19" frameX="-2" frameY="-3" frameWidth="28" frameHeight="25" />
+<SubTexture name="overdueoverworldmorph morph0005" x="0" y="19" width="21" height="19" frameX="-3" frameY="-3" frameWidth="28" frameHeight="25" />
+<SubTexture name="overdueoverworldmorph morph0006" x="33" y="0" width="19" height="19" frameX="-4" frameY="-3" frameWidth="28" frameHeight="25" />
+<SubTexture name="overdueoverworldmorph morph0007" x="16" y="0" width="17" height="19" frameX="-5" frameY="-3" frameWidth="28" frameHeight="25" />
+<SubTexture name="overdueoverworldmorph morph0008" x="0" y="0" width="16" height="19" frameX="-5" frameY="-3" frameWidth="28" frameHeight="25" />
+</TextureAtlas>

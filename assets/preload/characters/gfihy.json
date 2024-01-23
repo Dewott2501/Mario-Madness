@@ -82,10 +82,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Girlfriend_IHY",
+	"image": "characters/old/Mario_Girlfriend_IHY_assets_v2_FREDDY_FAZBEAR",
 	"position": [
-		0,
-		0
+		180,
+		110
 	],
 	"healthicon": "gf",
 	"flip_x": false,

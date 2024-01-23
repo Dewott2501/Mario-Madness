@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon.png"><SubTexture name="icon win0000" x="0" y="0" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+<SubTexture name="icon lose0000" x="0" y="154" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+</TextureAtlas>

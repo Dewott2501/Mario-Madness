@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				4,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-28,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-46,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				37
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				40
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				94
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				59
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				30
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "SCAREDIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				32
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SCAREDLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				90
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SCAREDUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-6
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SCAREDDOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-46,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "SCAREDRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				52
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "MISSSCAREDLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				123
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "MISSSCAREDUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				61
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "MISSSCAREDRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				0
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "MISSSCAREDDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MRV_Boyfriend_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfv",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

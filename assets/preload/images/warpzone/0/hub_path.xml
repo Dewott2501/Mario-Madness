@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hub path.png"><SubTexture name="hub path stars0000" x="0" y="0" width="176" height="20" frameX="-54" frameY="-103" frameWidth="256" frameHeight="249" />
+<SubTexture name="hub path stars0001" x="0" y="20" width="176" height="20" frameX="-54" frameY="-103" frameWidth="256" frameHeight="249" />
+<SubTexture name="hub path stars0002" x="0" y="40" width="176" height="20" frameX="-54" frameY="-103" frameWidth="256" frameHeight="249" />
+<SubTexture name="hub path stars0003" x="0" y="40" width="176" height="20" frameX="-54" frameY="-103" frameWidth="256" frameHeight="249" />
+<SubTexture name="hub path stars0004" x="0" y="20" width="176" height="20" frameX="-54" frameY="-103" frameWidth="256" frameHeight="249" />
+<SubTexture name="hub path stars0005" x="0" y="60" width="176" height="20" frameX="-54" frameY="-103" frameWidth="256" frameHeight="249" />
+<SubTexture name="hub path stars0006" x="0" y="80" width="176" height="20" frameX="-54" frameY="-103" frameWidth="256" frameHeight="249" />
+<SubTexture name="hub path stars0007" x="0" y="60" width="176" height="20" frameX="-54" frameY="-103" frameWidth="256" frameHeight="249" />
+</TextureAtlas>

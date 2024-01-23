@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Overdue_Final_BG_floorfixed.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Floor0000" x="0" y="0" width="4168" height="811" pivotX="-5.3" pivotY="-1557.45"/>
+	<SubTexture name="Floor0001" x="0" y="821" width="4168" height="811"/>
+	<SubTexture name="Floor0002" x="0" y="1642" width="4168" height="811"/>
+	<SubTexture name="Floor0003" x="0" y="2463" width="4168" height="811"/>
+	<SubTexture name="Floor0004" x="0" y="3284" width="4168" height="811"/>
+	<SubTexture name="Floor0005" x="0" y="4105" width="4168" height="811"/>
+	<SubTexture name="Floor0006" x="0" y="4926" width="4168" height="811"/>
+</TextureAtlas>

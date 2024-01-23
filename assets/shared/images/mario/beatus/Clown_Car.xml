@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Clown_Car.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clown car anim0000" x="5" y="5" width="32" height="32"/>
+	<SubTexture name="clown car anim0001" x="47" y="5" width="32" height="32"/>
+	<SubTexture name="clown car anim0002" x="89" y="5" width="32" height="32"/>
+	<SubTexture name="clown car anim0003" x="47" y="5" width="32" height="32"/>
+</TextureAtlas>

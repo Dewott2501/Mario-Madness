@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OGN_Cutscene.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LuigiAnim0000" x="0" y="0" width="953" height="902" pivotX="-357.85" pivotY="14"/>
+	<SubTexture name="LuigiAnim0001" x="0" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0002" x="0" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0003" x="963" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0004" x="1926" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0005" x="2889" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0006" x="3852" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0007" x="3852" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0008" x="4815" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0009" x="4815" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0010" x="4815" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0011" x="5778" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0012" x="6741" y="0" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0013" x="0" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0014" x="0" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0015" x="963" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0016" x="1926" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0017" x="2889" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0018" x="3852" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0019" x="3852" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0020" x="4815" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0021" x="5778" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0022" x="5778" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0023" x="6741" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0024" x="6741" y="912" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0025" x="0" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0026" x="963" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0027" x="1926" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0028" x="2889" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0029" x="3852" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0030" x="3852" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0031" x="4815" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0032" x="4815" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0033" x="4815" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0034" x="5778" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0035" x="5778" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0036" x="6741" y="1824" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0037" x="0" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0038" x="0" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0039" x="963" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0040" x="963" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0041" x="1926" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0042" x="1926" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0043" x="2889" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0044" x="2889" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0045" x="3852" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0046" x="3852" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0047" x="4815" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0048" x="4815" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0049" x="5778" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0050" x="6741" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0051" x="6741" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0052" x="6741" y="2736" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0053" x="0" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0054" x="963" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0055" x="963" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0056" x="963" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0057" x="963" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0058" x="963" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0059" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0060" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0061" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0062" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0063" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0064" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0065" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0066" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0067" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0068" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0069" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0070" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0071" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0072" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0073" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0074" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0075" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="LuigiAnim0076" x="1926" y="3648" width="953" height="902"/>
+	<SubTexture name="blood0000" x="2889" y="3648" width="853" height="568" pivotX="0" pivotY="0"/>
+</TextureAtlas>

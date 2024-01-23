@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="overworldreturnpipe.png">
+<SubTexture name="overworldreturnpipe intro0000" x="110" y="71" width="18" height="21" frameX="-1" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe intro0001" x="0" y="43" width="22" height="33" frameX="0" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe intro0002" x="22" y="43" width="22" height="33" frameX="0" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe intro0003" x="44" y="43" width="21" height="33" frameX="-1" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe intro0004" x="65" y="43" width="22" height="33" frameX="-1" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0000" x="88" y="0" width="22" height="33" frameX="-1" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0001" x="0" y="76" width="23" height="32" frameX="0" frameY="-11" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0002" x="44" y="0" width="22" height="39" frameX="-1" frameY="-4" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0003" x="0" y="0" width="22" height="43" frameX="-1" frameY="0" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0004" x="22" y="0" width="22" height="42" frameX="-1" frameY="-1" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0005" x="66" y="0" width="22" height="38" frameX="-1" frameY="-5" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0006" x="61" y="76" width="24" height="29" frameX="0" frameY="-14" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0007" x="110" y="0" width="24" height="25" frameX="0" frameY="-18" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0008" x="18" y="108" width="24" height="20" frameX="0" frameY="-23" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0009" x="110" y="25" width="19" height="24" frameX="-2" frameY="-19" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe enter0010" x="110" y="49" width="22" height="22" frameX="-1" frameY="-21" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe cancel0000" x="88" y="33" width="22" height="33" frameX="-1" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe cancel0001" x="23" y="76" width="19" height="32" frameX="-1" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe cancel0002" x="42" y="76" width="19" height="30" frameX="-1" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe cancel0003" x="85" y="76" width="19" height="29" frameX="-1" frameY="-10" frameWidth="18" frameHeight="37" />
+<SubTexture name="overworldreturnpipe cancel0004" x="0" y="108" width="18" height="21" frameX="-1" frameY="-10" frameWidth="18" frameHeight="37" />
+</TextureAtlas>

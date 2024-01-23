@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Too_Late_Pico_GameOver.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Game Over Anim0000" x="5" y="5" width="552" height="473" frameX="-1736" frameY="-668" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0001" x="562" y="5" width="548" height="479" frameX="-1739" frameY="-662" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0002" x="562" y="5" width="548" height="479" frameX="-1739" frameY="-662" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0003" x="1115" y="5" width="577" height="461" frameX="-1702" frameY="-680" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0004" x="1115" y="5" width="577" height="461" frameX="-1702" frameY="-680" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0005" x="1697" y="5" width="587" height="459" frameX="-1698" frameY="-682" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0006" x="1697" y="5" width="587" height="459" frameX="-1698" frameY="-682" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0007" x="2289" y="5" width="2285" height="944" frameX="0" frameY="-197" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0008" x="4579" y="5" width="1448" height="1001" frameX="-837" frameY="-140" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0009" x="4579" y="5" width="1448" height="1001" frameX="-837" frameY="-140" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0010" x="6032" y="5" width="1152" height="1068" frameX="-1133" frameY="-73" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0011" x="6032" y="5" width="1152" height="1068" frameX="-1133" frameY="-73" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0012" x="5" y="1078" width="1080" height="1087" frameX="-1196" frameY="-50" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0013" x="5" y="1078" width="1080" height="1087" frameX="-1196" frameY="-50" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0014" x="1090" y="1078" width="938" height="1099" frameX="-1209" frameY="-36" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0015" x="1090" y="1078" width="938" height="1099" frameX="-1209" frameY="-36" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0016" x="2033" y="1078" width="956" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0017" x="2033" y="1078" width="956" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0018" x="2994" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0019" x="2994" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0020" x="3946" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0021" x="3946" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0022" x="4898" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0023" x="4898" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0024" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0025" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0026" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0027" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0028" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0029" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0030" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0031" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0032" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0033" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0034" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0035" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0036" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0037" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0038" x="5850" y="1078" width="947" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0039" x="6802" y="1078" width="909" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0040" x="6802" y="1078" width="909" height="1102" frameX="-1209" frameY="-33" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0041" x="5" y="2185" width="871" height="1047" frameX="-1210" frameY="-88" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0042" x="5" y="2185" width="871" height="1047" frameX="-1210" frameY="-88" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0043" x="881" y="2185" width="845" height="1050" frameX="-1210" frameY="-85" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0044" x="881" y="2185" width="845" height="1050" frameX="-1210" frameY="-85" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0045" x="1731" y="2185" width="845" height="1050" frameX="-1210" frameY="-85" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0046" x="1731" y="2185" width="845" height="1050" frameX="-1210" frameY="-85" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0047" x="2581" y="2185" width="845" height="1050" frameX="-1210" frameY="-85" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0048" x="3431" y="2185" width="850" height="1054" frameX="-1210" frameY="-81" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0049" x="3431" y="2185" width="850" height="1054" frameX="-1210" frameY="-81" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0050" x="4286" y="2185" width="894" height="1054" frameX="-1210" frameY="-81" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0051" x="4286" y="2185" width="894" height="1054" frameX="-1210" frameY="-81" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0052" x="5185" y="2185" width="1193" height="1110" frameX="-1210" frameY="-25" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0053" x="5185" y="2185" width="1193" height="1110" frameX="-1210" frameY="-25" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0054" x="6383" y="2185" width="1183" height="1135" frameX="-1210" frameY="0" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0055" x="6383" y="2185" width="1183" height="1135" frameX="-1210" frameY="0" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0056" x="5" y="3325" width="1180" height="1075" frameX="-1210" frameY="-60" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0057" x="5" y="3325" width="1180" height="1075" frameX="-1210" frameY="-60" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0058" x="1190" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0059" x="1190" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0060" x="2375" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0061" x="2375" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0062" x="3560" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0063" x="3560" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0064" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0065" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0066" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0067" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0068" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0069" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0070" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0071" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0072" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0073" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0074" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0075" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Anim0076" x="4745" y="3325" width="1180" height="1087" frameX="-1210" frameY="-48" frameWidth="2403" frameHeight="1141"/>
+	<SubTexture name="Pico Game Over Confirm0000" x="5930" y="3325" width="1180" height="1087"/>
+	<SubTexture name="Pico Game Over Confirm0001" x="5" y="4417" width="1180" height="1087"/>
+	<SubTexture name="Pico Game Over Confirm0002" x="1190" y="4417" width="1180" height="1087"/>
+	<SubTexture name="Pico Game Over Confirm0003" x="2375" y="4417" width="1180" height="1087"/>
+	<SubTexture name="Pico Game Over Confirm0004" x="2375" y="4417" width="1180" height="1087"/>
+	<SubTexture name="Pico Game Over Confirm0005" x="2375" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0006" x="2375" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0007" x="2375" y="4417" width="1180" height="1087"/>
+	<SubTexture name="Pico Game Over Confirm0008" x="2375" y="4417" width="1180" height="1087"/>
+	<SubTexture name="Pico Game Over Confirm0009" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0010" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0011" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0012" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0013" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0014" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0015" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0016" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0017" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0018" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0019" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0020" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0021" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0022" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0023" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0024" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0025" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0026" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0027" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0028" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0029" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0030" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0031" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0032" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0033" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Confirm0034" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0000" x="3560" y="4417" width="1196" height="1087"/>
+	<SubTexture name="Pico Game Over Loop0001" x="4761" y="4417" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0002" x="5946" y="4417" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0003" x="5" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0004" x="1190" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0005" x="2375" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0006" x="2375" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0007" x="3560" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0008" x="3560" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0009" x="4745" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0010" x="4745" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0011" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0012" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0013" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0014" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0015" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0016" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0017" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0018" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0019" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0020" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0021" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0022" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+	<SubTexture name="Pico Game Over Loop0023" x="5930" y="5509" width="1180" height="1087" frameX="0" frameY="0" frameWidth="1196" frameHeight="1087"/>
+</TextureAtlas>

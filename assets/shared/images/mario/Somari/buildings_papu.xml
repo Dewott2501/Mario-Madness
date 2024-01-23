@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="buildings papu.png"><SubTexture name="buildings papu color0000" x="0" y="0" width="96" height="36" frameX="-96" frameY="-51" frameWidth="192" frameHeight="87" />
+<SubTexture name="buildings papu color0001" x="0" y="36" width="96" height="36" frameX="-96" frameY="-51" frameWidth="192" frameHeight="87" />
+<SubTexture name="buildings papu color0002" x="96" y="0" width="96" height="36" frameX="-96" frameY="-51" frameWidth="192" frameHeight="87" />
+<SubTexture name="buildings papu color0003" x="96" y="36" width="96" height="36" frameX="-96" frameY="-51" frameWidth="192" frameHeight="87" />
+</TextureAtlas>

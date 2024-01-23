@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ihy luigi intro.png"><SubTexture name="ihy luigi intro walk0000" x="0" y="0" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro walk0001" x="30" y="0" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro walk0002" x="60" y="0" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro stand0000" x="0" y="35" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro worked0000" x="30" y="35" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro worked0001" x="60" y="35" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro alone0000" x="90" y="0" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro alone0001" x="90" y="35" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro transition0000" x="0" y="70" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro transition0001" x="30" y="70" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+<SubTexture name="ihy luigi intro transition0002" x="60" y="70" width="30" height="35" frameX="0" frameY="0" frameWidth="30" frameHeight="35" />
+</TextureAtlas>

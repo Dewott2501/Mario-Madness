@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Warp Ring.png"><SubTexture name="appear0000" x="0" y="0" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="appear0001" x="42" y="0" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="appear0002" x="0" y="41" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="appear0003" x="42" y="41" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="appear0004" x="84" y="0" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="appear0005" x="84" y="41" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="appear0006" x="0" y="82" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="appear0007" x="42" y="82" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="idle0000" x="84" y="82" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="idle0001" x="126" y="0" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="idle0002" x="126" y="41" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="idle0003" x="126" y="82" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="vanish0000" x="0" y="123" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="vanish0001" x="42" y="123" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="vanish0002" x="84" y="123" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="vanish0003" x="126" y="123" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="vanish0004" x="168" y="0" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="vanish0005" x="168" y="41" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="vanish0006" x="168" y="82" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+<SubTexture name="vanish0007" x="168" y="123" width="42" height="41" frameX="0" frameY="0" frameWidth="42" frameHeight="41" />
+</TextureAtlas>

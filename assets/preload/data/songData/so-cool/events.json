@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "philly",
+		"player1": "bf",
+		"player2": "chris-pratt",
+		"player3": null,
+		"events": [
+			[
+				8558.82352941176,
+				[
+					[
+						"Play Animation",
+						"itsame",
+						"Dad"
+					]
+				]
+			],
+			[
+				9970.58823529412,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			],
+			[
+				30352.9411764706,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			],
+			[
+				46588.2352941176,
+				[
+					[
+						"Play Animation",
+						"supamarobros",
+						"Dad"
+					]
+				]
+			],
+			[
+				73499.9999999999,
+				[
+					[
+						"Play Animation",
+						"itsame",
+						"Dad"
+					]
+				]
+			],
+			[
+				74911.7647058823,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			],
+			[
+				100235.294117647,
+				[
+					[
+						"Play Animation",
+						"cumtru",
+						"Dad"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "So Cool"
+	}
+}

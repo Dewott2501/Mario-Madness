@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LG Sprites.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LG Down0000" x="0" y="0" width="650" height="740" frameX="0" frameY="-12" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Down0001" x="0" y="0" width="650" height="740" frameX="0" frameY="-12" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Down0002" x="650" y="0" width="644" height="742" frameX="-1" frameY="-10" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Down0003" x="650" y="0" width="644" height="742" frameX="-1" frameY="-10" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Down0004" x="1294" y="0" width="637" height="752" frameX="-5" frameY="0" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Down0005" x="1294" y="0" width="637" height="752" frameX="-5" frameY="0" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Down0006" x="1931" y="0" width="636" height="752" frameX="-6" frameY="0" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Down0007" x="1931" y="0" width="636" height="752" frameX="-6" frameY="0" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Down0008" x="1931" y="0" width="636" height="752" frameX="-6" frameY="0" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Down0009" x="1931" y="0" width="636" height="752" frameX="-6" frameY="0" frameWidth="650" frameHeight="752"/>
+	<SubTexture name="LG Idle0000" x="2567" y="0" width="896" height="772" frameX="-2" frameY="-22" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0001" x="2567" y="0" width="896" height="772" frameX="-2" frameY="-22" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0002" x="0" y="772" width="899" height="771" frameX="0" frameY="-23" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0003" x="0" y="772" width="899" height="771" frameX="0" frameY="-23" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0004" x="899" y="772" width="890" height="771" frameX="-6" frameY="-23" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0005" x="899" y="772" width="890" height="771" frameX="-6" frameY="-23" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0006" x="1789" y="772" width="871" height="788" frameX="-20" frameY="-6" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0007" x="1789" y="772" width="871" height="788" frameX="-20" frameY="-6" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0008" x="2660" y="772" width="860" height="793" frameX="-27" frameY="-1" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0009" x="2660" y="772" width="860" height="793" frameX="-27" frameY="-1" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0010" x="0" y="1565" width="858" height="794" frameX="-29" frameY="0" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Idle0011" x="0" y="1565" width="858" height="794" frameX="-29" frameY="0" frameWidth="899" frameHeight="794"/>
+	<SubTexture name="LG Left0000" x="858" y="1565" width="846" height="722" frameX="-16" frameY="0" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Left0001" x="858" y="1565" width="846" height="722" frameX="-16" frameY="0" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Left0002" x="1704" y="1565" width="850" height="720" frameX="-12" frameY="-2" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Left0003" x="1704" y="1565" width="850" height="720" frameX="-12" frameY="-2" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Left0004" x="2554" y="1565" width="864" height="713" frameX="-2" frameY="-9" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Left0005" x="2554" y="1565" width="864" height="713" frameX="-2" frameY="-9" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Left0006" x="0" y="2359" width="866" height="713" frameX="0" frameY="-9" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Left0007" x="0" y="2359" width="866" height="713" frameX="0" frameY="-9" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Left0008" x="0" y="2359" width="866" height="713" frameX="0" frameY="-9" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Left0009" x="0" y="2359" width="866" height="713" frameX="0" frameY="-9" frameWidth="866" frameHeight="722"/>
+	<SubTexture name="LG Right0000" x="866" y="2359" width="790" height="735" frameX="-4" frameY="-7" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Right0001" x="866" y="2359" width="790" height="735" frameX="-4" frameY="-7" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Right0002" x="1656" y="2359" width="781" height="739" frameX="-3" frameY="-3" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Right0003" x="1656" y="2359" width="781" height="739" frameX="-3" frameY="-3" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Right0004" x="2437" y="2359" width="767" height="742" frameX="0" frameY="0" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Right0005" x="2437" y="2359" width="767" height="742" frameX="0" frameY="0" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Right0006" x="3204" y="2359" width="768" height="742" frameX="0" frameY="0" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Right0007" x="3204" y="2359" width="768" height="742" frameX="0" frameY="0" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Right0008" x="3204" y="2359" width="768" height="742" frameX="0" frameY="0" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Right0009" x="3204" y="2359" width="768" height="742" frameX="0" frameY="0" frameWidth="794" frameHeight="742"/>
+	<SubTexture name="LG Up0000" x="0" y="3101" width="637" height="923" frameX="-5" frameY="0" frameWidth="647" frameHeight="923"/>
+	<SubTexture name="LG Up0001" x="0" y="3101" width="637" height="923" frameX="-5" frameY="0" frameWidth="647" frameHeight="923"/>
+	<SubTexture name="LG Up0002" x="637" y="3101" width="640" height="916" frameX="-4" frameY="-7" frameWidth="647" frameHeight="923"/>
+	<SubTexture name="LG Up0003" x="637" y="3101" width="640" height="916" frameX="-4" frameY="-7" frameWidth="647" frameHeight="923"/>
+	<SubTexture name="LG Up0004" x="1277" y="3101" width="645" height="895" frameX="-2" frameY="-28" frameWidth="647" frameHeight="923"/>
+	<SubTexture name="LG Up0005" x="1277" y="3101" width="645" height="895" frameX="-2" frameY="-28" frameWidth="647" frameHeight="923"/>
+	<SubTexture name="LG Up0006" x="1922" y="3101" width="647" height="895" frameX="0" frameY="-28" frameWidth="647" frameHeight="923"/>
+	<SubTexture name="LG Up0007" x="1922" y="3101" width="647" height="895" frameX="0" frameY="-28" frameWidth="647" frameHeight="923"/>
+	<SubTexture name="LG Up0008" x="1922" y="3101" width="647" height="895" frameX="0" frameY="-28" frameWidth="647" frameHeight="923"/>
+	<SubTexture name="LG Up0009" x="1922" y="3101" width="647" height="895" frameX="0" frameY="-28" frameWidth="647" frameHeight="923"/>
+</TextureAtlas>

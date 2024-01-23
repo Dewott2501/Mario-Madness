@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Demise_BG2_suelo.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Floor0000" x="5" y="5" width="4077" height="808"/>
+	<SubTexture name="Floor0001" x="4092" y="5" width="4077" height="808"/>
+	<SubTexture name="Floor0002" x="5" y="823" width="4077" height="808"/>
+	<SubTexture name="Floor0003" x="4092" y="823" width="4077" height="808"/>
+	<SubTexture name="Floor0004" x="5" y="1641" width="4077" height="808"/>
+	<SubTexture name="Floor0005" x="4092" y="1641" width="4077" height="808"/>
+	<SubTexture name="Floor0006" x="5" y="2459" width="4077" height="808"/>
+</TextureAtlas>

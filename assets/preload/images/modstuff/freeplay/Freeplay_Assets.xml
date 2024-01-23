@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Freeplay_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Classified0000" x="0" y="0" width="243" height="388" pivotX="25" pivotY="25"/>
+	<SubTexture name="Classified0001" x="0" y="0" width="243" height="388"/>
+	<SubTexture name="Classified0002" x="253" y="0" width="243" height="388"/>
+	<SubTexture name="Classified0003" x="253" y="0" width="243" height="388"/>
+	<SubTexture name="Classified0004" x="506" y="0" width="243" height="388"/>
+	<SubTexture name="Classified0005" x="506" y="0" width="243" height="388"/>
+	<SubTexture name="Cosmos0000" x="759" y="0" width="245" height="388" pivotX="25" pivotY="25"/>
+	<SubTexture name="Cosmos0001" x="759" y="0" width="245" height="388"/>
+	<SubTexture name="Cosmos0002" x="1014" y="0" width="245" height="388"/>
+	<SubTexture name="Cosmos0003" x="1014" y="0" width="245" height="388"/>
+	<SubTexture name="Cosmos0004" x="1269" y="0" width="245" height="388"/>
+	<SubTexture name="Cosmos0005" x="1269" y="0" width="245" height="388"/>
+	<SubTexture name="Extra0000" x="0" y="398" width="532" height="254" pivotX="25" pivotY="25"/>
+	<SubTexture name="Extra0001" x="0" y="398" width="532" height="254"/>
+	<SubTexture name="Extra0002" x="542" y="398" width="532" height="254"/>
+	<SubTexture name="Extra0003" x="542" y="398" width="532" height="254"/>
+	<SubTexture name="Extra0004" x="1084" y="398" width="532" height="254"/>
+	<SubTexture name="Extra0005" x="1084" y="398" width="532" height="254"/>
+	<SubTexture name="Heights0000" x="0" y="797" width="244" height="389"/>
+	<SubTexture name="Heights0001" x="0" y="797" width="244" height="389"/>
+	<SubTexture name="Heights0002" x="254" y="797" width="244" height="389"/>
+	<SubTexture name="Heights0003" x="254" y="797" width="244" height="389"/>
+	<SubTexture name="Island0000" x="508" y="797" width="235" height="388" pivotX="25" pivotY="25"/>
+	<SubTexture name="Island0001" x="508" y="797" width="235" height="388"/>
+	<SubTexture name="Island0002" x="753" y="797" width="235" height="388"/>
+	<SubTexture name="Island0003" x="753" y="797" width="235" height="388"/>
+	<SubTexture name="Island0004" x="998" y="797" width="235" height="388"/>
+	<SubTexture name="Island0005" x="998" y="797" width="235" height="388"/>
+	<SubTexture name="Legacy0000" x="1243" y="797" width="521" height="254" pivotX="25" pivotY="25"/>
+	<SubTexture name="Legacy0001" x="1243" y="797" width="521" height="254"/>
+	<SubTexture name="Legacy0002" x="0" y="1196" width="521" height="254"/>
+	<SubTexture name="Legacy0003" x="0" y="1196" width="521" height="254"/>
+	<SubTexture name="Legacy0004" x="531" y="1196" width="521" height="254"/>
+	<SubTexture name="Legacy0005" x="531" y="1196" width="521" height="254"/>
+	<SubTexture name="Mainweek0000" x="1062" y="1196" width="265" height="596" pivotX="25" pivotY="25"/>
+	<SubTexture name="Mainweek0001" x="1062" y="1196" width="265" height="596"/>
+	<SubTexture name="Mainweek0002" x="1337" y="1196" width="265" height="596"/>
+	<SubTexture name="Mainweek0003" x="1337" y="1196" width="265" height="596"/>
+	<SubTexture name="Mainweek0004" x="1612" y="1196" width="265" height="596"/>
+	<SubTexture name="Mainweek0005" x="1612" y="1196" width="265" height="596"/>
+	<SubTexture name="Title0000" x="0" y="1802" width="757" height="83" pivotX="26.85" pivotY="13.95" frameX="-2" frameY="0" frameWidth="760" frameHeight="83"/>
+	<SubTexture name="Title0001" x="0" y="1802" width="757" height="83" frameX="-2" frameY="0" frameWidth="760" frameHeight="83"/>
+	<SubTexture name="Title0002" x="767" y="1802" width="754" height="83" frameX="-3" frameY="0" frameWidth="760" frameHeight="83"/>
+	<SubTexture name="Title0003" x="767" y="1802" width="754" height="83" frameX="-3" frameY="0" frameWidth="760" frameHeight="83"/>
+	<SubTexture name="Title0004" x="0" y="1895" width="757" height="83" frameX="0" frameY="0" frameWidth="760" frameHeight="83"/>
+	<SubTexture name="Title0005" x="0" y="1895" width="757" height="83" frameX="0" frameY="0" frameWidth="760" frameHeight="83"/>
+	<SubTexture name="Title0006" x="767" y="1895" width="758" height="83" frameX="-2" frameY="0" frameWidth="760" frameHeight="83"/>
+	<SubTexture name="Title0007" x="767" y="1895" width="758" height="83" frameX="-2" frameY="0" frameWidth="760" frameHeight="83"/>
+	<SubTexture name="Woodland0000" x="1535" y="1895" width="245" height="388" pivotX="25" pivotY="25"/>
+	<SubTexture name="Woodland0001" x="1535" y="1895" width="245" height="388"/>
+	<SubTexture name="Woodland0002" x="1790" y="1895" width="245" height="388"/>
+	<SubTexture name="Woodland0003" x="1790" y="1895" width="245" height="388"/>
+	<SubTexture name="Woodland0004" x="0" y="2293" width="245" height="388"/>
+	<SubTexture name="Woodland0005" x="0" y="2293" width="245" height="388"/>
+	<SubTexture name="lock0000" x="255" y="2293" width="122" height="131" pivotX="25" pivotY="25"/>
+</TextureAtlas>

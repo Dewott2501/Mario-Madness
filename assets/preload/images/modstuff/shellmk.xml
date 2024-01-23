@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shellmk.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hit0000" x="0" y="0" width="217" height="409" pivotX="93.5" pivotY="79.8"/>
+	<SubTexture name="hit0001" x="0" y="421" width="217" height="409"/>
+	<SubTexture name="hit0002" x="0" y="842" width="217" height="409"/>
+	<SubTexture name="hit0003" x="0" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0004" x="229" y="0" width="217" height="409"/>
+	<SubTexture name="hit0005" x="229" y="421" width="217" height="409"/>
+	<SubTexture name="hit0006" x="229" y="842" width="217" height="409"/>
+	<SubTexture name="hit0007" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0008" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0009" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0010" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0011" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0012" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0013" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0014" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0015" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0016" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0017" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="hit0018" x="229" y="1263" width="217" height="409"/>
+	<SubTexture name="idle0000" x="458" y="0" width="217" height="409" pivotX="93.65" pivotY="79.85"/>
+</TextureAtlas>

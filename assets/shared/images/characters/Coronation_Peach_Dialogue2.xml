@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Coronation_Peach_Dialogue2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Peach20000" x="0" y="0" width="1004" height="606" pivotX="-115.35" pivotY="914.7" frameX="-123" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20001" x="1009" y="0" width="1005" height="606" frameX="-122" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20002" x="2019" y="0" width="1022" height="606" frameX="-143" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20003" x="3046" y="0" width="1035" height="606" frameX="-130" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20004" x="0" y="611" width="1039" height="606" frameX="-132" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20005" x="1044" y="611" width="1042" height="606" frameX="-129" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20006" x="2091" y="611" width="1040" height="606" frameX="-130" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20007" x="0" y="1222" width="1008" height="606" frameX="-162" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20008" x="1013" y="1222" width="1020" height="606" frameX="-148" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20009" x="2038" y="1222" width="1020" height="606" frameX="-148" frameY="-1173" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20010" x="3063" y="1222" width="1024" height="607" frameX="-147" frameY="-1172" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20011" x="0" y="1834" width="1038" height="607" frameX="-133" frameY="-1172" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20012" x="1043" y="1834" width="1038" height="607" frameX="-133" frameY="-1172" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20013" x="2086" y="1834" width="1041" height="600" frameX="-131" frameY="-1179" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20014" x="0" y="2446" width="1010" height="600" frameX="-162" frameY="-1179" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20015" x="1015" y="2446" width="1010" height="598" frameX="-162" frameY="-1181" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20016" x="2030" y="2446" width="1017" height="595" frameX="-148" frameY="-1184" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20017" x="3052" y="2446" width="1017" height="595" frameX="-148" frameY="-1184" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20018" x="0" y="3051" width="1015" height="580" frameX="-141" frameY="-1184" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20019" x="1020" y="3051" width="1015" height="580" frameX="-141" frameY="-1184" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20020" x="2040" y="3051" width="977" height="656" frameX="-122" frameY="-1046" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20021" x="3022" y="3051" width="977" height="656" frameX="-122" frameY="-1046" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20022" x="0" y="3712" width="1100" height="1649" frameX="0" frameY="0" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20023" x="1105" y="3712" width="1100" height="1649" frameX="0" frameY="0" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20024" x="2210" y="3712" width="588" height="820" frameX="-50" frameY="-848" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20025" x="2803" y="3712" width="588" height="820" frameX="-50" frameY="-848" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20026" x="3396" y="3712" width="628" height="788" frameX="-28" frameY="-859" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20027" x="0" y="5366" width="628" height="788" frameX="-28" frameY="-859" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20028" x="633" y="5366" width="661" height="756" frameX="-6" frameY="-866" frameWidth="1172" frameHeight="1779"/>
+	<SubTexture name="Peach20029" x="1299" y="5366" width="661" height="756" frameX="-6" frameY="-866" frameWidth="1172" frameHeight="1779"/>
+</TextureAtlas>

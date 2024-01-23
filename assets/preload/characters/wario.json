@@ -57,9 +57,9 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Wario_Apparition_assets_v1",
+	"image": "characters/old/Wario_Apparition_assets_v1",
 	"position": [
-		0,
+		160,
 		350
 	],
 	"healthicon": "wario",

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				700
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "VDialPart1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				230,
+				700
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "VDialPart1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mr_Virtual_Assets_Dialogue",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "v",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

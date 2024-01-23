@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_LDO.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ldo gf dance0000" x="5" y="5" width="372" height="590" frameX="0" frameY="-3" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0001" x="382" y="5" width="364" height="590" frameX="-8" frameY="-3" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0002" x="751" y="5" width="364" height="587" frameX="-5" frameY="-6" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0003" x="1120" y="5" width="365" height="587" frameX="-4" frameY="-6" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0004" x="1490" y="5" width="364" height="592" frameX="-2" frameY="-1" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0005" x="1490" y="5" width="364" height="592" frameX="-2" frameY="-1" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0006" x="1859" y="5" width="366" height="593" frameX="-5" frameY="0" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0007" x="1859" y="5" width="366" height="593" frameX="-5" frameY="0" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0008" x="2230" y="5" width="368" height="591" frameX="-6" frameY="-2" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0009" x="2230" y="5" width="368" height="591" frameX="-6" frameY="-2" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0010" x="2603" y="5" width="369" height="591" frameX="-7" frameY="-2" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0011" x="2603" y="5" width="369" height="591" frameX="-7" frameY="-2" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0012" x="2977" y="5" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0013" x="2977" y="5" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0014" x="3351" y="5" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0015" x="3725" y="5" width="382" height="578" frameX="-6" frameY="-15" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0016" x="4112" y="5" width="371" height="578" frameX="-17" frameY="-15" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0017" x="4488" y="5" width="372" height="572" frameX="-17" frameY="-21" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0018" x="4865" y="5" width="378" height="572" frameX="-11" frameY="-21" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0019" x="5248" y="5" width="376" height="575" frameX="-11" frameY="-18" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0020" x="5248" y="5" width="376" height="575" frameX="-11" frameY="-18" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0021" x="5629" y="5" width="374" height="580" frameX="-10" frameY="-13" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0022" x="5629" y="5" width="374" height="580" frameX="-10" frameY="-13" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0023" x="6008" y="5" width="369" height="586" frameX="-9" frameY="-7" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0024" x="6008" y="5" width="369" height="586" frameX="-9" frameY="-7" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0025" x="6382" y="5" width="369" height="590" frameX="-7" frameY="-3" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0026" x="6382" y="5" width="369" height="590" frameX="-7" frameY="-3" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0027" x="6756" y="5" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0028" x="6756" y="5" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance0029" x="3351" y="5" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0000" x="7130" y="5" width="372" height="590" frameX="0" frameY="-3" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0001" x="7507" y="5" width="364" height="590" frameX="-8" frameY="-3" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0002" x="5" y="603" width="364" height="587" frameX="-5" frameY="-6" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0003" x="374" y="603" width="365" height="587" frameX="-4" frameY="-6" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0004" x="744" y="603" width="364" height="592" frameX="-2" frameY="-1" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0005" x="744" y="603" width="364" height="592" frameX="-2" frameY="-1" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0006" x="1113" y="603" width="366" height="593" frameX="-5" frameY="0" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0007" x="1113" y="603" width="366" height="593" frameX="-5" frameY="0" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0008" x="1484" y="603" width="368" height="591" frameX="-6" frameY="-2" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0009" x="1484" y="603" width="368" height="591" frameX="-6" frameY="-2" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0010" x="1857" y="603" width="369" height="591" frameX="-7" frameY="-2" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0011" x="1857" y="603" width="369" height="591" frameX="-7" frameY="-2" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0012" x="2231" y="603" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0013" x="2231" y="603" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0014" x="2605" y="603" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0015" x="2979" y="603" width="382" height="578" frameX="-6" frameY="-15" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0016" x="3366" y="603" width="371" height="578" frameX="-17" frameY="-15" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0017" x="3742" y="603" width="372" height="572" frameX="-17" frameY="-21" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0018" x="4119" y="603" width="378" height="572" frameX="-11" frameY="-21" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0019" x="4502" y="603" width="376" height="575" frameX="-11" frameY="-18" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0020" x="4502" y="603" width="376" height="575" frameX="-11" frameY="-18" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0021" x="4883" y="603" width="374" height="580" frameX="-10" frameY="-13" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0022" x="4883" y="603" width="374" height="580" frameX="-10" frameY="-13" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0023" x="5262" y="603" width="369" height="586" frameX="-9" frameY="-7" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0024" x="5262" y="603" width="369" height="586" frameX="-9" frameY="-7" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0025" x="5636" y="603" width="369" height="590" frameX="-7" frameY="-3" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0026" x="5636" y="603" width="369" height="590" frameX="-7" frameY="-3" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0027" x="6010" y="603" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0028" x="6010" y="603" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf dance annoyed0029" x="2605" y="603" width="369" height="589" frameX="-7" frameY="-4" frameWidth="389" frameHeight="593"/>
+	<SubTexture name="ldo gf why0000" x="6384" y="603" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0001" x="6758" y="603" width="374" height="589" frameX="0" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0002" x="7137" y="603" width="362" height="589" frameX="-12" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0003" x="7504" y="603" width="362" height="589" frameX="-12" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0004" x="5" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0005" x="379" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0006" x="753" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0007" x="1127" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0008" x="1501" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0009" x="1875" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0010" x="2249" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0011" x="1127" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0012" x="379" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0013" x="2623" y="1201" width="369" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0014" x="2997" y="1201" width="372" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0015" x="3374" y="1201" width="372" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0016" x="3751" y="1201" width="380" height="589" frameX="0" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0017" x="4136" y="1201" width="366" height="589" frameX="-12" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0018" x="4507" y="1201" width="366" height="589" frameX="-12" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0019" x="4878" y="1201" width="379" height="585" frameX="-5" frameY="-4" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0020" x="5262" y="1201" width="379" height="587" frameX="-5" frameY="-2" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0021" x="5646" y="1201" width="443" height="587" frameX="-5" frameY="-2" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0022" x="6094" y="1201" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0023" x="6542" y="1201" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0024" x="6990" y="1201" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0025" x="7438" y="1201" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0026" x="5" y="1795" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0027" x="5" y="1795" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0028" x="5" y="1795" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0029" x="5" y="1795" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0030" x="453" y="1795" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0031" x="901" y="1795" width="448" height="589"/>
+	<SubTexture name="ldo gf why0032" x="1354" y="1795" width="436" height="589" frameX="-12" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0033" x="1354" y="1795" width="436" height="589" frameX="-12" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0034" x="1795" y="1795" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+	<SubTexture name="ldo gf why0035" x="2243" y="1795" width="443" height="589" frameX="-5" frameY="0" frameWidth="448" frameHeight="589"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HUD_Mario_Blue.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dust cloud0000" x="5" y="5" width="16" height="16"/>
+	<SubTexture name="dust cloud0001" x="31" y="5" width="16" height="16"/>
+	<SubTexture name="dust cloud0002" x="57" y="5" width="16" height="16"/>
+	<SubTexture name="dust cloud0003" x="83" y="5" width="16" height="16"/>
+	<SubTexture name="dust cloud0004" x="109" y="5" width="16" height="16"/>
+	<SubTexture name="fall" x="135" y="5" width="48" height="48"/>
+	<SubTexture name="flash0000" x="193" y="5" width="15" height="17"/>
+	<SubTexture name="flash0001" x="218" y="5" width="15" height="17"/>
+	<SubTexture name="flash0002" x="5" y="63" width="15" height="17"/>
+	<SubTexture name="jump" x="30" y="63" width="48" height="48"/>
+	<SubTexture name="mario run0000" x="88" y="63" width="48" height="48"/>
+	<SubTexture name="mario run0001" x="146" y="63" width="48" height="48"/>
+	<SubTexture name="mario run0002" x="5" y="121" width="48" height="48"/>
+	<SubTexture name="mario spin jump0000" x="63" y="121" width="48" height="48"/>
+	<SubTexture name="mario spin jump0001" x="121" y="121" width="48" height="48"/>
+	<SubTexture name="mario spin jump0002" x="179" y="121" width="48" height="48"/>
+	<SubTexture name="mario spin jump0003" x="5" y="179" width="48" height="48"/>
+	<SubTexture name="mario walk0000" x="63" y="121" width="48" height="48"/>
+	<SubTexture name="mario walk0001" x="63" y="179" width="48" height="48"/>
+	<SubTexture name="mario walk0002" x="121" y="179" width="48" height="48"/>
+	<SubTexture name="peace" x="179" y="179" width="48" height="48"/>
+</TextureAtlas>

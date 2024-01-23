@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="overworld overlay.png"><SubTexture name="overworld overlay idle0000" x="0" y="0" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="overworld overlay idle0001" x="256" y="0" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="overworld overlay idle0002" x="0" y="256" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="overworld overlay idle0003" x="256" y="256" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

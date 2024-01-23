@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CoroDay_DeadMario.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DeadMario0000" x="0" y="0" width="382" height="499"/>
+	<SubTexture name="DeadMario0001" x="0" y="0" width="382" height="499"/>
+	<SubTexture name="DeadMario0002" x="406" y="0" width="382" height="499"/>
+	<SubTexture name="DeadMario0003" x="406" y="0" width="382" height="499"/>
+	<SubTexture name="DeadMario0004" x="0" y="523" width="382" height="499"/>
+	<SubTexture name="DeadMario0005" x="0" y="523" width="382" height="499"/>
+	<SubTexture name="DeadMario0006" x="406" y="523" width="382" height="499"/>
+	<SubTexture name="DeadMario0007" x="406" y="523" width="382" height="499"/>
+</TextureAtlas>

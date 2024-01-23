@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bullet Ammo.png"><SubTexture name="Bullet Ammo 30000" x="0" y="0" width="321" height="452" frameX="0" frameY="0" frameWidth="321" frameHeight="452" />
+<SubTexture name="Bullet Ammo 20000" x="321" y="0" width="321" height="452" frameX="0" frameY="0" frameWidth="321" frameHeight="452" />
+<SubTexture name="Bullet Ammo 10000" x="0" y="452" width="321" height="452" frameX="0" frameY="0" frameWidth="321" frameHeight="452" />
+<SubTexture name="Bullet Ammo 00000" x="321" y="452" width="321" height="452" frameX="0" frameY="0" frameWidth="321" frameHeight="452" />
+</TextureAtlas>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="somari.png"><SubTexture name="somari idle0000" x="0" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari idle0001" x="37" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari idle0002" x="74" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari idle0003" x="0" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari idle0004" x="0" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari left0000" x="37" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari left0001" x="74" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari up0000" x="111" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari up0001" x="111" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari up0002" x="0" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari right0000" x="37" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari right0001" x="74" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari down0000" x="111" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari down0001" x="148" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari left miss0000" x="148" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari left miss0001" x="148" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari up miss0000" x="0" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari up miss0001" x="37" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari up miss0002" x="74" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari right miss0002" x="111" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari right miss0003" x="148" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari down miss0002" x="185" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari down miss0003" x="185" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari ouch0000" x="185" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari getting shot0000" x="185" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari getting shot0001" x="0" y="156" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="somari OUGHHHHHHHH0000" x="37" y="156" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+</TextureAtlas>

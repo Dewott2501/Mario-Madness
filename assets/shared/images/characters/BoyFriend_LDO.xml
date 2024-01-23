@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_LDO.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ldo bf dead confirm0000" x="5" y="5" width="395" height="504" frameX="0" frameY="-37" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0001" x="405" y="5" width="395" height="504" frameX="0" frameY="-37" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0002" x="805" y="5" width="395" height="541"/>
+	<SubTexture name="ldo bf dead confirm0003" x="1205" y="5" width="395" height="541"/>
+	<SubTexture name="ldo bf dead confirm0004" x="1605" y="5" width="395" height="526" frameX="0" frameY="-15" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0005" x="2005" y="5" width="395" height="526" frameX="0" frameY="-15" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0006" x="2405" y="5" width="395" height="504" frameX="0" frameY="-37" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0007" x="2405" y="5" width="395" height="504" frameX="0" frameY="-37" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0008" x="2805" y="5" width="395" height="504" frameX="0" frameY="-37" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0009" x="2805" y="5" width="395" height="504" frameX="0" frameY="-37" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0010" x="3205" y="5" width="395" height="504" frameX="0" frameY="-37" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0011" x="3205" y="5" width="395" height="504" frameX="0" frameY="-37" frameWidth="395" frameHeight="541"/>
+	<SubTexture name="ldo bf dead confirm0012" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0013" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0014" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0015" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0016" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0017" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0018" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0019" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0020" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0021" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0022" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0023" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0024" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0025" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0026" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0027" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0028" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0029" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0030" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0031" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0032" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0033" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf dead confirm0034" x="6405" y="551" width="395" height="504" frameX="0" frameY="-37" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0000" x="3605" y="5" width="417" height="500" frameX="0" frameY="0" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0001" x="4027" y="5" width="428" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0002" x="4027" y="5" width="428" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0003" x="4460" y="5" width="440" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0004" x="4460" y="5" width="440" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0005" x="4905" y="5" width="419" height="491" frameX="-6" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0006" x="5329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0007" x="5329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0008" x="5329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0009" x="5329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0010" x="5329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0011" x="5329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0012" x="5329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0013" x="5329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0014" x="5329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0015" x="5729" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0016" x="5729" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0017" x="5729" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0018" x="6129" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0019" x="6129" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0020" x="6529" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0021" x="6529" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0022" x="6929" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0023" x="7329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0024" x="7329" y="5" width="395" height="491" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0025" x="7729" y="5" width="395" height="509" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0026" x="7729" y="5" width="395" height="509" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0027" x="5" y="551" width="395" height="502" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0028" x="5" y="551" width="395" height="502" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0029" x="405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0030" x="405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0031" x="405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0032" x="405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0033" x="405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0034" x="405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0035" x="405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0036" x="805" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0037" x="1205" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0038" x="1605" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0039" x="2005" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0040" x="2405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0041" x="2805" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0042" x="3205" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0043" x="3605" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0044" x="4005" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0045" x="4405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0046" x="4005" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0047" x="4805" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0048" x="5205" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0049" x="5205" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0050" x="5205" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0051" x="5605" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0052" x="6005" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0053" x="6005" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0054" x="5605" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0055" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0056" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf death0057" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf down0000" x="6805" y="551" width="375" height="517" frameX="-2" frameY="-5" frameWidth="377" frameHeight="522"/>
+	<SubTexture name="ldo bf down0001" x="6805" y="551" width="375" height="517" frameX="-2" frameY="-5" frameWidth="377" frameHeight="522"/>
+	<SubTexture name="ldo bf down0002" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0003" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0004" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0005" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0006" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0007" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0008" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0009" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0010" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0011" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0012" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0013" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf down0014" x="7185" y="551" width="377" height="522"/>
+	<SubTexture name="ldo bf idle annoyed0000" x="7567" y="551" width="384" height="519" frameX="-9" frameY="-11" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0001" x="5" y="1078" width="382" height="518" frameX="-15" frameY="-12" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0002" x="5" y="1078" width="382" height="518" frameX="-15" frameY="-12" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0003" x="392" y="1078" width="382" height="523" frameX="-12" frameY="-7" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0004" x="392" y="1078" width="382" height="523" frameX="-12" frameY="-7" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0005" x="779" y="1078" width="383" height="527" frameX="-6" frameY="-3" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0006" x="779" y="1078" width="383" height="527" frameX="-6" frameY="-3" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0007" x="1167" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0008" x="1167" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0009" x="1167" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0010" x="1167" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0011" x="1167" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0012" x="1167" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0013" x="1167" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle annoyed0014" x="1167" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0000" x="1559" y="1078" width="384" height="519" frameX="-9" frameY="-11" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0001" x="1948" y="1078" width="382" height="518" frameX="-15" frameY="-12" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0002" x="1948" y="1078" width="382" height="518" frameX="-15" frameY="-12" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0003" x="2335" y="1078" width="382" height="523" frameX="-12" frameY="-7" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0004" x="2335" y="1078" width="382" height="523" frameX="-12" frameY="-7" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0005" x="2722" y="1078" width="383" height="527" frameX="-6" frameY="-3" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0006" x="2722" y="1078" width="383" height="527" frameX="-6" frameY="-3" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0007" x="3110" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0008" x="3110" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0009" x="3110" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0010" x="3110" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0011" x="3110" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0012" x="3110" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0013" x="3110" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf idle normal0014" x="3110" y="1078" width="387" height="530" frameX="0" frameY="0" frameWidth="397" frameHeight="530"/>
+	<SubTexture name="ldo bf left0000" x="3502" y="1078" width="381" height="526" frameX="0" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0001" x="3502" y="1078" width="381" height="526" frameX="0" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0002" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0003" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0004" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0005" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0006" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0007" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0008" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0009" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0010" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0011" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0012" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0013" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf left0014" x="3888" y="1078" width="381" height="526" frameX="-9" frameY="0" frameWidth="390" frameHeight="526"/>
+	<SubTexture name="ldo bf loop death0000" x="4274" y="1078" width="395" height="504" frameX="-9" frameY="-9" frameWidth="404" frameHeight="513"/>
+	<SubTexture name="ldo bf loop death0001" x="4674" y="1078" width="395" height="504" frameX="-9" frameY="-9" frameWidth="404" frameHeight="513"/>
+	<SubTexture name="ldo bf loop death0002" x="4674" y="1078" width="395" height="504" frameX="-9" frameY="-9" frameWidth="404" frameHeight="513"/>
+	<SubTexture name="ldo bf loop death0003" x="5074" y="1078" width="395" height="504" frameX="-9" frameY="-9" frameWidth="404" frameHeight="513"/>
+	<SubTexture name="ldo bf loop death0004" x="5074" y="1078" width="395" height="504" frameX="-9" frameY="-9" frameWidth="404" frameHeight="513"/>
+	<SubTexture name="ldo bf loop death0005" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0006" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0007" x="5474" y="1078" width="400" height="513" frameX="0" frameY="0" frameWidth="404" frameHeight="513"/>
+	<SubTexture name="ldo bf loop death0008" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0009" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0010" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0011" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0012" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0013" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0014" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0015" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0016" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0017" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0018" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0019" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0020" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0021" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf loop death0022" x="6405" y="551" width="395" height="504" frameX="-9" frameY="-9" frameWidth="449" frameHeight="518"/>
+	<SubTexture name="ldo bf miss down0000" x="5879" y="1078" width="392" height="510" frameX="0" frameY="-12" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0001" x="5879" y="1078" width="392" height="510" frameX="0" frameY="-12" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0002" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0003" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0004" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0005" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0006" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0007" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0008" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0009" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0010" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0011" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0012" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0013" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss down0014" x="6276" y="1078" width="377" height="522" frameX="-6" frameY="0" frameWidth="392" frameHeight="522"/>
+	<SubTexture name="ldo bf miss left0000" x="6658" y="1078" width="383" height="526" frameX="0" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0001" x="6658" y="1078" width="383" height="526" frameX="0" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0002" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0003" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0004" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0005" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0006" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0007" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0008" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0009" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0010" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0011" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0012" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0013" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss left0014" x="7046" y="1078" width="381" height="526" frameX="-22" frameY="0" frameWidth="403" frameHeight="526"/>
+	<SubTexture name="ldo bf miss right0000" x="7432" y="1078" width="423" height="545" frameX="-12" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0001" x="7432" y="1078" width="423" height="545" frameX="-12" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0002" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0003" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0004" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0005" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0006" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0007" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0008" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0009" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0010" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0011" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0012" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0013" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss right0014" x="5" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="435" frameHeight="545"/>
+	<SubTexture name="ldo bf miss up0000" x="431" y="1628" width="370" height="556" frameX="-8" frameY="0" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0001" x="431" y="1628" width="370" height="556" frameX="-8" frameY="0" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0002" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0003" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0004" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0005" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0006" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0007" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0008" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0009" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0010" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0011" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0012" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0013" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf miss up0014" x="806" y="1628" width="383" height="546" frameX="0" frameY="-10" frameWidth="383" frameHeight="556"/>
+	<SubTexture name="ldo bf right0000" x="1194" y="1628" width="413" height="545" frameX="-18" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0001" x="1194" y="1628" width="413" height="545" frameX="-18" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0002" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0003" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0004" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0005" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0006" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0007" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0008" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0009" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0010" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0011" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0012" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0013" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf right0014" x="1612" y="1628" width="421" height="545" frameX="0" frameY="0" frameWidth="431" frameHeight="545"/>
+	<SubTexture name="ldo bf up0000" x="2038" y="1628" width="381" height="558" frameX="0" frameY="0" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0001" x="2038" y="1628" width="381" height="558" frameX="0" frameY="0" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0002" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0003" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0004" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0005" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0006" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0007" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0008" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0009" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0010" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0011" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0012" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0013" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf up0014" x="2424" y="1628" width="383" height="546" frameX="-3" frameY="-12" frameWidth="386" frameHeight="558"/>
+	<SubTexture name="ldo bf yeah0000" x="2812" y="1628" width="398" height="555" frameX="-2" frameY="0" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0001" x="2812" y="1628" width="398" height="555" frameX="-2" frameY="0" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0002" x="3215" y="1628" width="404" height="550" frameX="0" frameY="-5" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0003" x="3215" y="1628" width="404" height="550" frameX="0" frameY="-5" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0004" x="3215" y="1628" width="404" height="550" frameX="0" frameY="-5" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0005" x="3215" y="1628" width="404" height="550" frameX="0" frameY="-5" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0006" x="3215" y="1628" width="404" height="550" frameX="0" frameY="-5" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0007" x="3215" y="1628" width="404" height="550" frameX="0" frameY="-5" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0008" x="3215" y="1628" width="404" height="550" frameX="0" frameY="-5" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0009" x="3215" y="1628" width="404" height="550" frameX="0" frameY="-5" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0010" x="3215" y="1628" width="404" height="550" frameX="0" frameY="-5" frameWidth="408" frameHeight="555"/>
+	<SubTexture name="ldo bf yeah0011" x="3624" y="1628" width="401" height="545" frameX="-7" frameY="-9" frameWidth="408" frameHeight="555"/>
+</TextureAtlas>

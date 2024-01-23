@@ -1,74 +1,74 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-56,
-				3
-			],
 			"loop": false,
+			"offsets": [
+				-64,
+				116
+			],
+			"anim": "idle",
 			"fps": 24,
+			"name": "MarioIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				2
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "MarioDown"
+			"fps": 24,
+			"name": "MarioDown",
+			"indices": []
 		},
 		{
-			"offsets": [
-				80,
-				120
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				90,
+				110
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "MarioLeft"
-		},
-		{
-			"offsets": [
-				107,
-				194
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "MarioUp"
+			"name": "MarioLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-51,
+				103,
+				192
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MarioUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
 				113
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "MarioRight"
+			"fps": 24,
+			"name": "MarioRight",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				14,
+				10,
 				185
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "Hey",
-			"indices": [],
-			"name": "MarioLaugh"
-		},
-		{
-			"offsets": [
-				-59,
-				117
-			],
-			"indices": [],
-			"fps": 23,
-			"anim": "idle",
-			"loop": true,
-			"name": "MarioIdle"
+			"fps": 24,
+			"name": "MarioLaugh",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mario_exe_Assets",
+	"image": "characters/old/Mario_exe_Assets",
 	"position": [
 		-80,
 		110
@@ -76,7 +76,7 @@
 	"healthicon": "marioex",
 	"flip_x": false,
 	"healthbar_colors": [
-		75,
+		111,
 		0,
 		0
 	],

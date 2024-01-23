@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFRUNNING backlegs.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="back0000" x="429" y="571" width="182" height="190" pivotX="17.55" pivotY="121.1" frameX="-37" frameY="-1" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0001" x="429" y="571" width="182" height="190" frameX="-37" frameY="-1" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0002" x="611" y="571" width="165" height="153" frameX="-53" frameY="0" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0003" x="611" y="571" width="165" height="153" frameX="-53" frameY="0" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0004" x="776" y="571" width="166" height="145" frameX="-53" frameY="-22" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0005" x="0" y="792" width="164" height="141" frameX="-55" frameY="-26" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0006" x="164" y="792" width="172" height="150" frameX="-47" frameY="-26" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0007" x="336" y="792" width="172" height="147" frameX="-47" frameY="-29" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0008" x="508" y="792" width="179" height="160" frameX="-40" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0009" x="508" y="792" width="179" height="160" frameX="-40" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0010" x="687" y="792" width="219" height="221" frameX="-68" frameY="-31" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0011" x="687" y="792" width="219" height="221" frameX="-68" frameY="-31" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0012" x="0" y="1013" width="210" height="221" frameX="-68" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0013" x="0" y="1013" width="210" height="221" frameX="-68" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0014" x="210" y="1013" width="177" height="190" frameX="-68" frameY="-1" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0015" x="210" y="1013" width="177" height="190" frameX="-68" frameY="-1" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0016" x="387" y="1013" width="166" height="153" frameX="-68" frameY="0" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0017" x="387" y="1013" width="166" height="153" frameX="-68" frameY="0" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0018" x="553" y="1013" width="166" height="145" frameX="-68" frameY="-22" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0019" x="719" y="1013" width="163" height="141" frameX="-68" frameY="-26" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0020" x="0" y="1234" width="172" height="150" frameX="-68" frameY="-26" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0021" x="172" y="1234" width="172" height="147" frameX="-68" frameY="-29" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0022" x="344" y="1234" width="178" height="160" frameX="-68" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0023" x="344" y="1234" width="178" height="160" frameX="-68" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0024" x="522" y="1234" width="219" height="221" frameX="0" frameY="-31" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0025" x="522" y="1234" width="219" height="221" frameX="0" frameY="-31" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0026" x="741" y="1234" width="210" height="221" frameX="-9" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back0027" x="741" y="1234" width="210" height="221" frameX="-9" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0000" x="0" y="0" width="182" height="190" pivotX="17.55" pivotY="121.1" frameX="-37" frameY="-1" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0001" x="0" y="0" width="182" height="190" frameX="-37" frameY="-1" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0002" x="182" y="0" width="165" height="153" frameX="-53" frameY="0" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0003" x="182" y="0" width="165" height="153" frameX="-53" frameY="0" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0004" x="347" y="0" width="166" height="145" frameX="-53" frameY="-22" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0005" x="513" y="0" width="164" height="141" frameX="-55" frameY="-26" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0006" x="677" y="0" width="172" height="150" frameX="-47" frameY="-26" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0007" x="849" y="0" width="172" height="147" frameX="-47" frameY="-29" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0008" x="0" y="190" width="179" height="160" frameX="-40" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0009" x="0" y="190" width="179" height="160" frameX="-40" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0010" x="179" y="190" width="219" height="221" frameX="-68" frameY="-31" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0011" x="179" y="190" width="219" height="221" frameX="-68" frameY="-31" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0012" x="398" y="190" width="210" height="221" frameX="-68" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0013" x="398" y="190" width="210" height="221" frameX="-68" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0014" x="608" y="190" width="177" height="190" frameX="-68" frameY="-1" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0015" x="608" y="190" width="177" height="190" frameX="-68" frameY="-1" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0016" x="785" y="190" width="166" height="153" frameX="-68" frameY="0" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0017" x="785" y="190" width="166" height="153" frameX="-68" frameY="0" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0018" x="0" y="411" width="166" height="145" frameX="-68" frameY="-22" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0019" x="166" y="411" width="163" height="141" frameX="-68" frameY="-26" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0020" x="329" y="411" width="172" height="150" frameX="-68" frameY="-26" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0021" x="501" y="411" width="172" height="147" frameX="-68" frameY="-29" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0022" x="673" y="411" width="178" height="160" frameX="-68" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0023" x="673" y="411" width="178" height="160" frameX="-68" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0024" x="0" y="571" width="219" height="221" frameX="0" frameY="-31" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0025" x="0" y="571" width="219" height="221" frameX="0" frameY="-31" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0026" x="219" y="571" width="210" height="221" frameX="-9" frameY="-30" frameWidth="287" frameHeight="252"/>
+	<SubTexture name="back fail0027" x="219" y="571" width="210" height="221" frameX="-9" frameY="-30" frameWidth="287" frameHeight="252"/>
+</TextureAtlas>

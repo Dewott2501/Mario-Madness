@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				305,
 				-104
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "BFIdle"
+			"fps": 24,
+			"name": "BFIdle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				305,
 				-137
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "RaceDown"
+			"fps": 24,
+			"name": "RaceDown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				306,
 				-60
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "RaceUp"
+			"fps": 24,
+			"name": "RaceUp",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				306,
 				-109
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "RaceLeft"
+			"fps": 24,
+			"name": "RaceLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				317,
 				-111
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "RaceRight"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				305,
-				-109
-			],
-			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "BFLeftMiss",
+			"name": "RaceRight",
 			"indices": []
 		},
 		{
 			"offsets": [
+				305,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BFLeftMiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
 				303,
 				-59
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUPmiss",
-			"loop": false,
-			"name": "BFUpMiss"
+			"fps": 24,
+			"name": "BFUpMiss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				314,
 				-111
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"loop": false,
-			"name": "BFRightMiss"
+			"fps": 24,
+			"name": "BFRightMiss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				305,
 				-137
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"loop": false,
-			"name": "BFDownMiss"
+			"fps": 24,
+			"name": "BFDownMiss",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -106,7 +106,7 @@
 		-80,
 		110
 	],
-	"healthicon": "bfr",
+	"healthicon": "bfr2",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,

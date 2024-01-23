@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YouCannotBeatUS_Fellas_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bird Up0000" x="2460" y="0" width="435" height="507" pivotX="-813.8" pivotY="-351.95"/>
+	<SubTexture name="Bird Up0001" x="2460" y="517" width="435" height="507"/>
+	<SubTexture name="Bird Up0002" x="2460" y="1034" width="435" height="507"/>
+	<SubTexture name="Bird Up0003" x="2460" y="1034" width="435" height="507"/>
+	<SubTexture name="Bird Up0004" x="2460" y="1034" width="435" height="507"/>
+	<SubTexture name="Bird Up0005" x="2460" y="1034" width="435" height="507"/>
+	<SubTexture name="Bird Up0006" x="2460" y="1034" width="435" height="507"/>
+	<SubTexture name="Bird Up0007" x="2460" y="1034" width="435" height="507"/>
+	<SubTexture name="Bird Up0008" x="2460" y="517" width="435" height="507"/>
+	<SubTexture name="Bird Up0009" x="2460" y="0" width="435" height="507"/>
+	<SubTexture name="Bird Up0010" x="2460" y="0" width="435" height="507"/>
+	<SubTexture name="Lakitu0000" x="2460" y="1551" width="428" height="487" pivotX="-56" pivotY="-367.85"/>
+	<SubTexture name="Lakitu0001" x="2460" y="2048" width="428" height="487"/>
+	<SubTexture name="Lakitu0002" x="2460" y="2545" width="428" height="487"/>
+	<SubTexture name="Lakitu0003" x="2460" y="2545" width="428" height="487"/>
+	<SubTexture name="Lakitu0004" x="2460" y="2545" width="428" height="487"/>
+	<SubTexture name="Lakitu0005" x="2460" y="2545" width="428" height="487"/>
+	<SubTexture name="Lakitu0006" x="2460" y="2545" width="428" height="487"/>
+	<SubTexture name="Lakitu0007" x="2460" y="2545" width="428" height="487"/>
+	<SubTexture name="Lakitu0008" x="2460" y="2048" width="428" height="487"/>
+	<SubTexture name="Lakitu0009" x="2460" y="1551" width="428" height="487"/>
+	<SubTexture name="Lakitu0010" x="2460" y="1551" width="428" height="487"/>
+	<SubTexture name="Rotat e0000" x="0" y="0" width="605" height="601" pivotX="212.05" pivotY="316.05"/>
+	<SubTexture name="Rotat e0001" x="0" y="611" width="605" height="601"/>
+	<SubTexture name="Rotat e0002" x="0" y="1222" width="605" height="601"/>
+	<SubTexture name="Rotat e0003" x="0" y="1833" width="605" height="601"/>
+	<SubTexture name="Rotat e0004" x="0" y="2444" width="605" height="601"/>
+	<SubTexture name="Rotat e0005" x="0" y="3055" width="605" height="601"/>
+	<SubTexture name="Rotat e0006" x="615" y="0" width="605" height="601"/>
+	<SubTexture name="Rotat e0007" x="615" y="611" width="605" height="601"/>
+	<SubTexture name="Rotat e0008" x="615" y="1222" width="605" height="601"/>
+	<SubTexture name="Rotat e0009" x="615" y="1833" width="605" height="601"/>
+	<SubTexture name="Rotat e0010" x="615" y="2444" width="605" height="601"/>
+	<SubTexture name="Rotat e0011" x="615" y="3055" width="605" height="601"/>
+	<SubTexture name="Rotat e0012" x="1230" y="0" width="605" height="601"/>
+	<SubTexture name="Rotat e0013" x="1230" y="611" width="605" height="601"/>
+	<SubTexture name="Rotat e0014" x="1230" y="1222" width="605" height="601"/>
+	<SubTexture name="Rotat e0015" x="1230" y="1833" width="605" height="601"/>
+	<SubTexture name="Rotat e0016" x="1230" y="2444" width="605" height="601"/>
+	<SubTexture name="Rotat e0017" x="1230" y="3055" width="605" height="601"/>
+	<SubTexture name="Rotat e0018" x="1845" y="0" width="605" height="601"/>
+	<SubTexture name="Rotat e0019" x="1845" y="611" width="605" height="601"/>
+	<SubTexture name="Rotat e0020" x="1845" y="1222" width="605" height="601"/>
+	<SubTexture name="Rotat e0021" x="1845" y="1833" width="605" height="601"/>
+	<SubTexture name="Rotat e0022" x="1845" y="2444" width="605" height="601"/>
+	<SubTexture name="Rotat e0023" x="1845" y="3055" width="605" height="601"/>
+</TextureAtlas>

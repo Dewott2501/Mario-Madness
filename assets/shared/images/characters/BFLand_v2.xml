@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFLand_v2.png"><SubTexture name="BFLand_v2 Idle0000" x="0" y="0" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Idle0001" x="95" y="0" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Idle0002" x="190" y="0" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Idle0003" x="285" y="0" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Idle0004" x="0" y="81" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Up0000" x="95" y="81" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Up0001" x="190" y="81" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Down0000" x="285" y="81" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Down0001" x="0" y="162" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Left0000" x="95" y="162" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Left0001" x="190" y="162" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Right0000" x="285" y="162" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 Right0001" x="0" y="243" width="95" height="81" frameX="0" frameY="0" frameWidth="95" frameHeight="81" />
+<SubTexture name="BFLand_v2 UpMiss0000" x="95" y="243" width="76" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72" />
+<SubTexture name="BFLand_v2 UpMiss0001" x="171" y="243" width="76" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72" />
+<SubTexture name="BFLand_v2 DownMiss0000" x="247" y="243" width="76" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72" />
+<SubTexture name="BFLand_v2 DownMiss0001" x="0" y="324" width="76" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72" />
+<SubTexture name="BFLand_v2 LeftMiss0000" x="76" y="324" width="76" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72" />
+<SubTexture name="BFLand_v2 LeftMiss0001" x="152" y="324" width="76" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72" />
+<SubTexture name="BFLand_v2 RightMiss0000" x="228" y="324" width="76" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72" />
+<SubTexture name="BFLand_v2 RightMiss0001" x="0" y="396" width="76" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72" />
+</TextureAtlas>

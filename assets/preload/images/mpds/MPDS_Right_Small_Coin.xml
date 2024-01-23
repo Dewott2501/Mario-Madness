@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MPDS_Right_Small_Coin.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="small coin right screen0000" x="5" y="5" width="256" height="192"/>
+	<SubTexture name="small coin right screen0001" x="5" y="5" width="256" height="192"/>
+	<SubTexture name="small coin right screen0002" x="271" y="5" width="256" height="192"/>
+	<SubTexture name="small coin right screen0003" x="271" y="5" width="256" height="192"/>
+	<SubTexture name="small coin right screen0004" x="537" y="5" width="256" height="192"/>
+	<SubTexture name="small coin right screen0005" x="537" y="5" width="256" height="192"/>
+	<SubTexture name="small coin right screen0006" x="5" y="207" width="256" height="192"/>
+	<SubTexture name="small coin right screen0007" x="5" y="207" width="256" height="192"/>
+	<SubTexture name="small coin right screen0008" x="271" y="207" width="256" height="192"/>
+	<SubTexture name="small coin right screen0009" x="271" y="207" width="256" height="192"/>
+</TextureAtlas>

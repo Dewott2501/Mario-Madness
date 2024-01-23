@@ -1,0 +1,3 @@
+atpx8
+Programmer
+Made a majority of the mods shaders as well as a scrapped DS BIOS, the Mario Party DS Intro, and helped with a lot of window manipulation code like the ones used in Paranoia.

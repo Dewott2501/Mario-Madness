@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="facecam bg.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="facecam bg down0000" x="5" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bg left0000" x="649" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bg right0000" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bg up0000" x="5" y="438" width="634" height="423"/>
+</TextureAtlas>

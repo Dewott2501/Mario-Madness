@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ultra idle"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ultra left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ultra right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ultra down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ultra up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Act_4_FINALE_Ultra",
+	"position": [
+		-60,
+		-50
+	],
+	"healthicon": "ultram4",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		57,
+		83
+	],
+	"camera_position": [
+		-70,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

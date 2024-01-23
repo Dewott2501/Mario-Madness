@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				426,
+				-59
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MX Sing Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				-70
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MX Sing Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				263
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MX Sing Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				57
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MX Sing Right"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": true,
+			"fps": 0,
+			"anim": "idle",
+			"indices": [],
+			"name": "MX Running Upper Body"
+		},
+		{
+			"offsets": [
+				-3,
+				-461
+			],
+			"loop": true,
+			"fps": 35,
+			"anim": "idle-legs",
+			"indices": [],
+			"name": "MX Running Legs"
+		},
+		{
+			"offsets": [
+				59,
+				-321
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-arm",
+			"indices": [],
+			"name": "MX Running Right Arm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MX_Demise_Assets",
+	"position": [
+		-930,
+		-870
+	],
+	"healthicon": "MXdemise",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		8,
+		2
+	],
+	"camera_position": [
+		-920,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

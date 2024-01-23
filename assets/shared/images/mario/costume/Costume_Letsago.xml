@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Costume_Letsago.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lets A Go0000" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0001" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0002" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0003" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0004" x="1295" y="5" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0005" x="1295" y="5" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0006" x="2585" y="5" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0007" x="2585" y="5" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0008" x="5" y="735" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0009" x="5" y="735" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0010" x="5" y="735" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0011" x="5" y="735" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0012" x="5" y="735" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0013" x="1295" y="735" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0014" x="2585" y="735" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0015" x="2585" y="735" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0016" x="5" y="1465" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0017" x="5" y="1465" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0018" x="1295" y="1465" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0019" x="1295" y="1465" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0020" x="2585" y="1465" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0021" x="2585" y="1465" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0022" x="5" y="2195" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0023" x="5" y="2195" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0024" x="1295" y="2195" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0025" x="1295" y="2195" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0026" x="2585" y="2195" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0027" x="2585" y="2195" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0028" x="5" y="2925" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0029" x="5" y="2925" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0030" x="1295" y="2925" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0031" x="1295" y="2925" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0032" x="2585" y="2925" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0033" x="2585" y="2925" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0034" x="5" y="735" width="1280" height="720"/>
+	<SubTexture name="Lets A Go0035" x="5" y="735" width="1280" height="720"/>
+</TextureAtlas>

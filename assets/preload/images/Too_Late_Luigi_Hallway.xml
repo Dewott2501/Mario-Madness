@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Too_Late_Luigi_Hallway.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tll down0000" x="5" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll down0001" x="1124" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll down0002" x="1124" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll down0003" x="2243" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll down0004" x="2243" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll down0005" x="2243" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll down0006" x="2243" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll down0007" x="2243" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll up0000" x="3362" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll up0001" x="4487" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll up0002" x="4487" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll up0003" x="5612" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll up0004" x="5612" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll up0005" x="6737" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll up0006" x="6737" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll up0007" x="6737" y="5" width="1584" height="1911"/>
+	<SubTexture name="tll right0000" x="5" y="1926" width="1584" height="1913"/>
+	<SubTexture name="tll right0001" x="1599" y="1926" width="1584" height="1913"/>
+	<SubTexture name="tll right0002" x="1599" y="1926" width="1584" height="1913"/>
+	<SubTexture name="tll right0003" x="3193" y="1926" width="1584" height="1913"/>
+	<SubTexture name="tll right0004" x="3193" y="1926" width="1584" height="1913"/>
+	<SubTexture name="tll right0005" x="4787" y="1926" width="1584" height="1913"/>
+	<SubTexture name="tll right0006" x="4787" y="1926" width="1584" height="1913"/>
+	<SubTexture name="tll right0007" x="4787" y="1926" width="1584" height="1913"/>
+	<SubTexture name="tll left0000" x="5" y="3849" width="1584" height="1911"/>
+	<SubTexture name="tll left0001" x="1525" y="3849" width="1584" height="1911"/>
+	<SubTexture name="tll left0002" x="1525" y="3849" width="1584" height="1911"/>
+	<SubTexture name="tll left0003" x="3045" y="3849" width="1584" height="1911"/>
+	<SubTexture name="tll left0004" x="3045" y="3849" width="1584" height="1911"/>
+	<SubTexture name="tll left0005" x="4565" y="3849" width="1584" height="1911"/>
+	<SubTexture name="tll left0006" x="4565" y="3849" width="1584" height="1911"/>
+	<SubTexture name="tll left0007" x="4565" y="3849" width="1584" height="1911"/>
+	<SubTexture name="tll idle0000" x="6085" y="3849" width="1584" height="1911"/>
+</TextureAtlas>

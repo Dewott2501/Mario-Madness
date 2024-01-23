@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pixelgrand.png">
+<SubTexture name="pixelgrand idle0000" x="72" y="0" width="32" height="40" frameX="-7" frameY="-9" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand idle0001" x="32" y="47" width="33" height="37" frameX="-6" frameY="-12" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand idle0002" x="0" y="47" width="32" height="39" frameX="-7" frameY="-10" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand idle0003" x="72" y="0" width="32" height="40" frameX="-7" frameY="-9" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand idle0004" x="32" y="47" width="33" height="37" frameX="-6" frameY="-12" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand idle0005" x="0" y="47" width="32" height="39" frameX="-7" frameY="-10" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand idle0006" x="72" y="0" width="32" height="40" frameX="-7" frameY="-9" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand right0000" x="47" y="86" width="55" height="33" frameX="0" frameY="-16" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand right0001" x="0" y="86" width="47" height="34" frameX="0" frameY="-15" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand left0000" x="104" y="0" width="36" height="36" frameX="0" frameY="-13" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand left0001" x="65" y="47" width="34" height="37" frameX="-1" frameY="-12" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand up0000" x="0" y="0" width="36" height="47" frameX="-1" frameY="0" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand up0001" x="36" y="0" width="36" height="46" frameX="-1" frameY="-2" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand down0000" x="102" y="86" width="34" height="31" frameX="-8" frameY="-18" frameWidth="49" frameHeight="43" />
+<SubTexture name="pixelgrand down0001" x="104" y="36" width="33" height="32" frameX="-8" frameY="-17" frameWidth="49" frameHeight="43" />
+</TextureAtlas>

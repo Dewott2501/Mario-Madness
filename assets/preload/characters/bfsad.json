@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SCAREDIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				31
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SCAREDLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				92
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SCAREDUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SCAREDRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISSSCAREDLEFT"
+		},
+		{
+			"offsets": [
+				-28,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISSSCAREDDOWN"
+		},
+		{
+			"offsets": [
+				-23,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISSSCAREDUP"
+		},
+		{
+			"offsets": [
+				-43,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISSSCAREDRIGHT"
+		},
+		{
+			"offsets": [
+				-31,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SCAREDDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MM_Boyfriend_Assets_cryingfuck",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfsad",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

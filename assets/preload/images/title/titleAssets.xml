@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MM_Main_Menu_sexo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF0000" x="0" y="0" width="459" height="365" pivotX="5" pivotY="9.55"/>
+	<SubTexture name="BF0001" x="464" y="0" width="459" height="365"/>
+	<SubTexture name="BF0002" x="464" y="0" width="459" height="365"/>
+	<SubTexture name="BF0003" x="928" y="0" width="459" height="365"/>
+	<SubTexture name="BF0004" x="928" y="0" width="459" height="365"/>
+	<SubTexture name="BF0005" x="928" y="0" width="459" height="365"/>
+	<SubTexture name="BF0006" x="1392" y="0" width="459" height="365"/>
+	<SubTexture name="BF0007" x="1392" y="0" width="459" height="365"/>
+	<SubTexture name="BF0008" x="1392" y="0" width="459" height="365"/>
+	<SubTexture name="BF0009" x="1856" y="0" width="459" height="365"/>
+	<SubTexture name="BF0010" x="1856" y="0" width="459" height="365"/>
+	<SubTexture name="BF0011" x="1856" y="0" width="459" height="365"/>
+	<SubTexture name="BF0012" x="2320" y="0" width="459" height="365"/>
+	<SubTexture name="BF0013" x="2320" y="0" width="459" height="365"/>
+	<SubTexture name="BF0014" x="2320" y="0" width="459" height="365"/>
+	<SubTexture name="GF0000" x="2784" y="0" width="288" height="440" pivotX="2.45" pivotY="0"/>
+	<SubTexture name="GF0001" x="3077" y="0" width="288" height="440"/>
+	<SubTexture name="GF0002" x="3077" y="0" width="288" height="440"/>
+	<SubTexture name="GF0003" x="3370" y="0" width="288" height="440"/>
+	<SubTexture name="GF0004" x="3370" y="0" width="288" height="440"/>
+	<SubTexture name="GF0005" x="3370" y="0" width="288" height="440"/>
+	<SubTexture name="GF0006" x="3663" y="0" width="288" height="440"/>
+	<SubTexture name="GF0007" x="3663" y="0" width="288" height="440"/>
+	<SubTexture name="GF0008" x="3663" y="0" width="288" height="440"/>
+	<SubTexture name="GF0009" x="0" y="445" width="288" height="440"/>
+	<SubTexture name="GF0010" x="0" y="445" width="288" height="440"/>
+	<SubTexture name="GF0011" x="0" y="445" width="288" height="440"/>
+	<SubTexture name="GF0012" x="293" y="445" width="288" height="440"/>
+	<SubTexture name="GF0013" x="293" y="445" width="288" height="440"/>
+	<SubTexture name="GF0014" x="293" y="445" width="288" height="440"/>
+	<SubTexture name="Spookihand0000" x="586" y="445" width="641" height="582" pivotX="42.5" pivotY="49.95"/>
+	<SubTexture name="Spookihand0001" x="1232" y="445" width="641" height="582"/>
+	<SubTexture name="Spookihand0002" x="1232" y="445" width="641" height="582"/>
+	<SubTexture name="Spookihand0003" x="1232" y="445" width="641" height="582"/>
+	<SubTexture name="Spookihand0004" x="1878" y="445" width="641" height="582"/>
+	<SubTexture name="Spookihand0005" x="2524" y="445" width="641" height="582"/>
+	<SubTexture name="Spookihand0006" x="3170" y="445" width="641" height="582"/>
+	<SubTexture name="Spookihand0007" x="0" y="1032" width="641" height="582"/>
+	<SubTexture name="Spookihand0008" x="646" y="1032" width="641" height="582"/>
+	<SubTexture name="Spookihand0009" x="1292" y="1032" width="641" height="582"/>
+	<SubTexture name="Spookihand0010" x="1938" y="1032" width="641" height="582"/>
+	<SubTexture name="Spookihand0011" x="2584" y="1032" width="641" height="582"/>
+	<SubTexture name="Spookihand0012" x="3230" y="1032" width="641" height="582"/>
+	<SubTexture name="Spookihand0013" x="0" y="1619" width="641" height="582"/>
+	<SubTexture name="Spookihand0014" x="646" y="1619" width="641" height="582"/>
+	<SubTexture name="Spookihand0015" x="1292" y="1619" width="641" height="582"/>
+	<SubTexture name="Spookihand0016" x="1938" y="1619" width="641" height="582"/>
+	<SubTexture name="Spookihand0017" x="1938" y="1619" width="641" height="582"/>
+	<SubTexture name="Spookihand0018" x="2584" y="1619" width="641" height="582"/>
+	<SubTexture name="Spookihand0019" x="586" y="445" width="641" height="582"/>
+	<SubTexture name="Spookihand0020" x="586" y="445" width="641" height="582"/>
+</TextureAtlas>

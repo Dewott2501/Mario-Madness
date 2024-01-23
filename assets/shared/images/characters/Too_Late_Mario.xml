@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Too_Late_Mario.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mario down0000" x="5" y="5" width="591" height="370" frameX="0" frameY="-57" frameWidth="591" frameHeight="428"/>
+	<SubTexture name="mario down0001" x="606" y="5" width="587" height="379" frameX="-2" frameY="-49" frameWidth="591" frameHeight="428"/>
+	<SubTexture name="mario down0002" x="606" y="5" width="587" height="379" frameX="-2" frameY="-49" frameWidth="591" frameHeight="428"/>
+	<SubTexture name="mario down0003" x="1203" y="5" width="572" height="415" frameX="-13" frameY="-4" frameWidth="591" frameHeight="428"/>
+	<SubTexture name="mario down0004" x="1203" y="5" width="572" height="415" frameX="-13" frameY="-4" frameWidth="591" frameHeight="428"/>
+	<SubTexture name="mario down0005" x="1785" y="5" width="564" height="416" frameX="-17" frameY="0" frameWidth="591" frameHeight="428"/>
+	<SubTexture name="mario down0006" x="1785" y="5" width="564" height="416" frameX="-17" frameY="0" frameWidth="591" frameHeight="428"/>
+	<SubTexture name="mario down0007" x="1785" y="5" width="564" height="416" frameX="-17" frameY="0" frameWidth="591" frameHeight="428"/>
+	<SubTexture name="mario fade away0000" x="2359" y="5" width="599" height="782" frameX="-1" frameY="-49" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0001" x="2968" y="5" width="599" height="782" frameX="-1" frameY="-49" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0002" x="2968" y="5" width="599" height="782" frameX="-1" frameY="-49" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0003" x="3577" y="5" width="600" height="784" frameX="0" frameY="-48" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0004" x="3577" y="5" width="600" height="784" frameX="0" frameY="-48" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0005" x="3577" y="5" width="600" height="784" frameX="0" frameY="-48" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0006" x="4187" y="5" width="601" height="785" frameX="-4" frameY="-43" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0007" x="4187" y="5" width="601" height="785" frameX="-4" frameY="-43" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0008" x="4798" y="5" width="607" height="790" frameX="-11" frameY="-31" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0009" x="4798" y="5" width="607" height="790" frameX="-11" frameY="-31" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0010" x="5415" y="5" width="608" height="785" frameX="-18" frameY="-11" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0011" x="5415" y="5" width="608" height="785" frameX="-18" frameY="-11" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0012" x="6033" y="5" width="614" height="771" frameX="-40" frameY="-8" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0013" x="6033" y="5" width="614" height="771" frameX="-40" frameY="-8" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0014" x="6657" y="5" width="579" height="754" frameX="-82" frameY="0" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0015" x="6657" y="5" width="579" height="754" frameX="-82" frameY="0" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0016" x="7246" y="5" width="558" height="690" frameX="-102" frameY="-1" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0017" x="7246" y="5" width="558" height="690" frameX="-102" frameY="-1" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0018" x="7246" y="5" width="558" height="690" frameX="-102" frameY="-1" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0019" x="5" y="805" width="521" height="617" frameX="-144" frameY="-7" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0020" x="5" y="805" width="521" height="617" frameX="-144" frameY="-7" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0021" x="5" y="805" width="521" height="617" frameX="-144" frameY="-7" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0022" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0023" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0024" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0025" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0026" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0027" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0028" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0029" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0030" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0031" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0032" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0033" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0034" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0035" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0036" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0037" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0038" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0039" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0040" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0041" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0042" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0043" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario fade away0044" x="536" y="805" width="1" height="1" frameX="-313" frameY="-603" frameWidth="665" frameHeight="832"/>
+	<SubTexture name="mario idle0000" x="546" y="805" width="459" height="803" frameX="-3" frameY="0" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0001" x="546" y="805" width="459" height="803" frameX="-3" frameY="0" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0002" x="1015" y="805" width="465" height="801" frameX="0" frameY="-3" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0003" x="1015" y="805" width="465" height="801" frameX="0" frameY="-3" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0004" x="1490" y="805" width="457" height="798" frameX="-10" frameY="-8" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0005" x="1490" y="805" width="457" height="798" frameX="-10" frameY="-8" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0006" x="1957" y="805" width="463" height="795" frameX="-2" frameY="-13" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0007" x="1957" y="805" width="463" height="795" frameX="-2" frameY="-13" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0008" x="2430" y="805" width="441" height="795" frameX="-22" frameY="-12" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0009" x="2430" y="805" width="441" height="795" frameX="-22" frameY="-12" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0010" x="2881" y="805" width="437" height="797" frameX="-26" frameY="-8" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0011" x="2881" y="805" width="437" height="797" frameX="-26" frameY="-8" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0012" x="3328" y="805" width="447" height="800" frameX="-14" frameY="-3" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0013" x="3328" y="805" width="447" height="800" frameX="-14" frameY="-3" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0014" x="3785" y="805" width="452" height="803" frameX="-10" frameY="0" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario idle0015" x="3785" y="805" width="452" height="803" frameX="-10" frameY="0" frameWidth="467" frameHeight="808"/>
+	<SubTexture name="mario left0000" x="4247" y="805" width="718" height="547" frameX="-10" frameY="-34" frameWidth="728" frameHeight="673"/>
+	<SubTexture name="mario left0001" x="4975" y="805" width="708" height="560" frameX="-15" frameY="-32" frameWidth="728" frameHeight="673"/>
+	<SubTexture name="mario left0002" x="4975" y="805" width="708" height="560" frameX="-15" frameY="-32" frameWidth="728" frameHeight="673"/>
+	<SubTexture name="mario left0003" x="5693" y="805" width="724" height="607" frameX="0" frameY="-19" frameWidth="728" frameHeight="673"/>
+	<SubTexture name="mario left0004" x="5693" y="805" width="724" height="607" frameX="0" frameY="-19" frameWidth="728" frameHeight="673"/>
+	<SubTexture name="mario left0005" x="6427" y="805" width="591" height="673" frameX="-110" frameY="0" frameWidth="728" frameHeight="673"/>
+	<SubTexture name="mario left0006" x="6427" y="805" width="591" height="673" frameX="-110" frameY="0" frameWidth="728" frameHeight="673"/>
+	<SubTexture name="mario left0007" x="6427" y="805" width="591" height="673" frameX="-110" frameY="0" frameWidth="728" frameHeight="673"/>
+	<SubTexture name="mario right0000" x="7028" y="805" width="737" height="542" frameX="-19" frameY="-9" frameWidth="756" frameHeight="563"/>
+	<SubTexture name="mario right0001" x="5" y="1618" width="734" height="550" frameX="-18" frameY="-6" frameWidth="756" frameHeight="563"/>
+	<SubTexture name="mario right0002" x="5" y="1618" width="734" height="550" frameX="-18" frameY="-6" frameWidth="756" frameHeight="563"/>
+	<SubTexture name="mario right0003" x="749" y="1618" width="727" height="555" frameX="-7" frameY="-3" frameWidth="756" frameHeight="563"/>
+	<SubTexture name="mario right0004" x="749" y="1618" width="727" height="555" frameX="-7" frameY="-3" frameWidth="756" frameHeight="563"/>
+	<SubTexture name="mario right0005" x="1486" y="1618" width="723" height="563" frameX="0" frameY="0" frameWidth="756" frameHeight="563"/>
+	<SubTexture name="mario right0006" x="1486" y="1618" width="723" height="563" frameX="0" frameY="0" frameWidth="756" frameHeight="563"/>
+	<SubTexture name="mario right0007" x="1486" y="1618" width="723" height="563" frameX="0" frameY="0" frameWidth="756" frameHeight="563"/>
+	<SubTexture name="mario up0000" x="2219" y="1618" width="599" height="782" frameX="0" frameY="0" frameWidth="599" frameHeight="796"/>
+	<SubTexture name="mario up0001" x="2828" y="1618" width="597" height="772" frameX="-1" frameY="-13" frameWidth="599" frameHeight="796"/>
+	<SubTexture name="mario up0002" x="2828" y="1618" width="597" height="772" frameX="-1" frameY="-13" frameWidth="599" frameHeight="796"/>
+	<SubTexture name="mario up0003" x="3435" y="1618" width="591" height="738" frameX="-3" frameY="-56" frameWidth="599" frameHeight="796"/>
+	<SubTexture name="mario up0004" x="3435" y="1618" width="591" height="738" frameX="-3" frameY="-56" frameWidth="599" frameHeight="796"/>
+	<SubTexture name="mario up0005" x="4036" y="1618" width="586" height="718" frameX="-8" frameY="-78" frameWidth="599" frameHeight="796"/>
+	<SubTexture name="mario up0006" x="4036" y="1618" width="586" height="718" frameX="-8" frameY="-78" frameWidth="599" frameHeight="796"/>
+	<SubTexture name="mario up0007" x="4036" y="1618" width="586" height="718" frameX="-8" frameY="-78" frameWidth="599" frameHeight="796"/>
+</TextureAtlas>

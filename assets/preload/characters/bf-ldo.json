@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ldo bf idle normal"
+		},
+		{
+			"offsets": [
+				20,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ldo bf left"
+		},
+		{
+			"offsets": [
+				-120,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ldo bf down"
+		},
+		{
+			"offsets": [
+				-63,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ldo bf right"
+		},
+		{
+			"offsets": [
+				5,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ldo bf up"
+		},
+		{
+			"offsets": [
+				33,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "ldo bf yeah"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ldo bf miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-23
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ldo bf miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				24
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ldo bf miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ldo bf miss right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "ldo bf death"
+		},
+		{
+			"offsets": [
+				11,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "ldo bf loop death"
+		},
+		{
+			"offsets": [
+				1,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "ldo bf dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoyFriend_LDO",
+	"position": [
+		-20,
+		190
+	],
+	"healthicon": "bf-ldo",
+	"flip_x": true,
+	"healthbar_colors": [
+		196,
+		224,
+		245
+	],
+	"camera_position": [
+		-230,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

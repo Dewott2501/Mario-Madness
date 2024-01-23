@@ -6,7 +6,7 @@
 				18
 			],
 			"loop": false,
-			"fps": 24,
+			"fps": 30,
 			"anim": "idle",
 			"indices": [],
 			"name": "Racetraitors"
@@ -21,6 +21,17 @@
 			"fps": 30,
 			"name": "Racetraitors",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				305,
+				18
+			],
+			"anim": "talk2",
+			"fps": 35,
+			"name": "Racetraitors",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -29,12 +40,12 @@
 		-80,
 		110
 	],
-	"healthicon": "Race",
+	"healthicon": "race2",
 	"flip_x": false,
 	"healthbar_colors": [
-		234,
-		34,
-		36
+		220,
+		13,
+		42
 	],
 	"camera_position": [
 		-70,

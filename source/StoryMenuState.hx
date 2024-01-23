@@ -1,12 +1,14 @@
 package;
 
-#if desktop
-import Discord.DiscordClient;
-#end
+import TitleScreenShaders.NTSCGlitch;
+import TitleScreenShaders.TVStatic;
+import WeekData;
 import flixel.FlxG;
+import flixel.FlxObject;
 import flixel.FlxSprite;
 import flixel.FlxSubState;
 import flixel.addons.transition.FlxTransitionableState;
+import flixel.effects.FlxFlicker;
 import flixel.graphics.frames.FlxAtlasFrames;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.group.FlxGroup;
@@ -14,291 +16,412 @@ import flixel.math.FlxMath;
 import flixel.text.FlxText;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
+import flixel.tweens.misc.NumTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
+import hxcodec.VideoHandler;
+import hxcodec.VideoSprite;
 import lime.net.curl.CURLCode;
-import WeekData;
+import openfl.filters.ShaderFilter;
+import sys.FileSystem;
 
 using StringTools;
+#if desktop
+import Discord.DiscordClient;
+#end
 
-class StoryMenuState extends MusicBeatState
+class StoryMenuState extends MusicBeatSubstate
 {
-	// Wether you have to beat the previous week for playing this one
-	// Not recommended, as people usually download your mod for, you know,
-	// playing just the modded week then delete it.
-	// defaults to True
-	public static var weekCompleted:Map<String, Bool> = new Map<String, Bool>();
+	var bg:FlxSprite;
+	var bg1:FlxSprite;
+	var chars:FlxSprite;
+	var charsShader:NTSCGlitch;
+	var selSpr:FlxSprite;
+	var lineSpr:FlxSprite;
+	var opNum:Int = 0;
+	//var opCut:Int = -1;
+	var alpOp:FlxSprite;
+	var songsText:FlxText;
+	var titleText:FlxText;
+	var cutText:FlxText;
+	var startText:FlxText;
+	var quieto:Bool = true;
+	var inCutscene:Bool = false;
+	var overlay:FlxSprite;
+	var flicker:FlxSprite;
 
-	var scoreText:FlxText;
+	var opUp:FlxObject;
+	var opDown:FlxObject;
+	var vid:VideoSprite;
 
-	private static var curDifficulty:Int = 1;
+	var staticShader:TVStatic;
+	var dumbTween:FlxTween;
+	var dumbTween2:FlxTween;
+	private var grpCut:FlxTypedGroup<FlxSprite>;
 
-	var txtWeekTitle:FlxText;
-	var bgSprite:FlxSprite;
-
-	private static var curWeek:Int = 0;
-
-	var txtTracklist:FlxText;
-
-	var grpWeekText:FlxTypedGroup<MenuItem>;
-	var grpWeekCharacters:FlxTypedGroup<MenuCharacter>;
-
-	var grpLocks:FlxTypedGroup<FlxSprite>;
-
-	var difficultySelectors:FlxGroup;
-	var sprDifficultyGroup:FlxTypedGroup<FlxSprite>;
-	var leftArrow:FlxSprite;
-	var rightArrow:FlxSprite;
-	var tracksSprite:FlxSprite;
+	var cutscenes:Array<String> = ['Itsame_cutscene', 'ss_cutscene', 'post_ss_cutscene', 'ihy_cutscene', 'overdue_cutscn', 'demise_cutscene_SOUND', 'promocut', 'abandoncut'];
+	var cutReq:Array<Bool> = [ClientPrefs.storySave[0], ClientPrefs.storySave[0], ClientPrefs.storySave[0], (ClientPrefs.worlds[2] >= 4 || ClientPrefs.worldsALT[1] == 2), (ClientPrefs.worldsALT[3] == 1 || ClientPrefs.worldsALT[3] == 3), (ClientPrefs.worlds[3] == 6), (ClientPrefs.worlds[4] >= 1), (ClientPrefs.worlds[4] >= 2)];
 
 	override function create()
 	{
-		#if MODS_ALLOWED
-		Paths.destroyLoadedImages();
-		#end
-		WeekData.reloadWeekFiles(true);
-		if(curWeek >= WeekData.weeksList.length) curWeek = 0;
-		persistentUpdate = persistentDraw = true;
-
-		if (!FlxG.sound.music.playing)
-			{	
-				FlxG.sound.playMusic(Paths.music('freakyMenu'));
-			}
-
-		txtWeekTitle = new FlxText(FlxG.width * 0.7, 10, 0, "", 32);
-		txtWeekTitle.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, RIGHT);
-		txtWeekTitle.alpha = 0.7;
-
-		var rankText:FlxText = new FlxText(0, 10);
-		rankText.text = 'RANK: GREAT';
-		rankText.setFormat(Paths.font("vcr.ttf"), 32);
-		rankText.screenCenter(X);
-
-		var ui_tex = Paths.getSparrowAtlas('campaign_menu_UI_assets');
-
-		grpWeekText = new FlxTypedGroup<MenuItem>();
-		add(grpWeekText);
+		PlayState.isStoryMode = true;
+        FlxG.camera.zoom = 1;
+		MainMenuState.instance.lerpCamZoom = true;
+		MainMenuState.instance.camZoomMulti = 0.94;
 
 		var blackBarThingie:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, 56, FlxColor.BLACK);
-		add(blackBarThingie);
-
-		grpWeekCharacters = new FlxTypedGroup<MenuCharacter>();
-
-		grpLocks = new FlxTypedGroup<FlxSprite>();
-		add(grpLocks);
+		//add(blackBarThingie);
 
 		#if desktop
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Menus", null);
 		#end
+		bg1 = new FlxSprite().loadGraphic(Paths.image('modstuff/storymode/bg1'));
+		bg1.antialiasing = ClientPrefs.globalAntialiasing;
+		bg1.scale.set(1.15, 1.15);
+		bg1.updateHitbox();
+		bg1.screenCenter();
+		bg1.alpha = 0;
+		add(bg1);
 
-		for (i in 0...WeekData.weeksList.length)
-		{
-			WeekData.setDirectoryFromWeek(WeekData.weeksLoaded.get(WeekData.weeksList[i]));
-			var weekThing:MenuItem = new MenuItem(0, 396, WeekData.weeksList[i]);
-			weekThing.y += ((weekThing.height + 20) * i);
-			weekThing.targetY = i;
-			//grpWeekText.add(weekThing);
+		chars = new FlxSprite().loadGraphic(Paths.image('modstuff/storymode/bg2'));
+		chars.antialiasing = ClientPrefs.globalAntialiasing;
+		chars.updateHitbox();
+		chars.setPosition(750, 0);
+		chars.scrollFactor.set(0.5, 0.5);
+		chars.alpha = 0;
+		chars.origin.set(chars.width/2, 0);
+		charsShader = new NTSCGlitch(5);
+		chars.shader = charsShader;
+		add(chars);
 
-			weekThing.screenCenter(X);
-			weekThing.antialiasing = ClientPrefs.globalAntialiasing;
-			// weekThing.updateHitbox();
+		lineSpr = new FlxSprite().loadGraphic(Paths.image('modstuff/storymode/barraselect'));
+		lineSpr.antialiasing = ClientPrefs.globalAntialiasing;
+		lineSpr.updateHitbox();
+		lineSpr.setPosition(-2000, 220);
+		lineSpr.scrollFactor.set(1.2, 1.2);
+		add(lineSpr);
+		
+		dumbTween = FlxTween.num(2.0, 0.8, 4, {ease: FlxEase.expoOut}, (v:Float) -> {MainMenuState.instance.bloom.dim.value = [v];});
 
-			// Needs an offset thingie
-			if (weekIsLocked(i))
+		selSpr = new FlxSprite().loadGraphic(Paths.image('modstuff/storymode/text1'));
+		selSpr.antialiasing = ClientPrefs.globalAntialiasing;
+		selSpr.updateHitbox();
+		selSpr.setPosition(-50, 200);
+		selSpr.scrollFactor.set(1.2, 1.2);
+		selSpr.alpha = 0;
+		selSpr.y += 20;
+		add(selSpr);
+
+		alpOp = new FlxSprite().makeGraphic(Std.int(selSpr.width), Std.int(selSpr.height / 2), FlxColor.BLACK);
+		alpOp.updateHitbox();
+		alpOp.setPosition(0, selSpr.y + Std.int(selSpr.height / 2));
+		alpOp.scrollFactor.set(1.2, 1.2);
+		alpOp.alpha = 0;
+		add(alpOp);
+
+		songsText = new FlxText(650, 0, 400, "vs. Super Horror Mario", 32);
+		songsText.setFormat(Paths.font("mariones.ttf"), 16, FlxColor.RED, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		songsText.scrollFactor.set(1, 1);
+		songsText.updateHitbox();
+		add(songsText);
+
+		titleText = new FlxText(920, 0, 400, "Includes\n?????\n?????\n?????", 32);
+		titleText.setFormat(Paths.font("mariones.ttf"), 16, FlxColor.RED, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		titleText.scrollFactor.set(1, 1);
+		titleText.updateHitbox();
+		add(titleText);
+
+		if(ClientPrefs.storySave[0]) titleText.text = "Includes\nIt's-a-me\nStarman Slaughter";
+
+		startText = new FlxText(800, 600, 400, "Press Enter to Begin", 32);
+		startText.setFormat(Paths.font("mariones.ttf"), 24, FlxColor.RED, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		startText.scrollFactor.set(1, 1);
+		startText.updateHitbox();
+		add(startText);
+
+		cutText = new FlxText(800, 0, 400, "CUTSCENES", 32);
+		cutText.setFormat(Paths.font("mariones.ttf"), 32, FlxColor.RED, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		cutText.scrollFactor.set(1, 1);
+		cutText.updateHitbox();
+		cutText.visible = false;
+		add(cutText);
+
+		grpCut = new FlxTypedGroup<FlxSprite>();
+		grpCut.visible = false;
+		add(grpCut);
+
+		for (i in 0...cutscenes.length)
 			{
-				var lock:FlxSprite = new FlxSprite(weekThing.width + 10 + weekThing.x);
-				lock.frames = ui_tex;
-				lock.animation.addByPrefix('lock', 'lock');
-				lock.animation.play('lock');
-				lock.ID = i;
-				lock.antialiasing = ClientPrefs.globalAntialiasing;
-				grpLocks.add(lock);
+				var imageCut:FlxSprite = new FlxSprite().loadGraphic(Paths.image('modstuff/storymode/cutscenes/' + (i + 1)));
+				imageCut.updateHitbox();
+				imageCut.ID = i;
+
+				if(cutReq[i])grpCut.add(imageCut);
+				imageCut.y += 100 + (150 * i);
+				imageCut.x += 750; 
+				if(i >= 4){
+					imageCut.y -= (150 * 4);
+					imageCut.x += 250;
+				}
+
 			}
-		}
 
-		WeekData.setDirectoryFromWeek(WeekData.weeksLoaded.get(WeekData.weeksList[0]));
+		opUp = new FlxObject(selSpr.x, selSpr.y + 10, selSpr.width, Std.int(selSpr.height / 2));
+		opUp.scrollFactor.set(1.2, 1.2);
+		add(opUp);
 
-		difficultySelectors = new FlxGroup();
-		add(difficultySelectors);
+		opDown = new FlxObject(selSpr.x, selSpr.y + 10 + Std.int(selSpr.height / 2), selSpr.width, Std.int(selSpr.height / 2));
+		opDown.scrollFactor.set(1.2, 1.2);
+		add(opDown);
 
-		sprDifficultyGroup = new FlxTypedGroup<FlxSprite>();
-		add(sprDifficultyGroup);
+		overlay = new FlxSprite().loadGraphic(Paths.image('modstuff/storymode/black_vignette'));
+		overlay.antialiasing = ClientPrefs.globalAntialiasing;
+		overlay.scrollFactor.set(0, 0);
+		overlay.updateHitbox();
+		overlay.alpha = 0;
+		add(overlay);
+		
+		@:privateAccess FlxG.camera._filters.insert(0, new ShaderFilter(staticShader = new TVStatic()));
+		staticShader.strengthMulti.value = [0.5];
+		staticShader.imtoolazytonamethis.value = [.3];
 
-		changeDifficulty();
+		dumbTween2 = FlxTween.num(0, 0.5, 4, {ease: FlxEase.expoOut}, (v:Float) -> {staticShader.strengthMulti.value = [v];});
+		
+		flicker = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, 0xFF000000);
+		flicker.scrollFactor.set(0, 0);
+		flicker.updateHitbox();
+		flicker.alpha = 0.1;
+		add(flicker);
 
-		tracksSprite = new FlxSprite().loadGraphic(Paths.image('modstuff/start'));
-		tracksSprite.screenCenter();
-		tracksSprite.antialiasing = ClientPrefs.globalAntialiasing;
-		add(tracksSprite);
+		bg = new FlxSprite(-FlxG.width, -FlxG.height).makeGraphic(FlxG.width * 3, FlxG.height * 3, FlxColor.BLACK);
+		bg.scrollFactor.set();
+		bg.alpha = 0;
 
-		// add(rankText);
-		//add(txtWeekTitle);
+		FlxFlicker.flicker(flicker, 999999999999);
 
-		changeWeek();
+		FlxTween.tween(chars, {alpha: 1, y: 50}, 4, {ease: FlxEase.expoOut});
+		FlxTween.tween(bg1, {alpha: 1}, 4, {ease: FlxEase.expoOut});
+		FlxTween.tween(selSpr, {alpha: 1, x: 0}, 4, {ease: FlxEase.expoOut});
+		FlxTween.tween(alpOp, {alpha: 0.4}, 4, {ease: FlxEase.expoOut});
+		FlxTween.tween(lineSpr, {x: -100}, 4, {ease: FlxEase.expoOut});
+		FlxTween.tween(songsText, {alpha: 1}, 4, {ease: FlxEase.expoOut});
+		FlxTween.tween(titleText, {alpha: 1}, 4, {ease: FlxEase.expoOut});
+		FlxTween.tween(cutText, {alpha: 1}, 4, {ease: FlxEase.expoOut});
+		FlxTween.tween(overlay, {alpha: .4}, 4, {ease: FlxEase.expoOut});
 
 		super.create();
 	}
 
-	override function closeSubState() {
+	override function closeSubState()
+	{
 		persistentUpdate = true;
-		changeWeek();
 		super.closeSubState();
 	}
 
+	override function destroy() {
+		super.destroy();
+
+		dumbTween.cancel();
+		MainMenuState.instance.bloom.dim.value = [2.0];
+
+		dumbTween2.cancel();
+	}
+
+	var tottalTimer:Float = 0;
 	override function update(elapsed:Float)
 	{
-		lerpScore = Math.floor(FlxMath.lerp(lerpScore, intendedScore, CoolUtil.boundTo(elapsed * 30, 0, 1)));
-		if(Math.abs(intendedScore - lerpScore) < 10) lerpScore = intendedScore;
-
-		// FlxG.watch.addQuick('font', scoreText.font);
-
-		difficultySelectors.visible = !weekIsLocked(curWeek);
-
-		if (!movedBack && !selectedWeek)
+		tottalTimer += elapsed;
+		if (controls.ACCEPT && quieto)
 		{
-
-			if (controls.ACCEPT)
-			{
-				selectWeek();
-			}
-			else if(controls.RESET)
-			{
-				persistentUpdate = false;
-				openSubState(new ResetScoreSubState('', curDifficulty, '', curWeek));
-				FlxG.sound.play(Paths.sound('scrollMenu'));
-			}
+			selectWeek();
+		}
+		else if(controls.ACCEPT && inCutscene){
+			finishVideo();
+			vid.bitmap.stop();
 		}
 
-		if (controls.BACK && !movedBack && !selectedWeek)
+		charsShader.update(elapsed);
+		chars.angle = 2 * Math.sin(tottalTimer/2);
+		chars.offset.y = 3 * Math.sin(tottalTimer+.67);
+
+		staticShader.iTime.value = [tottalTimer];
+
+		overlay.scale.set(1/FlxG.camera.zoom, 1/FlxG.camera.zoom);
+		flicker.scale.set(1/FlxG.camera.zoom, 1/FlxG.camera.zoom);
+
+		if (controls.BACK && quieto)
 		{
 			PlayState.isStoryMode = false;
 			FlxG.sound.play(Paths.sound('cancelMenu'));
-			movedBack = true;
-			MusicBeatState.switchState(new MainMenuState());
+			FlxG.state.closeSubState();
+		}
+
+		MainMenuState.instance.WEHOVERING = false;
+
+		if (FlxG.mouse.overlaps(opUp) && quieto)
+			{
+				if(opNum != 0){
+				opNum = 0;
+				FlxTween.cancelTweensOf(lineSpr);
+				lineSpr.y = selSpr.y + 5;
+				alpOp.y = selSpr.y + Std.int(selSpr.height / 2);
+				lineSpr.x = -1200;
+				FlxTween.tween(lineSpr, {x: -100}, 0.5, {ease: FlxEase.expoOut});
+				}
+
+				if(FlxG.mouse.justPressed && chars.visible == false){
+					changeOp(0);
+				}
+				MainMenuState.instance.WEHOVERING = true;
+			}
+			
+
+		if (FlxG.mouse.overlaps(opDown) && quieto)
+			{
+				if(opNum != 1){
+				opNum = 1;
+				FlxTween.cancelTweensOf(lineSpr);
+				lineSpr.y = selSpr.y + Std.int(selSpr.height / 2);
+				alpOp.y = selSpr.y;
+				lineSpr.x = -1200;
+				FlxTween.tween(lineSpr, {x: -100}, 0.5, {ease: FlxEase.expoOut});
+				}
+
+				if(FlxG.mouse.justPressed && cutText.visible == false){
+					changeOp(1);
+				}
+				MainMenuState.instance.WEHOVERING = true;
+			}
+
+		if(cutText.visible && quieto){
+
+		grpCut.forEach(function(spr:FlxSprite)
+			{
+				spr.color = 0xFF7C0000;
+				if (FlxG.mouse.overlaps(spr))
+				{
+					spr.color = 0xFFFFFFFF;
+				}
+	
+				if(FlxG.mouse.justPressed && FlxG.mouse.overlaps(spr)){
+					quieto = false;
+					startVideo(cutscenes[spr.ID]);
+				}
+			});
 		}
 
 		super.update(elapsed);
-
-		grpLocks.forEach(function(lock:FlxSprite)
-		{
-			lock.y = grpWeekText.members[lock.ID].y;
-		});
 	}
 
-	var movedBack:Bool = false;
-	var selectedWeek:Bool = false;
-	var stopspamming:Bool = false;
+	function changeOp(option:Int){
+		chars.visible = false;
+		titleText.visible = false;
+		songsText.visible = false;
+		cutText.visible = false;
+		startText.visible = false;
+		grpCut.visible = false;
+		FlxG.sound.play(Paths.sound('scrollMenu'), 1);
+		if(option == 0){
+			chars.visible = true;
+			titleText.visible = true;
+			songsText.visible = true;
+			startText.visible = true;
+		}else{
+			cutText.visible = true;
+			grpCut.visible = true;
+		}
+	}
 
 	function selectWeek()
 	{
-		if (!weekIsLocked(curWeek))
+		quieto = false;
+		FlxG.sound.play(Paths.sound('confirmMenu'));
+		FlxG.camera.flash(FlxColor.RED, 0.5);
+		new FlxTimer().start(1, function(tmr:FlxTimer)
+			{
+		FlxG.sound.play(Paths.sound('riser'), 1);
+		var bloom:BloomShader = MainMenuState.instance.bloom;
+		bloom.Size.value = [0];
+		bloom.dim.value = [.8];
+
+		var twn1:NumTween;
+		var twn2:NumTween;
+
+		twn1 = FlxTween.num(0, 2, 2, {
+			onUpdate: (_) -> {
+				bloom.Size.value = [twn1.value];
+			}
+		});
+
+		twn2 = FlxTween.num(.8, 0.1, 2, {
+			onUpdate: (_) -> {
+				bloom.dim.value = [twn2.value];
+			}
+		});
+
+		for (i in 0...10){
+			new FlxTimer().start(0.2 * i, function(tmr:FlxTimer)
+				{
+					FlxG.camera.shake(0.0004 * i, 0.2);
+				});
+		}
+		FlxTween.tween(FlxG.camera, {zoom: 1.3}, 2, {ease: FlxEase.circIn});
+		FlxTween.tween(FlxG.sound.music, {volume: 0}, 2, {ease: FlxEase.circIn});
+		PlayState.storyPlaylist = ['Its a me', 'Starman Slaughter'];
+		PlayState.SONG = Song.loadFromJson(PlayState.storyPlaylist[0].toLowerCase(), PlayState.storyPlaylist[0].toLowerCase());
+		PauseSubState.tengo = 'its-a-me';
+		PlayState.storyWeek = 0;
+		PlayState.campaignScore = 0;
+		PlayState.campaignMisses = 0;
+		new FlxTimer().start(3, function(tmr:FlxTimer)
 		{
-			FlxTween.tween(tracksSprite, {alpha: 0}, 1, {ease: FlxEase.quadInOut});
-			FlxTween.tween(tracksSprite.scale, {x: 0.2, y: 0.2}, 1, {ease: FlxEase.quadInOut});
+			FlxG.camera.alpha = 0;
+			LoadingState.loadAndSwitchState(new PlayState(), true);
+		});
+		});
+	}
 
-			if (stopspamming == false)
+	public function startVideo(name:String):Void
+		{
+		FlxTween.tween(FlxG.sound.music, {volume: 0}, 1, {ease: FlxEase.circIn});
+
+		add(bg);
+		FlxTween.tween(bg, {alpha: 1}, 1);
+	
+		new FlxTimer().start(1.2, function(tmr:FlxTimer)
 			{
-				FlxG.sound.play(Paths.sound('confirmMenu'));
+				inCutscene = true;
+				MainMenuState.instance.lerpCamZoom = false;
+				FlxG.camera.zoom = 1;
+				vid = new VideoSprite();
+				vid.scrollFactor.set(0, 0);
+				vid.playVideo(Paths.video(name));
+				
+				add(vid);
+
+				FlxG.camera.filtersEnabled = false;
+				vid.finishCallback = function()
+				{
+					finishVideo();
+				}
+				return;
 			}
+			);
+			
+		}
 
-			// We can't use Dynamic Array .copy() because that crashes HTML5, here's a workaround.
-			var songArray:Array<String> = [];
-			var leWeek:Array<Dynamic> = WeekData.weeksLoaded.get(WeekData.weeksList[curWeek]).songs;
-			for (i in 0...leWeek.length) {
-				songArray.push(leWeek[i][0]);
-			}
-
-			// Nevermind that's stupid lmao
-			PlayState.storyPlaylist = songArray;
-			PlayState.isStoryMode = true;
-			selectedWeek = true;
-
-			trace(songArray);
-
-			var diffic = CoolUtil.difficultyStuff[curDifficulty][1];
-			if(diffic == null) diffic = '';
-
-			PlayState.storyDifficulty = curDifficulty;
-
-			PlayState.SONG = Song.loadFromJson(PlayState.storyPlaylist[0].toLowerCase() + diffic, PlayState.storyPlaylist[0].toLowerCase());
-			PlayState.storyWeek = curWeek;
-			PlayState.campaignScore = 0;
-			PlayState.campaignMisses = 0;
-			new FlxTimer().start(1, function(tmr:FlxTimer)
+	public function finishVideo():Void{
+		FlxG.camera.filtersEnabled = true;
+		vid.destroy();
+		new FlxTimer().start(1, function(tmr:FlxTimer)
 			{
-				LoadingState.loadAndSwitchState(new PlayState(), true);
-				FreeplayState.destroyFreeplayVocals();
+				remove(bg);
+				quieto = true;
+				MainMenuState.instance.lerpCamZoom = true;
 			});
-		} else {
-			FlxG.sound.play(Paths.sound('cancelMenu'));
-		}
+		FlxTween.tween(FlxG.sound.music, {volume: 1}, 1, {ease: FlxEase.circIn});
+		FlxTween.tween(bg, {alpha: 0}, 1);
 	}
-
-	function changeDifficulty(change:Int = 0):Void
-	{
-		curDifficulty += change;
-
-		if (curDifficulty < 0)
-			curDifficulty = CoolUtil.difficultyStuff.length-1;
-		if (curDifficulty >= CoolUtil.difficultyStuff.length)
-			curDifficulty = 0;
-
-		#if !switch
-		intendedScore = Highscore.getWeekScore(WeekData.weeksList[curWeek], curDifficulty);
-		#end
-	}
-
-	var lerpScore:Int = 0;
-	var intendedScore:Int = 0;
-
-	function changeWeek(change:Int = 0):Void
-	{
-		curWeek += change;
-
-		if (curWeek >= WeekData.weeksList.length)
-			curWeek = 0;
-		if (curWeek < 0)
-			curWeek = WeekData.weeksList.length - 1;
-
-		var leWeek:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[curWeek]);
-		WeekData.setDirectoryFromWeek(leWeek);
-
-		var leName:String = leWeek.storyName;
-		txtWeekTitle.text = leName.toUpperCase();
-		txtWeekTitle.x = FlxG.width - (txtWeekTitle.width + 10);
-
-		var bullShit:Int = 0;
-
-		for (item in grpWeekText.members)
-		{
-			item.targetY = bullShit - curWeek;
-			if (item.targetY == Std.int(0) && !weekIsLocked(curWeek))
-				item.alpha = 1;
-			else
-				item.alpha = 0.6;
-			bullShit++;
-		}
-		updateText();
-	}
-
-	function weekIsLocked(weekNum:Int) {
-		var leWeek:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[weekNum]);
-		return (!leWeek.startUnlocked && leWeek.weekBefore.length > 0 && (!weekCompleted.exists(leWeek.weekBefore) || !weekCompleted.get(leWeek.weekBefore)));
-	}
-
-	function updateText()
-	{
-		var weekArray:Array<String> = WeekData.weeksLoaded.get(WeekData.weeksList[curWeek]).weekCharacters;
-
-		var leWeek:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[curWeek]);
-		var stringThing:Array<String> = [];
-		for (i in 0...leWeek.songs.length) {
-			stringThing.push(leWeek.songs[i][0]);
-		}
-
-		#if !switch
-		intendedScore = Highscore.getWeekScore(WeekData.weeksList[curWeek], curDifficulty);
-		#end
-	}
+	
 }

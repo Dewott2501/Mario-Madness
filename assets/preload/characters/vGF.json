@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				330
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "VAltDown"
+		},
+		{
+			"offsets": [
+				0,
+				450
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "VAltIdle"
+		},
+		{
+			"offsets": [
+				-75,
+				441
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "VAltRight"
+		},
+		{
+			"offsets": [
+				104,
+				450
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "VAltLeft"
+		},
+		{
+			"offsets": [
+				90,
+				700
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "VAltUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MR_V",
+	"position": [
+		-200,
+		160
+	],
+	"healthicon": "gfv",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		-500
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

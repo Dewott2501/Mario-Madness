@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="path bootleg.png"><SubTexture name="path 10000" x="0" y="0" width="100" height="69" frameX="0" frameY="0" frameWidth="100" frameHeight="69" />
+<SubTexture name="path 20000" x="100" y="0" width="100" height="69" frameX="0" frameY="0" frameWidth="100" frameHeight="69" />
+<SubTexture name="path 30000" x="0" y="69" width="100" height="69" frameX="0" frameY="0" frameWidth="100" frameHeight="69" />
+<SubTexture name="path bootleg luigi pump0000" x="100" y="69" width="100" height="69" frameX="0" frameY="0" frameWidth="100" frameHeight="69" />
+</TextureAtlas>

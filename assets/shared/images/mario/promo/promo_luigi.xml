@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="promo_luigi.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="luigi idle left0000" x="5" y="5" width="227" height="520" frameX="0" frameY="-24" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0001" x="237" y="5" width="228" height="520" frameX="0" frameY="-25" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0002" x="237" y="5" width="228" height="520" frameX="0" frameY="-25" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0003" x="470" y="5" width="219" height="527" frameX="-6" frameY="-18" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0004" x="470" y="5" width="219" height="527" frameX="-6" frameY="-18" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0005" x="694" y="5" width="183" height="538" frameX="-23" frameY="-7" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0006" x="694" y="5" width="183" height="538" frameX="-23" frameY="-7" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0007" x="882" y="5" width="191" height="545" frameX="-19" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0008" x="1078" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0009" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0010" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0011" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0012" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0013" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle left0014" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0000" x="1462" y="5" width="227" height="521" frameX="0" frameY="-23" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0001" x="1694" y="5" width="228" height="521" frameX="0" frameY="-24" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0002" x="1694" y="5" width="228" height="521" frameX="0" frameY="-24" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0003" x="5" y="555" width="219" height="528" frameX="-6" frameY="-17" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0004" x="5" y="555" width="219" height="528" frameX="-6" frameY="-17" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0005" x="229" y="555" width="183" height="538" frameX="-23" frameY="-7" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0006" x="229" y="555" width="183" height="538" frameX="-23" frameY="-7" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0007" x="417" y="555" width="191" height="545" frameX="-19" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0008" x="613" y="555" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0009" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0010" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0011" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0012" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0013" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+	<SubTexture name="luigi idle right0014" x="1270" y="5" width="187" height="545" frameX="-21" frameY="0" frameWidth="228" frameHeight="545"/>
+</TextureAtlas>

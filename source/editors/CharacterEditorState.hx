@@ -3,17 +3,13 @@ package editors;
 #if desktop
 import Discord.DiscordClient;
 #end
+import Character;
+import flixel.FlxCamera;
 import flixel.FlxG;
 import flixel.FlxObject;
 import flixel.FlxSprite;
 import flixel.FlxState;
-import flixel.FlxCamera;
-import flixel.input.keyboard.FlxKey;
 import flixel.addons.display.FlxGridOverlay;
-import flixel.group.FlxGroup.FlxTypedGroup;
-import flixel.graphics.FlxGraphic;
-import flixel.text.FlxText;
-import flixel.util.FlxColor;
 import flixel.addons.ui.FlxInputText;
 import flixel.addons.ui.FlxUI9SliceSprite;
 import flixel.addons.ui.FlxUI;
@@ -22,22 +18,27 @@ import flixel.addons.ui.FlxUIInputText;
 import flixel.addons.ui.FlxUINumericStepper;
 import flixel.addons.ui.FlxUITabMenu;
 import flixel.addons.ui.FlxUITooltip.FlxUITooltipStyle;
+import flixel.animation.FlxAnimation;
+import flixel.graphics.FlxGraphic;
+import flixel.group.FlxGroup.FlxTypedGroup;
+import flixel.input.keyboard.FlxKey;
+import flixel.system.debug.interaction.tools.Pointer.GraphicCursorCross;
+import flixel.text.FlxText;
 import flixel.ui.FlxButton;
 import flixel.ui.FlxSpriteButton;
-import openfl.net.FileReference;
+import flixel.util.FlxColor;
+import haxe.Json;
+import lime.system.Clipboard;
+import openfl.Lib;
 import openfl.events.Event;
 import openfl.events.IOErrorEvent;
-import haxe.Json;
-import Character;
-import flixel.system.debug.interaction.tools.Pointer.GraphicCursorCross;
-import lime.system.Clipboard;
-import flixel.animation.FlxAnimation;
+import openfl.net.FileReference;
 
+using StringTools;
 #if MODS_ALLOWED
 import sys.FileSystem;
 #end
 
-using StringTools;
 
 /**
 	*DEBUG MODE
@@ -79,8 +80,6 @@ class CharacterEditorState extends MusicBeatState
 
 	override function create()
 	{
-		FlxG.sound.playMusic(Paths.music('breakfast'), 0.5);
-
 		camEditor = new FlxCamera();
 		camHUD = new FlxCamera();
 		camHUD.bgColor.alpha = 0;
@@ -91,6 +90,19 @@ class CharacterEditorState extends MusicBeatState
 		FlxG.cameras.add(camHUD);
 		FlxG.cameras.add(camMenu);
 		FlxCamera.defaultCameras = [camEditor];
+
+			if(Lib.application.window.width == 800 && Lib.application.window.height == 600){
+				Lib.application.window.move(Lib.application.window.x - 240, Lib.application.window.y - 60);
+				Lib.application.window.resize(1280, 720);
+			}
+			else if(Lib.application.window.width == 512 && Lib.application.window.height == 768)
+			{
+				Lib.application.window.resize(1280, 720);
+				Lib.application.window.move(PlayState.ogwinX, PlayState.ogwinY);
+			}
+
+			Lib.current.scaleX = 1;
+			Lib.current.scaleY = 1;
 
 		bgLayer = new FlxTypedGroup<FlxSprite>();
 		add(bgLayer);
@@ -400,6 +412,17 @@ class CharacterEditorState extends MusicBeatState
 			}
 		});
 
+		var decideIconColor:FlxButton = new FlxButton(reloadImage.x, reloadImage.y + 30, "Get Icon Color", function()
+			{
+				var coolColor = FlxColor.fromInt(CoolUtil.dominantColor(leHealthIcon));
+				healthColorStepperR.value = coolColor.red;
+				healthColorStepperG.value = coolColor.green;
+				healthColorStepperB.value = coolColor.blue;
+				getEvent(FlxUINumericStepper.CHANGE_EVENT, healthColorStepperR, null);
+				getEvent(FlxUINumericStepper.CHANGE_EVENT, healthColorStepperG, null);
+				getEvent(FlxUINumericStepper.CHANGE_EVENT, healthColorStepperB, null);
+			});
+
 		healthIconInputText = new FlxUIInputText(15, imageInputText.y + 35, 75, leHealthIcon.getCharacter(), 8);
 
 		singDurationStepper = new FlxUINumericStepper(15, healthIconInputText.y + 45, 0.1, 4, 0, 999, 1);
@@ -450,6 +473,7 @@ class CharacterEditorState extends MusicBeatState
 		tab_group.add(new FlxText(healthColorStepperR.x, healthColorStepperR.y - 18, 0, 'Health bar R/G/B:'));
 		tab_group.add(imageInputText);
 		tab_group.add(reloadImage);
+		tab_group.add(decideIconColor);
 		tab_group.add(healthIconInputText);
 		tab_group.add(singDurationStepper);
 		tab_group.add(scaleStepper);

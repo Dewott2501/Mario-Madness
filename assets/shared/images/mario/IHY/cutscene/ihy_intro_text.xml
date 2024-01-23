@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ihy intro text.png"><SubTexture name="ihy intro text you0000" x="0" y="0" width="87" height="31" frameX="0" frameY="0" frameWidth="87" frameHeight="31" />
+<SubTexture name="ihy intro text thought0000" x="0" y="31" width="87" height="31" frameX="0" frameY="0" frameWidth="87" frameHeight="31" />
+<SubTexture name="ihy intro text koopa0000" x="87" y="0" width="87" height="31" frameX="0" frameY="0" frameWidth="87" frameHeight="31" />
+<SubTexture name="ihy intro text worked0000" x="87" y="31" width="87" height="31" frameX="0" frameY="0" frameWidth="87" frameHeight="31" />
+<SubTexture name="ihy intro text alone0000" x="0" y="62" width="87" height="31" frameX="0" frameY="0" frameWidth="87" frameHeight="31" />
+</TextureAtlas>

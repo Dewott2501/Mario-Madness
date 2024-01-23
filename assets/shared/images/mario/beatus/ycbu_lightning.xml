@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ycbu_lightning.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightning0000" x="5" y="5" width="149" height="871" frameX="0" frameY="0" frameWidth="158" frameHeight="871"/>
+	<SubTexture name="lightning0001" x="164" y="5" width="154" height="865" frameX="-3" frameY="-3" frameWidth="158" frameHeight="871"/>
+	<SubTexture name="lightning0002" x="328" y="5" width="155" height="859" frameX="-3" frameY="-7" frameWidth="158" frameHeight="871"/>
+	<SubTexture name="lightning0003" x="493" y="5" width="143" height="867" frameX="-7" frameY="0" frameWidth="158" frameHeight="871"/>
+</TextureAtlas>

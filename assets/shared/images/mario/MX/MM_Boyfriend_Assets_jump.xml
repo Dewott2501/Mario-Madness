@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MM_Boyfriend_Assets_jump.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JUMP0000" x="0" y="0" width="541" height="707"/>
+	<SubTexture name="JUMP0001" x="551" y="0" width="541" height="707"/>
+	<SubTexture name="JUMP0002" x="1102" y="0" width="541" height="707"/>
+	<SubTexture name="JUMP0003" x="0" y="717" width="541" height="707"/>
+	<SubTexture name="JUMP0004" x="0" y="717" width="541" height="707"/>
+	<SubTexture name="JUMP0005" x="551" y="717" width="541" height="707"/>
+	<SubTexture name="JUMP0006" x="551" y="717" width="541" height="707"/>
+	<SubTexture name="JUMP0007" x="1102" y="717" width="541" height="707"/>
+	<SubTexture name="JUMP0008" x="1102" y="717" width="541" height="707"/>
+	<SubTexture name="JUMP0009" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0010" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0011" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0012" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0013" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0014" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0015" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0016" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0017" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0018" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0019" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0020" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0021" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0022" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0023" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0024" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0025" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0026" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0027" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0028" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0029" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0030" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0031" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0032" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0033" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0034" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0035" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0036" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0037" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0038" x="0" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0039" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMP0040" x="551" y="1434" width="541" height="707"/>
+	<SubTexture name="JUMPLAND0000" x="1102" y="1434" width="532" height="444"/>
+	<SubTexture name="JUMPLAND0001" x="0" y="2151" width="532" height="444"/>
+	<SubTexture name="JUMPLAND0002" x="542" y="2151" width="532" height="444"/>
+	<SubTexture name="JUMPLAND0003" x="1084" y="2151" width="532" height="444"/>
+	<SubTexture name="JUMPLAND0004" x="0" y="2605" width="532" height="444"/>
+</TextureAtlas>

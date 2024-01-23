@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Demise_BG2_techo.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Celling0000" x="5" y="5" width="4071" height="311"/>
+	<SubTexture name="Celling0001" x="5" y="326" width="4071" height="311"/>
+	<SubTexture name="Celling0002" x="5" y="647" width="4071" height="311"/>
+	<SubTexture name="Celling0003" x="5" y="968" width="4071" height="311"/>
+	<SubTexture name="Celling0004" x="5" y="1289" width="4071" height="311"/>
+	<SubTexture name="Celling0005" x="5" y="1610" width="4071" height="311"/>
+	<SubTexture name="Celling0006" x="5" y="1931" width="4071" height="311"/>
+</TextureAtlas>

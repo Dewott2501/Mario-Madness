@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="water hub.png"><SubTexture name="water hub idle0000" x="0" y="0" width="256" height="249" frameX="0" frameY="0" frameWidth="256" frameHeight="249" />
+<SubTexture name="water hub idle0001" x="256" y="0" width="254" height="249" frameX="-2" frameY="0" frameWidth="256" frameHeight="249" />
+<SubTexture name="water hub idle0002" x="0" y="249" width="256" height="249" frameX="0" frameY="0" frameWidth="256" frameHeight="249" />
+<SubTexture name="water hub idle0003" x="256" y="249" width="253" height="249" frameX="-3" frameY="0" frameWidth="256" frameHeight="249" />
+</TextureAtlas>

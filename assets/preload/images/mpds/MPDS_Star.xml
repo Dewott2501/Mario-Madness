@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MPDS_Star.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dice anim0000" x="5" y="5" width="47" height="46" frameX="0" frameY="-4" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0001" x="5" y="5" width="47" height="46" frameX="0" frameY="-4" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0002" x="5" y="5" width="47" height="46" frameX="0" frameY="-4" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0003" x="5" y="5" width="47" height="46" frameX="0" frameY="-3" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0004" x="5" y="5" width="47" height="46" frameX="0" frameY="-3" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0005" x="5" y="5" width="47" height="46" frameX="0" frameY="-2" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0006" x="5" y="5" width="47" height="46" frameX="0" frameY="-2" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0007" x="5" y="5" width="47" height="46" frameX="0" frameY="-1" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0008" x="5" y="5" width="47" height="46" frameX="0" frameY="-1" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0009" x="5" y="5" width="47" height="46" frameX="0" frameY="0" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0010" x="5" y="5" width="47" height="46" frameX="0" frameY="0" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0011" x="5" y="5" width="47" height="46" frameX="0" frameY="0" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0012" x="5" y="5" width="47" height="46" frameX="0" frameY="-1" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0013" x="5" y="5" width="47" height="46" frameX="0" frameY="-1" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0014" x="5" y="5" width="47" height="46" frameX="0" frameY="-2" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0015" x="5" y="5" width="47" height="46" frameX="0" frameY="-2" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0016" x="5" y="5" width="47" height="46" frameX="0" frameY="-3" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="dice anim0017" x="5" y="5" width="47" height="46" frameX="0" frameY="-3" frameWidth="47" frameHeight="50"/>
+	<SubTexture name="star anim0000" x="62" y="5" width="42" height="36" frameX="0" frameY="0" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0001" x="62" y="5" width="42" height="36" frameX="0" frameY="0" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0002" x="62" y="5" width="42" height="36" frameX="0" frameY="0" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0003" x="62" y="5" width="42" height="36" frameX="0" frameY="0" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0004" x="62" y="5" width="42" height="36" frameX="0" frameY="0" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0005" x="62" y="5" width="42" height="36" frameX="0" frameY="-1" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0006" x="62" y="5" width="42" height="36" frameX="0" frameY="-1" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0007" x="62" y="5" width="42" height="36" frameX="0" frameY="-1" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0008" x="62" y="5" width="42" height="36" frameX="-1" frameY="-2" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0009" x="62" y="5" width="42" height="36" frameX="-1" frameY="-2" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0010" x="62" y="5" width="42" height="36" frameX="-1" frameY="-2" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0011" x="62" y="5" width="42" height="36" frameX="-1" frameY="-3" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0012" x="62" y="5" width="42" height="36" frameX="-1" frameY="-3" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0013" x="62" y="5" width="42" height="36" frameX="-1" frameY="-3" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0014" x="62" y="5" width="42" height="36" frameX="-2" frameY="-4" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0015" x="62" y="5" width="42" height="36" frameX="-2" frameY="-4" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0016" x="62" y="5" width="42" height="36" frameX="-2" frameY="-4" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0017" x="62" y="5" width="42" height="36" frameX="-2" frameY="-5" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0018" x="62" y="5" width="42" height="36" frameX="-2" frameY="-5" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0019" x="62" y="5" width="42" height="36" frameX="-2" frameY="-5" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0020" x="62" y="5" width="42" height="36" frameX="-2" frameY="-5" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0021" x="62" y="5" width="42" height="36" frameX="-2" frameY="-5" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0022" x="62" y="5" width="42" height="36" frameX="-2" frameY="-4" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0023" x="62" y="5" width="42" height="36" frameX="-2" frameY="-4" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0024" x="62" y="5" width="42" height="36" frameX="-2" frameY="-4" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0025" x="62" y="5" width="42" height="36" frameX="-1" frameY="-3" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0026" x="62" y="5" width="42" height="36" frameX="-1" frameY="-3" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0027" x="62" y="5" width="42" height="36" frameX="-1" frameY="-3" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0028" x="62" y="5" width="42" height="36" frameX="-1" frameY="-2" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0029" x="62" y="5" width="42" height="36" frameX="-1" frameY="-2" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0030" x="62" y="5" width="42" height="36" frameX="-1" frameY="-2" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0031" x="62" y="5" width="42" height="36" frameX="0" frameY="-1" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0032" x="62" y="5" width="42" height="36" frameX="0" frameY="-1" frameWidth="44" frameHeight="41"/>
+	<SubTexture name="star anim0033" x="62" y="5" width="42" height="36" frameX="0" frameY="-1" frameWidth="44" frameHeight="41"/>
+</TextureAtlas>

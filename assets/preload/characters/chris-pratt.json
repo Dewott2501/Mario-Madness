@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chris pratt idle"
+		},
+		{
+			"offsets": [
+				84,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chris pratt left"
+		},
+		{
+			"offsets": [
+				8,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chris pratt right"
+		},
+		{
+			"offsets": [
+				24,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chris pratt down"
+		},
+		{
+			"offsets": [
+				15,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chris pratt up"
+		},
+		{
+			"offsets": [
+				138,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "chris pratt mario"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "itsame",
+			"fps": 24,
+			"name": "chris pratt itsame",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/christopher_pratt",
+	"position": [
+		20,
+		260
+	],
+	"healthicon": "chris",
+	"flip_x": false,
+	"healthbar_colors": [
+		194,
+		194,
+		194
+	],
+	"camera_position": [
+		-30,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

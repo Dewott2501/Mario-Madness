@@ -1,26 +1,26 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				305,
 				14
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Racetraitors"
+			"fps": 30,
+			"name": "Racetraitors",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				305,
 				13
 			],
-			"anim": "talk",
+			"loop": false,
 			"fps": 30,
-			"name": "Racetraitors",
-			"indices": []
+			"anim": "talk",
+			"indices": [],
+			"name": "Racetraitors"
 		}
 	],
 	"no_antialiasing": false,
@@ -29,12 +29,12 @@
 		-80,
 		110
 	],
-	"healthicon": "Race",
+	"healthicon": "race2",
 	"flip_x": false,
 	"healthbar_colors": [
-		234,
-		34,
-		36
+		220,
+		13,
+		42
 	],
 	"camera_position": [
 		-70,

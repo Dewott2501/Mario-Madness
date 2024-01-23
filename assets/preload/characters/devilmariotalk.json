@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				230
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "PowerStar Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-67
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "PowerStar Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				31
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "PowerStar Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-122,
+				103
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "PowerStar Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				230
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "ABPowerDialog",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				230
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ABPowerDialog"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Powerstar_Mario_v2_Assets2",
+	"position": [
+		-100,
+		-90
+	],
+	"healthicon": "devil",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		47,
+		83
+	],
+	"camera_position": [
+		-30,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

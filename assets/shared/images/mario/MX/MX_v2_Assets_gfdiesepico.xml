@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_dies_NEW_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFDieLoop0000" x="1952" y="4360" width="1942" height="197" pivotX="240.55" pivotY="-778.1"/>
+	<SubTexture name="GFDieLoop0001" x="1952" y="4360" width="1942" height="197"/>
+	<SubTexture name="GFDieLoop0002" x="1952" y="4360" width="1942" height="197"/>
+	<SubTexture name="GFDieLoop0003" x="1952" y="4360" width="1942" height="197"/>
+	<SubTexture name="GFDieLoop0004" x="1952" y="4360" width="1942" height="197"/>
+	<SubTexture name="GFDieLoop0005" x="1952" y="4360" width="1942" height="197"/>
+	<SubTexture name="GFDieLoop0006" x="1952" y="4360" width="1942" height="197"/>
+	<SubTexture name="GFDieLoop0007" x="1952" y="4360" width="1942" height="197"/>
+	<SubTexture name="GFDieLoop0008" x="1952" y="4360" width="1942" height="197"/>
+	<SubTexture name="GFDieLoop0009" x="1952" y="4360" width="1942" height="197"/>
+	<SubTexture name="GFDies0000" x="1716" y="1597" width="1331" height="711" pivotX="257.45" pivotY="969.85" frameX="-169" frameY="-397" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0001" x="0" y="2363" width="1406" height="558" frameX="-113" frameY="-387" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0002" x="0" y="2363" width="1406" height="558" frameX="-113" frameY="-387" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0003" x="1416" y="2855" width="1470" height="524" frameX="-97" frameY="-400" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0004" x="1416" y="2855" width="1470" height="524" frameX="-97" frameY="-400" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0005" x="1632" y="2318" width="1531" height="527" frameX="-81" frameY="-391" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0006" x="1632" y="2318" width="1531" height="527" frameX="-81" frameY="-391" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0007" x="1632" y="2318" width="1531" height="527" frameX="-81" frameY="-391" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0008" x="0" y="1788" width="1622" height="565" frameX="-54" frameY="-375" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0009" x="0" y="1788" width="1622" height="565" frameX="-54" frameY="-375" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0010" x="0" y="1112" width="1706" height="666" frameX="-27" frameY="-316" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0011" x="0" y="1112" width="1706" height="666" frameX="-27" frameY="-316" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0012" x="1910" y="0" width="1820" height="854" frameX="-28" frameY="-187" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0013" x="1910" y="0" width="1820" height="854" frameX="-28" frameY="-187" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0014" x="0" y="0" width="1900" height="1102" frameX="0" frameY="0" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies0015" x="0" y="0" width="1900" height="1102" frameX="0" frameY="0" frameWidth="1900" frameHeight="1108"/>
+	<SubTexture name="GFDies20000" x="1910" y="864" width="1991" height="723" pivotX="269.55" pivotY="-242.95" frameX="0" frameY="0" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20001" x="1910" y="864" width="1991" height="723" frameX="0" frameY="0" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20002" x="0" y="3684" width="1933" height="230" frameX="-36" frameY="-502" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20003" x="0" y="3684" width="1933" height="230" frameX="-36" frameY="-502" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20004" x="0" y="3684" width="1933" height="230" frameX="-36" frameY="-502" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20005" x="0" y="3924" width="1940" height="227" frameX="-30" frameY="-502" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20006" x="1952" y="3682" width="1940" height="242" frameX="-30" frameY="-490" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20007" x="1952" y="3682" width="1940" height="242" frameX="-30" frameY="-490" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20008" x="1952" y="3682" width="1940" height="242" frameX="-30" frameY="-490" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20009" x="1952" y="3389" width="1942" height="283" frameX="-29" frameY="-447" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20010" x="1952" y="3389" width="1942" height="283" frameX="-29" frameY="-447" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20011" x="0" y="3389" width="1942" height="285" frameX="-29" frameY="-447" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20012" x="1950" y="3934" width="1942" height="203" frameX="-29" frameY="-535" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20013" x="1950" y="3934" width="1942" height="203" frameX="-29" frameY="-535" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20014" x="1950" y="4147" width="1942" height="203" frameX="-29" frameY="-535" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20015" x="0" y="4360" width="1942" height="197" frameX="-29" frameY="-535" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20016" x="0" y="4360" width="1942" height="197" frameX="-29" frameY="-535" frameWidth="1991" frameHeight="738"/>
+	<SubTexture name="GFDies20017" x="0" y="4360" width="1942" height="197" frameX="-29" frameY="-535" frameWidth="1991" frameHeight="738"/>
+</TextureAtlas>

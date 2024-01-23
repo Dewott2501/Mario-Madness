@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Turmoil_Goomboyfriend_final.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="goombf dead animation0000" x="0" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0001" x="0" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0002" x="504" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0003" x="1008" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0004" x="1512" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0005" x="1512" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0006" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0007" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0008" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0009" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0010" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0011" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0012" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0013" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0014" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0015" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0016" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0017" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0018" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0019" x="2016" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0020" x="2520" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0021" x="3024" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0022" x="3528" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0023" x="3528" y="0" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0024" x="0" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0025" x="0" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0026" x="504" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0027" x="504" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0028" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0029" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0030" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0031" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0032" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0033" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0034" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0035" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0036" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0037" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0038" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0039" x="1008" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0040" x="1512" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0041" x="2016" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0042" x="2520" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0043" x="2520" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0044" x="3024" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0045" x="3024" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0046" x="3528" y="509" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0047" x="0" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0048" x="504" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0049" x="1008" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0050" x="1512" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0051" x="2016" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0052" x="2520" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0053" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0054" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0055" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0056" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0057" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0058" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0059" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0060" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0061" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0062" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0063" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0064" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0065" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0066" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0067" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0068" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead animation0069" x="3024" y="1018" width="494" height="499"/>
+	<SubTexture name="goombf dead confirm0000" x="0" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0001" x="1166" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0002" x="2332" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0003" x="0" y="2171" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0004" x="1166" y="2171" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0005" x="2332" y="2171" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0006" x="2332" y="2171" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0007" x="0" y="2815" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0008" x="1166" y="2815" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0009" x="2332" y="2815" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0010" x="2332" y="2815" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0011" x="0" y="3459" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0012" x="1166" y="3459" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0013" x="2332" y="3459" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0014" x="2332" y="3459" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0015" x="0" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0016" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0017" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0018" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0019" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0020" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0021" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0022" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0023" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0024" x="0" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0025" x="0" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0026" x="0" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0027" x="0" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0028" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0029" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0030" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0031" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0032" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0033" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead confirm0034" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0000" x="2332" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0001" x="2332" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0002" x="0" y="4747" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0003" x="0" y="4747" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0004" x="1166" y="4747" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0005" x="1166" y="4747" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0006" x="2332" y="4747" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0007" x="2332" y="4747" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0008" x="0" y="5391" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0009" x="0" y="5391" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0010" x="1166" y="5391" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0011" x="1166" y="5391" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0012" x="2332" y="5391" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0013" x="2332" y="5391" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0014" x="0" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0015" x="0" y="1527" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0016" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0017" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0018" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0019" x="0" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0020" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0021" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0022" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dead loop0023" x="1166" y="4103" width="1156" height="634"/>
+	<SubTexture name="goombf dodge0000" x="3498" y="5391" width="361" height="348"/>
+	<SubTexture name="goombf dodge0001" x="0" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf dodge0002" x="0" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf dodge0003" x="371" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf dodge0004" x="371" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf dodge0005" x="742" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf dodge0006" x="742" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf dodge0007" x="742" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf dodge0008" x="1113" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf dodge0009" x="1113" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf dodge0010" x="1113" y="6035" width="361" height="348"/>
+	<SubTexture name="goombf down0000" x="1484" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0001" x="1484" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0002" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0003" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0004" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0005" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0006" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0007" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0008" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0009" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0010" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0011" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0012" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0013" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf down0014" x="1888" y="6035" width="394" height="291"/>
+	<SubTexture name="goombf idle0000" x="2292" y="6035" width="389" height="321"/>
+	<SubTexture name="goombf idle0001" x="2691" y="6035" width="389" height="321"/>
+	<SubTexture name="goombf idle0002" x="2691" y="6035" width="389" height="321"/>
+	<SubTexture name="goombf idle0003" x="3090" y="6035" width="389" height="321"/>
+	<SubTexture name="goombf idle0004" x="3090" y="6035" width="389" height="321"/>
+	<SubTexture name="goombf idle0005" x="3489" y="6035" width="389" height="321"/>
+	<SubTexture name="goombf idle0006" x="3489" y="6035" width="389" height="321"/>
+	<SubTexture name="goombf idle0007" x="0" y="6393" width="389" height="321"/>
+	<SubTexture name="goombf idle0008" x="0" y="6393" width="389" height="321"/>
+	<SubTexture name="goombf idle0009" x="0" y="6393" width="389" height="321"/>
+	<SubTexture name="goombf idle0010" x="0" y="6393" width="389" height="321"/>
+	<SubTexture name="goombf idle0011" x="0" y="6393" width="389" height="321"/>
+	<SubTexture name="goombf idle0012" x="0" y="6393" width="389" height="321"/>
+	<SubTexture name="goombf idle0013" x="0" y="6393" width="389" height="321"/>
+	<SubTexture name="goombf idle0014" x="0" y="6393" width="389" height="321"/>
+	<SubTexture name="goombf left0000" x="399" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0001" x="399" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0002" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0003" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0004" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0005" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0006" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0007" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0008" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0009" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0010" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0011" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0012" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0013" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf left0014" x="797" y="6393" width="388" height="331"/>
+	<SubTexture name="goombf miss down0000" x="1195" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0001" x="1195" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0002" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0003" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0004" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0005" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0006" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0007" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0008" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0009" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0010" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0011" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0012" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0013" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss down0014" x="1597" y="6393" width="392" height="331"/>
+	<SubTexture name="goombf miss left0000" x="1999" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0001" x="1999" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0002" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0003" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0004" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0005" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0006" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0007" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0008" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0009" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0010" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0011" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0012" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0013" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss left0014" x="2383" y="6393" width="374" height="367"/>
+	<SubTexture name="goombf miss right0000" x="2767" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0001" x="2767" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0002" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0003" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0004" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0005" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0006" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0007" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0008" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0009" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0010" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0011" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss right0012" x="3179" y="6393" width="402" height="364"/>
+	<SubTexture name="goombf miss up0000" x="3591" y="6393" width="353" height="372"/>
+	<SubTexture name="goombf miss up0001" x="3591" y="6393" width="353" height="372"/>
+	<SubTexture name="goombf miss up0002" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0003" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0004" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0005" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0006" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0007" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0008" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0009" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0010" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0011" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0012" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0013" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf miss up0014" x="0" y="6775" width="353" height="372"/>
+	<SubTexture name="goombf right0000" x="363" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0001" x="363" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0002" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0003" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0004" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0005" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0006" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0007" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0008" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0009" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0010" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0011" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0012" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0013" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf right0014" x="781" y="6775" width="408" height="337"/>
+	<SubTexture name="goombf up0000" x="1199" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0001" x="1199" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0002" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0003" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0004" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0005" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0006" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0007" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0008" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0009" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0010" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0011" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0012" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0013" x="1559" y="6775" width="350" height="373"/>
+	<SubTexture name="goombf up0014" x="1559" y="6775" width="350" height="373"/>
+</TextureAtlas>

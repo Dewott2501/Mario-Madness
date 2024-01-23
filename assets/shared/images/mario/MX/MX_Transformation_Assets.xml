@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX_Transformation_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MX Transformation0000" x="5" y="5" width="364" height="712" frameX="-721" frameY="-1586" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0001" x="379" y="5" width="534" height="555" frameX="-625" frameY="-1750" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0002" x="379" y="5" width="534" height="555" frameX="-625" frameY="-1750" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0003" x="923" y="5" width="529" height="670" frameX="-650" frameY="-1643" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0004" x="923" y="5" width="529" height="670" frameX="-650" frameY="-1643" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0005" x="1462" y="5" width="609" height="694" frameX="-614" frameY="-1620" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0006" x="2081" y="5" width="639" height="677" frameX="-599" frameY="-1636" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0007" x="2081" y="5" width="639" height="677" frameX="-599" frameY="-1636" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0008" x="2730" y="5" width="751" height="884" frameX="-550" frameY="-1435" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0009" x="3491" y="5" width="851" height="912" frameX="-476" frameY="-1411" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0010" x="3491" y="5" width="851" height="912" frameX="-476" frameY="-1411" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0011" x="4352" y="5" width="860" height="899" frameX="-471" frameY="-1423" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0012" x="4352" y="5" width="860" height="899" frameX="-471" frameY="-1423" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0013" x="5222" y="5" width="930" height="857" frameX="-435" frameY="-1463" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0014" x="5222" y="5" width="930" height="857" frameX="-435" frameY="-1463" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0015" x="6162" y="5" width="813" height="1440" frameX="-522" frameY="-913" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0016" x="6985" y="5" width="1193" height="1745" frameX="-375" frameY="-617" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0017" x="6985" y="5" width="1193" height="1745" frameX="-375" frameY="-617" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0018" x="5" y="1760" width="1287" height="1788" frameX="-319" frameY="-571" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0019" x="5" y="1760" width="1287" height="1788" frameX="-319" frameY="-571" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0020" x="1302" y="1760" width="1406" height="1714" frameX="-245" frameY="-644" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0021" x="1302" y="1760" width="1406" height="1714" frameX="-245" frameY="-644" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0022" x="2718" y="1760" width="1309" height="2189" frameX="-285" frameY="-174" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0023" x="4037" y="1760" width="1487" height="2278" frameX="-229" frameY="-85" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0024" x="4037" y="1760" width="1487" height="2278" frameX="-229" frameY="-85" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0025" x="5534" y="1760" width="1596" height="2341" frameX="-195" frameY="-22" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0026" x="5534" y="1760" width="1596" height="2341" frameX="-195" frameY="-22" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0027" x="5" y="4111" width="1690" height="2363" frameX="-165" frameY="0" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0028" x="5" y="4111" width="1690" height="2363" frameX="-165" frameY="0" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0029" x="1705" y="4111" width="2103" height="2202" frameX="0" frameY="-161" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0030" x="1705" y="4111" width="2103" height="2202" frameX="0" frameY="-161" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0031" x="3818" y="4111" width="1957" height="2300" frameX="-43" frameY="-63" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0032" x="3818" y="4111" width="1957" height="2300" frameX="-43" frameY="-63" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0033" x="3818" y="4111" width="1957" height="2300" frameX="-43" frameY="-63" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0034" x="3818" y="4111" width="1957" height="2300" frameX="-43" frameY="-63" frameWidth="2103" frameHeight="2363"/>
+	<SubTexture name="MX Transformation0035" x="5785" y="4111" width="1957" height="2300" frameX="-43" frameY="-63" frameWidth="2103" frameHeight="2363"/>
+</TextureAtlas>

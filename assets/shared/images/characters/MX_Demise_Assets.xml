@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX_Demise_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MX Running Legs0000" x="7448" y="5" width="697" height="1054" frameX="-527" frameY="-141" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0001" x="7448" y="5" width="697" height="1054" frameX="-527" frameY="-141" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0002" x="5435" y="4291" width="1141" height="1127" frameX="-315" frameY="-57" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0003" x="5435" y="4291" width="1141" height="1127" frameX="-315" frameY="-57" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0004" x="4037" y="5" width="1784" height="979" frameX="0" frameY="-15" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0005" x="4037" y="5" width="1784" height="979" frameX="0" frameY="-15" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0006" x="5826" y="5" width="1617" height="1071" frameX="-149" frameY="-93" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0007" x="5826" y="5" width="1617" height="1071" frameX="-149" frameY="-93" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0008" x="7145" y="1081" width="974" height="1098" frameX="-418" frameY="-93" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0009" x="7145" y="1081" width="974" height="1098" frameX="-418" frameY="-93" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0010" x="2111" y="4831" width="781" height="1116" frameX="-503" frameY="-48" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0011" x="2111" y="4831" width="781" height="1116" frameX="-503" frameY="-48" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0012" x="4055" y="4187" width="1375" height="972" frameX="-198" frameY="0" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0013" x="4055" y="4187" width="1375" height="972" frameX="-198" frameY="0" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0014" x="6581" y="4291" width="1185" height="1085" frameX="-289" frameY="-88" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Legs0015" x="6581" y="4291" width="1185" height="1085" frameX="-289" frameY="-88" frameWidth="1784" frameHeight="1195"/>
+	<SubTexture name="MX Running Right Arm0000" x="5" y="5647" width="652" height="751" frameX="-413" frameY="-100" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0001" x="5" y="5647" width="652" height="751" frameX="-413" frameY="-100" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0002" x="2897" y="5372" width="830" height="737" frameX="-478" frameY="-33" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0003" x="2897" y="5372" width="830" height="737" frameX="-478" frameY="-33" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0004" x="4856" y="5423" width="1117" height="493" frameX="-468" frameY="0" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0005" x="4856" y="5423" width="1117" height="493" frameX="-468" frameY="0" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0006" x="6581" y="5381" width="1083" height="525" frameX="-481" frameY="-83" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0007" x="6581" y="5381" width="1083" height="525" frameX="-481" frameY="-83" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0008" x="4055" y="5164" width="796" height="785" frameX="-506" frameY="-87" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0009" x="4055" y="5164" width="796" height="785" frameX="-506" frameY="-87" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0010" x="5978" y="5423" width="560" height="839" frameX="-471" frameY="-34" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0011" x="5978" y="5423" width="560" height="839" frameX="-471" frameY="-34" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0012" x="6543" y="5911" width="725" height="609" frameX="0" frameY="-15" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0013" x="6543" y="5911" width="725" height="609" frameX="0" frameY="-15" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0014" x="662" y="5825" width="750" height="589" frameX="-12" frameY="-94" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Right Arm0015" x="662" y="5825" width="750" height="589" frameX="-12" frameY="-94" frameWidth="1585" frameHeight="873"/>
+	<SubTexture name="MX Running Upper Body0000" x="1326" y="1675" width="1413" height="1174" frameX="-42" frameY="-59" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0001" x="1326" y="1675" width="1413" height="1174" frameX="-42" frameY="-59" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0002" x="2946" y="4144" width="1104" height="1223" frameX="-11" frameY="-12" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0003" x="2946" y="4144" width="1104" height="1223" frameX="-11" frameY="-12" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0004" x="5" y="4628" width="1050" height="1014" frameX="0" frameY="0" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0005" x="5" y="4628" width="1050" height="1014" frameX="0" frameY="0" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0006" x="1060" y="4831" width="1046" height="989" frameX="-16" frameY="-54" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0007" x="1060" y="4831" width="1046" height="989" frameX="-16" frameY="-54" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0008" x="5120" y="3035" width="1240" height="1147" frameX="-42" frameY="-59" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0009" x="5120" y="3035" width="1240" height="1147" frameX="-42" frameY="-59" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0010" x="5653" y="1081" width="1487" height="1139" frameX="-11" frameY="-12" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0011" x="5653" y="1081" width="1487" height="1139" frameX="-11" frameY="-12" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0012" x="2744" y="2057" width="1733" height="953" frameX="0" frameY="0" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0013" x="2744" y="2057" width="1733" height="953" frameX="0" frameY="0" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0014" x="4037" y="989" width="1611" height="1063" frameX="-16" frameY="-54" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Running Upper Body0015" x="4037" y="989" width="1611" height="1063" frameX="-16" frameY="-54" frameWidth="1733" frameHeight="1235"/>
+	<SubTexture name="MX Sing Down0000" x="1905" y="3015" width="1874" height="826" frameX="-21" frameY="0" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0001" x="5" y="2854" width="1895" height="818" frameX="-19" frameY="-3" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0002" x="5" y="2854" width="1895" height="818" frameX="-19" frameY="-3" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0003" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0004" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0005" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0006" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0007" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0008" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0009" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0010" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0011" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0012" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0013" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0014" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Down0015" x="4482" y="2225" width="1944" height="805" frameX="0" frameY="-6" frameWidth="1944" frameHeight="826"/>
+	<SubTexture name="MX Sing Left0000" x="6365" y="3335" width="1495" height="951" frameX="-2" frameY="0" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0001" x="5" y="3677" width="1498" height="946" frameX="0" frameY="-6" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0002" x="5" y="3677" width="1498" height="946" frameX="0" frameY="-6" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0003" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0004" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0005" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0006" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0007" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0008" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0009" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0010" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0011" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0012" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0013" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Left0014" x="1508" y="3846" width="1433" height="980" frameX="-64" frameY="-13" frameWidth="1498" frameHeight="993"/>
+	<SubTexture name="MX Sing Right0000" x="3784" y="3035" width="1331" height="1104" frameX="-55" frameY="0" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0001" x="6431" y="2225" width="1344" height="1105" frameX="-37" frameY="-5" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0002" x="6431" y="2225" width="1344" height="1105" frameX="-37" frameY="-5" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0003" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0004" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0005" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0006" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0007" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0008" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0009" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0010" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0011" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0012" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0013" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0014" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Right0015" x="5" y="1708" width="1306" height="1055" frameX="0" frameY="-56" frameWidth="1386" frameHeight="1111"/>
+	<SubTexture name="MX Sing Up0000" x="5" y="5" width="1316" height="1698" frameX="0" frameY="0" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0001" x="1326" y="5" width="1340" height="1665" frameX="-17" frameY="-11" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0002" x="1326" y="5" width="1340" height="1665" frameX="-17" frameY="-11" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0003" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0004" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0005" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0006" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0007" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0008" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0009" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0010" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0011" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0012" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0013" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+	<SubTexture name="MX Sing Up0014" x="2671" y="5" width="1361" height="1594" frameX="-70" frameY="-51" frameWidth="1431" frameHeight="1698"/>
+</TextureAtlas>

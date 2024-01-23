@@ -1,0 +1,632 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_LDO.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ldo mario down0000" x="5" y="5" width="488" height="593" frameX="0" frameY="-12" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0001" x="5" y="5" width="488" height="593" frameX="0" frameY="-12" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0002" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0003" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0004" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0005" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0006" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0007" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0008" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0009" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0010" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0011" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0012" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0013" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario down0014" x="498" y="5" width="491" height="606" frameX="-1" frameY="0" frameWidth="492" frameHeight="606"/>
+	<SubTexture name="ldo mario dumbassgeek0000" x="6708" y="2490" width="440" height="609" frameX="-7" frameY="-8" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0001" x="7153" y="2490" width="447" height="607" frameX="0" frameY="-10" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0002" x="7605" y="2490" width="444" height="617" frameX="-25" frameY="0" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0003" x="5" y="3126" width="444" height="617" frameX="-25" frameY="0" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0004" x="454" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0005" x="907" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0006" x="907" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0007" x="1360" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0008" x="1813" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0009" x="2266" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0010" x="2266" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0011" x="2719" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0012" x="3172" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0013" x="3625" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0014" x="4078" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0015" x="4531" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0016" x="4531" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0017" x="4984" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0018" x="4984" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0019" x="5437" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0020" x="5890" y="3126" width="441" height="611" frameX="-25" frameY="-6" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0021" x="6336" y="3126" width="441" height="611" frameX="-25" frameY="-6" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0022" x="6782" y="3126" width="442" height="617" frameX="-24" frameY="0" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0023" x="7229" y="3126" width="442" height="617" frameX="-24" frameY="0" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0024" x="7676" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0025" x="7676" y="3126" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0026" x="5" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0027" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0028" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0029" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0030" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0031" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0032" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0033" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0034" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0035" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0036" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0037" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0038" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0039" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0040" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0041" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0042" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0043" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0044" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0045" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0046" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0047" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0048" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0049" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0050" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0051" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0052" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0053" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0054" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0055" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0056" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0057" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0058" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario dumbassgeek0059" x="458" y="3748" width="448" height="615" frameX="-21" frameY="-2" frameWidth="469" frameHeight="617"/>
+	<SubTexture name="ldo mario hey0000" x="911" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0001" x="1374" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0002" x="1837" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0003" x="1837" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0004" x="2300" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0005" x="2763" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0006" x="2763" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0007" x="2763" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0008" x="2763" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0009" x="3226" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0010" x="3689" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0011" x="3689" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0012" x="3689" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0013" x="3689" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario hey0014" x="3689" y="3748" width="458" height="611"/>
+	<SubTexture name="ldo mario idle annoyed0000" x="994" y="5" width="472" height="597" frameX="-8" frameY="-13" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0001" x="1471" y="5" width="464" height="598" frameX="-17" frameY="-12" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0002" x="1471" y="5" width="464" height="598" frameX="-17" frameY="-12" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0003" x="1940" y="5" width="460" height="605" frameX="-14" frameY="-6" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0004" x="1940" y="5" width="460" height="605" frameX="-14" frameY="-6" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0005" x="2405" y="5" width="461" height="611" frameX="-8" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0006" x="2405" y="5" width="461" height="611" frameX="-8" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0007" x="2871" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0008" x="2871" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0009" x="2871" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0010" x="2871" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0011" x="2871" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0012" x="2871" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0013" x="2871" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle annoyed0014" x="2871" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0000" x="3339" y="5" width="472" height="597" frameX="-8" frameY="-13" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0001" x="3816" y="5" width="464" height="598" frameX="-17" frameY="-12" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0002" x="3816" y="5" width="464" height="598" frameX="-17" frameY="-12" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0003" x="4285" y="5" width="460" height="605" frameX="-14" frameY="-6" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0004" x="4285" y="5" width="460" height="605" frameX="-14" frameY="-6" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0005" x="4750" y="5" width="461" height="611" frameX="-8" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0006" x="4750" y="5" width="461" height="611" frameX="-8" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0007" x="5216" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0008" x="5216" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0009" x="5216" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0010" x="5216" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0011" x="5216" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0012" x="5216" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0013" x="5216" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario idle normal0014" x="5216" y="5" width="463" height="611" frameX="0" frameY="0" frameWidth="481" frameHeight="611"/>
+	<SubTexture name="ldo mario left0000" x="5684" y="5" width="555" height="598" frameX="0" frameY="-6" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0001" x="5684" y="5" width="555" height="598" frameX="0" frameY="-6" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0002" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0003" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0004" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0005" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0006" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0007" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0008" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0009" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0010" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0011" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0012" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0013" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario left0014" x="6244" y="5" width="547" height="604" frameX="-14" frameY="0" frameWidth="561" frameHeight="604"/>
+	<SubTexture name="ldo mario moms an idiot0000" x="6796" y="5" width="446" height="610" frameX="-84" frameY="0" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0001" x="7247" y="5" width="444" height="604" frameX="-131" frameY="-26" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0002" x="7696" y="5" width="444" height="604" frameX="-131" frameY="-26" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0003" x="5" y="621" width="449" height="609" frameX="-129" frameY="-21" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0004" x="459" y="621" width="623" height="618" frameX="-2" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0005" x="1087" y="621" width="623" height="618" frameX="-9" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0006" x="1715" y="621" width="621" height="618" frameX="-10" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0007" x="2341" y="621" width="625" height="618" frameX="-8" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0008" x="2971" y="621" width="621" height="618" frameX="-10" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0009" x="3597" y="621" width="623" height="618" frameX="-9" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0010" x="4225" y="621" width="621" height="618" frameX="-10" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0011" x="4851" y="621" width="625" height="618" frameX="-8" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0012" x="5481" y="621" width="621" height="618" frameX="-10" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0013" x="6107" y="621" width="623" height="618" frameX="-9" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0014" x="6735" y="621" width="626" height="618" frameX="-8" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0015" x="7366" y="621" width="626" height="618" frameX="-8" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0016" x="5" y="1244" width="645" height="618" frameX="0" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0017" x="655" y="1244" width="645" height="618" frameX="0" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0018" x="1305" y="1244" width="645" height="618" frameX="0" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0019" x="1955" y="1244" width="645" height="618" frameX="0" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0020" x="2605" y="1244" width="645" height="618" frameX="0" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0021" x="3255" y="1244" width="645" height="618" frameX="0" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0022" x="3905" y="1244" width="645" height="618" frameX="0" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0023" x="4555" y="1244" width="645" height="618" frameX="0" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0024" x="5205" y="1244" width="645" height="618" frameX="0" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0025" x="5855" y="1244" width="635" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0026" x="6495" y="1244" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0027" x="6495" y="1244" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0028" x="7136" y="1244" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0029" x="5" y="1867" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0030" x="646" y="1867" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0031" x="1287" y="1867" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0032" x="1928" y="1867" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0033" x="2569" y="1867" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0034" x="2569" y="1867" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0035" x="2569" y="1867" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0036" x="2569" y="1867" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0037" x="3210" y="1867" width="636" height="618" frameX="-6" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0038" x="3851" y="1867" width="613" height="618" frameX="-19" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0039" x="4469" y="1867" width="613" height="618" frameX="-19" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0040" x="5087" y="1867" width="451" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0041" x="5543" y="1867" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0042" x="6005" y="1867" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0043" x="6467" y="1867" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0044" x="6929" y="1867" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0045" x="7391" y="1867" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0046" x="5" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0047" x="467" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0048" x="929" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0049" x="1391" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0050" x="1853" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0051" x="2315" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0052" x="2777" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0053" x="3239" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0054" x="3701" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0055" x="4163" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0056" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0057" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0058" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0059" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0060" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0061" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0062" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0063" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0064" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0065" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0066" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0067" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0068" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0069" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0070" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0071" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0072" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0073" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0074" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0075" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0076" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0077" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0078" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0079" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0080" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0081" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0082" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0083" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0084" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0085" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0086" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0087" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0088" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0089" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0090" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0091" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0092" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0093" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0094" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario moms an idiot0095" x="4625" y="2490" width="457" height="618" frameX="-120" frameY="-12" frameWidth="645" frameHeight="630"/>
+	<SubTexture name="ldo mario right0000" x="5087" y="2490" width="347" height="621" frameX="-23" frameY="-1" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0001" x="5087" y="2490" width="347" height="621" frameX="-23" frameY="-1" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0002" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0003" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0004" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0005" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0006" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0007" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0008" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0009" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0010" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0011" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0012" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0013" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario right0014" x="5439" y="2490" width="360" height="622" frameX="0" frameY="0" frameWidth="370" frameHeight="622"/>
+	<SubTexture name="ldo mario smoke hold0000" x="4152" y="3748" width="367" height="611"/>
+	<SubTexture name="ldo mario up0000" x="5804" y="2490" width="451" height="631"/>
+	<SubTexture name="ldo mario up0001" x="5804" y="2490" width="451" height="631"/>
+	<SubTexture name="ldo mario up0002" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0003" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0004" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0005" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0006" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0007" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0008" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0009" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0010" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0011" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0012" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0013" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario up0014" x="6260" y="2490" width="443" height="626" frameX="-3" frameY="-5" frameWidth="451" frameHeight="631"/>
+	<SubTexture name="ldo mario yeayoubetternot0000" x="4524" y="3748" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0001" x="4987" y="3748" width="463" height="609" frameX="-7" frameY="-6" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0002" x="5455" y="3748" width="549" height="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0003" x="5455" y="3748" width="549" height="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0004" x="6009" y="3748" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0005" x="6561" y="3748" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0006" x="7113" y="3748" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0007" x="5" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0008" x="557" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0009" x="1109" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0010" x="1661" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0011" x="6009" y="3748" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0012" x="2213" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0013" x="2765" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0014" x="3317" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0015" x="3869" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0016" x="4421" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0017" x="4973" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0018" x="2213" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0019" x="5525" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0020" x="5525" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0021" x="6077" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0022" x="6629" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0023" x="7181" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0024" x="5" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0025" x="6009" y="3748" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0026" x="557" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0027" x="1109" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0028" x="1661" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0029" x="2213" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0030" x="6009" y="3748" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0031" x="2765" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0032" x="3317" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0033" x="3869" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0034" x="4421" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0035" x="4973" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0036" x="4973" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0037" x="5525" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0038" x="6077" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0039" x="6629" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0040" x="7181" y="4987" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0041" x="5" y="5606" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0042" x="557" y="5606" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0043" x="1109" y="5606" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0044" x="1109" y="5606" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0045" x="1661" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0046" x="1661" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0047" x="1661" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0048" x="1661" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0049" x="1661" y="4368" width="547" height="614" frameX="-2" frameY="-1" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0050" x="1661" y="5606" width="537" height="612" frameX="-4" frameY="-3" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0051" x="2203" y="5606" width="537" height="612" frameX="-4" frameY="-3" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0052" x="2745" y="5606" width="452" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0053" x="3202" y="5606" width="452" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0054" x="3659" y="5606" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0055" x="4122" y="5606" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0056" x="4585" y="5606" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0057" x="5048" y="5606" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0058" x="5511" y="5606" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0059" x="5974" y="5606" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0060" x="6437" y="5606" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0061" x="6900" y="5606" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0062" x="7363" y="5606" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0063" x="5" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0064" x="5" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0065" x="468" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0066" x="931" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0067" x="1394" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0068" x="1857" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0069" x="2320" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0070" x="2783" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0071" x="2783" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0072" x="3246" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0073" x="3246" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0074" x="3709" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0075" x="2783" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0076" x="4172" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0077" x="4172" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0078" x="4172" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0079" x="4635" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0080" x="5098" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0081" x="5098" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0082" x="5561" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0083" x="6024" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0084" x="6487" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0085" x="6950" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0086" x="7413" y="6225" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0087" x="5" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0088" x="5" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0089" x="468" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0090" x="468" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0091" x="931" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0092" x="1394" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0093" x="1857" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0094" x="1857" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0095" x="2320" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0096" x="5" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0097" x="2783" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0098" x="3246" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0099" x="3709" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0100" x="4172" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0101" x="4635" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0102" x="4635" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0103" x="5098" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0104" x="5561" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0105" x="6024" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0106" x="6487" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0107" x="1857" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0108" x="1857" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0109" x="6950" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0110" x="7413" y="6841" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0111" x="5" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0112" x="5" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0113" x="468" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0114" x="468" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0115" x="468" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0116" x="468" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0117" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0118" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0119" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0120" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0121" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0122" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0123" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0124" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0125" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0126" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0127" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0128" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0129" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0130" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0131" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0132" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0133" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0134" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0135" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0136" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0137" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0138" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0139" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0140" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0141" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0142" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0143" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0144" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0145" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0146" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0147" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0148" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0149" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0150" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0151" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0152" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0153" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0154" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0155" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0156" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0157" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0158" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0159" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0160" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0161" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0162" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0163" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0164" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0165" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0166" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0167" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0168" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0169" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0170" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+	<SubTexture name="ldo mario yeayoubetternot0171" x="931" y="7457" width="458" height="611" frameX="-7" frameY="-4" frameWidth="549" frameHeight="615"/>
+
+    <SubTexture name="ldo mario gonnatellmom0000" x="5" y="8197" width="367" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0001" x="377" y="8197" width="372" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0002" x="377" y="8197" width="372" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0003" x="754" y="8197" width="462" height="611"/>
+	<SubTexture name="ldo mario gonnatellmom0004" x="754" y="8197" width="462" height="611"/>
+	<SubTexture name="ldo mario gonnatellmom0005" x="1221" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0006" x="1684" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0007" x="1684" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0008" x="2147" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0009" x="2147" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0010" x="2610" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0011" x="2610" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0012" x="3073" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0013" x="3073" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0014" x="3073" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0015" x="3073" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0016" x="3073" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0017" x="3536" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0018" x="3999" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0019" x="4462" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0020" x="4925" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0021" x="4925" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0022" x="4925" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0023" x="2610" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0024" x="2610" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0025" x="5388" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0026" x="5388" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0027" x="5851" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0028" x="5851" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0029" x="6314" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0030" x="6314" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0031" x="6314" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0032" x="6314" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0033" x="6314" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0034" x="6314" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0035" x="6777" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0036" x="7240" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0037" x="7703" y="8197" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0038" x="5" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0039" x="468" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0040" x="931" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0041" x="1394" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0042" x="1394" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0043" x="1857" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0044" x="2320" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0045" x="2783" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0046" x="3246" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0047" x="3709" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0048" x="4172" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0049" x="4635" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0050" x="5098" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0051" x="5561" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0052" x="6024" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0053" x="6024" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0054" x="6487" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0055" x="6950" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0056" x="7413" y="8813" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0057" x="5" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0058" x="468" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0059" x="931" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0060" x="1394" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0061" x="1394" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0062" x="1857" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0063" x="2320" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0064" x="2783" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0065" x="3246" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0066" x="3246" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0067" x="3709" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0068" x="4172" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0069" x="4635" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0070" x="4635" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0071" x="5098" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0072" x="5098" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0073" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0074" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0075" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0076" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0077" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0078" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0079" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0080" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0081" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0082" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0083" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0084" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0085" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0086" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0087" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0088" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0089" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0090" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0091" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0092" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0093" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0094" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0095" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0096" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0097" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0098" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0099" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0100" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0101" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0102" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0103" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0104" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0105" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0106" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0107" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0108" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0109" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0110" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0111" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0112" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0113" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0114" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0115" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0116" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0117" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0118" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0119" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0120" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0121" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0122" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0123" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0124" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0125" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0126" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0127" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0128" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0129" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0130" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0131" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0132" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0133" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0134" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0135" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0136" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0137" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0138" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0139" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0140" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0141" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0142" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0143" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0144" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0145" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0146" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0147" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0148" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0149" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0150" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0151" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0152" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0153" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0154" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0155" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0156" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0157" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0158" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0159" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0160" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0161" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0162" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0163" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0164" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0165" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0166" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0167" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0168" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0169" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0170" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0171" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0172" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0173" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0174" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0175" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0176" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0177" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0178" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0179" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0180" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0181" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0182" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0183" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0184" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0185" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0186" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0187" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0188" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0189" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0190" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+	<SubTexture name="ldo mario gonnatellmom0191" x="5561" y="9429" width="458" height="611" frameX="0" frameY="0" frameWidth="462" frameHeight="611"/>
+</TextureAtlas>

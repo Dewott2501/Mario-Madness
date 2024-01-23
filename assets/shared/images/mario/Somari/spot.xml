@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spot.png"><SubTexture name="spot 30000" x="0" y="0" width="196" height="91" frameX="0" frameY="0" frameWidth="196" frameHeight="91" />
+<SubTexture name="spot 00000" x="196" y="0" width="196" height="91" frameX="0" frameY="0" frameWidth="196" frameHeight="91" />
+<SubTexture name="spot 20000" x="0" y="91" width="196" height="91" frameX="0" frameY="0" frameWidth="196" frameHeight="91" />
+<SubTexture name="spot 10000" x="196" y="91" width="196" height="91" frameX="0" frameY="0" frameWidth="196" frameHeight="91" />
+</TextureAtlas>

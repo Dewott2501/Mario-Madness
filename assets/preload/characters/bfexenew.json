@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT0"
+		},
+		{
+			"offsets": [
+				-28,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP0"
+		},
+		{
+			"offsets": [
+				-46,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				37
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				40
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				94
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				63
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "DODGE"
+		},
+		{
+			"offsets": [
+				0,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "HIT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MM_Boyfriend_SHADED_Assetsa",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

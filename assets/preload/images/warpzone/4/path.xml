@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="world8path.png">
+<SubTexture name="path 10000" x="0" y="0" width="340" height="316" frameX="0" frameY="0" frameWidth="340" frameHeight="316" />
+<SubTexture name="path 20000" x="340" y="0" width="340" height="316" frameX="0" frameY="0" frameWidth="340" frameHeight="316" />
+<SubTexture name="path 30000" x="680" y="0" width="340" height="316" frameX="0" frameY="0" frameWidth="340" frameHeight="316" />
+<SubTexture name="path 40000" x="0" y="316" width="340" height="316" frameX="0" frameY="0" frameWidth="340" frameHeight="316" />
+<SubTexture name="path 50000" x="340" y="316" width="340" height="316" frameX="0" frameY="0" frameWidth="340" frameHeight="316" />
+<SubTexture name="path 60000" x="680" y="316" width="340" height="316" frameX="0" frameY="0" frameWidth="340" frameHeight="316" />
+<SubTexture name="path 70000" x="680" y="316" width="340" height="316" frameX="0" frameY="0" frameWidth="340" frameHeight="316" />
+</TextureAtlas>

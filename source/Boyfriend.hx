@@ -32,10 +32,10 @@ class Boyfriend extends Character
 				playAnim('idle', true, false, 10);
 			}
 
-			if (animation.curAnim.name == 'firstDeath' && animation.curAnim.finished && startedDeath)
-			{
-				playAnim('deathLoop');
-			}
+			// if (animation.curAnim.name == 'firstDeath' && animation.curAnim.finished && startedDeath)
+			// {
+			// 	playAnim('deathLoop');
+			// }
 		}
 
 		super.update(elapsed);

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX_BG_Assets_2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BushBlink0000" x="0" y="0" width="1691" height="786"/>
+	<SubTexture name="BushBlink0001" x="0" y="0" width="1691" height="786"/>
+	<SubTexture name="BushBlink0002" x="1701" y="0" width="1691" height="786"/>
+	<SubTexture name="BushBlink0003" x="1701" y="0" width="1691" height="786"/>
+	<SubTexture name="BushBlink0004" x="0" y="796" width="1691" height="786"/>
+	<SubTexture name="BushBlink0005" x="0" y="796" width="1691" height="786"/>
+	<SubTexture name="BushBlink0006" x="1701" y="796" width="1691" height="786"/>
+	<SubTexture name="BushBlink0007" x="1701" y="796" width="1691" height="786"/>
+	<SubTexture name="BushBlink0008" x="0" y="1592" width="1691" height="786"/>
+	<SubTexture name="BushBlink0009" x="0" y="1592" width="1691" height="786"/>
+	<SubTexture name="BushBlink0010" x="1701" y="1592" width="1691" height="786"/>
+	<SubTexture name="BushBlink0011" x="1701" y="1592" width="1691" height="786"/>
+	<SubTexture name="BushBlink0012" x="0" y="2388" width="1691" height="786"/>
+	<SubTexture name="BushBlink0013" x="0" y="2388" width="1691" height="786"/>
+	<SubTexture name="BushBlink0014" x="1701" y="0" width="1691" height="786"/>
+	<SubTexture name="BushBlink0015" x="1701" y="0" width="1691" height="786"/>
+	<SubTexture name="BushBlink0016" x="1701" y="2388" width="1691" height="786"/>
+	<SubTexture name="BushBlink0017" x="1701" y="2388" width="1691" height="786"/>
+	<SubTexture name="BushIdle0000" x="0" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0001" x="0" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0002" x="1701" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0003" x="1701" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0004" x="0" y="3980" width="1691" height="786"/>
+	<SubTexture name="BushIdle0005" x="0" y="3980" width="1691" height="786"/>
+	<SubTexture name="BushIdle0006" x="0" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0007" x="0" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0008" x="1701" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0009" x="1701" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0010" x="0" y="3980" width="1691" height="786"/>
+	<SubTexture name="BushIdle0011" x="0" y="3980" width="1691" height="786"/>
+	<SubTexture name="BushIdle0012" x="0" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0013" x="0" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0014" x="1701" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0015" x="1701" y="3184" width="1691" height="786"/>
+	<SubTexture name="BushIdle0016" x="0" y="3980" width="1691" height="786"/>
+	<SubTexture name="BushIdle0017" x="0" y="3980" width="1691" height="786"/>
+	<SubTexture name="Cloud0000" x="1701" y="3980" width="733" height="870"/>
+	<SubTexture name="Cloud0001" x="2444" y="3980" width="733" height="870"/>
+	<SubTexture name="Cloud0002" x="2444" y="3980" width="733" height="870"/>
+	<SubTexture name="Cloud0003" x="3187" y="3980" width="733" height="870"/>
+	<SubTexture name="Cloud0004" x="3187" y="3980" width="733" height="870"/>
+	<SubTexture name="Cloud0005" x="0" y="4860" width="733" height="870"/>
+	<SubTexture name="Cloud0006" x="0" y="4860" width="733" height="870"/>
+	<SubTexture name="Cloud0007" x="0" y="4860" width="733" height="870"/>
+	<SubTexture name="Cloud0008" x="743" y="4860" width="733" height="870"/>
+	<SubTexture name="Cloud0009" x="743" y="4860" width="733" height="870"/>
+	<SubTexture name="Cloud0010" x="743" y="4860" width="733" height="870"/>
+</TextureAtlas>

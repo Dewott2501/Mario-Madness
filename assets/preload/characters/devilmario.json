@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PowerIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-183
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "PowerDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-65
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "PowerLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				40
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "PowerUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				98
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "PowerRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				364
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "ALTPowerIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				273,
+				218
+			],
+			"anim": "singLEFT-alt",
+			"fps": 30,
+			"name": "ALTPowerLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				133
+			],
+			"anim": "singDOWN-alt",
+			"fps": 30,
+			"name": "ALTPowerDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				439
+			],
+			"anim": "singUP-alt",
+			"fps": 30,
+			"name": "ALTPowerUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				255
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 30,
+			"name": "ALTPowerRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PowerStar_Mario",
+	"position": [
+		-100,
+		-90
+	],
+	"healthicon": "devil",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		47,
+		83
+	],
+	"camera_position": [
+		-30,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

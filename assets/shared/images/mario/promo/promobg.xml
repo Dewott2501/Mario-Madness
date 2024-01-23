@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="promobg.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg depression0000" x="5" y="5" width="2173" height="1287"/>
+	<SubTexture name="bg depression0001" x="2188" y="5" width="2173" height="1287"/>
+	<SubTexture name="bg depression0002" x="4371" y="5" width="2173" height="1287"/>
+	<SubTexture name="bg depression0003" x="5" y="1302" width="2173" height="1287"/>
+	<SubTexture name="bg depression0004" x="2188" y="1302" width="2173" height="1287"/>
+	<SubTexture name="bg depression0005" x="4371" y="1302" width="2173" height="1287"/>
+	<SubTexture name="bg depression0006" x="5" y="2599" width="2173" height="1287"/>
+	<SubTexture name="bg depression0007" x="2188" y="2599" width="2173" height="1287"/>
+	<SubTexture name="bg normal0000" x="4371" y="2599" width="2173" height="1287"/>
+	<SubTexture name="bg normal0001" x="5" y="3896" width="2173" height="1287"/>
+	<SubTexture name="bg normal0002" x="2188" y="3896" width="2173" height="1287"/>
+	<SubTexture name="bg normal0003" x="4371" y="3896" width="2173" height="1287"/>
+	<SubTexture name="bg normal0004" x="5" y="5193" width="2173" height="1287"/>
+	<SubTexture name="bg normal0005" x="2188" y="5193" width="2173" height="1287"/>
+	<SubTexture name="bg normal0006" x="4371" y="5193" width="2173" height="1287"/>
+	<SubTexture name="bg normal0007" x="5" y="6490" width="2173" height="1287"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="iconAct4.png"><SubTexture name="BEEGY0SH0000" x="0" y="0" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="beta20000" x="135" y="0" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="costume0000" x="270" y="0" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="devil0000" x="405" y="0" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="gb0000" x="0" y="134" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="hally0000" x="135" y="134" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="luigiH20000" x="270" y="134" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="mrl0000" x="405" y="134" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="2MX0000" x="0" y="268" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="omega0000" x="135" y="268" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="cdpeach0000" x="270" y="268" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="peachex0000" x="405" y="268" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="secret0000" x="0" y="402" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="stanley0000" x="135" y="402" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="sys0000" x="270" y="402" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="turmoil0000" x="405" y="402" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="v0000" x="0" y="536" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="wario0000" x="135" y="536" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="wdwluigi0000" x="270" y="536" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+<SubTexture name="yoshiex0000" x="405" y="536" width="135" height="134" frameX="0" frameY="0" frameWidth="135" frameHeight="134" />
+</TextureAtlas>

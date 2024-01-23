@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="v_koopa_thorny.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Koopa Idle Glitch0000" x="5" y="5" width="361" height="349" frameX="-49" frameY="-6" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0001" x="376" y="5" width="477" height="343" frameX="0" frameY="-12" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0002" x="376" y="5" width="477" height="343" frameX="0" frameY="-12" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0003" x="863" y="5" width="365" height="345" frameX="-58" frameY="-10" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0004" x="863" y="5" width="365" height="345" frameX="-58" frameY="-10" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0005" x="1238" y="5" width="351" height="351" frameX="-50" frameY="-4" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0006" x="1238" y="5" width="351" height="351" frameX="-50" frameY="-4" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0007" x="1599" y="5" width="335" height="355" frameX="-58" frameY="0" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0008" x="1599" y="5" width="335" height="355" frameX="-58" frameY="0" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0009" x="1599" y="5" width="335" height="355" frameX="-58" frameY="0" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0010" x="1599" y="5" width="335" height="355" frameX="-58" frameY="0" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0011" x="1599" y="5" width="335" height="355" frameX="-58" frameY="0" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0012" x="1599" y="5" width="335" height="355" frameX="-58" frameY="0" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0013" x="1599" y="5" width="335" height="355" frameX="-58" frameY="0" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="Koopa Idle Glitch0014" x="1599" y="5" width="335" height="355" frameX="-58" frameY="0" frameWidth="477" frameHeight="355"/>
+	<SubTexture name="glitch in0000" x="5" y="370" width="551" height="355" frameX="-38" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0001" x="566" y="370" width="536" height="355" frameX="-44" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0002" x="566" y="370" width="536" height="355" frameX="-44" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0003" x="1112" y="370" width="510" height="355" frameX="0" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0004" x="1112" y="370" width="510" height="355" frameX="0" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0005" x="1632" y="370" width="335" height="355" frameX="-83" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0006" x="1632" y="370" width="335" height="355" frameX="-83" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0007" x="5" y="735" width="363" height="355" frameX="-60" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0008" x="5" y="735" width="363" height="355" frameX="-60" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0009" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0010" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0011" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0012" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0013" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0014" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0015" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0016" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0017" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0018" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+	<SubTexture name="glitch in0019" x="378" y="735" width="335" height="355" frameX="-77" frameY="0" frameWidth="589" frameHeight="355"/>
+</TextureAtlas>

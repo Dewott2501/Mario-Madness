@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smoke overworld.png"><SubTexture name="idle0000" x="0" y="0" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+<SubTexture name="idle0001" x="20" y="0" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+<SubTexture name="idle0002" x="0" y="20" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+<SubTexture name="idle0003" x="20" y="20" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+</TextureAtlas>

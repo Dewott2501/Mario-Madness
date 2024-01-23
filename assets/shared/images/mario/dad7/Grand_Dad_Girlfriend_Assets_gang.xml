@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Grand_Dad_Girlfriend_Assets_gangv2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="funnygangIdle0000" x="0" y="0" width="890" height="629" frameX="-15" frameY="-14" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0001" x="914" y="0" width="894" height="635" frameX="-9" frameY="-8" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0002" x="914" y="0" width="894" height="635" frameX="-9" frameY="-8" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0003" x="0" y="659" width="895" height="640" frameX="-2" frameY="-3" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0004" x="0" y="659" width="895" height="640" frameX="-2" frameY="-3" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0005" x="919" y="659" width="895" height="640" frameX="0" frameY="-3" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0006" x="919" y="659" width="895" height="640" frameX="0" frameY="-3" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0007" x="919" y="659" width="895" height="640" frameX="0" frameY="-3" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0008" x="0" y="1323" width="894" height="643" frameX="0" frameY="0" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0009" x="0" y="1323" width="894" height="643" frameX="0" frameY="0" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0010" x="0" y="1323" width="894" height="643" frameX="0" frameY="0" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0011" x="0" y="1323" width="894" height="643" frameX="0" frameY="0" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0012" x="0" y="1323" width="894" height="643" frameX="0" frameY="0" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0013" x="0" y="1323" width="894" height="643" frameX="0" frameY="0" frameWidth="905" frameHeight="643"/>
+	<SubTexture name="funnygangIdle0014" x="0" y="1323" width="894" height="643" frameX="0" frameY="0" frameWidth="905" frameHeight="643"/>
+</TextureAtlas>

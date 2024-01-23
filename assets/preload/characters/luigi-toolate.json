@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LuigiIdle"
+		},
+		{
+			"offsets": [
+				553,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LuigiLeft"
+		},
+		{
+			"offsets": [
+				175,
+				617
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LuigiUp"
+		},
+		{
+			"offsets": [
+				-28,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LuigiRight"
+		},
+		{
+			"offsets": [
+				204,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LuigiDown"
+		},
+		{
+			"offsets": [
+				-18,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Laugh",
+			"loop": false,
+			"name": "LuigiLaugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Too_Late_Luigi_Assets_causape",
+	"position": [
+		-210,
+		-230
+	],
+	"healthicon": "mrl",
+	"flip_x": false,
+	"healthbar_colors": [
+		66,
+		119,
+		106
+	],
+	"camera_position": [
+		-60,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

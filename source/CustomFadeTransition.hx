@@ -1,28 +1,33 @@
 package;
 
 import Conductor.BPMChangeEvent;
+import flixel.FlxCamera;
 import flixel.FlxG;
+import flixel.FlxSprite;
+import flixel.FlxSubState;
+import flixel.addons.transition.FlxTransitionableState;
 import flixel.addons.ui.FlxUIState;
 import flixel.math.FlxRect;
-import flixel.util.FlxTimer;
-import flixel.addons.transition.FlxTransitionableState;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxGradient;
-import flixel.FlxSubState;
-import flixel.FlxSprite;
-import flixel.FlxCamera;
+import flixel.util.FlxTimer;
 
-class CustomFadeTransition extends MusicBeatSubstate {
+class CustomFadeTransition extends MusicBeatSubstate
+{
 	public static var finishCallback:Void->Void;
+
 	private var leTween:FlxTween = null;
+
 	public static var nextCamera:FlxCamera;
+
 	var isTransIn:Bool = false;
 	var transBlack:FlxSprite;
 	var transGradient:FlxSprite;
 
-	public function new(duration:Float, isTransIn:Bool) {
+	public function new(duration:Float, isTransIn:Bool)
+	{
 		super();
 
 		this.isTransIn = isTransIn;
@@ -40,53 +45,66 @@ class CustomFadeTransition extends MusicBeatSubstate {
 		transGradient.x -= (width - FlxG.width) / 2;
 		transBlack.x = transGradient.x;
 
-		if(isTransIn) {
+		if (isTransIn)
+		{
 			transGradient.y = transBlack.y - transBlack.height;
 			FlxTween.tween(transGradient, {y: transGradient.height + 50}, duration, {
-				onComplete: function(twn:FlxTween) {
+				onComplete: function(twn:FlxTween)
+				{
 					close();
 				},
-			ease: FlxEase.linear});
-		} else {
+				ease: FlxEase.linear
+			});
+		}
+		else
+		{
 			transGradient.y = -transGradient.height;
 			transBlack.y = transGradient.y - transBlack.height + 50;
 			leTween = FlxTween.tween(transGradient, {y: transGradient.height + 50}, duration, {
-				onComplete: function(twn:FlxTween) {
-					if(finishCallback != null) {
+				onComplete: function(twn:FlxTween)
+				{
+					if (finishCallback != null)
+					{
 						finishCallback();
 					}
 				},
-			ease: FlxEase.linear});
+				ease: FlxEase.linear
+			});
 		}
 
-		if(nextCamera != null) {
+		if (nextCamera != null)
+		{
 			transBlack.cameras = [nextCamera];
 			transGradient.cameras = [nextCamera];
 		}
 		nextCamera = null;
 	}
 
-	override function update(elapsed:Float) {
-		if(isTransIn) {
+	override function update(elapsed:Float)
+	{
+		if (isTransIn)
+		{
 			transBlack.y = transGradient.y + transGradient.height;
-		} else {
+		}
+		else
+		{
 			transBlack.y = transGradient.y - transBlack.height;
 		}
 		super.update(elapsed);
-		if(isTransIn) {
+		if (isTransIn)
+		{
 			transBlack.y = transGradient.y + transGradient.height;
-		} else {
+		}
+		else
+		{
 			transBlack.y = transGradient.y - transBlack.height;
 		}
 	}
 
-	override function destroy() {
-		if(leTween != null) {
-			#if MODS_ALLOWED
-			if(isTransIn) {
-				Paths.destroyLoadedImages();
-			}
-			#end
+	override function destroy()
+	{
+		if (leTween != null)
+		{
 			finishCallback();
 			leTween.cancel();
 		}

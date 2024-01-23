@@ -1,0 +1,13 @@
+-Added v2 Patch Notes
+-Added an option to delete all your progress in the options menu
+-Added a Skip Button for Cutscenes
+-Added VA Credits in the pause menu
+-Added Camera Events in Unbeatable
+-Optimizations in Overdue
+-Rebalanced Difficulty in Abandoned
+-Rebalanced writting mechanic in No Party
+-Rebalanced mechanic in MARIO SING AND GAME RHYMTH 9
+-Fixed Crash when playing Unbeatable without the TV Effect
+-Slighty Chart and Sprites Changes in a bunch of songs
+-Removed Streamer mode
+-Removed Wega

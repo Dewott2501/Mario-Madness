@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LG Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-271,
+				-41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LG Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-131
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LG Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-151,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LG UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LGGB",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "mario-land",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-30,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

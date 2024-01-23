@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="health.png"><SubTexture name="health 80000" x="0" y="0" width="268" height="272" frameX="0" frameY="0" frameWidth="67" frameHeight="68" />
+<SubTexture name="health 70000" x="268" y="0" width="268" height="272" frameX="0" frameY="0" frameWidth="67" frameHeight="68" />
+<SubTexture name="health 60000" x="536" y="0" width="268" height="272" frameX="0" frameY="0" frameWidth="67" frameHeight="68" />
+<SubTexture name="health 50000" x="0" y="272" width="268" height="272" frameX="0" frameY="0" frameWidth="268" frameHeight="272" />
+<SubTexture name="health 40000" x="268" y="272" width="268" height="272" frameX="0" frameY="0" frameWidth="268" frameHeight="272" />
+<SubTexture name="health 30000" x="536" y="272" width="268" height="272" frameX="0" frameY="0" frameWidth="268" frameHeight="272" />
+<SubTexture name="health 20000" x="0" y="544" width="268" height="272" frameX="0" frameY="0" frameWidth="268" frameHeight="272" />
+<SubTexture name="health 10000" x="268" y="544" width="268" height="272" frameX="0" frameY="0" frameWidth="268" frameHeight="272" />
+<SubTexture name="health 00000" x="536" y="544" width="268" height="272" frameX="0" frameY="0" frameWidth="268" frameHeight="272" />
+</TextureAtlas>

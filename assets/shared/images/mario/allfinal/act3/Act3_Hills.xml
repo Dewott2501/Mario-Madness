@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Act3_Hills.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hills0000" x="5" y="5" width="2668" height="673"/>
+	<SubTexture name="hills0001" x="5" y="5" width="2668" height="673"/>
+	<SubTexture name="hills0002" x="5" y="688" width="2658" height="669" frameX="-7" frameY="-4" frameWidth="2668" frameHeight="673"/>
+	<SubTexture name="hills0003" x="5" y="688" width="2658" height="669" frameX="-7" frameY="-4" frameWidth="2668" frameHeight="673"/>
+	<SubTexture name="hills0004" x="5" y="1367" width="2662" height="671" frameX="-6" frameY="-2" frameWidth="2668" frameHeight="673"/>
+	<SubTexture name="hills0005" x="5" y="1367" width="2662" height="671" frameX="-6" frameY="-2" frameWidth="2668" frameHeight="673"/>
+</TextureAtlas>

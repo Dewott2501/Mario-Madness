@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fountain idle"
+		},
+		{
+			"offsets": [
+				100,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fountain left"
+		},
+		{
+			"offsets": [
+				40,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fountain right"
+		},
+		{
+			"offsets": [
+				-1,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fountain down"
+		},
+		{
+			"offsets": [
+				-5,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fountain up"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "fountain alt left"
+		},
+		{
+			"offsets": [
+				-20,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "fountain alt right"
+		},
+		{
+			"offsets": [
+				5,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "fountain alt down"
+		},
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "fountain alt up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fountain_Luigi_2D_Assets",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "wdwluigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		163,
+		13
+	],
+	"camera_position": [
+		-45,
+		420
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

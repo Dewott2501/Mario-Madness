@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				280
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "VAltDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				450
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "VAltIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				339
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "VAltRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				379,
+				380
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "VAltLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				590
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "VAltUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mr_Virtual_V2_Assets",
+	"position": [
+		-45,
+		380
+	],
+	"healthicon": "gfv",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		-500
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

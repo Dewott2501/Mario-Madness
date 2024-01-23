@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-135,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "morshu idle"
+		},
+		{
+			"offsets": [
+				-251,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "morshu down"
+		},
+		{
+			"offsets": [
+				-126,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "morshu left"
+		},
+		{
+			"offsets": [
+				-326,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "morshu up"
+		},
+		{
+			"offsets": [
+				-361,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "morshu right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Morshu",
+	"position": [
+		-540,
+		20
+	],
+	"healthicon": "test",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		30,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

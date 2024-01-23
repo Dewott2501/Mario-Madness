@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_PromoShow.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="promario depressed down0000" x="5" y="5" width="471" height="466" frameX="0" frameY="-16" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0001" x="486" y="5" width="464" height="477" frameX="-3" frameY="-5" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0002" x="486" y="5" width="464" height="477" frameX="-3" frameY="-5" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0003" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0004" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0005" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0006" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0007" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0008" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0009" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0010" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0011" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0012" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0013" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed down0014" x="960" y="5" width="459" height="482" frameX="-5" frameY="0" frameWidth="471" frameHeight="482"/>
+	<SubTexture name="promario depressed idle0000" x="1429" y="5" width="428" height="504"/>
+	<SubTexture name="promario depressed left0000" x="1867" y="5" width="430" height="506" frameX="0" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0001" x="2307" y="5" width="428" height="505" frameX="-1" frameY="-1" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0002" x="2307" y="5" width="428" height="505" frameX="-1" frameY="-1" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0003" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0004" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0005" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0006" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0007" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0008" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0009" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0010" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0011" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0012" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0013" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed left0014" x="2745" y="5" width="426" height="506" frameX="-6" frameY="0" frameWidth="432" frameHeight="506"/>
+	<SubTexture name="promario depressed right0000" x="3181" y="5" width="423" height="497" frameX="0" frameY="-4" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0001" x="3614" y="5" width="421" height="500" frameX="-1" frameY="-1" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0002" x="3614" y="5" width="421" height="500" frameX="-1" frameY="-1" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0003" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0004" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0005" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0006" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0007" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0008" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0009" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0010" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0011" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0012" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0013" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed right0014" x="4045" y="5" width="421" height="501" frameX="-2" frameY="0" frameWidth="423" frameHeight="501"/>
+	<SubTexture name="promario depressed up0000" x="4476" y="5" width="399" height="542" frameX="-11" frameY="0" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0001" x="4885" y="5" width="408" height="535" frameX="-4" frameY="-7" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0002" x="4885" y="5" width="408" height="535" frameX="-4" frameY="-7" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0003" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0004" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0005" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0006" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0007" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0008" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0009" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0010" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0011" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0012" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0013" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario depressed up0014" x="5303" y="5" width="417" height="525" frameX="0" frameY="-17" frameWidth="417" frameHeight="542"/>
+	<SubTexture name="promario down0000" x="5730" y="5" width="646" height="488" frameX="0" frameY="-27" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0001" x="6386" y="5" width="644" height="488" frameX="-2" frameY="-21" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0002" x="6386" y="5" width="644" height="488" frameX="-2" frameY="-21" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0003" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0004" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0005" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0006" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0007" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0008" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0009" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0010" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0011" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0012" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0013" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario down0014" x="7040" y="5" width="638" height="491" frameX="-7" frameY="0" frameWidth="646" frameHeight="515"/>
+	<SubTexture name="promario idle0000" x="5" y="557" width="668" height="525" frameX="0" frameY="-13" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0001" x="683" y="557" width="666" height="524" frameX="-2" frameY="-13" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0002" x="683" y="557" width="666" height="524" frameX="-2" frameY="-13" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0003" x="1359" y="557" width="662" height="527" frameX="-7" frameY="-11" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0004" x="1359" y="557" width="662" height="527" frameX="-7" frameY="-11" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0005" x="2031" y="557" width="654" height="529" frameX="-15" frameY="-8" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0006" x="2031" y="557" width="654" height="529" frameX="-15" frameY="-8" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0007" x="2695" y="557" width="643" height="535" frameX="-26" frameY="-3" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0008" x="2695" y="557" width="643" height="535" frameX="-26" frameY="-3" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0009" x="3348" y="557" width="646" height="538" frameX="-23" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0010" x="3348" y="557" width="646" height="538" frameX="-23" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0011" x="3348" y="557" width="646" height="538" frameX="-23" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0012" x="3348" y="557" width="646" height="538" frameX="-23" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0013" x="3348" y="557" width="646" height="538" frameX="-23" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario idle0014" x="3348" y="557" width="646" height="538" frameX="-23" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario left0000" x="4004" y="557" width="888" height="539" frameX="0" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0001" x="4902" y="557" width="884" height="538" frameX="-7" frameY="-1" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0002" x="4902" y="557" width="884" height="538" frameX="-7" frameY="-1" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0003" x="5796" y="557" width="872" height="538" frameX="-32" frameY="-1" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0004" x="5796" y="557" width="872" height="538" frameX="-32" frameY="-1" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0005" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0006" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0007" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0008" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0009" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0010" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0011" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0012" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0013" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario left0014" x="6678" y="557" width="872" height="539" frameX="-32" frameY="0" frameWidth="904" frameHeight="539"/>
+	<SubTexture name="promario right0000" x="5" y="1106" width="693" height="521" frameX="-7" frameY="-1" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0001" x="708" y="1106" width="687" height="521" frameX="-5" frameY="-1" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0002" x="708" y="1106" width="687" height="521" frameX="-5" frameY="-1" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0003" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0004" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0005" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0006" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0007" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0008" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0009" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0010" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0011" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0012" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0013" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario right0014" x="1405" y="1106" width="647" height="523" frameX="0" frameY="0" frameWidth="700" frameHeight="523"/>
+	<SubTexture name="promario transition idle0000" x="3348" y="557" width="646" height="538" frameX="-30" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario transition idle0001" x="3348" y="557" width="646" height="538" frameX="-30" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario transition idle0002" x="3348" y="557" width="646" height="538" frameX="-30" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario transition idle0003" x="3348" y="557" width="646" height="538" frameX="-30" frameY="0" frameWidth="669" frameHeight="538"/>
+	<SubTexture name="promario transition idle0004" x="2062" y="1106" width="651" height="533" frameX="-25" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0005" x="2723" y="1106" width="651" height="530" frameX="-25" frameY="-8" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0006" x="3384" y="1106" width="662" height="532" frameX="-13" frameY="-6" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0007" x="3384" y="1106" width="662" height="532" frameX="-13" frameY="-6" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0008" x="4056" y="1106" width="670" height="533" frameX="-5" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0009" x="4056" y="1106" width="670" height="533" frameX="-5" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0010" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0011" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0012" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0013" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0014" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0015" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0016" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0017" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0018" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0019" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0020" x="4736" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0021" x="5418" y="1106" width="668" height="531" frameX="-7" frameY="-7" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0022" x="6096" y="1106" width="668" height="529" frameX="-7" frameY="-9" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0023" x="6774" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0024" x="6774" y="1106" width="672" height="533" frameX="-3" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0025" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0026" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0027" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0028" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0029" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0030" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0031" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0032" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0033" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0034" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0035" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0036" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0037" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0038" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0039" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0040" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0041" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0042" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0043" x="7456" y="1106" width="671" height="533" frameX="-4" frameY="-5" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0044" x="5" y="1649" width="668" height="534" frameX="-7" frameY="-4" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0045" x="5" y="1649" width="668" height="534" frameX="-7" frameY="-4" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0046" x="683" y="1649" width="661" height="535" frameX="-14" frameY="-3" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0047" x="683" y="1649" width="661" height="535" frameX="-14" frameY="-3" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0048" x="1354" y="1649" width="669" height="532" frameX="-12" frameY="-6" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0049" x="1354" y="1649" width="669" height="532" frameX="-12" frameY="-6" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0050" x="1354" y="1649" width="669" height="532" frameX="-12" frameY="-6" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0051" x="2033" y="1649" width="675" height="532" frameX="-16" frameY="-6" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0052" x="2033" y="1649" width="675" height="532" frameX="-16" frameY="-6" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0053" x="2718" y="1649" width="675" height="535" frameX="-16" frameY="-3" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0054" x="3403" y="1649" width="693" height="504" frameX="0" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0055" x="3403" y="1649" width="693" height="504" frameX="0" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0056" x="4106" y="1649" width="445" height="504" frameX="-246" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0057" x="4106" y="1649" width="445" height="504" frameX="-246" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0058" x="4561" y="1649" width="434" height="504" frameX="-246" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0059" x="5005" y="1649" width="429" height="504" frameX="-251" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0060" x="5444" y="1649" width="426" height="504" frameX="-251" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0061" x="5444" y="1649" width="426" height="504" frameX="-251" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0062" x="5880" y="1649" width="428" height="504" frameX="-246" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0063" x="5880" y="1649" width="428" height="504" frameX="-246" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0064" x="6318" y="1649" width="430" height="504" frameX="-247" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0065" x="6318" y="1649" width="430" height="504" frameX="-247" frameY="0" frameWidth="693" frameHeight="538"/>
+	<SubTexture name="promario transition idle0066" x="1429" y="5" width="428" height="504" frameX="-247" frameY="0" frameWidth="428" frameHeight="504"/>
+	<SubTexture name="promario up0000" x="6758" y="1649" width="587" height="567" frameX="-15" frameY="0" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0001" x="7355" y="1649" width="593" height="563" frameX="-10" frameY="-4" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0002" x="7355" y="1649" width="593" height="563" frameX="-10" frameY="-4" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0003" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0004" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0005" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0006" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0007" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0008" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0009" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0010" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0011" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0012" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0013" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+	<SubTexture name="promario up0014" x="5" y="2226" width="607" height="543" frameX="0" frameY="-24" frameWidth="607" frameHeight="567"/>
+</TextureAtlas>

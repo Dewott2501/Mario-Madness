@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AllStars_Girlfriend_Assets_v2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dodge0000" x="0" y="0" width="498" height="553" pivotX="0.15" pivotY="12.35"/>
+	<SubTexture name="GF Dodge0001" x="0" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0002" x="508" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0003" x="508" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0004" x="1016" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0005" x="1016" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0006" x="1016" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0007" x="1524" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0008" x="1524" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0009" x="2032" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0010" x="2032" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0011" x="2032" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0012" x="2032" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0013" x="2032" y="0" width="498" height="553"/>
+	<SubTexture name="GF Dodge0014" x="2032" y="0" width="498" height="553"/>
+	<SubTexture name="GFDown0000" x="2540" y="0" width="404" height="500" pivotX="5.3" pivotY="-4.15"/>
+	<SubTexture name="GFDown0001" x="2540" y="0" width="404" height="500"/>
+	<SubTexture name="GFDown0002" x="2954" y="0" width="404" height="500"/>
+	<SubTexture name="GFDown0003" x="2954" y="0" width="404" height="500"/>
+	<SubTexture name="GFDown0004" x="3368" y="0" width="404" height="500"/>
+	<SubTexture name="GFDown0005" x="3368" y="0" width="404" height="500"/>
+	<SubTexture name="GFDown0006" x="0" y="563" width="404" height="500"/>
+	<SubTexture name="GFDown0007" x="0" y="563" width="404" height="500"/>
+	<SubTexture name="GFDown0008" x="0" y="563" width="404" height="500"/>
+	<SubTexture name="GFDown0009" x="0" y="563" width="404" height="500"/>
+	<SubTexture name="GFDown0010" x="0" y="563" width="404" height="500"/>
+	<SubTexture name="GFDown0011" x="0" y="563" width="404" height="500"/>
+	<SubTexture name="GFDown0012" x="0" y="563" width="404" height="500"/>
+	<SubTexture name="GFDown0013" x="0" y="563" width="404" height="500"/>
+	<SubTexture name="GFDown0014" x="0" y="563" width="404" height="500"/>
+	<SubTexture name="GFMissDown0000" x="414" y="563" width="402" height="533" pivotX="5.3" pivotY="29.4"/>
+	<SubTexture name="GFMissDown0001" x="826" y="563" width="402" height="533"/>
+	<SubTexture name="GFMissDown0002" x="826" y="563" width="402" height="533"/>
+	<SubTexture name="GFMissDown0003" x="1238" y="563" width="402" height="533"/>
+	<SubTexture name="GFMissDown0004" x="1238" y="563" width="402" height="533"/>
+	<SubTexture name="GFMissDown0005" x="1238" y="563" width="402" height="533"/>
+	<SubTexture name="GFMissDown0006" x="1238" y="563" width="402" height="533"/>
+	<SubTexture name="GFMissDown0007" x="1238" y="563" width="402" height="533"/>
+	<SubTexture name="GFMissDown0008" x="1238" y="563" width="402" height="533"/>
+	<SubTexture name="GFMissDown0009" x="1238" y="563" width="402" height="533"/>
+	<SubTexture name="GFIdle0000" x="1650" y="563" width="386" height="541" pivotX="13.05" pivotY="0"/>
+	<SubTexture name="GFIdle0001" x="2046" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0002" x="2046" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0003" x="2442" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0004" x="2442" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0005" x="2838" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0006" x="2838" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0007" x="2838" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0008" x="3234" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0009" x="3234" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0010" x="3234" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0011" x="3630" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0012" x="3630" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0013" x="3630" y="563" width="386" height="541"/>
+	<SubTexture name="GFIdle0014" x="3630" y="563" width="386" height="541"/>
+	<SubTexture name="GFLeft0000" x="0" y="1114" width="443" height="546" pivotX="-3.6" pivotY="-20.2"/>
+	<SubTexture name="GFLeft0001" x="0" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0002" x="453" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0003" x="453" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0004" x="906" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0005" x="906" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0006" x="1359" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0007" x="1359" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0008" x="1359" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0009" x="1359" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0010" x="1359" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0011" x="1359" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0012" x="1359" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0013" x="1359" y="1114" width="443" height="546"/>
+	<SubTexture name="GFLeft0014" x="1359" y="1114" width="443" height="546"/>
+	<SubTexture name="GFMissLeft0000" x="1812" y="1114" width="443" height="560" pivotX="-6.9" pivotY="-6.65"/>
+	<SubTexture name="GFMissLeft0001" x="2265" y="1114" width="443" height="560"/>
+	<SubTexture name="GFMissLeft0002" x="2265" y="1114" width="443" height="560"/>
+	<SubTexture name="GFMissLeft0003" x="2718" y="1114" width="443" height="560"/>
+	<SubTexture name="GFMissLeft0004" x="2718" y="1114" width="443" height="560"/>
+	<SubTexture name="GFMissLeft0005" x="2718" y="1114" width="443" height="560"/>
+	<SubTexture name="GFMissLeft0006" x="2718" y="1114" width="443" height="560"/>
+	<SubTexture name="GFMissLeft0007" x="2718" y="1114" width="443" height="560"/>
+	<SubTexture name="GFMissLeft0008" x="2718" y="1114" width="443" height="560"/>
+	<SubTexture name="GFMissLeft0009" x="2718" y="1114" width="443" height="560"/>
+	<SubTexture name="GFRight0000" x="3171" y="1114" width="390" height="547" pivotX="-7.4" pivotY="-1.05"/>
+	<SubTexture name="GFRight0001" x="3171" y="1114" width="390" height="547"/>
+	<SubTexture name="GFRight0002" x="3571" y="1114" width="390" height="547"/>
+	<SubTexture name="GFRight0003" x="3571" y="1114" width="390" height="547"/>
+	<SubTexture name="GFRight0004" x="0" y="1684" width="390" height="547"/>
+	<SubTexture name="GFRight0005" x="0" y="1684" width="390" height="547"/>
+	<SubTexture name="GFRight0006" x="400" y="1684" width="390" height="547"/>
+	<SubTexture name="GFRight0007" x="400" y="1684" width="390" height="547"/>
+	<SubTexture name="GFRight0008" x="400" y="1684" width="390" height="547"/>
+	<SubTexture name="GFRight0009" x="400" y="1684" width="390" height="547"/>
+	<SubTexture name="GFMissRight0000" x="800" y="1684" width="388" height="556" pivotX="-9.25" pivotY="8.45"/>
+	<SubTexture name="GFMissRight0001" x="1198" y="1684" width="388" height="556"/>
+	<SubTexture name="GFMissRight0002" x="1198" y="1684" width="388" height="556"/>
+	<SubTexture name="GFMissRight0003" x="1198" y="1684" width="388" height="556"/>
+	<SubTexture name="GFMissRight0004" x="1198" y="1684" width="388" height="556"/>
+	<SubTexture name="GFMissRight0005" x="1198" y="1684" width="388" height="556"/>
+	<SubTexture name="GFMissRight0006" x="1198" y="1684" width="388" height="556"/>
+	<SubTexture name="GFMissRight0007" x="1198" y="1684" width="388" height="556"/>
+	<SubTexture name="GFUp0000" x="1596" y="1684" width="370" height="572" pivotX="-11.95" pivotY="2"/>
+	<SubTexture name="GFUp0001" x="1596" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0002" x="1976" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0003" x="1976" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0004" x="2356" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0005" x="2356" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0006" x="2736" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0007" x="2736" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0008" x="2736" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0009" x="2736" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0010" x="2736" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0011" x="2736" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0012" x="2736" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0013" x="2736" y="1684" width="370" height="572"/>
+	<SubTexture name="GFUp0014" x="2736" y="1684" width="370" height="572"/>
+	<SubTexture name="GFMissUp0000" x="3116" y="1684" width="354" height="572" pivotX="-19.8" pivotY="2"/>
+	<SubTexture name="GFMissUp0001" x="3480" y="1684" width="354" height="572"/>
+	<SubTexture name="GFMissUp0002" x="3480" y="1684" width="354" height="572"/>
+	<SubTexture name="GFMissUp0003" x="0" y="2266" width="354" height="572"/>
+	<SubTexture name="GFMissUp0004" x="0" y="2266" width="354" height="572"/>
+	<SubTexture name="GFMissUp0005" x="0" y="2266" width="354" height="572"/>
+	<SubTexture name="GFMissUp0006" x="0" y="2266" width="354" height="572"/>
+	<SubTexture name="GFMissUp0007" x="0" y="2266" width="354" height="572"/>
+	<SubTexture name="GFMissUp0008" x="0" y="2266" width="354" height="572"/>
+	<SubTexture name="GFMissUp0009" x="0" y="2266" width="354" height="572"/>
+</TextureAtlas>

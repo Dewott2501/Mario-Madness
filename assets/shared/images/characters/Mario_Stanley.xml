@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_Stanley.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stanley down0000" x="5" y="5" width="557" height="485"/>
+	<SubTexture name="stanley down0001" x="567" y="5" width="533" height="478" frameX="-16" frameY="-3" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0002" x="1105" y="5" width="519" height="480" frameX="-25" frameY="-1" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0003" x="1629" y="5" width="491" height="476" frameX="-45" frameY="-5" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0004" x="1629" y="5" width="491" height="476" frameX="-45" frameY="-5" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0005" x="2125" y="5" width="452" height="480" frameX="-73" frameY="-3" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0006" x="2125" y="5" width="452" height="480" frameX="-73" frameY="-3" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0007" x="2582" y="5" width="469" height="476" frameX="-62" frameY="-6" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0008" x="2582" y="5" width="469" height="476" frameX="-62" frameY="-6" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0009" x="2582" y="5" width="469" height="476" frameX="-62" frameY="-6" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0010" x="2582" y="5" width="469" height="476" frameX="-62" frameY="-6" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0011" x="2582" y="5" width="469" height="476" frameX="-62" frameY="-6" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0012" x="2582" y="5" width="469" height="476" frameX="-62" frameY="-6" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0013" x="2582" y="5" width="469" height="476" frameX="-62" frameY="-6" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley down0014" x="2582" y="5" width="469" height="476" frameX="-62" frameY="-6" frameWidth="557" frameHeight="485"/>
+	<SubTexture name="stanley idle left0000" x="3056" y="5" width="339" height="645" frameX="0" frameY="-34" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0001" x="3400" y="5" width="327" height="642" frameX="-6" frameY="-37" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0002" x="3400" y="5" width="327" height="642" frameX="-6" frameY="-37" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0003" x="3732" y="5" width="301" height="656" frameX="-19" frameY="-24" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0004" x="3732" y="5" width="301" height="656" frameX="-19" frameY="-24" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0005" x="4038" y="5" width="309" height="674" frameX="-14" frameY="-6" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0006" x="4038" y="5" width="309" height="674" frameX="-14" frameY="-6" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0007" x="4352" y="5" width="306" height="680" frameX="-15" frameY="0" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0008" x="4663" y="5" width="306" height="680" frameX="-15" frameY="0" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0009" x="4974" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0010" x="4974" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0011" x="4974" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0012" x="4974" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0013" x="4974" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle left0014" x="4974" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0000" x="5285" y="5" width="339" height="645" frameX="0" frameY="-34" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0001" x="5629" y="5" width="327" height="642" frameX="-6" frameY="-37" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0002" x="5629" y="5" width="327" height="642" frameX="-6" frameY="-37" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0003" x="5961" y="5" width="301" height="656" frameX="-19" frameY="-24" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0004" x="5961" y="5" width="301" height="656" frameX="-19" frameY="-24" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0005" x="6267" y="5" width="309" height="674" frameX="-14" frameY="-6" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0006" x="6267" y="5" width="309" height="674" frameX="-14" frameY="-6" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0007" x="6581" y="5" width="306" height="680" frameX="-15" frameY="0" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0008" x="6892" y="5" width="306" height="680" frameX="-15" frameY="0" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0009" x="7203" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0010" x="7203" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0011" x="7203" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0012" x="7203" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0013" x="7203" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley idle right0014" x="7203" y="5" width="306" height="673" frameX="-15" frameY="-7" frameWidth="339" frameHeight="680"/>
+	<SubTexture name="stanley left0000" x="5" y="690" width="696" height="763" frameX="0" frameY="0" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0001" x="706" y="690" width="690" height="749" frameX="-6" frameY="-14" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0002" x="1401" y="690" width="683" height="740" frameX="-14" frameY="-23" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0003" x="2089" y="690" width="679" height="733" frameX="-20" frameY="-30" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0004" x="2089" y="690" width="679" height="733" frameX="-20" frameY="-30" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0005" x="2773" y="690" width="647" height="700" frameX="-58" frameY="-63" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0006" x="2773" y="690" width="647" height="700" frameX="-58" frameY="-63" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0007" x="3425" y="690" width="658" height="719" frameX="-43" frameY="-44" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0008" x="3425" y="690" width="658" height="719" frameX="-43" frameY="-44" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0009" x="3425" y="690" width="658" height="719" frameX="-43" frameY="-44" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0010" x="3425" y="690" width="658" height="719" frameX="-43" frameY="-44" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0011" x="3425" y="690" width="658" height="719" frameX="-43" frameY="-44" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0012" x="3425" y="690" width="658" height="719" frameX="-43" frameY="-44" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0013" x="3425" y="690" width="658" height="719" frameX="-43" frameY="-44" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley left0014" x="3425" y="690" width="658" height="719" frameX="-43" frameY="-44" frameWidth="705" frameHeight="763"/>
+	<SubTexture name="stanley right0000" x="4088" y="690" width="687" height="704" frameX="-7" frameY="-21" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0001" x="4780" y="690" width="668" height="725" frameX="-5" frameY="0" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0002" x="5453" y="690" width="659" height="696" frameX="-3" frameY="-31" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0003" x="6117" y="690" width="653" height="655" frameX="-3" frameY="-75" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0004" x="6117" y="690" width="653" height="655" frameX="-3" frameY="-75" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0005" x="6775" y="690" width="672" height="582" frameX="0" frameY="-147" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0006" x="6775" y="690" width="672" height="582" frameX="0" frameY="-147" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0007" x="7452" y="690" width="670" height="602" frameX="-3" frameY="-132" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0008" x="7452" y="690" width="670" height="602" frameX="-3" frameY="-132" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0009" x="7452" y="690" width="670" height="602" frameX="-3" frameY="-132" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0010" x="7452" y="690" width="670" height="602" frameX="-3" frameY="-132" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0011" x="7452" y="690" width="670" height="602" frameX="-3" frameY="-132" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0012" x="7452" y="690" width="670" height="602" frameX="-3" frameY="-132" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0013" x="7452" y="690" width="670" height="602" frameX="-3" frameY="-132" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley right0014" x="7452" y="690" width="670" height="602" frameX="-3" frameY="-132" frameWidth="694" frameHeight="734"/>
+	<SubTexture name="stanley up0000" x="5" y="1458" width="561" height="913" frameX="-26" frameY="0" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0001" x="571" y="1458" width="573" height="897" frameX="-20" frameY="-15" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0002" x="1149" y="1458" width="587" height="886" frameX="-14" frameY="-26" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0003" x="1741" y="1458" width="610" height="831" frameX="0" frameY="-81" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0004" x="1741" y="1458" width="610" height="831" frameX="0" frameY="-81" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0005" x="2356" y="1458" width="599" height="731" frameX="-6" frameY="-179" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0006" x="2356" y="1458" width="599" height="731" frameX="-6" frameY="-179" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0007" x="2960" y="1458" width="579" height="769" frameX="-19" frameY="-141" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0008" x="2960" y="1458" width="579" height="769" frameX="-19" frameY="-141" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0009" x="3544" y="1458" width="568" height="769" frameX="-22" frameY="-141" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0010" x="3544" y="1458" width="568" height="769" frameX="-22" frameY="-141" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0011" x="3544" y="1458" width="568" height="769" frameX="-22" frameY="-141" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0012" x="3544" y="1458" width="568" height="769" frameX="-22" frameY="-141" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0013" x="3544" y="1458" width="568" height="769" frameX="-22" frameY="-141" frameWidth="610" frameHeight="913"/>
+	<SubTexture name="stanley up0014" x="3544" y="1458" width="568" height="769" frameX="-22" frameY="-141" frameWidth="610" frameHeight="913"/>
+</TextureAtlas>

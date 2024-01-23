@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ultralevelstart.png">
+<SubTexture name="ultralevelstart stand0000" x="33" y="21" width="16" height="19" frameX="-17" frameY="-2" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart appear0000" x="0" y="0" width="33" height="21" frameX="-1" frameY="0" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart appear0001" x="49" y="21" width="17" height="18" frameX="-17" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart appear0002" x="33" y="0" width="33" height="21" frameX="-1" frameY="0" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart appear0003" x="49" y="21" width="17" height="18" frameX="-17" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart appear0004" x="33" y="0" width="33" height="21" frameX="-1" frameY="0" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart appear0005" x="0" y="21" width="33" height="21" frameX="-1" frameY="0" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart appear0006" x="66" y="0" width="33" height="18" frameX="-1" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart appear0007" x="66" y="18" width="33" height="18" frameX="-1" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart appear0008" x="66" y="36" width="33" height="18" frameX="-1" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart gfraisemic0000" x="0" y="61" width="33" height="18" frameX="-1" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart gfraisemic0001" x="33" y="61" width="33" height="18" frameX="-1" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart gfraisemic0002" x="0" y="79" width="34" height="18" frameX="0" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart bfnod0000" x="34" y="79" width="34" height="18" frameX="0" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart bfnod0001" x="99" y="0" width="34" height="18" frameX="0" frameY="-3" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart LETSFUCKINGDOTHIS GLORIA MESSI0000" x="0" y="42" width="35" height="19" frameX="0" frameY="-2" frameWidth="31" frameHeight="17" />
+<SubTexture name="ultralevelstart LETSFUCKINGDOTHIS GLORIA MESSI0001" x="99" y="18" width="34" height="18" frameX="0" frameY="-3" frameWidth="31" frameHeight="17" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="firebar.png"><SubTexture name="firebar loop0000" x="0" y="0" width="92" height="92" frameX="0" frameY="0" frameWidth="92" frameHeight="92" />
+<SubTexture name="firebar loop0001" x="92" y="0" width="92" height="92" frameX="0" frameY="0" frameWidth="92" frameHeight="92" />
+<SubTexture name="firebar loop0002" x="0" y="92" width="92" height="92" frameX="0" frameY="0" frameWidth="92" frameHeight="92" />
+<SubTexture name="firebar loop0003" x="92" y="92" width="92" height="92" frameX="0" frameY="0" frameWidth="92" frameHeight="92" />
+<SubTexture name="firebar loop0004" x="0" y="184" width="92" height="92" frameX="0" frameY="0" frameWidth="92" frameHeight="92" />
+<SubTexture name="firebar loop0005" x="92" y="184" width="92" height="92" frameX="0" frameY="0" frameWidth="92" frameHeight="92" />
+<SubTexture name="firebar loop0006" x="0" y="276" width="92" height="92" frameX="0" frameY="0" frameWidth="92" frameHeight="92" />
+<SubTexture name="firebar loop0007" x="92" y="276" width="92" height="92" frameX="0" frameY="0" frameWidth="92" frameHeight="92" />
+</TextureAtlas>

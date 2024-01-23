@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lava.png"><SubTexture name="lava hot ow ow its too hot aaa0000" x="0" y="0" width="616" height="136" frameX="0" frameY="0" frameWidth="616" frameHeight="136" />
+<SubTexture name="lava hot ow ow its too hot aaa0001" x="0" y="136" width="616" height="136" frameX="0" frameY="0" frameWidth="616" frameHeight="136" />
+<SubTexture name="lava hot ow ow its too hot aaa0002" x="0" y="272" width="616" height="136" frameX="0" frameY="0" frameWidth="616" frameHeight="136" />
+<SubTexture name="lava hot ow ow its too hot aaa0003" x="0" y="408" width="616" height="136" frameX="0" frameY="0" frameWidth="616" frameHeight="136" />
+</TextureAtlas>

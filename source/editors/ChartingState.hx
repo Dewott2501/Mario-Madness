@@ -6,11 +6,12 @@ import Discord.DiscordClient;
 import Conductor.BPMChangeEvent;
 import Section.SwagSection;
 import Song.SwagSong;
+import flash.geom.Rectangle;
 import flixel.FlxG;
-import flixel.FlxSprite;
 import flixel.FlxObject;
-import flixel.input.keyboard.FlxKey;
+import flixel.FlxSprite;
 import flixel.addons.display.FlxGridOverlay;
+import flixel.addons.transition.FlxTransitionableState;
 import flixel.addons.ui.FlxInputText;
 import flixel.addons.ui.FlxUI9SliceSprite;
 import flixel.addons.ui.FlxUI;
@@ -19,9 +20,9 @@ import flixel.addons.ui.FlxUIInputText;
 import flixel.addons.ui.FlxUINumericStepper;
 import flixel.addons.ui.FlxUITabMenu;
 import flixel.addons.ui.FlxUITooltip.FlxUITooltipStyle;
-import flixel.addons.transition.FlxTransitionableState;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.group.FlxGroup;
+import flixel.input.keyboard.FlxKey;
 import flixel.math.FlxMath;
 import flixel.math.FlxPoint;
 import flixel.system.FlxSound;
@@ -31,23 +32,24 @@ import flixel.ui.FlxSpriteButton;
 import flixel.util.FlxColor;
 import haxe.Json;
 import haxe.format.JsonParser;
+import haxe.io.Bytes;
+import lime.media.AudioBuffer;
 import lime.utils.Assets;
+import openfl.Lib;
 import openfl.events.Event;
 import openfl.events.IOErrorEvent;
 import openfl.media.Sound;
 import openfl.net.FileReference;
-import openfl.utils.ByteArray;
 import openfl.utils.Assets as OpenFlAssets;
-import lime.media.AudioBuffer;
-import haxe.io.Bytes;
-import flash.geom.Rectangle;
-#if MODS_ALLOWED
-import sys.io.File;
-import sys.FileSystem;
-import flash.media.Sound;
-#end
+import openfl.utils.ByteArray;
 
 using StringTools;
+#if MODS_ALLOWED
+import flash.media.Sound;
+import sys.FileSystem;
+import sys.io.File;
+#end
+
 
 class ChartingState extends MusicBeatState
 {
@@ -61,7 +63,18 @@ class ChartingState extends MusicBeatState
 		'No Animation',
 		'Nota veneno',
 		'Nota boo',
-		'Nota bomba'
+		'Nota bomba',
+		'Bullet',
+		'Coin Note',
+		'Yoshi Note',
+		'AS Bud Note',
+		'Ring Note',
+		'GF Duet',
+		'jumpscareM',
+		'Water Note',
+		'Bullet Bill',
+		'Bullet2',
+		'Bad Poison'
 	];
 	private var noteTypeIntMap:Map<Int, String> = new Map<Int, String>();
 	private var noteTypeMap:Map<String, Null<Int>> = new Map<String, Null<Int>>();
@@ -69,29 +82,25 @@ class ChartingState extends MusicBeatState
 	var eventStuff:Array<Dynamic> =
 	[
 		['', "Nothing. Yep, that's right."],
-		['Hey!', "Plays the \"Hey!\" animation from Bopeebo,\nValue 1: BF = Only Boyfriend, GF = Only Girlfriend,\nSomething else = Both.\nValue 2: Custom animation duration,\nleave it blank for 0.6s"],
-		['Set GF Speed', "Sets GF head bopping speed,\nValue 1: 1 = Normal speed,\n2 = 1/2 speed, 4 = 1/4 speed etc.\nUsed on Fresh during the beatbox parts.\n\nWarning: Value must be integer!"],
-		['Blammed Lights', "BLAMMED LIGHTS:bangbang:\n\nValue 1: 0 = Turn off, 1 = Blue, 2 = Green,\n3 = Pink, 4 = Red, 5 = Orange, Anything else = Random."],
-		['Kill Henchmen', "For Mom's songs, don't use this please, i love them :("],
+		['Show Song', ""],
 		['Add Camera Zoom', "Used on MILF on that one \"hard\" part\nValue 1: Camera zoom add (Default: 0.015)\nValue 2: UI zoom add (Default: 0.03)\nLeave the values blank if you want to use Default."],
-		['BG Freaks Expression', "Should be used only in \"school\" Stage!"],
-		['Trigger BG Ghouls', "Should be used only in \"schoolEvil\" Stage!"],
+		['Camera Zoom Chain', "Value 1: Camera Zoom Values (0.015, 0.03)\n(also you can add another two values to make it\nzoom screen shake(0.015, 0.03, 0.01, 0.01))\n\nValue 2: Total Amount of Beat Cam Zooms and\nthe space with eachother (4, 1)"],
 		['Play Animation', "Plays an animation on a Character,\nonce the animation is completed,\nthe animation changes to Idle\n\nValue 1: Animation to play.\nValue 2: Character (Dad, BF, GF)"],
 		['Camera Follow Pos', "Value 1: X\nValue 2: Y\n\nThe camera won't change the follow point\nafter using this, for getting it back\nto normal, leave both values blank."],
 		['Alt Idle Animation', "Sets a speciied suffix after the idle animation name.\nYou can use this to trigger 'idle-alt' if you set\nValue 2 to -alt\n\nValue 1: Character to set (Dad, BF or GF)\nValue 2: New suffix (Leave it blank to disable)"],
 		['Screen Shake', "Value 1: Camera shake\nValue 2: HUD shake\n\nEvery value works as the following example: \"1, 0.05\".\nThe first number (1) is the duration.\nThe second number (0.05) is the intensity."],
-		['Change Character', "Value 1: Character to change (Dad, BF, GF)\nValue 2: New character's name"],
-		['Cambiar Zoom Default', "Haz un zoom en el juego, dura muy poco dependiendo de\nque lado mira la cámara\nValue 1: Zoom Custom."],
-		['Sacar Lava', "Utilizado en I Hate You\nValue 1: cambiar coordenada Y (default 716)\n(dejarlo en blanco lo ocultará)\n\n(SOLO FUNCIONA EN EL ESCENARIO DE\nIHY, USARLO EN OTRO ESCENARIO CRASHEA)"],
-		['pegar', "Como soy una basura programando\nhice este evento SOLO para el momento exacto donde\ndebes esquivar con DODGE\nPor cierto intenten jugar 5k con dfhjk\nes mejor de lo que creen"],
+		['Screen Shake Chain', "Value 1: Screen Shake Values (0.003, 0.0015)\n\nValue 2: Total Amount of Screen Shake per beat]"],
+		['Change Character', "Value 1: Character to change (BF: 0, Dad: 1, GF: 2)\nValue 2: New character's name"],
+		['Set Cam Zoom', "Value 1: "],
+		['Set Cam Pos', ""],
 		['Ocultar HUD', "oculta el HUD del juego (duh).\nValue 1: Alternar entre ocultar y mostrar\n(pon 0 para ocultar el HUD y pon 1 para mostrarlo)"],
-		['MX salto', "ADVERTENCIA: ESTO NO SE ENCUENTRA UNIDO\nAL BPM DE LA CANCIÓN, AÑADIRLA EN OTRA CANCIÓN\n NO CAMBIARA SU RITMO DE ADVERTENCIA\n(ADEMÁS BF SOLO PUEDE ESQUIVAR\nEN EL ESCENARIO DE MX!!!!\nPor cierto intenten jugar 5k con dfhjk\nes mejor de lo que creen) "],
-		['Triggers Golden Land', "pon 0 para cambiar el escenario, pon 1 para\nmostrar a GF, pon 2 para oscurecer el escenario"],
-		['Triggers Innocent', "pon 0 para oscurecer la pantalla y mostrar a MX\npon 1 para desvanecer a MX \ny volver a la camara del juego"],
-		['Triggers IHY', ""],
-		['Triggers Apparition', ""],
-		['Triggers Racing', ""],
-		['Triggers Alone', ""]
+		['Char Attack', "Only Works on Powerdown and Last Course"],
+		['Write DS', "value1: 0 para mostrar 1 para sacar\nvalue2: texto si vas a mostrar"],
+		['Sacar Lava', "Utilizado en I Hate You\nValue 1: cambiar coordenada Y (default 716)\n(dejarlo en blanco lo ocultará)\n\n(SOLO FUNCIONA EN EL ESCENARIO DE\nIHY, USARLO EN OTRO ESCENARIO CRASHEA)"],
+		['Timebar Gimmick', ""],
+		['Add Subtitle', ""],
+		['ycbu text', ""],
+		['Triggers Universal', 'refer to songevents.txt for\nindividual song events and their\nassociated values'],
 	];
 
 	var _file:FileReference;
@@ -181,14 +190,28 @@ class ChartingState extends MusicBeatState
 
 	override function create()
 	{
-		#if MODS_ALLOWED
-		Paths.destroyLoadedImages();
-		#end
-
 		#if desktop
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("Chart Editor", StringTools.replace(PlayState.SONG.song, '-', ' '));
 		#end
+
+			if(Lib.application.window.width == 800 && Lib.application.window.height == 600){
+				Lib.application.window.move(Lib.application.window.x - 240, Lib.application.window.y - 60);
+				Lib.application.window.resize(1280, 720);
+			}
+			else if(Lib.application.window.width == 512 && Lib.application.window.height == 768)
+			{
+				Lib.application.window.resize(1280, 720);
+				Lib.application.window.move(PlayState.ogwinX, PlayState.ogwinY);
+			}
+
+			Lib.current.scaleX = 1;
+			Lib.current.scaleY = 1;
+
+			if(PlayState.curStage == 'virtual'){
+				Lib.application.window.resize(1280, 720);
+				CppAPI.setWallpaper('old');
+			}
 
 		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		bg.scrollFactor.set();
@@ -390,7 +413,7 @@ class ChartingState extends MusicBeatState
 		var loadEventJson:FlxButton = new FlxButton(loadAutosaveBtn.x, loadAutosaveBtn.y + 30, 'Load Events', function()
 		{
 			var songName:String = Paths.formatToSongPath(_song.song);
-			var file:String = Paths.json(songName + '/events');
+			var file:String = Paths.json('songData/' + songName + '/events');
 			#if sys
 			if (#if MODS_ALLOWED FileSystem.exists(Paths.modsJson(songName + '/events')) || #end FileSystem.exists(file))
 			#else

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Overdue_Final_BG_topfixed.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Top0000" x="0" y="0" width="4168" height="468" pivotX="-1.35" pivotY="-6.4"/>
+	<SubTexture name="Top0001" x="0" y="478" width="4168" height="468"/>
+	<SubTexture name="Top0002" x="0" y="956" width="4168" height="468"/>
+	<SubTexture name="Top0003" x="0" y="1434" width="4168" height="468"/>
+	<SubTexture name="Top0004" x="0" y="1912" width="4168" height="468"/>
+	<SubTexture name="Top0005" x="0" y="2390" width="4168" height="468"/>
+	<SubTexture name="Top0006" x="0" y="2868" width="4168" height="468"/>
+</TextureAtlas>

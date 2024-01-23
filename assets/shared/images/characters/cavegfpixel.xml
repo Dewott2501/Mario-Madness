@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cavegfpixel.png">
+<SubTexture name="bop0000" x="294" y="0" width="106" height="53" frameX="0" frameY="-4" frameWidth="100" frameHeight="51" />
+<SubTexture name="bop0001" x="294" y="53" width="106" height="53" frameX="0" frameY="-4" frameWidth="100" frameHeight="51" />
+<SubTexture name="bop0002" x="98" y="169" width="102" height="54" frameX="0" frameY="-3" frameWidth="100" frameHeight="51" />
+<SubTexture name="bop0003" x="0" y="0" width="98" height="57" frameX="0" frameY="0" frameWidth="100" frameHeight="51" />
+<SubTexture name="bop0004" x="0" y="114" width="99" height="55" frameX="0" frameY="-2" frameWidth="100" frameHeight="51" />
+<SubTexture name="bop0005" x="195" y="0" width="99" height="55" frameX="0" frameY="-2" frameWidth="100" frameHeight="51" />
+<SubTexture name="up0000" x="294" y="106" width="105" height="53" frameX="-1" frameY="-4" frameWidth="100" frameHeight="51" />
+<SubTexture name="up0001" x="294" y="159" width="105" height="53" frameX="-1" frameY="-4" frameWidth="100" frameHeight="51" />
+<SubTexture name="up0002" x="0" y="224" width="101" height="54" frameX="-1" frameY="-3" frameWidth="100" frameHeight="51" />
+<SubTexture name="up0003" x="98" y="0" width="97" height="57" frameX="-1" frameY="0" frameWidth="100" frameHeight="51" />
+<SubTexture name="up0004" x="195" y="55" width="98" height="55" frameX="-1" frameY="-2" frameWidth="100" frameHeight="51" />
+<SubTexture name="up0005" x="195" y="110" width="98" height="55" frameX="-1" frameY="-2" frameWidth="100" frameHeight="51" />
+<SubTexture name="break0000" x="294" y="212" width="105" height="53" frameX="-1" frameY="-4" frameWidth="100" frameHeight="51" />
+<SubTexture name="break0001" x="0" y="278" width="105" height="53" frameX="-1" frameY="-4" frameWidth="100" frameHeight="51" />
+<SubTexture name="break0002" x="101" y="224" width="101" height="54" frameX="-1" frameY="-3" frameWidth="100" frameHeight="51" />
+<SubTexture name="break0003" x="0" y="57" width="97" height="57" frameX="-1" frameY="0" frameWidth="100" frameHeight="51" />
+<SubTexture name="break0004" x="97" y="57" width="98" height="55" frameX="-1" frameY="-2" frameWidth="100" frameHeight="51" />
+<SubTexture name="break0005" x="0" y="169" width="98" height="55" frameX="-1" frameY="-2" frameWidth="100" frameHeight="51" />
+</TextureAtlas>

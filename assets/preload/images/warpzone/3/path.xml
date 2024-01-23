@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="star road paths.png"><SubTexture name="path 50000" x="0" y="0" width="169" height="177" frameX="-42" frameY="-44" frameWidth="256" frameHeight="249" />
+<SubTexture name="path 40000" x="169" y="0" width="169" height="177" frameX="-42" frameY="-44" frameWidth="256" frameHeight="249" />
+<SubTexture name="path 30000" x="338" y="0" width="169" height="177" frameX="-42" frameY="-44" frameWidth="256" frameHeight="249" />
+<SubTexture name="path 20000" x="0" y="177" width="169" height="177" frameX="-42" frameY="-44" frameWidth="256" frameHeight="249" />
+<SubTexture name="path 10000" x="169" y="177" width="169" height="177" frameX="-42" frameY="-44" frameWidth="256" frameHeight="249" />
+</TextureAtlas>

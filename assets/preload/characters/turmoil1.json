@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "turmoil idle"
+		},
+		{
+			"offsets": [
+				139,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "turmoil left"
+		},
+		{
+			"offsets": [
+				-10,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "turmoil right"
+		},
+		{
+			"offsets": [
+				105,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "turmoil down"
+		},
+		{
+			"offsets": [
+				85,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "turmoil up"
+		},
+		{
+			"offsets": [
+				119,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Toungue2"
+		},
+		{
+			"offsets": [
+				31,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "preattack",
+			"indices": [],
+			"name": "Toungue1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Turmoil_stand",
+	"position": [
+		35,
+		240
+	],
+	"healthicon": "turmoil",
+	"flip_x": false,
+	"healthbar_colors": [
+		220,
+		58,
+		133
+	],
+	"camera_position": [
+		-70,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

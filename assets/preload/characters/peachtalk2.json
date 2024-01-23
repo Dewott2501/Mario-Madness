@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				120
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Wahoo",
+			"indices": []
+		},
+		{
+			"offsets": [
+				95,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PeachDown"
+		},
+		{
+			"offsets": [
+				480,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PeachLeft"
+		},
+		{
+			"offsets": [
+				237,
+				172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PeachUp"
+		},
+		{
+			"offsets": [
+				22,
+				-131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PeachRight"
+		},
+		{
+			"offsets": [
+				76,
+				1096
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Peach"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Coronation_Peach_Dialogue2",
+	"position": [
+		-80,
+		60
+	],
+	"healthicon": "peach",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		63,
+		68
+	],
+	"camera_position": [
+		-150,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

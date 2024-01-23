@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-9
 			],
-			"loop": false,
-			"anim": "danceLeft",
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"anim": "danceLeft",
 			"indices": [
 				30,
 				0,
@@ -26,17 +25,17 @@
 				12,
 				13,
 				14
-			]
+			],
+			"name": "GF Dancing Beat"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-9
 			],
-			"loop": false,
-			"anim": "danceRight",
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"anim": "danceRight",
 			"indices": [
 				15,
 				16,
@@ -53,25 +52,26 @@
 				27,
 				28,
 				29
-			]
+			],
+			"name": "GF Dancing Beat"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-10
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "sad",
-			"loop": false,
-			"name": "gf sad"
+			"fps": 24,
+			"name": "gf sad",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mario_Girlfriend_assets_v1",
+	"image": "characters/old/Mario_Girlfriend_assets_v1",
 	"position": [
-		0,
-		0
+		-250,
+		-170
 	],
 	"healthicon": "gf",
 	"flip_x": false,

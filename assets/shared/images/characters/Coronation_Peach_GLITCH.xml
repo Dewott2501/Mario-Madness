@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Coronation_Peach_GLITCH.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PeachDownGlitch0000" x="0" y="0" width="606" height="844" pivotX="-1080.6" pivotY="335.9"/>
+	<SubTexture name="PeachDownGlitch0001" x="611" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0002" x="611" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0003" x="1222" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0004" x="1222" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0005" x="1833" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0006" x="1833" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0007" x="1833" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0008" x="2444" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0009" x="2444" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0010" x="3055" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0011" x="3055" y="0" width="606" height="844"/>
+	<SubTexture name="PeachDownGlitch0012" x="0" y="849" width="606" height="844"/>
+	<SubTexture name="PeachIdleGlitch0000" x="611" y="849" width="547" height="864" pivotX="-14.85" pivotY="387.4"/>
+	<SubTexture name="PeachIdleGlitch0001" x="611" y="849" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0002" x="1163" y="849" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0003" x="1163" y="849" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0004" x="1715" y="849" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0005" x="1715" y="849" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0006" x="2267" y="849" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0007" x="2819" y="849" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0008" x="2819" y="849" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0009" x="3371" y="849" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0010" x="0" y="1718" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0011" x="0" y="1718" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0012" x="552" y="1718" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0013" x="1104" y="1718" width="547" height="864"/>
+	<SubTexture name="PeachIdleGlitch0014" x="1104" y="1718" width="547" height="864"/>
+	<SubTexture name="PeachLeftGlitch0000" x="1656" y="1718" width="970" height="613" pivotX="441.25" pivotY="661.55"/>
+	<SubTexture name="PeachLeftGlitch0001" x="2631" y="1718" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0002" x="2631" y="1718" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0003" x="0" y="2587" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0004" x="0" y="2587" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0005" x="975" y="2587" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0006" x="975" y="2587" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0007" x="975" y="2587" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0008" x="1950" y="2587" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0009" x="1950" y="2587" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0010" x="2925" y="2587" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0011" x="2925" y="2587" width="970" height="613"/>
+	<SubTexture name="PeachLeftGlitch0012" x="0" y="3205" width="970" height="613"/>
+	<SubTexture name="PeachRightGlitch0000" x="975" y="3205" width="998" height="596" pivotX="-18.75" pivotY="493.35"/>
+	<SubTexture name="PeachRightGlitch0001" x="1978" y="3205" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0002" x="1978" y="3205" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0003" x="2981" y="3205" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0004" x="2981" y="3205" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0005" x="0" y="3823" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0006" x="0" y="3823" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0007" x="0" y="3823" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0008" x="1003" y="3823" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0009" x="2006" y="3823" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0010" x="3009" y="3823" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0011" x="0" y="4424" width="998" height="596"/>
+	<SubTexture name="PeachRightGlitch0012" x="1003" y="4424" width="998" height="596"/>
+	<SubTexture name="PeachUpGlitch0000" x="2006" y="4424" width="651" height="973" pivotX="-69.6" pivotY="468.3"/>
+	<SubTexture name="PeachUpGlitch0001" x="2662" y="4424" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0002" x="2662" y="4424" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0003" x="3318" y="4424" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0004" x="3318" y="4424" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0005" x="0" y="5402" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0006" x="0" y="5402" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0007" x="0" y="5402" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0008" x="656" y="5402" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0009" x="656" y="5402" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0010" x="1312" y="5402" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0011" x="1312" y="5402" width="651" height="973"/>
+	<SubTexture name="PeachUpGlitch0012" x="1968" y="5402" width="651" height="973"/>
+</TextureAtlas>

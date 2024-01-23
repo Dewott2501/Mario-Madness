@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ultra M idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				845,
+				-27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ultra M left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				428,
+				62
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ultra M right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				493,
+				-219
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ultra M down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				531,
+				441
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ultra M up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ultra_M1_Assets",
+	"position": [
+		-400,
+		-900
+	],
+	"healthicon": "ultram",
+	"flip_x": false,
+	"healthbar_colors": [
+		208,
+		37,
+		55
+	],
+	"camera_position": [
+		-70,
+		-100
+	],
+	"sing_duration": 15,
+	"idleReturn": true,
+	"scale": 1.11
+}

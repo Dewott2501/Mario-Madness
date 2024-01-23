@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "BFLand_v2 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "BFLand_v2 Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "BFLand_v2 Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "BFLand_v2 Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "BFLand_v2 Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-54
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "BFLand_v2 DownMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-54
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "BFLand_v2 UpMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-53
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "BFLand_v2 RightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-54
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "BFLand_v2 LeftMiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BFLand_v2",
+	"position": [
+		10,
+		470
+	],
+	"healthicon": "bf-land2",
+	"flip_x": true,
+	"healthbar_colors": [
+		190,
+		190,
+		190
+	],
+	"camera_position": [
+		50,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 5.99999999999999
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Peach_OGN_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PeachSad0000" x="0" y="0" width="517" height="871"/>
+	<SubTexture name="PeachSad0001" x="0" y="0" width="517" height="871"/>
+	<SubTexture name="PeachSad0002" x="527" y="0" width="517" height="871"/>
+	<SubTexture name="PeachSad0003" x="527" y="0" width="517" height="871"/>
+	<SubTexture name="PeachSad0004" x="1054" y="0" width="517" height="871"/>
+	<SubTexture name="PeachSad0005" x="1054" y="0" width="517" height="871"/>
+	<SubTexture name="PeachSad0006" x="0" y="881" width="517" height="871"/>
+	<SubTexture name="PeachSad0007" x="0" y="881" width="517" height="871"/>
+</TextureAtlas>

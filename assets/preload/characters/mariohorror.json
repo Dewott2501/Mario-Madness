@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MarioIdle0"
+		},
+		{
+			"offsets": [
+				172,
+				-216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MarioDown0"
+		},
+		{
+			"offsets": [
+				320,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MarioLeft0"
+		},
+		{
+			"offsets": [
+				317,
+				193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MarioUp0"
+		},
+		{
+			"offsets": [
+				-79,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MarioRight0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				26
+			],
+			"anim": "laugh",
+			"fps": 22,
+			"name": "MarioLaugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEW_Mario_EXE_V2_Assets",
+	"position": [
+		-80,
+		-110
+	],
+	"healthicon": "marioex2",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		13,
+		10
+	],
+	"camera_position": [
+		-320,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

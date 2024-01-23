@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Powerstar_Mario_BG_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Luigi0000" x="0" y="0" width="844" height="262" pivotX="0" pivotY="0"/>
+	<SubTexture name="Luigi0001" x="0" y="0" width="844" height="262"/>
+	<SubTexture name="Luigi0002" x="854" y="0" width="844" height="262"/>
+	<SubTexture name="Luigi0003" x="854" y="0" width="844" height="262"/>
+	<SubTexture name="Luigi0004" x="0" y="272" width="844" height="262"/>
+	<SubTexture name="Luigi0005" x="0" y="272" width="844" height="262"/>
+	<SubTexture name="Peach0000" x="854" y="272" width="1049" height="285" pivotX="0" pivotY="0"/>
+	<SubTexture name="Peach0001" x="854" y="272" width="1049" height="285"/>
+	<SubTexture name="Peach0002" x="0" y="567" width="1049" height="285"/>
+	<SubTexture name="Peach0003" x="0" y="567" width="1049" height="285"/>
+	<SubTexture name="Peach0004" x="0" y="862" width="1049" height="285"/>
+	<SubTexture name="Peach0005" x="0" y="862" width="1049" height="285"/>
+</TextureAtlas>

@@ -1,0 +1,160 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "yoshiexe idle"
+		},
+		{
+			"offsets": [
+				244,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "yoshiexe left"
+		},
+		{
+			"offsets": [
+				25,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "yoshiexe right"
+		},
+		{
+			"offsets": [
+				32,
+				-193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "yoshiexe down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				166
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "yoshiexe up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				756,
+				145
+			],
+			"anim": "death",
+			"fps": 24,
+			"name": "yoshiexe death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				-50
+			],
+			"anim": "duro",
+			"fps": 24,
+			"name": "yoshiexe stare",
+			"indices": []
+		},
+		{
+			"offsets": [
+				160,
+				270
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"fps": 24,
+			"anim": "pow",
+			"loop": false,
+			"name": "yoshiexe ground pound"
+		},
+		{
+			"offsets": [
+				160,
+				270
+			],
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "prepow",
+			"loop": true,
+			"name": "yoshiexe ground pound"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yoshi_EXE_Assets",
+	"position": [
+		76,
+		217
+	],
+	"healthicon": "yoshiex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"idleReturn": true,
+	"scale": 1
+}

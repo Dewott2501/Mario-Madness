@@ -9,30 +9,46 @@ class DiscordClient
 {
 	public function new()
 	{
-		trace("Discord Client starting...");
-		DiscordRpc.start({
-			clientID: "938564191231549481",
-			onReady: onReady,
-			onError: onError,
-			onDisconnected: onDisconnected
-		});
-		trace("Discord Client started.");
+		if (ClientPrefs.noDiscord)
+		{
+			trace("Discord Client starting...");
+			DiscordRpc.start({
+				clientID: "1158041579135709275",
+				onReady: onReady,
+				onError: onError,
+				onDisconnected: onDisconnected
+			});
+			trace("Discord Client started.");
+		}
 
 		while (true)
 		{
 			DiscordRpc.process();
 			sleep(2);
-			//trace("Discord Client Update");
+			// trace("Discord Client Update");
 		}
 
 		DiscordRpc.shutdown();
 	}
-	
+
+	public static function start()
+	{
+		if (ClientPrefs.noDiscord)
+		{
+			DiscordRpc.start({
+				clientID: "1158041579135709275",
+				onReady: onReady,
+				onError: onError,
+				onDisconnected: onDisconnected
+			});
+		}
+	}
+
 	public static function shutdown()
 	{
 		DiscordRpc.shutdown();
 	}
-	
+
 	static function onReady()
 	{
 		DiscordRpc.presence({
@@ -62,9 +78,9 @@ class DiscordClient
 		trace("Discord Client initialized");
 	}
 
-	public static function changePresence(details:String, state:Null<String>, ?smallImageKey : String, ?hasStartTimestamp : Bool, ?endTimestamp: Float)
+	public static function changePresence(details:String, state:Null<String>, ?largeImage:String = "icon", ?smallImageKey:String, ?hasStartTimestamp:Bool, ?endTimestamp:Float)
 	{
-		var startTimestamp:Float = if(hasStartTimestamp) Date.now().getTime() else 0;
+		var startTimestamp:Float = if (hasStartTimestamp) Date.now().getTime() else 0;
 
 		if (endTimestamp > 0)
 		{
@@ -74,14 +90,14 @@ class DiscordClient
 		DiscordRpc.presence({
 			details: details,
 			state: state,
-			largeImageKey: 'icon',
-			largeImageText: "Engine Version: " + MainMenuState.psychEngineVersion,
-			smallImageKey : smallImageKey,
+			largeImageKey: largeImage,
+			largeImageText: "Dusty ass Psych Engine",
+			smallImageKey: smallImageKey,
 			// Obtained times are in milliseconds so they are divided so Discord can use it
-			startTimestamp : Std.int(startTimestamp / 1000),
-            endTimestamp : Std.int(endTimestamp / 1000)
+			startTimestamp: Std.int(startTimestamp / 1000),
+			endTimestamp: Std.int(endTimestamp / 1000)
 		});
 
-		//trace('Discord RPC Updated. Arguments: $details, $state, $smallImageKey, $hasStartTimestamp, $endTimestamp');
+		// trace('Discord RPC Updated. Arguments: $details, $state, $smallImageKey, $hasStartTimestamp, $endTimestamp');
 	}
 }

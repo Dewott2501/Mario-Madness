@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Starman_BG_Fire_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire anim effects0000" x="5" y="5" width="2434" height="2540" frameX="0" frameY="-69" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0001" x="5" y="5" width="2434" height="2540" frameX="0" frameY="-69" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0002" x="2449" y="5" width="2434" height="2377" frameX="0" frameY="-233" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0003" x="2449" y="5" width="2434" height="2377" frameX="0" frameY="-233" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0004" x="4893" y="5" width="2434" height="2491" frameX="0" frameY="-119" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0005" x="4893" y="5" width="2434" height="2491" frameX="0" frameY="-119" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0006" x="5" y="2555" width="2434" height="2496" frameX="0" frameY="-115" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0007" x="5" y="2555" width="2434" height="2496" frameX="0" frameY="-115" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0008" x="2449" y="2555" width="2434" height="2530" frameX="0" frameY="-78" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0009" x="2449" y="2555" width="2434" height="2530" frameX="0" frameY="-78" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0010" x="4893" y="2555" width="2425" height="2584" frameX="0" frameY="-19" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0011" x="4893" y="2555" width="2425" height="2584" frameX="0" frameY="-19" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0012" x="5" y="5149" width="2434" height="2601" frameX="0" frameY="0" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0013" x="5" y="5149" width="2434" height="2601" frameX="0" frameY="0" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0014" x="2449" y="5149" width="2434" height="2482" frameX="0" frameY="-118" frameWidth="2434" frameHeight="2611"/>
+	<SubTexture name="fire anim effects0015" x="2449" y="5149" width="2434" height="2482" frameX="0" frameY="-118" frameWidth="2434" frameHeight="2611"/>
+</TextureAtlas>

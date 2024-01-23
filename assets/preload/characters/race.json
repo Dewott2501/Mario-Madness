@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				305,
 				6
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "RacistIdle"
+			"fps": 24,
+			"name": "RacistIdle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				305,
 				77
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "RacistUp"
+			"fps": 24,
+			"name": "RacistUp",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				305,
 				12
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "RacistDown"
+			"fps": 24,
+			"name": "RacistDown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				316,
 				7
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "RacistLeft"
+			"fps": 24,
+			"name": "RacistLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				307,
 				19
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "RacistRight"
+			"fps": 24,
+			"name": "RacistRight",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-80,
 		110
 	],
-	"healthicon": "race",
+	"healthicon": "race2",
 	"flip_x": false,
 	"healthbar_colors": [
-		234,
-		34,
-		36
+		220,
+		13,
+		42
 	],
 	"camera_position": [
 		-70,

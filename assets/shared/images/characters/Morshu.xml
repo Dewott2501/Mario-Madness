@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Morshu.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="morshu down0000" x="5" y="5" width="1044" height="699"/>
+	<SubTexture name="morshu down0001" x="5" y="5" width="1044" height="699"/>
+	<SubTexture name="morshu down0002" x="1059" y="5" width="1035" height="687" frameX="-9" frameY="-12" frameWidth="1044" frameHeight="699"/>
+	<SubTexture name="morshu down0003" x="1059" y="5" width="1035" height="687" frameX="-9" frameY="-12" frameWidth="1044" frameHeight="699"/>
+	<SubTexture name="morshu down0004" x="2104" y="5" width="969" height="681" frameX="-51" frameY="-18" frameWidth="1044" frameHeight="699"/>
+	<SubTexture name="morshu down0005" x="2104" y="5" width="969" height="681" frameX="-51" frameY="-18" frameWidth="1044" frameHeight="699"/>
+	<SubTexture name="morshu down0006" x="2104" y="5" width="969" height="681" frameX="-51" frameY="-18" frameWidth="1044" frameHeight="699"/>
+	<SubTexture name="morshu down0007" x="2104" y="5" width="969" height="681" frameX="-51" frameY="-18" frameWidth="1044" frameHeight="699"/>
+	<SubTexture name="morshu down0008" x="2104" y="5" width="969" height="681" frameX="-51" frameY="-18" frameWidth="1044" frameHeight="699"/>
+	<SubTexture name="morshu down0009" x="2104" y="5" width="969" height="681" frameX="-51" frameY="-18" frameWidth="1044" frameHeight="699"/>
+	<SubTexture name="morshu idle0000" x="5" y="714" width="1152" height="717"/>
+	<SubTexture name="morshu idle0001" x="5" y="714" width="1152" height="717"/>
+	<SubTexture name="morshu left0000" x="1167" y="714" width="1005" height="696"/>
+	<SubTexture name="morshu left0001" x="1167" y="714" width="1005" height="696"/>
+	<SubTexture name="morshu left0002" x="2182" y="714" width="1005" height="696"/>
+	<SubTexture name="morshu left0003" x="2182" y="714" width="1005" height="696"/>
+	<SubTexture name="morshu left0004" x="5" y="1441" width="984" height="696" frameX="-18" frameY="0" frameWidth="1005" frameHeight="696"/>
+	<SubTexture name="morshu left0005" x="5" y="1441" width="984" height="696" frameX="-18" frameY="0" frameWidth="1005" frameHeight="696"/>
+	<SubTexture name="morshu left0006" x="5" y="1441" width="984" height="696" frameX="-18" frameY="0" frameWidth="1005" frameHeight="696"/>
+	<SubTexture name="morshu left0007" x="5" y="1441" width="984" height="696" frameX="-18" frameY="0" frameWidth="1005" frameHeight="696"/>
+	<SubTexture name="morshu left0008" x="5" y="1441" width="984" height="696" frameX="-18" frameY="0" frameWidth="1005" frameHeight="696"/>
+	<SubTexture name="morshu left0009" x="5" y="1441" width="984" height="696" frameX="-18" frameY="0" frameWidth="1005" frameHeight="696"/>
+	<SubTexture name="morshu right0000" x="999" y="1441" width="897" height="633" frameX="-3" frameY="-18" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu right0001" x="999" y="1441" width="897" height="633" frameX="-3" frameY="-18" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu right0002" x="1906" y="1441" width="882" height="651" frameX="0" frameY="0" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu right0003" x="1906" y="1441" width="882" height="651" frameX="0" frameY="0" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu right0004" x="2798" y="1441" width="888" height="648" frameX="-6" frameY="-3" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu right0005" x="2798" y="1441" width="888" height="648" frameX="-6" frameY="-3" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu right0006" x="2798" y="1441" width="888" height="648" frameX="-6" frameY="-3" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu right0007" x="2798" y="1441" width="888" height="648" frameX="-6" frameY="-3" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu right0008" x="2798" y="1441" width="888" height="648" frameX="-6" frameY="-3" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu right0009" x="2798" y="1441" width="888" height="648" frameX="-6" frameY="-3" frameWidth="900" frameHeight="651"/>
+	<SubTexture name="morshu up0000" x="5" y="2147" width="828" height="705" frameX="-33" frameY="0" frameWidth="864" frameHeight="705"/>
+	<SubTexture name="morshu up0001" x="5" y="2147" width="828" height="705" frameX="-33" frameY="0" frameWidth="864" frameHeight="705"/>
+	<SubTexture name="morshu up0002" x="843" y="2147" width="849" height="705" frameX="-6" frameY="0" frameWidth="864" frameHeight="705"/>
+	<SubTexture name="morshu up0003" x="843" y="2147" width="849" height="705" frameX="-6" frameY="0" frameWidth="864" frameHeight="705"/>
+	<SubTexture name="morshu up0004" x="1702" y="2147" width="864" height="705"/>
+	<SubTexture name="morshu up0005" x="1702" y="2147" width="864" height="705"/>
+	<SubTexture name="morshu up0006" x="1702" y="2147" width="864" height="705"/>
+	<SubTexture name="morshu up0007" x="1702" y="2147" width="864" height="705"/>
+	<SubTexture name="morshu up0008" x="1702" y="2147" width="864" height="705"/>
+	<SubTexture name="morshu up0009" x="1702" y="2147" width="864" height="705"/>
+</TextureAtlas>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GX_Sprites_FINAL.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GXDown0000" x="0" y="0" width="1072" height="1206" pivotX="50.7" pivotY="-68.9" frameX="-113" frameY="-31" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0001" x="1082" y="0" width="1105" height="1291" frameX="-87" frameY="-29" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0002" x="1082" y="0" width="1105" height="1291" frameX="-87" frameY="-29" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0003" x="2197" y="0" width="1205" height="1247" frameX="0" frameY="-12" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0004" x="2197" y="0" width="1205" height="1247" frameX="0" frameY="-12" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0005" x="2197" y="0" width="1205" height="1247" frameX="0" frameY="-12" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0006" x="3412" y="0" width="1180" height="1245" frameX="-53" frameY="-1" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0007" x="3412" y="0" width="1180" height="1245" frameX="-53" frameY="-1" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0008" x="3412" y="0" width="1180" height="1245" frameX="-53" frameY="-1" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0009" x="4602" y="0" width="1177" height="1239" frameX="-56" frameY="0" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0010" x="4602" y="0" width="1177" height="1239" frameX="-56" frameY="0" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0011" x="4602" y="0" width="1177" height="1239" frameX="-56" frameY="0" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0012" x="4602" y="0" width="1177" height="1239" frameX="-56" frameY="0" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0013" x="4602" y="0" width="1177" height="1239" frameX="-56" frameY="0" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXDown0014" x="4602" y="0" width="1177" height="1239" frameX="-56" frameY="0" frameWidth="1233" frameHeight="1320"/>
+	<SubTexture name="GXIdle0000" x="5789" y="0" width="1158" height="1198" pivotX="4.45" pivotY="-1.45" frameX="0" frameY="-33" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0001" x="6957" y="0" width="1156" height="1195" frameX="-2" frameY="-36" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0002" x="6957" y="0" width="1156" height="1195" frameX="-2" frameY="-36" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0003" x="0" y="1301" width="1160" height="1203" frameX="0" frameY="-33" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0004" x="0" y="1301" width="1160" height="1203" frameX="0" frameY="-33" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0005" x="0" y="1301" width="1160" height="1203" frameX="0" frameY="-33" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0006" x="1170" y="1301" width="1144" height="1182" frameX="-4" frameY="-21" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0007" x="1170" y="1301" width="1144" height="1182" frameX="-4" frameY="-21" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0008" x="1170" y="1301" width="1144" height="1182" frameX="-4" frameY="-21" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0009" x="2324" y="1301" width="1141" height="1183" frameX="-4" frameY="-8" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0010" x="2324" y="1301" width="1141" height="1183" frameX="-4" frameY="-8" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0011" x="3475" y="1301" width="1140" height="1184" frameX="-4" frameY="-3" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0012" x="3475" y="1301" width="1140" height="1184" frameX="-4" frameY="-3" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0013" x="3475" y="1301" width="1140" height="1184" frameX="-4" frameY="-3" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXIdle0014" x="4625" y="1301" width="1140" height="1185" frameX="-4" frameY="0" frameWidth="1160" frameHeight="1236"/>
+	<SubTexture name="GXLeft0000" x="5775" y="1301" width="1110" height="1181" pivotX="151.55" pivotY="-12.3" frameX="-9" frameY="0" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0001" x="6895" y="1301" width="1118" height="1173" frameX="0" frameY="-6" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0002" x="6895" y="1301" width="1118" height="1173" frameX="0" frameY="-6" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0003" x="0" y="2514" width="1100" height="1180" frameX="-68" frameY="-4" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0004" x="0" y="2514" width="1100" height="1180" frameX="-68" frameY="-4" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0005" x="0" y="2514" width="1100" height="1180" frameX="-68" frameY="-4" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0006" x="1110" y="2514" width="1097" height="1184" frameX="-74" frameY="-7" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0007" x="1110" y="2514" width="1097" height="1184" frameX="-74" frameY="-7" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0008" x="1110" y="2514" width="1097" height="1184" frameX="-74" frameY="-7" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0009" x="2217" y="2514" width="1099" height="1182" frameX="-72" frameY="-9" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0010" x="2217" y="2514" width="1099" height="1182" frameX="-72" frameY="-9" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0011" x="2217" y="2514" width="1099" height="1182" frameX="-72" frameY="-9" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0012" x="2217" y="2514" width="1099" height="1182" frameX="-72" frameY="-9" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0013" x="2217" y="2514" width="1099" height="1182" frameX="-72" frameY="-9" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXLeft0014" x="2217" y="2514" width="1099" height="1182" frameX="-72" frameY="-9" frameWidth="1171" frameHeight="1191"/>
+	<SubTexture name="GXRight0000" x="3326" y="2514" width="1245" height="1301" pivotX="-295.95" pivotY="15.3" frameX="-7" frameY="-3" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0001" x="4581" y="2514" width="1231" height="1279" frameX="-21" frameY="0" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0002" x="4581" y="2514" width="1231" height="1279" frameX="-21" frameY="0" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0003" x="5822" y="2514" width="1134" height="1259" frameX="-8" frameY="-10" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0004" x="5822" y="2514" width="1134" height="1259" frameX="-8" frameY="-10" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0005" x="5822" y="2514" width="1134" height="1259" frameX="-8" frameY="-10" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0006" x="6966" y="2514" width="1133" height="1262" frameX="-2" frameY="-5" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0007" x="6966" y="2514" width="1133" height="1262" frameX="-2" frameY="-5" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0008" x="6966" y="2514" width="1133" height="1262" frameX="-2" frameY="-5" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0009" x="0" y="3825" width="1136" height="1260" frameX="0" frameY="-7" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0010" x="0" y="3825" width="1136" height="1260" frameX="0" frameY="-7" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0011" x="0" y="3825" width="1136" height="1260" frameX="0" frameY="-7" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0012" x="0" y="3825" width="1136" height="1260" frameX="0" frameY="-7" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0013" x="0" y="3825" width="1136" height="1260" frameX="0" frameY="-7" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXRight0014" x="0" y="3825" width="1136" height="1260" frameX="0" frameY="-7" frameWidth="1252" frameHeight="1304"/>
+	<SubTexture name="GXUp0000" x="1146" y="3825" width="1289" height="1152" pivotX="141.45" pivotY="101.65" frameX="0" frameY="0" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0001" x="2445" y="3825" width="1277" height="1150" frameX="-13" frameY="-3" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0002" x="2445" y="3825" width="1277" height="1150" frameX="-13" frameY="-3" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0003" x="3732" y="3825" width="1230" height="1146" frameX="-80" frameY="-63" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0004" x="3732" y="3825" width="1230" height="1146" frameX="-80" frameY="-63" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0005" x="3732" y="3825" width="1230" height="1146" frameX="-80" frameY="-63" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0006" x="4972" y="3825" width="1218" height="1144" frameX="-90" frameY="-75" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0007" x="4972" y="3825" width="1218" height="1144" frameX="-90" frameY="-75" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0008" x="4972" y="3825" width="1218" height="1144" frameX="-90" frameY="-75" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0009" x="6200" y="3825" width="1221" height="1146" frameX="-88" frameY="-74" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0010" x="6200" y="3825" width="1221" height="1146" frameX="-88" frameY="-74" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0011" x="6200" y="3825" width="1221" height="1146" frameX="-88" frameY="-74" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0012" x="6200" y="3825" width="1221" height="1146" frameX="-88" frameY="-74" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0013" x="6200" y="3825" width="1221" height="1146" frameX="-88" frameY="-74" frameWidth="1310" frameHeight="1220"/>
+	<SubTexture name="GXUp0014" x="6200" y="3825" width="1221" height="1146" frameX="-88" frameY="-74" frameWidth="1310" frameHeight="1220"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ultra idle"
+		},
+		{
+			"offsets": [
+				6,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ultra left"
+		},
+		{
+			"offsets": [
+				231,
+				36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ultra right"
+		},
+		{
+			"offsets": [
+				140,
+				238
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ultra down"
+		},
+		{
+			"offsets": [
+				342,
+				324
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ultra up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ultra_M2_Assets",
+	"position": [
+		-420,
+		-40
+	],
+	"healthicon": "ultram4",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		57,
+		83
+	],
+	"camera_position": [
+		-70,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1.11
+}

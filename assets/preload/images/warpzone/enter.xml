@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="enter.png">
+<SubTexture name="enter appear0000" x="143" y="62" width="15" height="17" frameX="-13" frameY="-13" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter appear0001" x="143" y="35" width="25" height="27" frameX="-9" frameY="-9" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter appear0002" x="0" y="0" width="38" height="41" frameX="0" frameY="0" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter appear0003" x="73" y="0" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter appear0004" x="73" y="0" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0000" x="143" y="0" width="37" height="35" frameX="-1" frameY="-5" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0001" x="105" y="79" width="37" height="36" frameX="-1" frameY="-4" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0002" x="38" y="0" width="35" height="40" frameX="-2" frameY="0" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0003" x="73" y="0" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0004" x="0" y="41" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0005" x="35" y="41" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0006" x="70" y="41" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0007" x="108" y="0" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0008" x="108" y="38" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0009" x="0" y="79" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0010" x="35" y="79" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+<SubTexture name="enter press0011" x="70" y="79" width="35" height="38" frameX="-2" frameY="-2" frameWidth="34" frameHeight="37" />
+</TextureAtlas>

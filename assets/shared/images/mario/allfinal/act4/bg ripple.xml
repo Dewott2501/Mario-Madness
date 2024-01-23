@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg ripple.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg ripple0000" x="5" y="5" width="1413" height="388" frameX="-56" frameY="-99" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0001" x="5" y="5" width="1413" height="388" frameX="-56" frameY="-99" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0002" x="5" y="5" width="1413" height="388" frameX="-56" frameY="-99" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0003" x="5" y="5" width="1413" height="388" frameX="-56" frameY="-99" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0004" x="1428" y="5" width="1515" height="387" frameX="-40" frameY="-100" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0005" x="1428" y="5" width="1515" height="387" frameX="-40" frameY="-100" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0006" x="1428" y="5" width="1515" height="387" frameX="-40" frameY="-100" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0007" x="5" y="403" width="1586" height="378" frameX="-1" frameY="-109" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0008" x="5" y="403" width="1586" height="378" frameX="-1" frameY="-109" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0009" x="1601" y="403" width="1592" height="357" frameX="0" frameY="-130" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0010" x="1601" y="403" width="1592" height="357" frameX="0" frameY="-130" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0011" x="5" y="791" width="1530" height="368" frameX="-27" frameY="-119" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0012" x="5" y="791" width="1530" height="368" frameX="-27" frameY="-119" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0013" x="5" y="791" width="1530" height="368" frameX="-27" frameY="-119" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0014" x="1545" y="791" width="1485" height="336" frameX="-33" frameY="-151" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0015" x="1545" y="791" width="1485" height="336" frameX="-33" frameY="-151" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0016" x="1545" y="791" width="1485" height="336" frameX="-33" frameY="-151" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0017" x="1545" y="791" width="1485" height="336" frameX="-33" frameY="-151" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0018" x="5" y="1169" width="1494" height="369" frameX="-56" frameY="-118" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0019" x="1509" y="1169" width="1440" height="451" frameX="-56" frameY="-36" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0020" x="1509" y="1169" width="1440" height="451" frameX="-56" frameY="-36" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0021" x="5" y="1630" width="1453" height="487" frameX="-56" frameY="0" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0022" x="5" y="1630" width="1453" height="487" frameX="-56" frameY="0" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0023" x="1468" y="1630" width="1458" height="450" frameX="-49" frameY="-37" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0024" x="1468" y="1630" width="1458" height="450" frameX="-49" frameY="-37" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0025" x="5" y="2127" width="1413" height="372" frameX="-56" frameY="-115" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0026" x="5" y="2127" width="1413" height="372" frameX="-56" frameY="-115" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0027" x="5" y="2127" width="1413" height="372" frameX="-56" frameY="-115" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0028" x="1428" y="2127" width="1407" height="371" frameX="-56" frameY="-116" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0029" x="1428" y="2127" width="1407" height="371" frameX="-56" frameY="-116" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0030" x="1428" y="2127" width="1407" height="371" frameX="-56" frameY="-116" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0031" x="5" y="2509" width="1413" height="387" frameX="-56" frameY="-100" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0032" x="5" y="2509" width="1413" height="387" frameX="-56" frameY="-100" frameWidth="1592" frameHeight="487"/>
+	<SubTexture name="bg ripple0033" x="5" y="2509" width="1413" height="387" frameX="-56" frameY="-100" frameWidth="1592" frameHeight="487"/>
+</TextureAtlas>

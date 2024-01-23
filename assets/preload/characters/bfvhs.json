@@ -111,7 +111,7 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				17,
 				191
@@ -135,17 +135,28 @@
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				0
+				27,
+				20
 			],
 			"anim": "dodge",
 			"fps": 24,
 			"name": "Boyfriend Dodge",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				26
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Boyfriend Stunt",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BF_New",
+	"image": "characters/old/BoyFriend_MX_Assets_v2",
 	"position": [
 		0,
 		350

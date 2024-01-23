@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_facecam.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="facecam bf down0000" x="5" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0001" x="649" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0002" x="649" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0003" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0004" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0005" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0006" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0007" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0008" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0009" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0010" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0011" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0012" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0013" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf down0014" x="1293" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0000" x="1937" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0001" x="1937" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0002" x="2581" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0003" x="2581" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0004" x="3225" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0005" x="3225" y="5" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0006" x="5" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0007" x="5" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0008" x="649" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0009" x="649" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0010" x="1293" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0011" x="1293" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0012" x="1293" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0013" x="1293" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf idle0014" x="1293" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0000" x="1937" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0001" x="2581" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0002" x="2581" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0003" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0004" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0005" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0006" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0007" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0008" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0009" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0010" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0011" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0012" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0013" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf left0014" x="3225" y="438" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0000" x="5" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0001" x="5" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0002" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0003" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0004" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0005" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0006" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0007" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0008" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0009" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0010" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0011" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0012" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0013" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss down0014" x="649" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0000" x="1293" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0001" x="1293" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0002" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0003" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0004" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0005" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0006" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0007" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0008" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0009" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0010" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0011" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0012" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0013" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss left0014" x="1937" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0000" x="2581" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0001" x="2581" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0002" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0003" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0004" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0005" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0006" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0007" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0008" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0009" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0010" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0011" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0012" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0013" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss right0014" x="3225" y="871" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0000" x="5" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0001" x="5" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0002" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0003" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0004" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0005" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0006" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0007" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0008" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0009" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0010" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0011" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0012" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0013" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf miss up0014" x="649" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0000" x="1293" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0001" x="1937" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0002" x="1937" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0003" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0004" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0005" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0006" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0007" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0008" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0009" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0010" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0011" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0012" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0013" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf right0014" x="2581" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf up0000" x="3225" y="1304" width="634" height="423"/>
+	<SubTexture name="facecam bf up0001" x="5" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0002" x="5" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0003" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0004" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0005" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0006" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0007" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0008" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0009" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0010" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0011" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0012" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0013" x="649" y="1737" width="634" height="423"/>
+	<SubTexture name="facecam bf up0014" x="649" y="1737" width="634" height="423"/>
+</TextureAtlas>

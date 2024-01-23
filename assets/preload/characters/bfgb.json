@@ -111,7 +111,7 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				-103,
 				-23
@@ -134,7 +134,7 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/BFLand",
+	"image": "characters/old/BFLand",
 	"position": [
 		0,
 		410

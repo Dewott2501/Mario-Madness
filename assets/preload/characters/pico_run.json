@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TopLeftFront",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TopDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TopUpFront",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				-14
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "TopRightFront",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				16
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "TopLeftFront",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				35
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "TopDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				25
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "TopUpFront",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TopRightFront",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 0,
+			"anim": "idle",
+			"indices": [],
+			"name": "TopIdle"
+		},
+		{
+			"offsets": [
+				30,
+				-275
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "idle-legs",
+			"indices": [],
+			"name": "Legs"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-222,
+				-207
+			],
+			"anim": "singLEFTarm",
+			"fps": 24,
+			"name": "TopLeftBack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-273,
+				-180
+			],
+			"anim": "singUParm",
+			"fps": 24,
+			"name": "TopUpBack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-200
+			],
+			"anim": "singRIGHTarm",
+			"fps": 24,
+			"name": "TopRightBack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dialog1",
+			"loop": false,
+			"name": "TopDialgoue"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Too_Late_Pico_FINALSEQUENCE_assets",
+	"position": [
+		-30,
+		230
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-140,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

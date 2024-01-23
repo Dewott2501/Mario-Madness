@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ldo mario idle normal"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "ldo mario idle annoyed"
+		},
+		{
+			"offsets": [
+				52,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ldo mario left"
+		},
+		{
+			"offsets": [
+				-42,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ldo mario right"
+		},
+		{
+			"offsets": [
+				-33,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ldo mario down"
+		},
+		{
+			"offsets": [
+				8,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ldo mario up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "smoke hold",
+			"indices": [],
+			"name": "ldo mario smoke hold"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gonnatell",
+			"indices": [],
+			"name": "ldo mario gonnatellmom"
+		},
+		{
+			"offsets": [
+				7,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "betternot",
+			"indices": [],
+			"name": "ldo mario yeayoubetternot"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "ldo mario hey"
+		},
+		{
+			"offsets": [
+				-68,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dumbass",
+			"indices": [],
+			"name": "ldo mario dumbassgeek"
+		},
+		{
+			"offsets": [
+				51,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idiot",
+			"indices": [],
+			"name": "ldo mario moms an idiot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mario_LDO",
+	"position": [
+		-30,
+		150
+	],
+	"healthicon": "mario-ldo",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		30,
+		44
+	],
+	"camera_position": [
+		-100,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

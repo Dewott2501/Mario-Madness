@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "3d Idle"
+		},
+		{
+			"offsets": [
+				32,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "3d Left"
+		},
+		{
+			"offsets": [
+				52,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "3d Down"
+		},
+		{
+			"offsets": [
+				-40,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "3d Up"
+		},
+		{
+			"offsets": [
+				16,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "3d Right"
+		},
+		{
+			"offsets": [
+				-42,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "3d Miss Left"
+		},
+		{
+			"offsets": [
+				-33,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "3d Miss Down"
+		},
+		{
+			"offsets": [
+				-40,
+				98
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "3d Miss Up"
+		},
+		{
+			"offsets": [
+				15,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "3d Miss Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Abandoned_BF_3D_Assets",
+	"position": [
+		-210,
+		10
+	],
+	"healthicon": "bf3D",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.85
+}

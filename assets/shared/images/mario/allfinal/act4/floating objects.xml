@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="floating objects.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floating objects0000" x="5" y="5" width="178" height="164" frameX="-24" frameY="-43" frameWidth="266" frameHeight="235"/>
+	<SubTexture name="floating objects0001" x="193" y="5" width="135" height="147" frameX="-49" frameY="-45" frameWidth="266" frameHeight="235"/>
+	<SubTexture name="floating objects0002" x="338" y="5" width="169" height="136" frameX="-30" frameY="-48" frameWidth="266" frameHeight="235"/>
+	<SubTexture name="floating objects0003" x="517" y="5" width="150" height="143" frameX="-40" frameY="-45" frameWidth="266" frameHeight="235"/>
+	<SubTexture name="floating objects0004" x="677" y="5" width="157" height="156" frameX="-32" frameY="-43" frameWidth="266" frameHeight="235"/>
+	<SubTexture name="floating objects0005" x="844" y="5" width="150" height="139" frameX="-45" frameY="-49" frameWidth="266" frameHeight="235"/>
+	<SubTexture name="floating objects0006" x="5" y="179" width="152" height="150" frameX="-41" frameY="-30" frameWidth="266" frameHeight="235"/>
+	<SubTexture name="floating objects0007" x="167" y="179" width="175" height="191" frameX="-36" frameY="-23" frameWidth="266" frameHeight="235"/>
+	<SubTexture name="floating objects0008" x="352" y="179" width="142" height="157" frameX="-45" frameY="-38" frameWidth="266" frameHeight="235"/>
+	<SubTexture name="floating objects0009" x="504" y="179" width="266" height="235"/>
+</TextureAtlas>

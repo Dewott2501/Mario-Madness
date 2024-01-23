@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				180,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				180,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				205,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				200,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				200,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Hey",
+			"indices": [0,1,2,3,4,5,6,7,8,8,8,8,8,8,8,8],
+			"name": "Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Abandoned_Luigi_3D_AssetsFINAL",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "wdwluigi3D",
+	"flip_x": false,
+	"healthbar_colors": [
+		3,
+		221,
+		0
+	],
+	"camera_position": [
+		-45,
+		420
+	],
+	"sing_duration": 4,
+	"idleReturn": true,
+	"scale": 0.5
+}

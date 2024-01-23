@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "promario idle"
+		},
+		{
+			"offsets": [
+				244,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "promario left"
+		},
+		{
+			"offsets": [
+				-192,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "promario right"
+		},
+		{
+			"offsets": [
+				-6,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "promario down"
+		},
+		{
+			"offsets": [
+				-69,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "promario up"
+		},
+		{
+			"offsets": [
+				-239,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "promario depressed idle"
+		},
+		{
+			"offsets": [
+				-236,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "promario depressed left"
+		},
+		{
+			"offsets": [
+				-239,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "promario depressed right"
+		},
+		{
+			"offsets": [
+				-220,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "promario depressed down"
+		},
+		{
+			"offsets": [
+				-246,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "promario depressed up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "depression",
+			"fps": 24,
+			"name": "promario transition idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mario_PromoShow",
+	"position": [
+		-180,
+		242
+	],
+	"healthicon": "promo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		44,
+		0
+	],
+	"camera_position": [
+		-450,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

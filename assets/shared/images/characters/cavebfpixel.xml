@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pixel caveboy.png">
+<SubTexture name="cavebfpixel idle0000" x="41" y="102" width="44" height="43" frameX="-2" frameY="-9" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel idle0001" x="155" y="86" width="44" height="42" frameX="-3" frameY="-10" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel idle0002" x="85" y="102" width="44" height="43" frameX="-2" frameY="-9" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel left0000" x="0" y="147" width="45" height="42" frameX="0" frameY="-10" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel left0001" x="155" y="0" width="44" height="43" frameX="-1" frameY="-9" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel down0000" x="38" y="52" width="41" height="45" frameX="-4" frameY="-7" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel down0001" x="114" y="0" width="41" height="45" frameX="-5" frameY="-7" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel right0000" x="140" y="147" width="50" height="38" frameX="0" frameY="-14" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel right0001" x="199" y="0" width="49" height="38" frameX="0" frameY="-14" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel up0000" x="0" y="0" width="38" height="52" frameX="-7" frameY="0" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel up0001" x="76" y="0" width="38" height="50" frameX="-7" frameY="-2" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel mleft0000" x="45" y="147" width="45" height="42" frameX="0" frameY="-10" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel mleft0001" x="155" y="43" width="44" height="43" frameX="-1" frameY="-9" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel mdown0000" x="114" y="45" width="41" height="45" frameX="-4" frameY="-7" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel mdown0001" x="0" y="102" width="41" height="45" frameX="-5" frameY="-7" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel mright0000" x="90" y="147" width="50" height="39" frameX="0" frameY="-13" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel mright0001" x="199" y="38" width="49" height="38" frameX="0" frameY="-14" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel mup0000" x="38" y="0" width="38" height="52" frameX="-7" frameY="0" frameWidth="30" frameHeight="32" />
+<SubTexture name="cavebfpixel mup0001" x="0" y="52" width="38" height="50" frameX="-7" frameY="-2" frameWidth="30" frameHeight="32" />
+</TextureAtlas>

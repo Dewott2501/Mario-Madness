@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"anim": "dialog2",
+			"fps": 24,
+			"name": "PicoDIalogue",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-38,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dialog1",
+			"indices": [],
+			"name": "PicoDialogue2"
+		},
+		{
+			"offsets": [
+				281,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dialog3",
+			"indices": [],
+			"name": "PicoDialogue3"
+		},
+		{
+			"offsets": [
+				-38,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "PicoDialogue2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Too_Late_Pico_DIALOGUEFINAL_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

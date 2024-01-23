@@ -111,7 +111,7 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				26,
 				180
@@ -134,7 +134,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mario_BoyFriend_Assets_v1",
+	"image": "characters/old/Mario_BoyFriend_Assets_v1",
 	"position": [
 		0,
 		350

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gota.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rain0000" x="107" y="163" width="82" height="64" pivotX="39.1" pivotY="32.95" frameX="-7" frameY="-12" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0001" x="106" y="87" width="81" height="71" frameX="-8" frameY="-5" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0002" x="106" y="87" width="81" height="71" frameX="-8" frameY="-5" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0003" x="101" y="5" width="84" height="77" frameX="-4" frameY="-1" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0004" x="5" y="5" width="91" height="77" frameX="0" frameY="0" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0005" x="5" y="87" width="96" height="63" frameX="-2" frameY="-13" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0006" x="5" y="163" width="97" height="56" frameX="-6" frameY="-20" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0007" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0008" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0009" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0010" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0011" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0012" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0013" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0014" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0015" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0016" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0017" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0018" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0019" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0020" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0021" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0022" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0023" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0024" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0025" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0026" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0027" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0028" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0029" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0030" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0031" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0032" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0033" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0034" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0035" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0036" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0037" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+	<SubTexture name="rain0038" x="190" y="5" width="24" height="8" frameX="-35" frameY="-68" frameWidth="103" frameHeight="78"/>
+</TextureAtlas>
