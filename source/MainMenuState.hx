@@ -1083,16 +1083,18 @@ class MainMenuState extends MusicBeatState {
 									FlxG.sound.soundTray.show(true);
 
 									// Am I Evil??? (i do not care about streamer mode)
+									#if windows
 									CppAPI.removeWindowIcon();
 									FlxG.fullscreen = FlxG.autoPause = false;
 									Lib.application.window.onClose.add(function () {
 										Lib.application.window.onClose.cancel();
 									});
-									
+									#end
 									(new FlxVideo(fileName)).finishCallback = function() {Sys.exit(0);}
 									(new FlxTimer()).start(52, function (tmr:FlxTimer) {
+										#if windows
 										CppAPI._setWindowLayered();
-					
+					                                        #end
 										var numTween:NumTween = FlxTween.num(1, 0, 3, {
 											onComplete: function(twn:FlxTween) {
 												Sys.exit(0);
