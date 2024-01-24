@@ -54,7 +54,7 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-ui
           haxelib install hscript
-          haxelib install hxCodec
+          haxelib install hxCodec 2.6.1
           haxelib git extension-webview https://github.com/MateuzinhoX02/extension-webview
           haxelib git flixel-addons https://github.com/ninjamuffin99/flixel-addons
           haxelib git linc_luajit https://github.com/Sirox228/linc_luajit.git
