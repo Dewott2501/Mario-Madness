@@ -250,14 +250,14 @@ class GameOverSubstate extends MusicBeatSubstate
 
 			endFadeTime = 4;
 
-			var cdGlitch1:FlxBackdrop = new FlxBackdrop(Paths.image('modstuff/gameovers/coro/glitches_back'), XY);
+			var cdGlitch1:FlxBackdrop = new FlxBackdrop(Paths.image('modstuff/gameovers/coro/glitches_back'), );
 			cdGlitch1.velocity.set(-500, 400);
 			cdGlitch1.updateHitbox();
 			cdGlitch1.scale.set(0.5, 0.5);
 			cdGlitch1.alpha = 0.5;
 			add(cdGlitch1);
 
-			var cdGlitch2:FlxBackdrop = new FlxBackdrop(Paths.image('modstuff/gameovers/coro/glitches_back'), XY);
+			var cdGlitch2:FlxBackdrop = new FlxBackdrop(Paths.image('modstuff/gameovers/coro/glitches_back'), );
 			cdGlitch2.velocity.set(-350, 280);
 			cdGlitch2.updateHitbox();
 			add(cdGlitch2);
@@ -283,7 +283,7 @@ class GameOverSubstate extends MusicBeatSubstate
 			add(cdBF);
 			cdBF.animation.play('idle');
 
-			var cdGlitch3:FlxBackdrop = new FlxBackdrop(Paths.image('modstuff/gameovers/coro/glitches_front'), XY);
+			var cdGlitch3:FlxBackdrop = new FlxBackdrop(Paths.image('modstuff/gameovers/coro/glitches_front'), );
 			cdGlitch3.velocity.set(-180, 0);
 			cdGlitch3.updateHitbox();
 			add(cdGlitch3);
@@ -326,7 +326,7 @@ class GameOverSubstate extends MusicBeatSubstate
 			deathSoundName = 'hallyboostart';
 			endSoundName = 'hallybooretry';
 
-			var bgH1:FlxBackdrop = new FlxBackdrop(Paths.image('mario/piracy/HallyBG4'), XY);
+			var bgH1:FlxBackdrop = new FlxBackdrop(Paths.image('mario/piracy/HallyBG4'), );
 			bgH1.alpha = 0.3;
 			bgH1.scale.set(1.6, 1.6);
 			bgH1.updateHitbox();
