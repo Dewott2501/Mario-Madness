@@ -50,8 +50,7 @@ import flixel.util.FlxStringUtil;
 import flixel.util.FlxTimer;
 import haxe.Json;
 import haxe.Timer;
-import hxcodec.VideoHandler;
-import hxcodec.VideoSprite;
+
 import lime.app.Application;
 import lime.utils.Assets;
 import modchart.*;
@@ -15751,8 +15750,10 @@ class PlayState extends MusicBeatState
 
 		if (ClientPrefs.noVirtual && curStage == 'virtual')
 		{
+			#if windows
 			CppAPI.restoreWindows();
 			CppAPI.setWallpaper('old');
+		        #end
 		}
 	}
 
