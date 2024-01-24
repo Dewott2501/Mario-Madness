@@ -26,7 +26,9 @@ class FlashingState extends MusicBeatState
 		warnImg.updateHitbox();
 		warnImg.screenCenter();
 		add(warnImg);
-
+#if android
+	addVirtualPad(NONE, A_B);
+	#end
 		
 	}
 

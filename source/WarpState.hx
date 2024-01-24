@@ -1118,6 +1118,10 @@ class WorldState extends MusicBeatSubstate
 					});
 				
 			}
+		
+#if android
+		addVirtualPad(LEFT_FULL, A_B);
+		#end
 		super.create();
 		camFollow = new FlxObject(0, 0, 1, 1);
 		if(WarpState.curSelected >= 4){

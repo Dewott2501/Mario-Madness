@@ -448,6 +448,10 @@ class MainMenuState extends MusicBeatState {
 		}
 		bgAm = amount;
 
+#if android
+		addVirtualPad(LEFT_FULL, A_B);
+		#end
+		
 		super.create();
 		FlxG.mouse.visible = true;
 	}
