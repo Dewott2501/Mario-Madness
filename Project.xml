@@ -64,7 +64,7 @@
 		<library name="shared"        preload="false" />
 	</section>
 	
-	<haxelib name="hxcodec" version="2.6.1" />
+	<haxelib name="hxcodec" version="3.0.2" if="desktop || android" />
 
 	<assets path="plugins/"             rename=''               if="VIDEOS_ALLOWED windows" />
 	<assets path="dlls/"                rename=''               if="VIDEOS_ALLOWED windows" />
