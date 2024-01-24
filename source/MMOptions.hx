@@ -1,7 +1,9 @@
 package;
 
 import Controls;
+#if desktop
 import discord_rpc.DiscordRpc;
+#end
 import flash.text.TextField;
 import flash.text.TextField;
 import flixel.FlxG;
@@ -1470,6 +1472,7 @@ class MarioSubstate extends MusicBeatSubstate
 						ClientPrefs.noVirtual = !ClientPrefs.noVirtual;
 					case 'Enable Discord Rich Presence':
 						ClientPrefs.noDiscord = !ClientPrefs.noDiscord;
+						#if desktop
 						if (ClientPrefs.noDiscord)
 						{
 							DiscordClient.start();
@@ -1478,6 +1481,7 @@ class MarioSubstate extends MusicBeatSubstate
 						{
 							DiscordClient.shutdown();
 						}
+				                #end
 				}
 				FlxG.sound.play(Paths.sound('scrollMenu'));
 				reloadValues();
