@@ -250,7 +250,7 @@ class GameOverSubstate extends MusicBeatSubstate
 
 			endFadeTime = 4;
 
-			var cdGlitch1:FlxBackdrop = new FlxBackdrop(Paths.image('modstuff/gameovers/coro/glitches_back'), );
+			var cdGlitch1:FlxBackdrop = new FlxBackdrop(Paths.image('modstuff/gameovers/coro/glitches_back'),  );
 			cdGlitch1.velocity.set(-500, 400);
 			cdGlitch1.updateHitbox();
 			cdGlitch1.scale.set(0.5, 0.5);
