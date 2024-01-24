@@ -63,7 +63,7 @@ class CoolUtil {
 
 	public static function coolTextFile(path:String):Array<String> {
 		var daList:Array<String> = [];
-		#if sys
+		#if windows 
 		if (FileSystem.exists(path))
 			daList = File.getContent(path).trim().split('\n');
 		#else
