@@ -1293,14 +1293,7 @@ class PreferencesSubstate extends MusicBeatSubstate
 class MarioSubstate extends MusicBeatSubstate
 {
 	
-#if android
-		if (virtualPad.buttonC.justPressed) {
-			#if android
-			removeVirtualPad();
-			#end	
-			MusicBeatState.switchState(new android.AndroidControlsSubState());
-		}		
-		#end
+
 	private static var curSelected:Int = 0;
 	static var unselectableOptions:Array<String> = ['GRAPHICS'];
 	static var noCheckbox:Array<String> = ['Menu BG'];
