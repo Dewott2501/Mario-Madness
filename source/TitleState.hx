@@ -314,7 +314,7 @@ class TitleState extends MusicBeatState {
 			FlxG.fullscreen = !FlxG.fullscreen;
 		}
 
-		#if mobile
+		#if android
 		for (touch in FlxG.touches.list) {
 			if (touch.justPressed) {
 				pressedEnter = true;
