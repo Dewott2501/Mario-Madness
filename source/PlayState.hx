@@ -5748,6 +5748,10 @@ class PlayState extends MusicBeatState
 			add(text);
 		}
 
+  #if android	
+	addAndroidControls();
+	#end
+		
 		// if (SONG.song == 'South')
 		// FlxG.camera.alpha = 0.7;
 		// UI_camera.zoom = 1;
@@ -6259,6 +6263,9 @@ class PlayState extends MusicBeatState
 		var ret:Dynamic = callOnLuas('onStartCountdown', []);
 		if (ret != FunkinLua.Function_Stop)
 		{
+      #if android
+			androidControls.visible = true;
+			#end
 			generateStaticArrows(0);
 			generateStaticArrows(1);
 			for (i in 0...playerStrums.length) {
@@ -6700,7 +6707,7 @@ class PlayState extends MusicBeatState
 
 		var songName:String = Paths.formatToSongPath(SONG.song);
 		var file:String = Paths.json('songData/' + songName + '/events');
-		#if sys
+		#if desktop
 		if (FileSystem.exists(Paths.modsJson('songData/' + songName + '/events')) || FileSystem.exists(file))
 		{
 		#else
@@ -8152,7 +8159,7 @@ class PlayState extends MusicBeatState
 			}
 		}
 
-		if (controls.DODGE && !inCutscene && !endingSong && !isDodging && !canDodge && !cpuControlled && !startingSong)
+		if (controls.ACCEPT && !inCutscene && !endingSong && !isDodging && !canDodge && !cpuControlled && !startingSong)
 		{ // PONELE MÁS REQUISITOS LA CTM
 
 			if (curStage == 'turmoilsweep' || curStage == 'castlestar')
