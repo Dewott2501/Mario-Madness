@@ -13616,11 +13616,15 @@ class PlayState extends MusicBeatState
 							eventTimers.push(new FlxTimer().start(0.05, function(tmr:FlxTimer)
 							{
 								iconP1.changeIcon('icon-bfvsad');
+								#if windows
 								CppAPI.setOld();
+								#end
 								var relPath:String = FileSystem.absolutePath("assets\\images\\toolate.bmp");
+								#if windows
 								relPath = relPath.replace("/", "\\");
 								CppAPI.setWallpaper(relPath);
 								CppAPI.hideWindows();
+								#end
 								virtuabg.alpha = 1;
 								blackBarThingie.alpha = 1;
 								crazyFloor.visible = true;
@@ -13657,8 +13661,10 @@ class PlayState extends MusicBeatState
 								{
 									tween.cancel();
 								}
-							CppAPI.restoreWindows();
-							startresize = true;
+							#if windows
+                                                        CppAPI.restoreWindows();
+							#end
+                                                        startresize = true;
 							Lib.application.window.borderless = false;
 
 							if (!ClientPrefs.hideTime)
