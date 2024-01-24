@@ -19,8 +19,7 @@ import flixel.tweens.FlxTween;
 import flixel.tweens.misc.NumTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
-import hxcodec.VideoHandler;
-import hxcodec.VideoSprite;
+
 import lime.net.curl.CURLCode;
 import openfl.filters.ShaderFilter;
 import sys.FileSystem;
