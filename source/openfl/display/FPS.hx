@@ -65,6 +65,7 @@ class FPS extends TextField
 	}
 
 	// Event Handlers
+	@:noCompletion var _text:String = '';
 	@:noCompletion
 	private #if !flash override #end function __enterFrame(deltaTime:Float):Void
 	{
@@ -80,31 +81,46 @@ class FPS extends TextField
 		currentFPS = Math.round((currentCount + cacheCount) / 2);
 		if (currentFPS > ClientPrefs.framerate) currentFPS = ClientPrefs.framerate;
 
-		if (currentCount != cacheCount /*&& visible*/)
-		{
-			text = "FPS: " + currentFPS;
+		if (currentCount != cacheCount /*&& visible*/){
+			_text = "FPS: " + currentFPS;
 			var memoryMegas:Float = 0;
 			
 			#if openfl
-			memoryMegas = Math.abs(FlxMath.roundDecimal(System.totalMemory / 1000000, 1));
-			text += "\nMemory: " + memoryMegas + " MB";
+			memoryMegas = System.totalMemory;
+			_text += "\nMemory: " + formatBytes(memoryMegas);
 			#end
 
 			textColor = 0xFFa11b1b;
-			if (memoryMegas > 3000 || currentFPS <= ClientPrefs.framerate / 2 || PlayState.virtualmode == true)
+			if (currentFPS <= ClientPrefs.framerate / 2 || PlayState.virtualmode == true)
 			{
 				textColor = 0xFFe30000;
 			}
 
 			#if (gl_stats && !disable_cffi && (!html5 || !canvas))
-			text += "\ntotalDC: " + Context3DStats.totalDrawCalls();
-			text += "\nstageDC: " + Context3DStats.contextDrawCalls(DrawCallContext.STAGE);
-			text += "\nstage3DDC: " + Context3DStats.contextDrawCalls(DrawCallContext.STAGE3D);
+			_text += "\ntotalDC: " + Context3DStats.totalDrawCalls();
+			_text += "\nstageDC: " + Context3DStats.contextDrawCalls(DrawCallContext.STAGE);
+			_text += "\nstage3DDC: " + Context3DStats.contextDrawCalls(DrawCallContext.STAGE3D);
 			#end
 
-			text += "\n";
+			_text += "\n";
+
+			text = _text; // doesn't spam multiple set_text in a frame
 		}
 
 		cacheCount = currentCount;
+	}
+
+	/**
+	 * Takes an amount of bytes and finds the fitting unit. Makes sure that the
+	 * value is below 1024. Example: formatBytes(123456789); -> 117.74MB
+	 */
+	static var units:Array<String> = [" Bytes", " kB", " MB", " GB", " TB", " PB"];
+	inline public static function formatBytes(Bytes:Float, Precision:Int = 2):String{
+		var curUnit = 0;
+		while (Bytes >= 1024 && curUnit < units.length - 1){
+			Bytes /= 1024;
+			curUnit++;
+		}
+		return FlxMath.roundDecimal(Bytes, Precision) + units[curUnit];
 	}
 }

@@ -601,20 +601,9 @@ class FreeplaySubState extends MusicBeatSubstate
 			bloom.Size.value = [2];
 			bloom.dim.value = [0.1];
 
-			var twn1:NumTween;
-			var twn2:NumTween;
+			FlxTween.num(2, 0, 0.5, null, (valueLol) -> bloom.Size.value = [valueLol] );
 
-			twn1 = FlxTween.num(2, 0, 0.5, {
-				onUpdate: (_) -> {
-					bloom.Size.value = [twn1.value];
-				}
-			});
-
-			twn2 = FlxTween.num(0.1, 2, 0.5, {
-				onUpdate: (_) -> {
-					bloom.dim.value = [twn2.value];
-				}
-			});
+			FlxTween.num(0.1, 2, 0.5, null, (valueLol) -> bloom.dim.value = [valueLol] );
 
 			FlxG.camera.shake(0.002, 0.2);
 		}

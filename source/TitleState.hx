@@ -50,8 +50,6 @@ class TitleState extends MusicBeatState {
 	var bloom:BloomShader;
 	var staticShader:TVStatic;
 
-	var windowTwn:FlxTween;
-
 	var windowRes:FlxPoint;
 	var windowPos:FlxPoint;
 	var startTime:Float;
@@ -345,20 +343,14 @@ class TitleState extends MusicBeatState {
 				bloom.Size.value = [18 * 2];
 				bloom.dim.value = [0.25];
 
-				var twn1:NumTween;
-				var twn2:NumTween;
-
-				twn1 = FlxTween.num(18.0 * 2, 3.0, 1.5, {
-					onUpdate: (_) -> {
-						bloom.Size.value = [twn1.value];
-					}
+				FlxTween.num(36.0, 3.0, 1.5, null, (valueLol) -> {
+					bloom.Size.value = [valueLol];
+				});
+	
+				FlxTween.num(0.25, 2.0, 1.5, null, (valueLol) -> {
+					bloom.dim.value = [valueLol];
 				});
 
-				twn2 = FlxTween.num(0.25, 2.0, 1.5, {
-					onUpdate: (_) -> {
-						bloom.dim.value = [twn2.value];
-					}
-				});
 			}
 
 			for (obj in [camGame, curtain, blackSprite])
@@ -390,17 +382,17 @@ class TitleState extends MusicBeatState {
 								windowPos = CoolUtil.getCenterWindowPoint();
 								startTime = Sys.time();
 								
+								var windowTwn:FlxTween;
+
 								windowTwn = FlxTween.tween(windowRes, {x: 1280, y: 720}, 0.3 * 4, {ease: FlxEase.circInOut, onUpdate: (_) -> {
 									FlxG.resizeWindow(Std.int(windowRes.x), Std.int(windowRes.y));
 									CoolUtil.centerWindowOnPoint(windowPos);
-									if ((Sys.time() - startTime) > 1.35) {
+									if (Sys.time() - startTime > 1.35) {
 										windowTwn.cancel();
 										completeWindowTwn();
 									}
 								}, onComplete: function(twn:FlxTween)
-									{
-										completeWindowTwn();
-									}
+										completeWindowTwn()
 								});
 
 								FlxG.camera.visible = false;

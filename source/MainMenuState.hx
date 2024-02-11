@@ -323,20 +323,19 @@ class MainMenuState extends MusicBeatState {
 
 		cornerOffset = FlxTween.num(0, 7.5, 1.5, {
 			ease: FlxEase.circInOut,
-			type: PINGPONG,
-			onUpdate: (_) -> {
-				for (corner in corners) {
-					if (corner != null) {
-						switch (corner.ID) {
-							case 0:
-								corner.offset.set(cornerOffset.value, cornerOffset.value);
-							case 1:
-								corner.offset.set(-cornerOffset.value, cornerOffset.value);
-							case 2:
-								corner.offset.set(cornerOffset.value, -cornerOffset.value);
-							case 3:
-								corner.offset.set(-cornerOffset.value, -cornerOffset.value);
-						}
+			type: PINGPONG
+		}, (valueLol) -> {
+			for (corner in corners) {
+				if (corner != null) {
+					switch (corner.ID) {
+						case 0:
+							corner.offset.set(valueLol, valueLol);
+						case 1:
+							corner.offset.set(-valueLol, valueLol);
+						case 2:
+							corner.offset.set(valueLol, -valueLol);
+						case 3:
+							corner.offset.set(-valueLol, -valueLol);
 					}
 				}
 			}
@@ -657,20 +656,9 @@ class MainMenuState extends MusicBeatState {
 			bloom.Size.value = [45];
 			bloom.dim.value = [0.3];
 
-			var twn1:NumTween;
-			var twn2:NumTween;
+			FlxTween.num(4.0, 0.0, .5, null, (valueLol) -> bloom.Size.value = [valueLol]);
 
-			twn1 = FlxTween.num(4.0, 0.0, .5, {
-				onUpdate: (_) -> {
-					bloom.Size.value = [twn1.value];
-				}
-			});
-
-			twn2 = FlxTween.num(0.1, 2.0, .5, {
-				onUpdate: (_) -> {
-					bloom.dim.value = [twn2.value];
-				}
-			});
+			FlxTween.num(0.1, 2.0, .5, null, (valueLol) -> bloom.dim.value = [valueLol]);
 		}
 
 		for (star in stars) {
@@ -707,15 +695,13 @@ class MainMenuState extends MusicBeatState {
 			FlxTween.tween(estatica, {alpha: 0.3}, 0.6, {startDelay: 0.5});
 		}
 
-		var nextcoords:Array<String> = ['', ''];
-		nextcoords[0] = Std.string((FlxG.width - menuInfo[currentLevel].group.members[curSelected].width) / 2);
-		nextcoords[1] = Std.string((FlxG.height - menuInfo[currentLevel].group.members[curSelected].height) / 2);
-
 		oldButton = menuInfo[currentLevel].group.members[curSelected];
 		oldPos = FlxPoint.get(oldButton.x, oldButton.y);
 		
-		FlxTween.tween(menuInfo[currentLevel].group.members[curSelected], {x: nextcoords[0], y: nextcoords[1]}, 0.6,
-			{ease: FlxEase.circOut});
+		FlxTween.tween(menuInfo[currentLevel].group.members[curSelected], {
+			x: (FlxG.width - menuInfo[currentLevel].group.members[curSelected].width) / 2,
+			y: (FlxG.height - menuInfo[currentLevel].group.members[curSelected].height) / 2
+		}, 0.6, {ease: FlxEase.circOut});
 
 		if (ClientPrefs.flashing) 
 			FlxFlicker.flicker(menuInfo[currentLevel].group.members[curSelected], 1, 0.06, false, false);
@@ -1025,26 +1011,16 @@ class MainMenuState extends MusicBeatState {
 			new FlxTimer().start(.4, (_) -> {
 				FlxG.sound.play(Paths.sound('riser'), 1);
 				
-				var twn1:NumTween;
-				var twn2:NumTween;
-		
-				twn1 = FlxTween.num(1, 2, 2, {
-					onUpdate: (_) -> {
-						bloom.Size.value = [twn1.value];
-					}
+				FlxTween.num(1, 2, 2, null, (valueLol) -> {
+					bloom.Size.value = [valueLol];
 				});
 		
-				twn2 = FlxTween.num(2.0, 0.1, 2, {
-					onUpdate: (_) -> {
-						bloom.dim.value = [twn2.value];
-					}
+				FlxTween.num(2.0, 0.1, 2, null, (valueLol) -> {
+					bloom.dim.value = [valueLol];
 				});
 		
 				for (i in 0...10){
-					new FlxTimer().start(0.2 * i, function(tmr:FlxTimer)
-						{
-							FlxG.camera.shake(0.0006 * i, 0.2);
-						});
+					new FlxTimer().start(0.2 * i, function(tmr:FlxTimer) FlxG.camera.shake(0.0006 * i, 0.2) );
 				}
 				lerpCamZoom = false;
 				FlxTween.tween(FlxG.camera, {zoom: 1.6}, 2, {ease: FlxEase.circIn});
@@ -1089,17 +1065,11 @@ class MainMenuState extends MusicBeatState {
 									(new FlxTimer()).start(52, function (tmr:FlxTimer) {
 										CppAPI._setWindowLayered();
 					
-										var numTween:NumTween = FlxTween.num(1, 0, 3, {
-											onComplete: function(twn:FlxTween) {
-												Sys.exit(0);
-										}});
-					
-										numTween.onUpdate = function(twn:FlxTween)
-										{
-											#if windows
-											CppAPI.setWindowOppacity(numTween.value);
-											#end
+										FlxTween.num(1, 0, 3, {
+											onComplete: (_) -> Sys.exit(0)
 										}
+										#if windows ,(valueLol)-> CppAPI.setWindowOppacity #end
+										);
 									});
 								}
 								else
