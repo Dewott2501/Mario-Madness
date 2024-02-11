@@ -409,24 +409,18 @@ class Note extends FlxSprite
 		if (PlayState.isPixelStage)
 		{
 			var pixelzoom:Float = PlayState.daPixelZoom;
-			if (PlayState.curStage == 'virtual')
-			{
-				blahblah = "Virtual_NOTE_assets";
-				pixelzoom = 3.5;
-			}
-			if (PlayState.curStage == 'landstage' && PlayState.SONG.song != 'Golden Land Old')
-			{
-				blahblah = "GB_NOTE_assets";
-			}
-			if (PlayState.curStage == 'somari')
-			{
-				blahblah = "NES_NOTE_assets";
-			}
-			if (PlayState.curStage == 'piracy')
-				{
+			switch (PlayState.curStage){
+				case 'virtual':
+					blahblah = "Virtual_NOTE_assets";
+					pixelzoom = 3.5;
+				case 'landstage' if (PlayState.SONG.song != 'Golden Land Old'):
+					blahblah = "GB_NOTE_assets";
+				case 'somari':
+					blahblah = "NES_NOTE_assets";
+				case 'piracy':
 					blahblah = "DS_NOTE_assets";
 					pixelzoom = 2.6;
-				}
+			}
 
 			if (isSustainNote)
 			{
@@ -446,9 +440,7 @@ class Note extends FlxSprite
 			setGraphicSize(Std.int(width * pixelzoom));
 			loadPixelNoteAnims();
 			antialiasing = false;
-		}
-		else
-		{
+		}else{
 			loadNoteAnims(blahblah);
 			antialiasing = ClientPrefs.globalAntialiasing;
 		}
@@ -473,16 +465,9 @@ class Note extends FlxSprite
 	{
 		frames = Paths.getSparrowAtlas(blahblah);
 		var loop:Bool = noteType == 'Bullet Bill';
-		if(loop)
-			trace('yes!!');
+		if(loop) trace('yes!!');
 
-		animation.addByPrefix('greenScroll', 'green0', 30, loop);
-		animation.addByPrefix('redScroll', 'red0', 30, loop);
-		animation.addByPrefix('blueScroll', 'blue0', 30, loop);
-		animation.addByPrefix('purpleScroll', 'purple0', 30, loop);
-
-		if (isSustainNote)
-		{
+		if (isSustainNote){
 			animation.addByPrefix('purpleholdend', 'pruple end hold');
 			animation.addByPrefix('greenholdend', 'green hold end');
 			animation.addByPrefix('redholdend', 'red hold end');
@@ -492,6 +477,11 @@ class Note extends FlxSprite
 			animation.addByPrefix('greenhold', 'green hold piece');
 			animation.addByPrefix('redhold', 'red hold piece');
 			animation.addByPrefix('bluehold', 'blue hold piece');
+		}else{
+			animation.addByPrefix('greenScroll', 'green0', 30, loop);
+			animation.addByPrefix('redScroll', 'red0', 30, loop);
+			animation.addByPrefix('blueScroll', 'blue0', 30, loop);
+			animation.addByPrefix('purpleScroll', 'purple0', 30, loop);
 		}
 
 		if(!bullet)

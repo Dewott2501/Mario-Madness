@@ -184,46 +184,23 @@ class StrumNote extends FlxSprite
 	public function playAnim(anim:String, ?force:Bool = false)
 	{
 		animation.play(anim, force);
-		centerOffsets();
-		if (animation.curAnim == null || animation.curAnim.name == 'static')
-		{
+		if (!PlayState.isPixelStage)
+		if (animation.curAnim != null){
+			centerOffsets();
+			centerOrigin();
+		}
+		if (animation.curAnim == null || animation.curAnim.name == 'static'){
 			colorSwap.hue = 0;
 			colorSwap.saturation = 0;
 			colorSwap.brightness = 0;
-		}
-		else
-		{
+		}else{
 			colorSwap.hue = ClientPrefs.arrowHSV[noteData % 4][0] / 360;
 			colorSwap.saturation = ClientPrefs.arrowHSV[noteData % 4][1] / 100;
 			colorSwap.brightness = ClientPrefs.arrowHSV[noteData % 4][2] / 100;
-
-			if (animation.curAnim.name == 'confirm' && !PlayState.isPixelStage)
-			{
-				updateConfirmOffset();
-			}
-			if (animation.curAnim.name == 'pressed' && !PlayState.isPixelStage)
-			{
-				updatePressedOffset();
-			}
 		}
 
-		if (PlayState.curStage == 'endstage')
-		{
+		if (PlayState.curStage == 'endstage'){
 			colorSwap.saturation = -100;
 		}
-	}
-
-	function updateConfirmOffset()
-	{ // TO DO: Find a calc to make the offset work fine on other angles
-		centerOffsets();
-		// offset.x -= 7;
-		// offset.y -= 7;
-	}
-
-	function updatePressedOffset()
-	{ // TO DO: Find a calc to make the offset work fine on other angles
-		centerOffsets();
-		// offset.x += 7;
-		// offset.y += 7;
 	}
 }

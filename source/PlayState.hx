@@ -6916,106 +6916,19 @@ class PlayState extends MusicBeatState
 		}
 	}
 
-	override function openSubState(SubState:FlxSubState)
-	{
-		if (paused)
-		{
-			if (FlxG.sound.music != null)
-			{
-				FlxG.sound.music.pause();
-				vocals.pause();
-				instALT.pause();
-			}
+	// override function openSubState(SubState:FlxSubState)
+	// {
+	// 	if (paused)
+	// 	{
+	// 		setTweens(false);
+	// 
+	// 		FlxG.sound.pause();
+	// 	}
+// 
+	// 	super.openSubState(SubState);
+	// }
 
-			if (!startTimer.finished)
-				startTimer.active = false;
-			if (finishTimer != null && !finishTimer.finished)
-				finishTimer.active = false;
-
-			var chars:Array<Character> = [boyfriend, gf, dad];
-			for (i in 0...chars.length)
-			{
-				if (chars[i].colorTween != null)
-				{
-					chars[i].colorTween.active = false;
-				}
-			}
-
-			for (tween in modchartTweens)
-			{
-				tween.active = false;
-			}
-			for (timer in modchartTimers)
-			{
-				timer.active = false;
-			}
-
-			if (eventTweens != null)
-			{
-				for (tween in eventTweens)
-				{
-					tween.active = false;
-				}
-			}
-			if (lavaTween != null)
-			{
-				lavaTween.active = false;
-			}
-			if (extraTween != null)
-			{
-				for (tween in extraTween)
-				{
-					tween.active = false;
-				}
-			}
-			if (windowTween != null)
-			{
-				for (tween in windowTween)
-				{
-					tween.active = false;
-				}
-			}
-			if (eventTimers != null)
-			{
-				for (timer in eventTimers)
-				{
-					timer.active = false;
-				}
-			}
-			if (extraTimers != null)
-			{
-				for (timer in extraTimers)
-				{
-					timer.active = false;
-				}
-			}
-			if (funnyTimers != null)
-				{
-					for (timer in funnyTimers)
-					{
-						timer.active = false;
-					}
-				}
-
-			if (nesTweens != null)
-			{
-				for (tween in nesTweens)
-				{
-					tween.active = false;
-				}
-			}
-			if (nesTimers != null)
-			{
-				for (timer in nesTimers)
-				{
-					timer.active = false;
-				}
-			}
-		}
-
-		super.openSubState(SubState);
-	}
-
+	var hasChangedBotplay = false;
 	override function closeSubState()
 	{
 		if (paused)
@@ -7039,87 +6952,34 @@ class PlayState extends MusicBeatState
 				}
 			}
 
+			FlxG.sound.resume();
 			if (FlxG.sound.music != null && !startingSong)
 			{
 				resyncVocals();
 			}
-
-			if (!startTimer.finished)
-				startTimer.active = true;
-			if (finishTimer != null && !finishTimer.finished)
-				finishTimer.active = true;
-
-			var chars:Array<Character> = [boyfriend, gf, dad];
-			for (i in 0...chars.length)
-			{
-				if (chars[i].colorTween != null)
-				{
-					chars[i].colorTween.active = true;
+			setTweens(true);
+			if (hasChangedBotplay != cpuControlled && (curStage != 'virtual' && curStage != 'landstage' && curStage != 'somari' && curStage != 'endstage' && curStage != 'piracy')){
+				if(cpuControlled){
+					notes.forEachAlive(function(note:Note){
+						if(note.botplaySkin)
+							note.reloadNote('', 'Luigi_NOTE_assets');
+					});
+					for (note in unspawnNotes){
+						if(note.botplaySkin)
+							note.reloadNote('', 'Luigi_NOTE_assets');
+					};
+				}else{
+					notes.forEachAlive(function(note:Note){
+						if(note.botplaySkin)
+							note.reloadNote();
+					});
+					for (note in unspawnNotes){
+						if(note.botplaySkin)
+							note.reloadNote();
+					};
 				}
 			}
-
-			for (tween in modchartTweens)
-			{
-				tween.active = true;
-			}
-			for (timer in modchartTimers)
-			{
-				timer.active = true;
-			}
-			if (eventTweens != null)
-			{
-				for (tween in eventTweens)
-				{
-					tween.active = true;
-				}
-			}
-			if (lavaTween != null)
-			{
-				lavaTween.active = true;
-			}
-			if (extraTween != null)
-			{
-				for (tween in extraTween)
-				{
-					tween.active = true;
-				}
-			}
-			if (windowTween != null)
-			{
-				for (tween in windowTween)
-				{
-					tween.active = true;
-				}
-			}
-			if (eventTimers != null)
-			{
-				for (timer in eventTimers)
-				{
-					timer.active = true;
-				}
-			}
-			if (extraTimers != null)
-			{
-				for (timer in extraTimers)
-				{
-					timer.active = true;
-				}
-			}
-			if (nesTweens != null)
-			{
-				for (tween in nesTweens)
-				{
-					tween.active = true;
-				}
-			}
-			if (nesTimers != null)
-			{
-				for (timer in nesTimers)
-				{
-					timer.active = true;
-				}
-			}
-
+			hasChangedBotplay = cpuControlled;
 			if(luigidies != null) luigidies.bitmap.resume();
 			if(midsongVid != null) midsongVid.bitmap.resume();
 			if(cutVid != null && SONG.song.toLowerCase() == 'demise') cutVid.bitmap.resume();
@@ -7154,6 +7014,11 @@ class PlayState extends MusicBeatState
 		}
 
 		super.closeSubState();
+	}
+
+	public inline static function setTweens(boolVal:Bool){
+		FlxTween.globalManager.forEach(function(tween:FlxTween) tween.active = boolVal);
+		FlxTimer.globalManager.forEach(function(timer:FlxTimer) timer.active = boolVal);
 	}
 
 	override public function onFocus():Void
@@ -7229,12 +7094,6 @@ class PlayState extends MusicBeatState
 			angel.pixelSize = FlxMath.lerp(angel.pixelSize, 1, CoolUtil.boundTo(elapsed * 4, 0, 1));
 			angel.data.iTime.value = [Conductor.songPosition / 1000];
 
-		}
-		if(cpuControlled && (curStage != 'virtual' && curStage != 'landstage' && curStage != 'somari' && curStage != 'endstage' && curStage != 'piracy')){
-			notes.forEachAlive(function(note:Note){
-				if(note.botplaySkin)
-					note.reloadNote('', 'Luigi_NOTE_assets');
-			});
 		}
 		if (tvEffect && ClientPrefs.filtro85)
 		{
@@ -7560,6 +7419,9 @@ class PlayState extends MusicBeatState
 				persistentUpdate = false;
 				persistentDraw = true;
 				paused = true;
+				setTweens(false);
+		
+				FlxG.sound.pause();
 
 				// // 1 / 1000 chance for Gitaroo Man easter egg
 				// if (FlxG.random.bool(0.05) && curStage != 'somari' && curStage != 'piracy' && curStage != 'virtual')

@@ -1,6 +1,6 @@
 package;
 
-import flash.media.Sound;
+import openfl.media.Sound;
 import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.graphics.FlxGraphic;
