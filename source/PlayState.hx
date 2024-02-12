@@ -6901,7 +6901,7 @@ class PlayState extends MusicBeatState
 		for (timer in modchartTimers)
 			timer.active = val;
 		
-		var tweenGroups:Array<Array<FlxTween>> = [extraTween, eventTweens, windowTween];
+		var tweenGroups:Array<Array<FlxTween>> = [extraTween, eventTweens, nesTweens, windowTween];
 		var length:Int = tweenGroups.length;
 		while(length > 0) {
 			var i = tweenGroups.pop();
@@ -15890,27 +15890,28 @@ class PlayState extends MusicBeatState
 				}
 			}
 
-			if(curStage == 'meatworld' && SONG.notes[Math.floor(curStep / 16)].mustHitSection){
-				if(!alreadychange){
-					meatworldGroup.forEach(function(meat:BGSprite)
-						{
-							if(meat.ID == 1){
-								eventTweens.push(FlxTween.tween(meat, {x: 530}, 1.5, {ease: FlxEase.quadInOut}));
-							}
-						});
-					alreadychange = true;
+			if (curStage == 'meatworld')
+				if(SONG.notes[Math.floor(curStep / 16)].mustHitSection){
+					if(!alreadychange){
+						meatworldGroup.forEach(function(meat:BGSprite)
+							{
+								if(meat.ID == 1){
+									eventTweens.push(FlxTween.tween(meat, {x: 530}, 1.5, {ease: FlxEase.quadInOut}));
+								}
+							});
+						alreadychange = true;
+					}
+				}else{
+					if(alreadychange){
+						meatworldGroup.forEach(function(meat:BGSprite)
+							{
+								if(meat.ID == 1){
+									eventTweens.push(FlxTween.tween(meat, {x: 430}, 1.5, {ease: FlxEase.quadInOut}));
+								}
+							});
+						alreadychange = false;
+					}
 				}
-			}else{
-				if(alreadychange){
-					meatworldGroup.forEach(function(meat:BGSprite)
-						{
-							if(meat.ID == 1){
-								eventTweens.push(FlxTween.tween(meat, {x: 430}, 1.5, {ease: FlxEase.quadInOut}));
-							}
-						});
-					alreadychange = false;
-				}
-			}
 		}
 		// FlxG.log.add('change bpm' + SONG.notes[Std.int(curStep / 16)].changeBPM);
 
