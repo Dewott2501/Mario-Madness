@@ -529,6 +529,7 @@ class Note extends FlxSprite
 		}
 	}
 
+	/*
 	@:noCompletion
 	override function set_clipRect(rect:FlxRect):FlxRect{
 		clipRect = rect; // removed round function
@@ -538,4 +539,5 @@ class Note extends FlxSprite
 
 		return rect;
 	}
+	*/
 }
