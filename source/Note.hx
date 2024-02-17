@@ -5,6 +5,7 @@ import flash.display.BitmapData;
 import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.graphics.frames.FlxAtlasFrames;
+import flixel.math.FlxRect;
 import flixel.math.FlxMath;
 import flixel.math.FlxPoint;
 import flixel.util.FlxColor;
@@ -17,9 +18,13 @@ class Note extends FlxSprite
 	public var vec3Cache:Vector3 = new Vector3(); // for vector3 operations in modchart code
 	public var defScale:FlxPoint = FlxPoint.get(); // for modcharts to keep the scaling
 
-	override function destroy()
-	{
+	override function destroy(){
+		// to actually clean the kids :O
+		colorSwap = null;
+		prevNote = null;
+		vec3Cache = null;
 		defScale.put();
+		clipRect = flixel.util.FlxDestroyUtil.put(clipRect);
 		super.destroy();
 	}	
 	public var typeOffsetX:Float = 0; // used to offset notes, mainly for note types. use in place of offset.x and offset.y when offsetting notetypes
@@ -104,14 +109,10 @@ class Note extends FlxSprite
 		colorSwap.brightness = ClientPrefs.arrowHSV[noteData % 4][2] / 100;
 
 		if (PlayState.curStage == 'endstage' || (PlayState.curStage == 'landstage' && PlayState.SONG.song != 'Golden Land Old'))
-		{
 			colorSwap.saturation = -100;
-		}
 
-		if (noteData > -1 && noteType != value)
-		{
-			switch (value)
-			{
+		if (noteData > -1 && noteType != value){
+			switch (value){
 				case 'Hurt Note':
 					ignoreNote = mustPress;
 					reloadNote('HURT');
@@ -120,13 +121,10 @@ class Note extends FlxSprite
 					colorSwap.saturation = 0;
 					colorSwap.brightness = 0;
 					if (isSustainNote)
-					{
 						missHealth = 0.1;
-					}
 					else
-					{
 						missHealth = 0.3;
-					}
+
 					hitCausesMiss = true;
 					botplaySkin = false;
 
@@ -243,8 +241,7 @@ class Note extends FlxSprite
 		return value;
 	}
 
-	public function new(strumTime:Float, noteData:Int, ?prevNote:Note, ?sustainNote:Bool = false, ?inEditor:Bool = false)
-	{
+	public function new(strumTime:Float, noteData:Int, ?prevNote:Note, ?sustainNote:Bool = false, ?inEditor:Bool = false){
 		super();
 
 		if (prevNote == null)
@@ -254,7 +251,7 @@ class Note extends FlxSprite
 		isSustainNote = sustainNote;
 		this.inEditor = inEditor;
 
-		x += (ClientPrefs.middleScroll ? PlayState.STRUM_X_MIDDLESCROLL : PlayState.STRUM_X) + 50;
+		// x += (ClientPrefs.middleScroll ? PlayState.STRUM_X_MIDDLESCROLL : PlayState.STRUM_X) + 50;
 		// MAKE SURE ITS DFINITELY OFF SCREEN?
 		y -= 2000;
 		this.strumTime = strumTime;
@@ -263,32 +260,23 @@ class Note extends FlxSprite
 
 		this.noteData = noteData;
 
-		if (noteData > -1)
-		{
+		if (noteData > -1){
 			texture = '';
 			colorSwap = new ColorSwap();
 			shader = colorSwap.shader;
 
-			x += swagWidth * (noteData % 4);
-			if (!isSustainNote)
-			{ // Doing this 'if' check to fix the warnings on Senpai songs
+			// x += swagWidth * (noteData % 4);
+			if (!isSustainNote){ // Doing this 'if' check to fix the warnings on Senpai songs
 				var animToPlay:String = '';
-				if (noteType != 'Bullet Bill')
-				switch (noteData % 4)
-					{
-						case 0:
-							animToPlay = 'purple';
-						case 1:
-							animToPlay = 'blue';
-						case 2:
-							animToPlay = 'green';
-						case 3:
-							animToPlay = 'red';
-					}
-				else
-				{
+				if (noteType == 'Bullet Bill')
 					animToPlay = 'bullet bill note';
-				}
+				else
+					switch (noteData % 4){
+						case 0:	animToPlay = 'purple';
+						case 1:	animToPlay = 'blue';
+						case 2:	animToPlay = 'green';
+						case 3:	animToPlay = 'red';
+					}
 					
 				animation.play(animToPlay + 'Scroll');
 			}
@@ -375,6 +363,7 @@ class Note extends FlxSprite
 		x += offsetX;
 	}
 
+	public var isLuigiNote:Bool = false;
 	public function reloadNote(?prefix:String = '', ?texture:String = '', ?suffix:String = '')
 	{
 		if (prefix == null)
@@ -385,15 +374,12 @@ class Note extends FlxSprite
 			suffix = '';
 
 		var skin:String = texture;
-		if (texture.length < 1)
-		{
+		if (texture.length < 1){
 			skin = PlayState.SONG.arrowSkin;
 			if (skin == null || skin.length < 1)
-			{
 				skin = 'Mario_NOTE_assets';
-			}
 		}
-
+		isLuigiNote = (texture == 'Luigi_NOTE_assets');
 		var animName:String = null;
 		if (animation.curAnim != null)
 		{
@@ -409,24 +395,18 @@ class Note extends FlxSprite
 		if (PlayState.isPixelStage)
 		{
 			var pixelzoom:Float = PlayState.daPixelZoom;
-			if (PlayState.curStage == 'virtual')
-			{
-				blahblah = "Virtual_NOTE_assets";
-				pixelzoom = 3.5;
-			}
-			if (PlayState.curStage == 'landstage' && PlayState.SONG.song != 'Golden Land Old')
-			{
-				blahblah = "GB_NOTE_assets";
-			}
-			if (PlayState.curStage == 'somari')
-			{
-				blahblah = "NES_NOTE_assets";
-			}
-			if (PlayState.curStage == 'piracy')
-				{
+			switch (PlayState.curStage){
+				case 'virtual':
+					blahblah = "Virtual_NOTE_assets";
+					pixelzoom = 3.5;
+				case 'landstage' if (PlayState.SONG.song != 'Golden Land Old'):
+					blahblah = "GB_NOTE_assets";
+				case 'somari':
+					blahblah = "NES_NOTE_assets";
+				case 'piracy':
 					blahblah = "DS_NOTE_assets";
 					pixelzoom = 2.6;
-				}
+			}
 
 			if (isSustainNote)
 			{
@@ -446,9 +426,7 @@ class Note extends FlxSprite
 			setGraphicSize(Std.int(width * pixelzoom));
 			loadPixelNoteAnims();
 			antialiasing = false;
-		}
-		else
-		{
+		}else{
 			loadNoteAnims(blahblah);
 			antialiasing = ClientPrefs.globalAntialiasing;
 		}
@@ -473,16 +451,9 @@ class Note extends FlxSprite
 	{
 		frames = Paths.getSparrowAtlas(blahblah);
 		var loop:Bool = noteType == 'Bullet Bill';
-		if(loop)
-			trace('yes!!');
+		if(loop) trace('yes!!');
 
-		animation.addByPrefix('greenScroll', 'green0', 30, loop);
-		animation.addByPrefix('redScroll', 'red0', 30, loop);
-		animation.addByPrefix('blueScroll', 'blue0', 30, loop);
-		animation.addByPrefix('purpleScroll', 'purple0', 30, loop);
-
-		if (isSustainNote)
-		{
+		if (isSustainNote){
 			animation.addByPrefix('purpleholdend', 'pruple end hold');
 			animation.addByPrefix('greenholdend', 'green hold end');
 			animation.addByPrefix('redholdend', 'red hold end');
@@ -492,6 +463,11 @@ class Note extends FlxSprite
 			animation.addByPrefix('greenhold', 'green hold piece');
 			animation.addByPrefix('redhold', 'red hold piece');
 			animation.addByPrefix('bluehold', 'blue hold piece');
+		}else{
+			animation.addByPrefix('greenScroll', 'green0', 30, loop);
+			animation.addByPrefix('redScroll', 'red0', 30, loop);
+			animation.addByPrefix('blueScroll', 'blue0', 30, loop);
+			animation.addByPrefix('purpleScroll', 'purple0', 30, loop);
 		}
 
 		if(!bullet)
@@ -552,4 +528,16 @@ class Note extends FlxSprite
 				alpha = 0.3;
 		}
 	}
+
+	/*
+	@:noCompletion
+	override function set_clipRect(rect:FlxRect):FlxRect{
+		clipRect = rect; // removed round function
+
+		if (frames != null)
+			frame = frames.frames[animation.frameIndex];
+
+		return rect;
+	}
+	*/
 }

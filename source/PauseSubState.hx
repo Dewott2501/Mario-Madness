@@ -275,16 +275,16 @@ class PauseSubState extends MusicBeatSubstate
 				descAll.x -= moveX;
 				creditsTxt.x -= moveX;
 			}
-		tweens.push(FlxTween.tween(modetext, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.3}));
-		tweens.push(FlxTween.tween(line1, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.3}));
-		tweens.push(FlxTween.tween(levelInfo, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.3}));
-		tweens.push(FlxTween.tween(levelDifficulty, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.3}));
-
-		tweens.push(FlxTween.tween(desctext, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
-		tweens.push(FlxTween.tween(line2, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
-		tweens.push(FlxTween.tween(descAll, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
-		tweens.push(FlxTween.tween(creditsTxt, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
-		tweens.push(FlxTween.tween(descArrow, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
+			tweens.push(FlxTween.tween(modetext, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.3}));
+			tweens.push(FlxTween.tween(line1, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.3}));
+			tweens.push(FlxTween.tween(levelInfo, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.3}));
+			tweens.push(FlxTween.tween(levelDifficulty, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.3}));
+			
+			tweens.push(FlxTween.tween(desctext, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
+			tweens.push(FlxTween.tween(line2, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
+			tweens.push(FlxTween.tween(descAll, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
+			tweens.push(FlxTween.tween(creditsTxt, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
+			tweens.push(FlxTween.tween(descArrow, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
 		}else{
 			tweens.push(FlxTween.tween(somaridesc, {alpha: 0.5}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));
 			tweens.push(FlxTween.tween(descArrow, {alpha: 1}, 0.4, {ease: FlxEase.quartOut, startDelay: 0.6}));

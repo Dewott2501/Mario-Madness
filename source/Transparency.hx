@@ -15,30 +15,29 @@ typedef COLORREF = DWORD;
     #include <hxcpp.h>
     #include <iostream>
 ")
-class Transparency
-{
+class Transparency{
 	public static var win:HWND;
-	private static var winStyle:LONG;
-	private static var winExStyle:LONG;
+	static var winStyle:LONG;
+	static var winExStyle:LONG;
 
 	@:native("FindWindowA") @:extern
-	private static function findWindow(className:cpp.ConstCharStar, windowName:cpp.ConstCharStar):HWND
+	static function findWindow(className:cpp.ConstCharStar, windowName:cpp.ConstCharStar):HWND
 		return null;
 
 	@:native("SetWindowLongA") @:extern
-	private static function setWindowLong(hWnd:HWND, nIndex:Int, dwNewLong:LONG):LONG
+	static function setWindowLong(hWnd:HWND, nIndex:Int, dwNewLong:LONG):LONG
 		return null;
 
 	@:native("GetWindowLongA") @:extern
-	private static function getWindowLong(hWnd:HWND, nIndex:Int):LONG
+	static function getWindowLong(hWnd:HWND, nIndex:Int):LONG
 		return null;
 
 	@:native("SetLayeredWindowAttributes") @:extern
-	private static function setLayeredWindowAttributes(hwnd:HWND, crKey:COLORREF, bAlpha:BYTE, dwFlags:DWORD):BOOL
+	static function setLayeredWindowAttributes(hwnd:HWND, crKey:COLORREF, bAlpha:BYTE, dwFlags:DWORD):BOOL
 		return null;
 
 	@:native("GetLastError") @:extern
-	private static function getLastError():DWORD
+	static function getLastError():DWORD
 		return null;
 
 	public static function setTransparency(winName:String, color:Int):Void
